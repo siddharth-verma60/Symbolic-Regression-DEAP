@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5235930724833776e-08	
+[18, 12]	mul(sub(ARG12, 5), mul(ARG18, 5))	3.029206082122984e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(add(ARG15, ARG15), 5))), mul(ARG18, cos(5)))	3.202607454954495e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, add(cos(5), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029829668767815e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 12, 15]	mul(mul(mul(ARG18, ARG12), add(ARG15, 5)), mul(ARG18, cos(5)))	3.0148291563369074e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG18)	2.463667689871818e-08	
+[18, 15, 7]	mul(mul(mul(mul(ARG18, cos(5)), cos(cos(ARG7))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.02933616005858e-08	
+[1, 2, 3, 9, 15, 18]	mul(mul(add(ARG15, ARG15), mul(mul(ARG3, ARG2), sub(ARG1, ARG9))), mul(ARG18, cos(5)))	2.1059222698173086e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), mul(ARG18, add(ARG15, 5))), mul(ARG18, cos(5)))	2.194459922018892e-09	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG18, ARG15)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8472951681007727e-08	
+[18]	mul(5, mul(ARG18, cos(ARG18)))	3.029306580121708e-08	
+[18, 15]	mul(mul(mul(5, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.0272046766605524e-08	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), cos(5)))	6.485262031567624e-12	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), mul(ARG18, add(ARG15, 5))), mul(ARG18, cos(5)))	2.194459922018892e-09	
+[18, 15]	mul(mul(add(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.02866185260445e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))))))	2.3362889455333314e-08	
+[18]	mul(5, mul(ARG18, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), neg(sin(5)))	3.028093016889126e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG15, cos(5)), add(ARG15, ARG15)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, add(ARG15, ARG15)))	1.6010472586330563e-10	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), ARG15), mul(ARG18, cos(5)))	3.029339705568116e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(neg(neg(5)), mul(ARG18, ARG15)))	6.367199619214476e-11	
+[18, 7, 6, 15]	mul(mul(cos(5), add(ARG15, ARG15)), mul(ARG18, cos(protectedDiv(ARG7, ARG6))))	3.029303096019124e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, cos(5)), ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.0763658112466454e-08	
+[18, 15]	mul(mul(ARG18, ARG15), mul(ARG18, add(ARG15, ARG15)))	2.463667689871818e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(sub(sub(5, 5), neg(5)), mul(mul(ARG18, ARG15), add(ARG15, ARG15))), add(ARG15, ARG15)))	3.678270095432294e-13	
+[18]	mul(mul(mul(5, 5), sin(5)), mul(ARG18, cos(5)))	3.0293057594766736e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, add(ARG15, 5))), ARG15), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(5, add(ARG15, ARG15)), cos(ARG18))	3.029304562935448e-08	
+[18, 10, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, neg(ARG10)))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.4830413130996622e-09	
+[18, 15]	mul(mul(mul(add(5, 5), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.023954954934174e-08	
+[18, 10, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(protectedDiv(ARG10, 5))))	2.3605998346047465e-08	
+[18, 15]	mul(mul(ARG18, ARG15), mul(ARG18, cos(5)))	3.029422265116203e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	5.631003038168451e-10	
+[0, 9, 18, 6]	mul(add(sin(ARG9), protectedDiv(ARG6, ARG0)), mul(ARG18, cos(5)))	3.029304927746743e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(mul(ARG18, ARG15), cos(sin(5))))	1.1080858801817675e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(5)))))), mul(ARG18, cos(5)))	3.2339886214048125e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18]	mul(ARG18, mul(ARG18, cos(sin(5))))	3.029415766840399e-08	
+[18, 15]	mul(mul(mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), add(ARG15, 5)), add(ARG15, 5)), mul(ARG18, cos(5)))	2.549199211131184e-11	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(protectedDiv(mul(ARG18, mul(ARG18, ARG15)), sin(5))))))	3.2038549173837285e-08	
+[18, 15]	mul(mul(mul(5, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.027295957708205e-08	
+[1, 18]	mul(neg(ARG1), mul(ARG18, cos(5)))	3.029304328710952e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG18, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(cos(5), cos(5)))	3.029226833178742e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, ARG18))	3.1307954470904833e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), ARG15)), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, mul(ARG18, cos(5))))	1.0946253183889566e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), cos(5))	3.029000907494001e-08	
+[17, 18, 7]	mul(sub(mul(ARG17, ARG7), sin(5)), mul(ARG18, cos(5)))	3.0292945419462916e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.0247802314709576e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), add(ARG15, ARG15))	1.1340880708926598e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), ARG15)), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[4]	cos(ARG4)	3.029305010101051e-08	
+[18, 15]	mul(add(ARG15, ARG15), mul(ARG18, cos(5)))	3.029301250134005e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(mul(ARG18, ARG15), add(ARG15, ARG15))), add(ARG15, 5)), mul(ARG18, cos(5)))	1.33090068859811e-11	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), 5)	3.016027933482485e-08	
+[0, 18, 14, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(mul(5, ARG0), protectedDiv(ARG0, ARG14))))	3.203964515637921e-12	
+[18, 15]	mul(mul(add(ARG15, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(5))))	3.0285763122051894e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, ARG15)), mul(ARG18, cos(5)))	2.1830881782956857e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, neg(ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	2.8363338922909665e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, mul(ARG18, cos(5))))	2.204097944817399e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), cos(sin(5)))	3.0286524776408616e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(5, ARG15)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(ARG15)))	2.387948702954854e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), 5)	3.016324996059655e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(mul(ARG18, cos(5)))))	2.3337731594793683e-08	
+[18, 5, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(ARG5)))	2.3154888653421394e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG18, 5))), mul(ARG18, cos(5)))	3.1120080237289936e-08	
+[18, 19, 15]	mul(mul(neg(ARG19), ARG15), mul(ARG18, cos(5)))	3.029651520683482e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(mul(mul(ARG18, ARG15), add(ARG15, ARG15)))))	2.3060758118674e-08	
+[18]	mul(5, mul(ARG18, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(ARG18, add(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.601008210757639e-12	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(mul(ARG18, cos(5)), ARG15)), mul(ARG18, cos(5)))	3.1657407854085526e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), 5)), ARG15)	1.8962726273216864e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), cos(5)))	1.2915597417807273e-11	
+[18]	mul(ARG18, mul(ARG18, cos(sin(5))))	3.029415766840399e-08	
+[18, 15]	mul(mul(add(ARG15, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.0286524776408616e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, ARG15)), mul(ARG18, cos(5)))	2.1830881782956857e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.238299422865057e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), ARG15)), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 14, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(ARG14))))	3.2022839948170064e-08	
+[18]	mul(ARG18, mul(ARG18, cos(sin(5))))	3.029415766840399e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), cos(5)))	1.3006195431643692e-11	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG18)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.003014148008176e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(5, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 3, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG3)	2.3006756083832115e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8419287385503e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	2.8472949931294958e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15)	1.8965602411903197e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, mul(ARG18, cos(5)))), mul(ARG18, cos(5)))	3.1657407854085526e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(mul(ARG18, ARG15), add(ARG15, ARG15))), mul(ARG18, cos(5)))	1.3202010334037386e-11	
+[18, 15]	mul(add(ARG15, ARG15), mul(ARG18, cos(5)))	3.029301250134005e-08	
+[17, 18, 5, 15]	mul(mul(mul(ARG17, ARG5), add(ARG15, 5)), mul(ARG18, cos(5)))	3.0254365766746765e-08	
+[15]	mul(mul(mul(5, add(ARG15, 5)), add(ARG15, ARG15)), ARG15)	3.036472872237184e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, add(ARG15, ARG15)))	1.591824931910257e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), cos(5)), mul(ARG18, cos(5)))	3.029339705568116e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	1.1282324133691016e-09	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0295253966382105e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), 5)	3.016324996059655e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, mul(ARG18, cos(5)))), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.210731173808495e-08	
+[18, 12, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG12, add(ARG15, 5))), mul(ARG18, cos(mul(ARG18, ARG15))))	2.6855542242130435e-08	
+[18, 15]	mul(mul(5, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029286116034106e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, cos(5))))	1.0946253183889566e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), cos(5))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1218931585139133e-09	
+[17, 7]	sub(add(ARG17, 5), sin(ARG7))	3.029305136485699e-08	
+[16, 18, 15]	mul(mul(protectedDiv(ARG16, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029285624429373e-08	
+[18, 4, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(cos(cos(cos(cos(ARG4)))))))	3.229976873965561e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(5)))))), mul(ARG18, cos(5)))	3.2339886214048125e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.0294508588940324e-08	
+[18, 15]	mul(mul(mul(5, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(ARG18)))	2.267022094375672e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(mul(ARG18, ARG15), ARG15)), mul(ARG18, cos(5)))	2.1961963110231437e-09	
+[18, 15]	mul(mul(ARG15, add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(5))))	3.028968146740279e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5360412151721487e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, 5))	5.541679451743999e-09	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, add(ARG15, 5))), mul(ARG18, cos(5)))	3.1120080237289936e-08	
+[18, 15]	mul(mul(neg(sin(ARG18)), add(ARG15, cos(ARG18))), mul(ARG18, cos(5)))	3.0293073017284295e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(cos(protectedDiv(ARG18, sin(5))), cos(5)))	3.029155589098704e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), add(ARG15, ARG15))	1.1362171674965631e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.0247802314709576e-08	
+[18]	mul(mul(ARG18, cos(5)), mul(ARG18, cos(5)))	3.0293205257069524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), 5)))	1.844496151507906e-12	
+[18, 15]	mul(mul(add(add(ARG15, 5), 5), add(ARG15, 5)), mul(ARG18, cos(5)))	3.029134366056708e-08	
+[8, 17, 18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, add(ARG15, ARG15))), add(ARG8, ARG17))	3.2974770722044836e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(5)))))), mul(ARG15, cos(5)))	2.8472760835909716e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.4438949261996756e-12	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(5)))	3.1713725249710716e-08	
+[18, 15]	mul(mul(mul(ARG18, add(5, ARG15)), ARG15), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(5, mul(mul(ARG18, cos(ARG15)), ARG15))	3.029224238977476e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(cos(5), ARG15)), mul(ARG18, cos(5)))	3.1726351822040524e-08	
+[18, 15]	mul(mul(mul(5, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0272046766605524e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG18)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.003014148008176e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG18)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.003014148008176e-08	
+[18, 15]	mul(mul(mul(5, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.0272510521591896e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 19, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(ARG19)))	2.7449465197351546e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 15]	mul(mul(add(ARG15, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.028991541023439e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(mul(ARG18, ARG15), 5)), mul(ARG18, cos(sin(5))))	1.0811561397686649e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, mul(ARG18, ARG15))), mul(ARG18, cos(5)))	2.1961963110231437e-09	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(mul(ARG18, ARG15), add(ARG15, ARG15))), ARG15), mul(ARG18, cos(sin(5))))	6.5196879216223256e-12	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 12, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), cos(cos(cos(ARG12))))	3.0283348315797354e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, cos(5))))	1.1023311954513427e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(neg(5), ARG15)), ARG15), mul(ARG18, cos(5)))	3.16982515577076e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.238299422865057e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), 5), mul(ARG18, cos(5)))	3.029750009873974e-08	
+[12, 14, 15]	mul(mul(mul(sub(ARG12, ARG14), ARG15), add(ARG15, ARG15)), ARG15)	1.4432083209705173e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, add(add(ARG15, 5), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.238299422865057e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, add(add(ARG15, 5), 5)))	3.209687443534236e-10	
+[18, 11, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), cos(5)), mul(ARG11, cos(5)))	3.029341922547123e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(add(ARG15, 5))))	2.3045574548265574e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), cos(5))	3.029286116034106e-08	
+[18, 10, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, neg(ARG10)))	4.647729586438687e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(5, add(ARG15, 5))), mul(ARG18, cos(5)))	3.173254914673352e-08	
+[18, 3, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(5, cos(sin(sub(5, ARG3)))))	3.02618885893806e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(ARG18)))	2.265619009019995e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, mul(ARG18, cos(5))))	1.0946253183889566e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), cos(5))	3.028991541023439e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(sub(sin(5), sin(5)))))	3.0249143401190886e-08	
+[9, 18, 15]	mul(mul(cos(cos(ARG9)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029301970822592e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), 5)	3.016027933482485e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(mul(ARG18, cos(5)))))	2.3337731594793683e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, cos(5)), cos(5)))	3.118174870554439e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), ARG18)	2.471070058066485e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[0, 18, 15]	mul(mul(mul(ARG18, ARG15), add(sin(ARG0), ARG15)), mul(ARG18, cos(5)))	3.171237298448368e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, ARG15))), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(5, 5), 5)), mul(ARG18, cos(sin(5))))	3.0265647786935415e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, ARG15))), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0293732648805606e-08	
+[18, 15]	mul(mul(mul(ARG18, add(add(ARG15, ARG15), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.085216053444916e-08	
+[1]	ARG1	3.029304893372815e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[10, 18]	mul(neg(ARG10), mul(ARG18, cos(5)))	3.0293034194595744e-08	
+[1, 6, 7, 11, 15, 18]	mul(mul(mul(ARG18, ARG15), protectedDiv(add(ARG7, ARG11), sub(ARG1, ARG6))), mul(ARG18, cos(5)))	3.027024338638347e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), ARG15)	1.898465908105877e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(5)))), mul(ARG18, cos(5)))	3.234112541468427e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(protectedDiv(ARG18, sin(5)))))))), mul(ARG18, cos(5)))	3.233873850930624e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.3891243989032863e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), 5), mul(ARG18, cos(5)))	3.031119423877894e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, add(ARG15, add(ARG15, 5)))), mul(ARG18, cos(5)))	2.6944449590390548e-08	
+[18]	mul(cos(5), mul(ARG18, cos(5)))	3.029305001224551e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(mul(ARG18, ARG15), add(ARG15, ARG15))))	2.1491254178418854e-14	
+[18, 10, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG18)), mul(ARG18, ARG10))	6.180557157500576e-10	
+[18, 15]	mul(mul(mul(add(ARG15, 5), ARG15), ARG15), mul(ARG18, cos(sin(5))))	2.8430252238189233e-08	
+[18, 15]	mul(mul(ARG18, ARG15), mul(ARG18, add(neg(5), cos(5))))	3.025292438504771e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, cos(5)), add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.118174870554439e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), cos(5)))	6.481277443025167e-12	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18]	mul(5, mul(ARG18, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1218931585139133e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, add(ARG15, ARG15))), ARG15), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), ARG15), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(5))))	3.238732245463316e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.174423845003283e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, 5))	5.541679451743999e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(add(ARG15, ARG15))))	2.3012696884061484e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), 5), mul(ARG18, cos(5)))	3.031119423877894e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(5, cos(5)))	3.027204676660553e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(ARG18)))	2.2632647332291695e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, cos(5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.012207652239641e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), add(ARG15, 5))	1.8921373105947315e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), 5), mul(ARG18, cos(5)))	3.029750009873974e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, add(ARG15, ARG15)))), mul(ARG18, cos(5)))	3.08895585162743e-08	
+[18, 5]	mul(mul(sin(mul(ARG5, ARG18)), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.029305457527175e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), add(ARG15, add(ARG15, 5)))	1.1353323574448991e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, 5), add(ARG15, ARG15)))	5.571769612248057e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 4, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(mul(ARG18, cos(5)), 5)), mul(ARG4, cos(5)))	3.021964366138685e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(5, ARG15)), add(ARG15, 5))	2.5494176603561902e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, cos(5))))	1.0946253183889566e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), cos(5))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(5, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG18)))	2.267022094375672e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, cos(5))))	1.1023311954513427e-09	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(cos(5), add(ARG15, ARG15)))	3.028991541023439e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 11, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(sin(ARG11), cos(5)))	3.029282424169285e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(add(ARG15, ARG15))))	2.2960838251907364e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), ARG15), mul(ARG18, cos(5)))	3.029750009873974e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), cos(5)))	6.4438949261996756e-12	
+[18, 12]	mul(ARG18, mul(ARG18, mul(5, ARG12)))	3.0230515067823995e-08	
+[18, 15]	mul(mul(ARG18, ARG15), mul(ARG18, cos(sin(5))))	3.0295277888531665e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(5))))	1.118389404098525e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(5, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0272046766605524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, ARG18), 5)), mul(ARG18, cos(sin(5))))	2.99891098844857e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, add(ARG15, 5)))), mul(ARG18, cos(5)))	3.202607454954495e-08	
+[2, 18, 15]	mul(mul(mul(neg(ARG2), ARG15), add(ARG15, ARG15)), mul(ARG18, add(ARG15, ARG15)))	2.1741624477191413e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), sub(5, 5)), mul(ARG18, cos(5)))	3.029305010094217e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), ARG15), mul(ARG18, cos(sin(5))))	2.843295961316548e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG18, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 5, 15]	mul(mul(mul(ARG18, ARG15), mul(sub(5, 5), neg(ARG5))), mul(ARG18, cos(5)))	3.029305010094217e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.601008210757639e-12	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18]	mul(mul(ARG18, 5), mul(ARG18, cos(sin(5))))	3.029858728814644e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1218931585139133e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15), ARG15), mul(ARG18, cos(sin(5))))	6.3645028551390625e-12	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(mul(ARG18, ARG15), add(add(ARG15, 5), ARG15))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.630629224706212e-12	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), cos(5))	3.029000907494001e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, mul(ARG18, cos(5))))	1.0946253183889566e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15)	1.8965602411903197e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(mul(ARG18, cos(5)), ARG15)), mul(ARG18, cos(5)))	3.1657407854085526e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(cos(5))))	2.5309736153966484e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, 5))	5.571769612248057e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, ARG15))), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.174423845003283e-08	
+[18, 15, 7]	mul(mul(mul(ARG18, sub(sub(ARG7, 5), protectedDiv(5, ARG7))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8653921050391817e-08	
+[18, 10, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, neg(ARG10))), ARG15)	2.3919418891559472e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, add(ARG15, ARG15)))	1.6010472586330563e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), cos(5)), mul(ARG18, cos(5)))	3.0294172910129016e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[8, 18, 14, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), sub(ARG14, ARG8)), mul(ARG18, cos(5)))	2.8506498673675297e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(sin(5))))	3.077451879784195e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(5)))	3.1713725249710716e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 4, 5, 15]	mul(ARG15, sub(sub(ARG5, ARG4), sub(ARG18, 5)))	3.0293129299519125e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, ARG15)))), mul(ARG18, cos(5)))	1.3308977315124682e-11	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.0247802314709576e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), add(ARG15, ARG15))	1.1340880708926598e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, cos(5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.012207652239641e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), ARG15)	1.8965602411903197e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, cos(5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233573960926396e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, 5))	5.541679451743999e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, 5)), mul(ARG18, cos(5)))	2.977710619614863e-08	
+[18, 15]	mul(mul(mul(add(ARG15, ARG15), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.466951042253495e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 3, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(neg(add(5, ARG3)), cos(5)))	2.9418029034749502e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, ARG18))	3.1297532807942395e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.024558075350374e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), add(ARG15, ARG15))	1.1340880708926598e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, cos(5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.012207652239641e-08	
+[10, 15]	mul(ARG10, ARG15)	3.029303378751903e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[16, 18, 12, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), protectedDiv(add(ARG12, ARG16), protectedDiv(ARG12, 5)))	1.4577226721860388e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(5, add(ARG15, 5))), mul(ARG18, cos(5)))	3.173254914673352e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.385732527890273e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(mul(ARG18, ARG15), ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	2.6617944721585527e-11	
+[16, 15]	sub(ARG16, ARG15)	3.0293041534609757e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, add(add(ARG15, 5), ARG15))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.6944449590390548e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), 5), mul(ARG18, cos(5)))	3.029750009873974e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(5, cos(5)))	3.027204676660553e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(ARG18)))))), mul(ARG18, cos(5)))	3.2339683955289103e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[0, 4, 14, 15, 18]	mul(mul(mul(ARG18, mul(protectedDiv(ARG4, ARG14), neg(ARG0))), ARG15), mul(ARG18, cos(5)))	1.0458045826467981e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(mul(ARG18, ARG15))))	2.31399420485617e-08	
+[18, 15]	mul(mul(5, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029286116034106e-08	
+[18, 15]	mul(mul(cos(5), add(ARG15, 5)), mul(ARG18, cos(5)))	3.029304433040266e-08	
+[0, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, add(sub(ARG0, ARG18), ARG15))))	2.5898764068517683e-12	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), add(add(ARG15, 5), ARG15)), mul(ARG18, cos(ARG15)))	3.029332093734319e-08	
+[18, 14, 15]	mul(mul(mul(ARG18, mul(ARG14, 5)), add(5, ARG15)), mul(ARG18, cos(5)))	2.588434213900535e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(mul(mul(ARG18, ARG15), ARG15), cos(5)))	1.2933722949996182e-11	
+[18, 14]	mul(ARG18, mul(ARG18, cos(cos(ARG14))))	3.029451995447657e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15)	1.8965602411903197e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, cos(5))), add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(5))))	3.0107377783291287e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	2.8420373325409424e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), ARG15), mul(ARG18, cos(sin(5))))	2.843295961316548e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 15]	mul(mul(add(ARG15, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.028972631399696e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), mul(ARG18, add(ARG15, ARG15))), mul(ARG18, cos(5)))	1.1023311954513427e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, mul(mul(ARG18, ARG15), ARG15)))), mul(ARG18, cos(5)))	2.640383028658174e-11	
+[18]	mul(5, mul(ARG18, cos(sin(5))))	3.029304693472377e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG18))	3.1088402905320284e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(cos(5), cos(5)))	3.02922151526646e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.238299422865057e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 3, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG3, 5), 5)), mul(ARG18, cos(5)))	2.9328715781097672e-08	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, ARG15)))), mul(ARG18, cos(5)))	1.3201992833324286e-11	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG15, add(neg(sin(5)), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.026758097638703e-08	
+[18]	mul(mul(ARG18, cos(5)), mul(ARG18, cos(5)))	3.0293205257069524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)))	1.8391594964335826e-12	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(sin(5))))	3.0721650350676024e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), ARG15), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[]	sub(5, 5)	3.029305010094217e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18]	mul(mul(ARG18, cos(5)), mul(ARG18, cos(5)))	3.0293205257069524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, ARG15), add(ARG15, ARG15)))	1.8278137214132073e-12	
+[18, 15]	mul(mul(cos(5), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.0293039001456355e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, ARG15)))	3.7449158202291605e-12	
+[18, 15]	mul(mul(mul(ARG18, add(cos(5), ARG15)), ARG15), mul(ARG18, cos(5)))	3.1714482250315855e-08	
+[16, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(protectedDiv(add(ARG18, ARG15), protectedDiv(5, ARG16)), ARG15)), mul(ARG18, ARG15))	3.459951868102653e-11	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), ARG15)	1.8958026880946166e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, mul(ARG18, cos(5)))), mul(ARG18, cos(5)))	3.166304733863346e-08	
+[16, 14]	sub(ARG14, ARG16)	3.029305631443551e-08	
+[15]	ARG15	3.0293053502959785e-08	
+[8, 18, 15]	mul(mul(mul(ARG18, protectedDiv(ARG8, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.027479663193149e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(add(5, 5), ARG15)), mul(5, cos(5)))	3.0283135404076896e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(ARG18))))	3.197299202814887e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 19, 15]	mul(mul(mul(ARG18, add(ARG15, ARG19)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.162238435864604e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), 5)	3.024867838582319e-08	
+[18, 15]	mul(mul(mul(ARG18, add(5, ARG15)), add(ARG15, 5)), mul(ARG18, cos(mul(ARG18, cos(sin(5))))))	2.8933642062487064e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 4, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, ARG4))), mul(ARG18, cos(5)))	3.215155601549225e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, add(ARG15, ARG15)))	1.591824931910257e-10	
+[18, 5]	mul(mul(mul(ARG18, cos(5)), ARG5), mul(ARG18, cos(5)))	3.02922665746604e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), add(ARG15, ARG15))	1.1340880708926598e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.0247802314709576e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(ARG18, cos(5)))	3.0296958401628087e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), 5), mul(ARG18, cos(5)))	1.913275699908749e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, add(ARG15, 5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1023311954513427e-09	
+[18, 15]	mul(mul(add(ARG15, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.028991541023439e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), mul(ARG18, ARG15)), mul(ARG18, cos(5)))	1.0946253183889566e-09	
+[18, 15]	mul(mul(ARG15, add(ARG15, add(ARG15, 5))), mul(ARG18, cos(neg(5))))	3.029000907494001e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG15, cos(5)))	2.8472949931294958e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG18)	2.4761378075001482e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, cos(5)), sin(5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029235290886279e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0295253966382105e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(mul(ARG18, ARG15), cos(5)))	1.1291547413846187e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5)))), mul(ARG18, cos(5)))	1.3261244437312638e-11	
+[18, 15]	mul(add(ARG15, add(ARG15, 5)), mul(ARG18, cos(5)))	3.029301093798081e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(add(ARG15, 5))))	2.303250420717622e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG18), ARG15), mul(ARG18, cos(5)))	2.9782561368608455e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(add(ARG15, ARG15), cos(5)))	2.4676745895884062e-08	
+[18, 14, 15]	mul(mul(mul(ARG18, ARG15), add(mul(5, ARG14), 5)), mul(ARG18, cos(sin(5))))	1.891846736628289e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(mul(ARG18, ARG15), ARG15)), mul(ARG18, cos(5)))	2.1961963110231437e-09	
+[18, 15]	mul(mul(mul(ARG18, add(add(ARG15, 5), ARG15)), ARG15), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[]	5	3.029305286469316e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, add(cos(5), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029829668767815e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, add(ARG15, 5)))	3.2024675729266463e-10	
+[18, 15]	mul(mul(ARG18, cos(5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.0293732648805606e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, cos(5))), mul(ARG18, cos(sin(5))))	3.0117933091206305e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG15)	1.898465908105877e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG18), mul(ARG18, cos(5)))	2.9782561368608455e-08	
+[5]	sub(ARG5, 5)	3.0293044829135174e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, cos(sin(5)))))	5.448931218981328e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), cos(5))	3.029164311646187e-08	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))))), add(add(5, 5), mul(ARG15, 5)))	7.348212930069641e-13	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(5, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.027295957708205e-08	
+[6]	protectedDiv(add(5, 5), protectedDiv(5, ARG6))	3.029305685389752e-08	
+[17, 18, 9]	mul(mul(add(ARG17, 5), add(5, ARG9)), mul(ARG18, cos(5)))	3.029466947953639e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), ARG15), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(mul(ARG18, ARG15), 5))), mul(ARG18, cos(5)))	2.1810095721048906e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(cos(5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029303944493365e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, add(ARG15, 5))))	3.7752685471505586e-12	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(5, cos(5)))	3.0272510521591896e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(ARG18)))	2.2632647332291695e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5))), mul(ARG18, cos(5)))	6.654511592663317e-12	
+[15]	mul(ARG15, mul(5, cos(5)))	3.029305492603448e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), neg(cos(5)))	3.029546190711126e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[16, 18, 15]	mul(mul(ARG18, add(ARG15, ARG18)), mul(mul(ARG18, cos(5)), add(ARG16, ARG15)))	3.01291655903915e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(5, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 14, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(cos(ARG14))))	2.765887525907709e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(5)))	3.1713725249710716e-08	
+[8, 18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG8))	4.6148814776982874e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG18)	2.463667689871818e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(mul(ARG18, cos(5)), cos(5)))	3.118691101970863e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), add(ARG15, ARG15))	1.1362171674965631e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, cos(5))), ARG15), mul(ARG18, cos(5)))	3.0247802314709576e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 7, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(protectedDiv(mul(5, ARG7), sin(5))))))	3.2164064011012973e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), mul(mul(ARG18, ARG15), add(ARG15, ARG15))), mul(ARG18, cos(5)))	6.60101103749956e-12	
+[15]	mul(ARG15, mul(5, cos(5)))	3.029305492603448e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG15), mul(ARG18, cos(sin(5))))	5.575994295047511e-10	
+[18, 15]	mul(mul(ARG18, ARG15), mul(ARG18, cos(5)))	3.029422265116203e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, 5))	5.560054374921788e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5235930724833776e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, ARG15)))	3.7449158202291605e-12	
+[18, 15]	mul(mul(cos(5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029303944493365e-08	
+[18, 15]	mul(mul(mul(ARG18, add(add(ARG15, 5), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.238299422865057e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 4, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG4))	4.718460317619375e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[17, 18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), add(ARG15, sub(5, ARG17)))	1.6088680648630398e-08	
+[18, 12, 13]	mul(mul(neg(add(ARG12, ARG13)), mul(ARG18, cos(5))), mul(ARG18, cos(5)))	3.029285347175735e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), cos(5)), mul(ARG18, cos(5)))	3.029339705568116e-08	
+[8, 3]	protectedDiv(ARG3, ARG8)	3.029304994398126e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, add(ARG15, 5)), 5)), mul(ARG18, cos(5)))	3.08895585162743e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)))))	2.3094025967887932e-08	
+[13]	ARG13	3.0293052319907683e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), cos(sin(5))))	6.404012912917341e-12	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[0, 18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, sin(cos(ARG0))))	2.8675499440436437e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG15, cos(sin(5))))	2.8416182479991932e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0295253966382105e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, add(ARG15, 5)), cos(5)))	1.1291547413846187e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[16, 9, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(neg(sub(ARG16, ARG9)), cos(5)))	2.9178326721824365e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, add(cos(5), ARG15)), ARG15), mul(ARG18, cos(5)))	3.1714482250315855e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(5, cos(5)))	3.0272510521591896e-08	
+[0, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG0, ARG15)), mul(ARG18, cos(5)))	3.147727835342291e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 10, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), cos(neg(ARG10))), mul(ARG18, cos(5)))	3.029212660425215e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG18, ARG15)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), ARG15), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, ARG15), ARG15)), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(5, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, ARG18))), mul(ARG18, cos(5)))	3.168587921174336e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(cos(5), ARG15)), mul(ARG18, cos(5)))	3.1714482250315855e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, ARG15))	3.2017051273660405e-10	
+[18, 13, 15]	mul(mul(mul(ARG18, ARG15), mul(protectedDiv(ARG13, 5), neg(5))), mul(ARG18, mul(ARG18, add(ARG15, ARG15))))	5.337661179855179e-12	
+[18, 15]	mul(mul(cos(5), add(ARG15, 5)), mul(ARG18, cos(5)))	3.029304433040266e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(5)))))), mul(ARG18, cos(5)))	3.2339886214048125e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG18), mul(ARG18, cos(sin(5))))	2.8376949670105195e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG18)	2.463667689871818e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, cos(5)), 5), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.029989090149556e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, ARG15)))), ARG15), mul(ARG18, cos(5)))	1.3201992833324286e-11	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 3, 14, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(mul(ARG3, ARG14), cos(5)))	2.1055997691294804e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0295253966382105e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1218931585139133e-09	
+[18]	mul(5, mul(ARG18, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)))), mul(ARG18, cos(5)))	6.654499695087741e-12	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(mul(ARG18, cos(ARG15)), ARG15))	2.385732527890273e-08	
+[1, 18, 12, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(mul(ARG1, ARG12))))	3.031196705033427e-08	
+[17, 18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, cos(5)))), add(ARG15, 5)), mul(ARG18, sin(neg(ARG17))))	2.7681021869985517e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15)	1.8965602411903197e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), 5), mul(ARG18, cos(cos(5))))	3.0293849985422065e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(protectedDiv(mul(5, mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5))), sin(add(ARG15, ARG15)))))))	3.225365675111949e-08	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0293732648805606e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, add(ARG15, 5)))	3.2017051273660405e-10	
+[18]	mul(cos(5), mul(ARG18, cos(5)))	3.029305001224551e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(mul(ARG18, ARG15), add(ARG15, ARG15))))	2.1491254178418854e-14	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(ARG18)))	2.2632647332291695e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(5, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(mul(ARG18, ARG15))))	2.31399420485617e-08	
+[18, 12, 6]	mul(mul(5, protectedDiv(protectedDiv(ARG18, ARG12), protectedDiv(5, ARG6))), mul(ARG18, cos(5)))	3.029421679962286e-08	
+[17, 18, 15]	mul(mul(ARG17, add(ARG15, ARG15)), mul(ARG18, mul(ARG18, cos(5))))	2.9522492063192985e-08	
+[9, 15]	mul(mul(mul(neg(mul(5, ARG9)), ARG15), add(ARG15, ARG15)), cos(5))	3.0299327624712316e-08	
+[18, 19, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG19, cos(5)))	2.9328436695166656e-08	
+[0, 18]	mul(sin(sin(ARG0)), mul(ARG18, cos(5)))	3.029304991802782e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), cos(sin(5)))	3.0286524776408616e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, mul(ARG18, neg(5))))	1.2440212327519844e-10	
+[18, 15]	mul(mul(mul(ARG18, cos(sin(5))), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.029688316265661e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, add(ARG15, ARG15)))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG18, ARG15)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(5, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(5)))))), mul(ARG18, cos(5)))	3.1728557982898045e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.385732527890273e-08	
+[18]	mul(mul(ARG18, cos(5)), mul(ARG18, cos(5)))	3.0293205257069524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)))	1.8391594964335826e-12	
+[18, 15]	mul(mul(mul(ARG18, add(mul(mul(ARG18, cos(5)), add(ARG15, ARG15)), 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.9254942918927704e-09	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), ARG15)	3.028716600720009e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.3891243989032863e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(5, add(ARG15, 5))), mul(ARG18, cos(5)))	3.173254914673352e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[17]	ARG17	3.029304859320797e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG15, cos(5)))	2.8472949931294958e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, 5))	5.541679451743999e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5360412151721487e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(5)))	3.1713725249710716e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(mul(ARG18, ARG15), 5)), mul(ARG18, cos(5)))	1.0946127160730106e-09	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, ARG15)))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.601002251369031e-12	
+[18]	mul(5, mul(ARG18, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(cos(5), add(ARG15, ARG15)), ARG15), mul(ARG18, ARG15))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), cos(5)), mul(ARG18, cos(5)))	3.0293732648805606e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.173254914673352e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, ARG15))), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[17, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, cos(neg(ARG17)))), mul(ARG18, cos(5)))	3.1727065761442076e-08	
+[18, 3, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(ARG3)))	2.420593284872265e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG15, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG18), mul(ARG18, cos(5)))	2.8419287385503e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.385732527890273e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, ARG15))), mul(ARG18, cos(5)))	3.206321567407882e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, ARG15)))), mul(ARG18, cos(5)))	1.3308977315124682e-11	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0293732648805606e-08	
+[18, 6, 15]	mul(mul(mul(ARG18, ARG15), sub(ARG6, 5)), mul(ARG18, cos(mul(ARG18, add(ARG15, ARG15)))))	2.861342576025453e-08	
+[18, 15]	mul(mul(sin(mul(ARG18, mul(ARG18, cos(5)))), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.0293053637017215e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, add(ARG15, 5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1023311954513427e-09	
+[3, 14, 15, 18, 19]	mul(mul(add(ARG15, 5), add(ARG15, ARG15)), mul(ARG18, cos(mul(add(ARG3, ARG19), protectedDiv(ARG14, 5)))))	3.028723863570388e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), cos(5)), mul(ARG18, cos(5)))	3.029339705568116e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, add(ARG15, ARG15)))	1.591824931910257e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(ARG18, ARG15)))	3.7449158202291605e-12	
+[18, 15]	mul(mul(cos(5), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.0293039001456355e-08	
+[15]	mul(mul(mul(5, add(ARG15, ARG15)), ARG15), mul(add(ARG15, ARG15), cos(5)))	3.032932363540259e-08	
+[1, 18, 6, 15]	mul(mul(mul(ARG18, ARG15), ARG18), mul(add(ARG6, ARG1), cos(5)))	2.995339347120351e-08	
+[8, 18, 13, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG8, ARG13), cos(5)))	2.1118719331113127e-09	
+[18, 15]	mul(mul(mul(ARG18, add(5, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.174423845003283e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(protectedDiv(cos(5), sub(5, 5)), ARG15)), mul(ARG18, ARG15))	6.376460162413413e-10	
+[18, 15]	mul(mul(mul(ARG18, add(cos(5), ARG15)), ARG15), mul(ARG18, cos(5)))	3.1714482250315855e-08	
+[18, 5, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(mul(ARG18, sin(cos(ARG5))), 5)), mul(ARG18, cos(5)))	2.9345511552544843e-08	
+[18, 15]	mul(mul(ARG15, add(ARG15, 5)), mul(ARG18, cos(5)))	3.029154949017747e-08	
+[18, 15]	mul(mul(mul(ARG18, add(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	1.3320005622057528e-11	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 11, 7, 15]	mul(mul(mul(ARG18, ARG15), add(sub(ARG7, ARG11), add(ARG15, 5))), mul(ARG18, cos(5)))	3.083742544935368e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, cos(5)))), ARG15), mul(ARG18, cos(5)))	3.1657407854085526e-08	
+[0, 4, 7, 15, 18]	mul(mul(mul(ARG18, add(ARG15, protectedDiv(sin(ARG7), protectedDiv(ARG0, ARG4)))), ARG15), ARG15)	2.3977735310498594e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, ARG18))	3.1307954470904833e-10	
+[13, 7]	protectedDiv(ARG13, ARG7)	3.029304986387102e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(mul(ARG18, ARG15), ARG15)), mul(ARG18, cos(5)))	2.1810312764806974e-09	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, cos(5))), mul(ARG18, cos(5)))	3.1726351822040524e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.2024675729266463e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(5, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG18)))	2.267022094375672e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, 5))	5.560054374921788e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5235930724833776e-08	
+[18, 13, 15]	mul(mul(mul(ARG18, ARG15), ARG13), mul(ARG18, cos(5)))	3.0012210545958407e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(mul(cos(5), ARG15)))))	3.2167601415121956e-08	
+[18, 4, 6, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), protectedDiv(protectedDiv(5, ARG4), mul(5, ARG6))), mul(ARG18, cos(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))))))	3.02923167174173e-08	
+[18]	mul(5, mul(ARG18, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1218931585139133e-09	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(ARG18, cos(5)))	3.0296958401628087e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(mul(ARG18, ARG15), 5), ARG15)), mul(ARG18, cos(5)))	2.1810095721048906e-09	
+[18, 15]	mul(mul(ARG15, ARG15), mul(ARG18, cos(sin(5))))	3.029006199588897e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(5, cos(sin(5))))	3.027262465078497e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG18)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.002730305455651e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG18, 5))), mul(ARG18, cos(5)))	3.1120080237289936e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, 5)), add(ARG15, 5)), mul(ARG18, cos(5)))	2.975500282152885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG18, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.840742986153709e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(sin(5), cos(sin(5))))	3.0295399269680625e-08	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), ARG15), mul(ARG18, cos(ARG18)))	3.0291905742779825e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, add(ARG15, ARG15))), add(add(5, 5), ARG15)), mul(ARG18, cos(5)))	1.105235630183753e-09	
+[18, 15]	mul(mul(ARG15, ARG15), mul(ARG18, cos(5)))	3.029164311646187e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(5, 5), 5)), mul(ARG18, cos(5)))	3.02667761792402e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.385732527890273e-08	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0293732648805606e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, add(ARG15, 5)))	5.571769612248057e-09	
+[18, 15]	mul(mul(mul(add(ARG15, 5), add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8444410735420096e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.111462975121649e-08	
+[18, 15]	mul(mul(mul(ARG18, cos(sin(5))), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.0295956612958305e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, ARG15))	6.36685091941876e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8419287385503e-08	
+[18, 15]	mul(mul(mul(add(ARG15, 5), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(add(ARG15, 5), ARG15), ARG15), mul(ARG18, cos(sin(5))))	2.8430252238189233e-08	
+[0, 18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, ARG15)), mul(neg(mul(ARG0, 5)), cos(5)))	1.8912817820669844e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[17, 18, 9, 15]	mul(mul(mul(ARG18, ARG15), add(5, ARG15)), mul(mul(protectedDiv(5, ARG17), mul(5, ARG9)), cos(5)))	2.8268342468594715e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(add(ARG15, 5)))))	3.208989244720403e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0298416078052536e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG18, 5)), mul(ARG18, cos(sin(5))))	2.8364720017098875e-08	
+[18, 10, 15]	mul(mul(mul(add(ARG15, 5), ARG15), ARG15), mul(ARG18, cos(cos(ARG10))))	2.7178451931666373e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 6, 15]	mul(mul(mul(ARG18, ARG15), mul(protectedDiv(5, 5), mul(ARG6, 5))), mul(ARG18, cos(5)))	2.5491849455465206e-08	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 13, 15]	mul(mul(mul(mul(sin(mul(ARG13, 5)), cos(5)), ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.0293749718964526e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG18)	2.463667689871818e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(5, ARG15)), mul(ARG18, cos(5)))	3.174423845003283e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(protectedDiv(mul(5, mul(mul(ARG18, ARG15), add(add(ARG15, ARG15), add(ARG15, 5)))), sin(5))))))	3.210531815534729e-08	
+[18, 15]	mul(mul(ARG15, ARG15), mul(ARG18, cos(5)))	3.029164311646187e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(mul(ARG18, add(ARG15, ARG15)), ARG15)), mul(ARG18, cos(5)))	1.0940438635657631e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(ARG18))))	3.197299202814887e-08	
+[18, 15]	mul(mul(mul(5, neg(ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029974128348703e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, 5)), mul(mul(ARG18, cos(5)), ARG15))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 10, 11, 15]	mul(mul(mul(mul(ARG10, ARG11), add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, ARG18))	7.619997605451659e-12	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(cos(5), cos(5)))	3.02922151526646e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(mul(sin(protectedDiv(5, 5)), add(ARG15, 5)), cos(sin(5))))	2.8918949433443153e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0295253966382105e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[2, 6]	protectedDiv(ARG6, ARG2)	3.0293049991328555e-08	
+[3, 15]	mul(mul(mul(add(ARG15, ARG15), ARG15), add(ARG15, ARG15)), mul(neg(protectedDiv(5, ARG3)), cos(5)))	3.02074795662361e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG18), ARG15), mul(ARG18, cos(5)))	2.9782561368608455e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, 5))	1.1353248854010272e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(cos(sin(5)))))	2.706863033055623e-08	
+[16, 18, 2, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(mul(protectedDiv(ARG16, ARG18), add(ARG2, 5)))))	2.3946368501207636e-08	
+[18, 15]	mul(mul(mul(ARG18, cos(5)), ARG15), mul(ARG18, cos(sin(5))))	3.02937408755686e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(mul(ARG18, ARG15), ARG15)), mul(ARG18, cos(5)))	2.1810312764806974e-09	
+[18, 15]	mul(mul(ARG15, add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.029000907494001e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(mul(ARG18, cos(5)), cos(5)))	3.118448462344336e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG18)	2.4761378075001482e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, mul(mul(ARG18, ARG15), add(ARG15, ARG15)))), mul(ARG18, cos(5)))	1.3308977315124682e-11	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)))), add(ARG15, sin(5))), mul(ARG18, cos(5)))	1.330135272980809e-11	
+[18, 15]	mul(ARG15, mul(ARG18, cos(5)))	3.029303131292369e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8419287385503e-08	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, add(ARG15, 5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.1023311954513427e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(5, cos(5)))	3.027295957708205e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, ARG18))), mul(ARG18, cos(5)))	3.1683590062699704e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(add(ARG15, 5), 5))), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[0, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG0)	2.2885690859727676e-08	
+[8, 18, 15]	mul(mul(mul(ARG18, add(ARG18, neg(ARG8))), add(ARG15, 5)), mul(ARG18, cos(5)))	2.9454700537210416e-08	
+[18, 15]	mul(mul(ARG18, add(ARG15, ARG15)), mul(mul(ARG15, cos(ARG18)), ARG15))	2.3283904710716343e-08	
+[18, 15]	mul(mul(5, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029286116034106e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(mul(ARG18, ARG15)))))	3.2031341084624835e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.031213010425347e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.3891243989032863e-08	
+[18, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8472951681007727e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG18, 5)), mul(ARG18, cos(5)))	2.840742986153709e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), cos(5)))	6.4438949261996756e-12	
+[18]	mul(ARG18, mul(5, cos(5)))	3.0293048537432877e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), ARG18), mul(ARG18, cos(5)))	2.977710619614863e-08	
+[18, 15]	mul(mul(mul(add(ARG15, ARG15), add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	2.4676729548007572e-08	
+[17, 18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG17))	4.855801367079258e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, cos(sin(5))))), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.1497835905271424e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), ARG15)	2.5633772606505005e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, add(ARG15, 5)))	6.405890985179287e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, cos(sin(5)))), mul(ARG18, cos(5)))	3.171524464867878e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(mul(ARG18, ARG15), cos(5)))	1.1218931585139133e-09	
+[18, 15]	mul(mul(ARG18, ARG15), mul(ARG18, cos(sin(5))))	3.0295277888531665e-08	
+[9]	sin(ARG9)	3.029305011978774e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.080003179340586e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(mul(ARG18, ARG15), 5), 5)), mul(ARG18, cos(sin(5))))	1.081143026362919e-09	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), 5)), mul(ARG18, cos(5)))	3.238299422865057e-08	
+[18, 13, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(add(ARG13, 5), ARG15)), mul(ARG18, cos(5)))	3.142972829353595e-08	
+[16, 18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), cos(ARG16))	3.026023435172593e-08	
+[18, 12, 15]	mul(mul(mul(mul(ARG18, cos(sin(5))), add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG12, cos(5)))	2.9934008857304384e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), ARG18)	3.1464546305967145e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	6.485262031567624e-12	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 12, 15]	mul(mul(mul(ARG18, ARG15), add(ARG12, add(ARG15, ARG15))), mul(ARG18, cos(5)))	3.209193930074313e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, add(ARG15, 5)))	6.405890985179287e-10	
+[18, 15]	mul(mul(mul(ARG18, cos(sin(5))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0294385058194664e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(cos(5), ARG15)), mul(ARG18, cos(5)))	3.1726351822040524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, ARG15))	3.1944837578243683e-10	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 4, 15]	mul(mul(mul(ARG18, sin(ARG4)), add(ARG15, ARG15)), 5)	3.029260975806502e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, cos(5)))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.210731173808495e-08	
+[18, 15]	mul(mul(mul(add(ARG15, ARG15), add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	2.4676729548007572e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG18), mul(ARG18, cos(5)))	2.9782561368608455e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(sin(5))))	3.0812403026869696e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(5)))	3.1713725249710716e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.466485368171693e-12	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 11]	mul(mul(ARG11, 5), mul(ARG18, cos(5)))	3.029306305059287e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG18)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.003014148008176e-08	
+[8, 18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), ARG15)), sub(5, ARG8))	2.2738403192919997e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(5, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.0272046766605524e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG18)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.003014148008176e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, 5)), neg(5))	3.0297549917285836e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG18)))	2.267022094375672e-08	
+[18, 15]	mul(mul(5, add(ARG15, 5)), mul(mul(ARG18, cos(5)), add(ARG15, ARG15)))	3.027204676660553e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 12, 13, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(add(ARG15, 5), protectedDiv(ARG12, ARG13))), mul(ARG18, cos(5)))	3.159632632630999e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, ARG15), ARG15)), mul(ARG18, cos(5)))	3.2001302100996496e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), ARG15), mul(ARG18, cos(5)))	3.172516215843909e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 13, 15]	mul(mul(mul(ARG15, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, sin(ARG13)))	2.335607193133577e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	2.8420373325409424e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(5))))	3.233683555565667e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(add(ARG15, 5), add(add(ARG15, 5), 5)), mul(ARG18, cos(sin(5))))	3.028945110278482e-08	
+[18, 15]	mul(mul(mul(ARG18, mul(ARG18, ARG15)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	1.0946253183889566e-09	
+[18, 2, 12, 15]	mul(mul(mul(ARG18, ARG18), add(ARG15, ARG15)), add(ARG2, ARG12))	2.0614594290027915e-08	
+[18, 15]	mul(mul(mul(ARG15, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.8470162396442152e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), 5), mul(ARG18, cos(5)))	3.029750009873974e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, add(ARG15, add(ARG15, 5)))), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.6944449590390548e-08	
+[18, 5, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(protectedDiv(mul(5, mul(mul(ARG5, 5), add(add(ARG15, 5), 5))), mul(ARG18, ARG15))))))	3.1941653631020065e-08	
+[18, 15]	mul(mul(sin(5), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029308606758047e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, 5))	5.571769612248057e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, 5))	5.571769612248057e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5235930724833776e-08	
+[17, 18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(cos(protectedDiv(mul(5, mul(ARG18, add(add(ARG15, mul(mul(ARG18, protectedDiv(ARG17, 5)), ARG15)), 5))), sin(5))))))	3.2016455371181375e-08	
+[18, 15]	mul(mul(mul(mul(ARG18, ARG15), ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	1.12602089715111e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG15), mul(ARG18, cos(sin(ARG15))))	3.207482529330398e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(5, 5), ARG15)), mul(ARG18, cos(5)))	3.173254914673352e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(ARG15)))	2.3891243989032863e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(5, 5)), mul(ARG18, cos(5)))	3.0289645845452296e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), ARG15)	1.8965602411903197e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, cos(5)))), ARG15), mul(ARG18, cos(5)))	3.1657407854085526e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(add(ARG15, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.0286236942076694e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), mul(ARG18, ARG15)), mul(ARG18, cos(5)))	2.1830881782956857e-09	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), 5)), mul(ARG18, 5))	1.1353248854010272e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(cos(protectedDiv(ARG18, sin(cos(sin(5)))))))), mul(ARG18, cos(5)))	3.233978270903949e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG15))	3.1836629629193664e-10	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, cos(5))), add(ARG15, 5)), mul(ARG18, cos(5)))	3.1726351822040524e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), ARG18), mul(ARG18, cos(5)))	2.9782561368608455e-08	
+[18, 15]	mul(mul(mul(add(ARG15, ARG15), add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.4676729548007572e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(cos(5), cos(5)))	3.02922151526646e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, ARG18))	3.1088402905320284e-10	
+[18, 15]	mul(mul(mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	6.48389790625948e-12	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), cos(5)))	6.466485368171693e-12	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, 5))	5.541679451743999e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, cos(5))), mul(ARG18, cos(5)))	3.233573960926396e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 4, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(sin(sin(ARG4)))))	2.724477690542288e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG18)), mul(ARG18, cos(5)))	3.110854464503717e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.235222251341885e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.2385161389926664e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15))))	2.167517500662381e-14	
+[]	mul(cos(5), 5)	3.029305088491381e-08	
+[9, 18, 15]	mul(mul(mul(sin(ARG9), ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.029376155069934e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.233338807076673e-08	
+[16, 18, 15, 7]	mul(mul(protectedDiv(add(ARG16, 5), sub(5, ARG7)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.029316205780653e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), add(ARG15, 5)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 13, 15]	mul(mul(mul(ARG18, cos(ARG13)), add(add(ARG15, 5), ARG15)), mul(ARG18, cos(5)))	3.030070912475404e-08	
+[18, 15]	mul(mul(mul(ARG18, 5), add(ARG15, add(ARG15, 5))), mul(ARG18, cos(5)))	3.031213010425347e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, ARG15)), ARG15), mul(ARG18, 5))	5.541679451743999e-09	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(cos(5))))	2.5360412151721487e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(mul(ARG18, ARG15), add(ARG15, ARG15)))	1.8342209077319265e-12	
+[18]	mul(mul(ARG18, cos(5)), mul(ARG18, cos(5)))	3.0293205257069524e-08	
+[18, 15]	mul(mul(ARG15, add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.029010215068167e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, mul(ARG18, ARG15))), add(ARG15, 5)), mul(ARG18, cos(5)))	2.1961963110231437e-09	
+[18, 15, 7]	mul(mul(mul(ARG18, sub(ARG7, ARG18)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	2.727452432205824e-08	
+[18, 15]	mul(mul(mul(ARG18, add(ARG15, 5)), add(ARG15, ARG15)), mul(ARG18, cos(5)))	3.236677909462179e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(ARG15, add(ARG15, 5))), mul(ARG18, add(ARG15, ARG15)))	1.5971459949429236e-10	
+[18, 19]	mul(mul(add(cos(ARG19), sub(5, 5)), cos(5)), mul(ARG18, cos(5)))	3.0293050199798973e-08	
+[18]	mul(ARG18, mul(ARG18, cos(5)))	3.029359707028184e-08	
+[18, 15]	mul(mul(mul(ARG18, ARG15), add(add(ARG15, 5), ARG15)), mul(mul(5, add(ARG15, 5)), cos(5)))	1.4958862619323976e-08	

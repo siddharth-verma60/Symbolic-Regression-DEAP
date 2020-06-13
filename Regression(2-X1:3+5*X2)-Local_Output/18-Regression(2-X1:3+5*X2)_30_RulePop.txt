@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18, 3]	add(mul(mul(5, neg(sin(5))), cos(cos(cos(cos(ARG3))))), mul(5, ARG18))	0.04957501471612979	
+[18]	add(mul(mul(5, cos(cos(ARG18))), ARG18), mul(neg(neg(5)), ARG18))	0.004366600810361797	
+[16, 18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG16))	0.002476815238569112	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(sin(ARG18))), mul(5, ARG18))	0.04945746376816529	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[16, 18, 3]	add(mul(5, cos(cos(ARG3))), mul(cos(ARG16), ARG18))	0.0033878438782841383	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(neg(neg(5)), ARG18))	0.04957252722087635	
+[17, 18, 6]	add(protectedDiv(sin(ARG6), mul(ARG17, 5)), mul(5, ARG18))	0.04894395333561408	
+[18]	add(mul(mul(5, cos(cos(add(5, 5)))), cos(sin(5))), mul(5, ARG18))	0.049478819317867885	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, cos(sin(5))))	0.003421126452304759	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(neg(sin(5))))), mul(neg(neg(5)), ARG18))	0.04959368267118184	
+[18, 3]	add(mul(5, cos(ARG3)), mul(5, ARG18))	0.04819574753693522	
+[18]	add(mul(5, cos(neg(sin(neg(sin(5)))))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(neg(neg(5)), cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(mul(5, neg(sin(5))), ARG18))	0.041942759953548674	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(cos(cos(ARG18)), ARG18))	0.004032868416510787	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18, 2, 19]	add(mul(5, cos(neg(sin(5)))), mul(mul(ARG2, ARG19), ARG18))	5.224609165201406e-06	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[4, 13]	sub(sin(ARG4), add(5, ARG13))	0.003376103409744374	
+[]	add(mul(5, cos(cos(5))), mul(5, 5))	0.003405498188230722	
+[18, 5]	add(mul(5, cos(ARG5)), mul(5, ARG18))	0.048028415325393745	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(protectedDiv(5, 5)), ARG18))	0.0028557091786335733	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(sin(5), cos(cos(ARG18))), mul(5, ARG18))	0.048618050274516496	
+[1, 18, 3]	add(mul(5, cos(neg(ARG1))), mul(cos(cos(ARG3)), ARG18))	0.004032901099357345	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(5, ARG18))	0.04957252722087635	
+[18]	add(mul(5, cos(cos(mul(5, cos(neg(sin(5))))))), mul(neg(neg(5)), ARG18))	0.049571908546599694	
+[8, 18]	add(mul(5, ARG18), ARG8)	0.016246188613034885	
+[]	add(mul(5, cos(neg(sin(5)))), mul(5, cos(sin(5))))	0.0034214208388750923	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(5, ARG18))	0.04957625172921271	
+[16, 18, 14]	add(mul(neg(sub(5, ARG14)), cos(cos(ARG16))), mul(5, ARG18))	0.019583973507829377	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, ARG18))	0.049561967746646673	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(cos(cos(5)), ARG18))	0.0042249296003366065	
+[]	add(mul(5, 5), mul(5, cos(5)))	0.0034091135758477576	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), 5)	0.00342057739293905	
+[18]	add(mul(5, cos(sin(5))), mul(mul(5, ARG18), ARG18))	4.462951738078888e-05	
+[18]	add(mul(mul(5, cos(cos(sin(sin(5))))), neg(sin(5))), mul(5, ARG18))	0.049558620007543505	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(neg(neg(mul(5, cos(cos(ARG18))))), ARG18))	0.011701728839095054	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), cos(neg(sin(5))))	0.0034215150042158494	
+[18, 3]	add(cos(ARG3), mul(5, ARG18))	0.04891654820921823	
+[18]	add(mul(5, cos(sin(sin(5)))), mul(neg(neg(5)), ARG18))	0.049574185762626344	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[]	add(mul(5, sub(5, 5)), neg(sin(5)))	0.003421834428286665	
+[18]	add(mul(5, cos(mul(neg(neg(5)), ARG18))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[9, 18]	add(mul(5, cos(cos(ARG18))), ARG9)	0.003350544103565868	
+[]	add(mul(5, cos(neg(sin(5)))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(5, cos(sin(ARG18))), mul(5, ARG18))	0.04945746376816529	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18, 3]	add(mul(mul(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049531644603553915	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(mul(5, cos(neg(sin(5)))), cos(cos(ARG18))), mul(5, ARG18))	0.04953658342080411	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(sin(sin(5)))), mul(5, ARG18))	0.049576839425045316	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[16, 18]	add(mul(cos(cos(ARG16)), cos(cos(ARG18))), mul(5, ARG18))	0.04918787826244124	
+[16, 18]	add(mul(5, cos(ARG16)), mul(5, ARG18))	0.04798424985583251	
+[18]	add(mul(5, cos(cos(neg(sin(5))))), mul(5, ARG18))	0.04951000004329266	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(cos(neg(sin(5))))), mul(5, cos(ARG18)))	0.003422287311594071	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(cos(mul(5, ARG18)))), mul(5, ARG18))	0.04950938752468895	
+[]	add(mul(5, cos(sin(5))), cos(sin(5)))	0.003421734394988744	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, ARG18))	0.049561967746646673	
+[18]	add(mul(5, cos(neg(mul(5, ARG18)))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, cos(cos(mul(sin(5), cos(cos(ARG18)))))), sin(5))	0.0034217288551925376	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, mul(5, ARG18)))	0.0008612453758870083	
+[16, 18]	add(mul(5, cos(cos(ARG16))), ARG18)	0.004265950671219035	
+[18, 3]	add(mul(5, cos(cos(cos(cos(cos(cos(ARG3))))))), mul(5, ARG18))	0.04956438686150712	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(sin(5))), cos(cos(ARG18)))	0.0034216904684905704	
+[18]	add(mul(mul(5, neg(sin(5))), mul(5, ARG18)), mul(5, ARG18))	0.0007185683410274658	
+[18]	add(mul(mul(5, ARG18), cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.004524881283099552	
+[18]	add(mul(5, cos(cos(ARG18))), 5)	0.0034205231980094153	
+[18]	add(mul(5, cos(neg(neg(sin(5))))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(sin(5)))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18, 3, 7]	add(mul(mul(5, cos(neg(sin(5)))), cos(cos(ARG3))), mul(cos(ARG7), ARG18))	0.003380582280978956	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 15, 7]	add(mul(5, cos(neg(protectedDiv(ARG7, ARG15)))), mul(5, ARG18))	0.04864805843328425	
+[18]	add(mul(mul(5, neg(ARG18)), sin(mul(5, 5))), mul(5, ARG18))	0.022933355894029058	
+[]	add(mul(5, cos(sin(5))), mul(5, sin(5)))	0.003421639022525752	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(mul(5, cos(cos(ARG18))), ARG18))	0.011700872179960325	
+[18]	add(mul(5, cos(cos(ARG18))), mul(ARG18, ARG18))	0.00022255377091319996	
+[]	add(mul(5, cos(neg(sin(5)))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), 5)	0.0034205231980094153	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[1, 14]	add(mul(5, cos(sin(5))), mul(5, sin(mul(add(5, ARG1), add(ARG14, 5)))))	0.0034213793275554016	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[17, 18, 11]	add(mul(5, cos(sin(5))), protectedDiv(sub(ARG11, ARG18), neg(ARG17)))	0.003283490845608397	
+[18]	add(mul(5, cos(cos(sin(5)))), mul(5, ARG18))	0.04951000004329266	
+[18]	add(mul(5, cos(neg(ARG18))), mul(5, ARG18))	0.04848150019640434	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[4]	add(mul(5, cos(sin(5))), ARG4)	0.003352236167162677	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), sin(5)), mul(5, ARG18))	0.04676039278532514	
+[18]	add(mul(mul(5, neg(cos(cos(ARG18)))), cos(cos(ARG18))), mul(5, ARG18))	0.0470810732954299	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18, 3]	add(mul(5, cos(cos(5))), mul(ARG3, ARG18))	0.0002978005600635098	
+[18]	add(mul(mul(5, cos(cos(neg(neg(5))))), cos(cos(ARG18))), mul(5, ARG18))	0.049573630179115126	
+[16, 18, 3]	add(mul(mul(cos(sin(cos(sin(ARG16)))), cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.04912932944149831	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[]	add(mul(5, cos(neg(sin(5)))), sin(5))	0.0034218254945913686	
+[18]	add(mul(5, cos(neg(mul(5, ARG18)))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18, 3]	add(mul(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), cos(sin(5))), mul(5, ARG18))	0.04945863713714866	
+[16, 18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG16))), mul(5, ARG18))	0.04967973431871419	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(sin(neg(sin(cos(neg(sin(5)))))))), mul(5, ARG18))	0.049488944554896705	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[16, 18]	add(mul(5, cos(neg(cos(ARG16)))), mul(5, ARG18))	0.04967230361255246	
+[18, 11, 15]	add(mul(add(protectedDiv(ARG15, 5), sub(5, ARG11)), cos(sin(5))), mul(5, ARG18))	0.02479979303341471	
+[18]	add(cos(ARG18), mul(neg(neg(5)), ARG18))	0.048974817566367235	
+[18]	add(mul(5, cos(cos(mul(sin(5), cos(mul(5, cos(cos(cos(cos(ARG18)))))))))), mul(5, ARG18))	0.04951434358796099	
+[18]	add(mul(5, cos(cos(add(5, 5)))), ARG18)	0.004266533085150744	
+[18]	add(mul(5, cos(cos(mul(5, ARG18)))), mul(5, ARG18))	0.04950938752468895	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(add(5, 5), ARG18))	0.003433494508978256	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(mul(5, cos(cos(ARG18))))), mul(5, ARG18))	0.047416263257291626	
+[18]	add(neg(sin(5)), mul(5, ARG18))	0.04926875354653564	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18, 2, 11]	add(mul(5, cos(sin(sub(mul(ARG2, 5), neg(ARG11))))), mul(5, ARG18))	0.04955971825933962	
+[18]	add(mul(ARG18, cos(cos(ARG18))), mul(5, ARG18))	0.019992241231109906	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, 5))	0.0034066090744669475	
+[18, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, cos(ARG18)))))), mul(5, ARG18))	0.04946867318289901	
+[9, 18]	add(sin(ARG9), mul(5, ARG18))	0.04890131689640487	
+[18]	add(mul(5, cos(cos(mul(5, ARG18)))), mul(5, ARG18))	0.04950938752468895	
+[]	sin(5)	0.003421741555713011	
+[18]	add(cos(sub(5, 5)), mul(5, ARG18))	0.049280063818646976	
+[18]	add(mul(mul(5, neg(sin(mul(5, cos(cos(ARG18)))))), cos(cos(ARG18))), mul(5, ARG18))	0.0492962361928084	
+[1, 18]	add(mul(mul(5, neg(sin(5))), cos(cos(protectedDiv(ARG1, 5)))), mul(5, ARG18))	0.0494424808965992	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[16, 18]	add(mul(5, cos(neg(ARG16))), mul(5, ARG18))	0.04798424985583251	
+[18]	add(mul(5, cos(cos(sin(5)))), mul(5, ARG18))	0.04951000004329266	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[16, 18]	add(mul(5, cos(cos(ARG16))), cos(cos(ARG18)))	0.0034212440778698824	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18, 5, 7]	add(mul(5, cos(cos(ARG18))), add(ARG7, ARG5))	0.0033129455189436626	
+[16, 18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG16))	0.002476795235680523	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG18))), mul(5, ARG18))	0.04956802069677598	
+[3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG3))	0.0024771150032038645	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(sin(5)))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(mul(5, cos(cos(neg(cos(5))))), mul(5, ARG18))	0.04957252722087635	
+[18]	add(mul(5, cos(cos(5))), mul(neg(neg(5)), ARG18))	0.04940762422811357	
+[18, 3]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG3))), mul(neg(neg(cos(cos(ARG18)))), ARG18))	0.00403287028158055	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(cos(sin(5)), cos(cos(ARG18))), mul(5, ARG18))	0.049114446692483084	
+[18]	add(mul(5, mul(5, neg(sin(5)))), mul(5, ARG18))	0.03412975067250382	
+[18]	add(mul(5, cos(cos(mul(sin(5), ARG18)))), mul(5, ARG18))	0.04942769190114533	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(sin(neg(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(ARG18))), mul(mul(5, ARG18), ARG18))	4.4628068083315976e-05	
+[]	add(mul(5, cos(sin(5))), 5)	0.003420941137461466	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18, 2]	add(mul(mul(5, cos(cos(ARG18))), ARG2), mul(neg(neg(5)), ARG18))	0.004368324580960133	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[16]	add(mul(5, cos(cos(ARG16))), 5)	0.0034203412649843946	
+[18]	add(mul(mul(5, ARG18), cos(neg(sin(5)))), mul(5, ARG18))	0.005941901875175003	
+[16, 18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(cos(cos(ARG16)), ARG18))	0.004018265381994705	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(ARG18, cos(sin(5))), mul(5, ARG18))	0.025534110349138273	
+[16]	add(mul(5, cos(cos(ARG16))), mul(5, 5))	0.003406303504329075	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(ARG18, ARG18))	0.0002225695572537663	
+[9, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, ARG9))	0.0023917733052489162	
+[18, 5]	add(mul(5, cos(ARG5)), mul(5, ARG18))	0.048028415325393745	
+[18]	add(mul(sin(5), cos(sin(5))), mul(5, ARG18))	0.04871541295446985	
+[18]	add(mul(5, cos(sin(cos(cos(cos(cos(ARG18))))))), mul(5, ARG18))	0.04953290362505868	
+[18, 3]	add(protectedDiv(5, ARG3), mul(neg(neg(5)), ARG18))	0.048212774081131206	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(neg(neg(5)), ARG18))	0.0495727000667671	
+[16, 18, 4]	add(mul(5, cos(cos(cos(mul(mul(5, cos(cos(ARG16))), cos(ARG4)))))), mul(5, ARG18))	0.04951883395668779	
+[0, 18]	add(sin(ARG0), mul(5, ARG18))	0.048956790275845666	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[18, 3]	add(mul(mul(5, neg(sin(5))), cos(ARG3)), mul(5, ARG18))	0.048254869811605275	
+[18]	add(mul(mul(5, neg(sin(ARG18))), cos(cos(ARG18))), mul(5, ARG18))	0.048289661219601286	
+[]	add(mul(5, cos(sin(5))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(mul(5, neg(sin(5))), cos(sin(5))), mul(5, ARG18))	0.04956736679173764	
+[18]	add(mul(5, cos(cos(sin(5)))), mul(5, ARG18))	0.04951000004329266	
+[0, 18, 15]	add(mul(sub(ARG0, ARG15), neg(sin(5))), mul(5, ARG18))	0.011955587060004144	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, 5))	0.0034066090744669475	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(ARG18, ARG18))	0.00022255656813427232	
+[3]	add(mul(5, cos(cos(ARG3))), mul(5, neg(sin(5))))	0.0034208121443514866	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[16, 2]	add(mul(5, cos(sin(ARG16))), ARG2)	0.003322321270804793	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(cos(neg(sin(5))), ARG18))	0.0038610258910485922	
+[18, 15]	add(mul(neg(ARG15), cos(cos(mul(5, 5)))), mul(5, ARG18))	0.02582967682880617	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(neg(sin(5)), cos(cos(mul(sin(5), cos(cos(ARG18)))))), mul(5, ARG18))	0.049199931793395595	
+[16, 18]	add(mul(ARG18, cos(cos(ARG16))), mul(5, ARG18))	0.02031132101602616	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, 5))	0.0034064302232323144	
+[18]	add(mul(mul(5, neg(sin(neg(sin(5))))), cos(cos(ARG18))), mul(5, ARG18))	0.04714429059853838	
+[18]	add(mul(mul(5, 5), cos(cos(ARG18))), mul(5, ARG18))	0.038092192170415616	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, cos(cos(ARG18))))	0.0034206859877141237	
+[18, 10]	add(mul(neg(neg(5)), ARG18), mul(ARG10, ARG18))	0.00029275688141556713	
+[0, 18, 4]	add(mul(5, cos(cos(cos(mul(sin(ARG0), cos(ARG4)))))), mul(sin(5), ARG18))	0.002875249438377523	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[16, 18]	add(mul(sin(5), cos(cos(ARG16))), mul(5, ARG18))	0.048605321852554596	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18]	add(sin(5), mul(5, ARG18))	0.048521953458679164	
+[18]	add(mul(5, cos(neg(sin(mul(5, cos(cos(ARG18))))))), mul(5, ARG18))	0.049430205709436965	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[0, 18, 4]	add(mul(cos(ARG18), cos(cos(cos(mul(sin(ARG0), cos(ARG4)))))), mul(5, ARG18))	0.048972680966002595	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[1, 18]	add(mul(5, cos(cos(ARG1))), mul(neg(neg(5)), ARG18))	0.0494606147009103	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[1, 18]	add(mul(5, cos(sin(mul(5, cos(cos(cos(cos(ARG1)))))))), mul(5, ARG18))	0.049532379256337564	
+[18]	add(mul(mul(5, cos(mul(5, ARG18))), cos(cos(ARG18))), mul(5, ARG18))	0.04862324241888499	
+[]	add(mul(5, cos(sin(5))), sin(5))	0.0034218254945913686	
+[18, 6]	add(mul(mul(5, neg(neg(protectedDiv(ARG6, 5)))), cos(cos(ARG18))), mul(5, ARG18))	0.01947850685172808	
+[18]	add(mul(5, cos(cos(sin(5)))), mul(5, ARG18))	0.04951000004329266	
+[0, 18, 4]	add(mul(5, cos(cos(cos(mul(sin(ARG0), cos(ARG4)))))), mul(5, ARG18))	0.049568544837679376	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18, 3]	add(mul(5, mul(mul(5, cos(cos(ARG18))), cos(cos(ARG3)))), mul(5, ARG18))	0.04216245970344987	
+[16, 18]	add(cos(cos(ARG16)), mul(neg(neg(5)), ARG18))	0.049239086257389916	
+[]	add(mul(5, 5), sin(5))	0.0034113888671707996	
+[18]	add(mul(5, cos(mul(5, ARG18))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, cos(sin(5))), mul(5, mul(5, cos(cos(ARG18)))))	0.0034121405471480262	
+[6]	cos(sin(ARG6))	0.003421867536891015	
+[18]	add(mul(5, cos(cos(ARG18))), mul(cos(cos(ARG18)), ARG18))	0.004032635820862621	
+[18]	add(mul(5, cos(cos(5))), mul(neg(neg(5)), ARG18))	0.04940762422811357	
+[16, 18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), cos(ARG16))	0.003421789049297168	
+[18]	add(mul(5, cos(mul(5, ARG18))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, cos(sin(neg(sin(ARG18))))), mul(5, ARG18))	0.04947179731307575	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(5))), mul(5, ARG18))	0.049559858891562496	
+[18]	add(mul(5, cos(5)), mul(neg(neg(5)), ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(cos(cos(cos(ARG18))), ARG18))	0.00398005130191121	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[]	neg(5)	0.003421061569517879	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(sin(sin(5)))), mul(neg(sin(sin(5))), ARG18))	0.00408370250604981	
+[0, 18]	add(mul(5, cos(ARG0)), mul(5, ARG18))	0.04819386315737465	
+[9]	add(add(5, ARG9), cos(sin(5)))	0.0033503684895593894	
+[18]	add(mul(mul(5, mul(5, ARG18)), neg(sin(5))), mul(5, ARG18))	0.0007185683410274659	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(mul(5, ARG18), cos(cos(ARG18))), mul(5, ARG18))	0.004366600810361797	
+[16]	add(mul(5, cos(cos(ARG16))), 5)	0.0034203412649843946	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[18, 6]	add(mul(5, cos(neg(protectedDiv(ARG6, 5)))), mul(5, ARG18))	0.04817931345508404	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), ARG18)	0.00426637530609298	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, mul(neg(neg(5)), ARG18)))	0.0008612464752789457	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, cos(neg(sin(5)))))	0.0034210857372931184	
+[18]	add(mul(5, cos(mul(5, ARG18))), mul(5, ARG18))	0.04834232238419234	
+[]	add(mul(5, cos(sin(5))), neg(sin(5)))	0.003421696713013082	
+[18, 3]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.049587277731426106	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(mul(5, cos(sin(5))), ARG18))	0.00790864636381013	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(cos(ARG16), cos(cos(ARG18))), mul(5, ARG18))	0.04890462468748422	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[10, 18]	add(mul(5, cos(cos(mul(5, neg(cos(ARG10)))))), mul(5, ARG18))	0.04946686756902	
+[18, 14]	add(ARG18, mul(5, ARG14))	0.002563690408055831	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[9, 2]	add(mul(5, cos(sin(5))), add(protectedDiv(5, ARG2), add(5, ARG9)))	0.0033504649909532926	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(sin(neg(sin(5))), cos(cos(mul(sin(5), cos(cos(ARG18)))))), mul(5, ARG18))	0.04916673032502862	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[1, 18]	add(mul(mul(ARG1, neg(sin(5))), cos(5)), mul(5, ARG18))	0.038655820524305246	
+[18]	add(mul(cos(ARG18), cos(cos(ARG18))), mul(5, 5))	0.003410532301907747	
+[18]	add(mul(5, cos(sin(neg(sin(5))))), mul(neg(5), ARG18))	0.0017180636247190772	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 3]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(ARG3, ARG18))	0.00029780382788686797	
+[18]	add(mul(5, cos(cos(neg(neg(5))))), mul(neg(neg(5)), ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[16, 18]	add(mul(5, cos(cos(mul(sin(cos(ARG16)), cos(cos(ARG18)))))), mul(5, ARG18))	0.04951360069577734	
+[18]	add(mul(5, cos(neg(sin(ARG18)))), mul(5, ARG18))	0.04945746376816529	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, 5))	0.003406587324251433	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18, 7]	add(add(cos(ARG7), protectedDiv(ARG18, ARG16)), mul(5, ARG18))	0.034562613010387135	
+[2, 18]	add(add(ARG2, 5), mul(5, ARG18))	0.016032182005355777	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, mul(5, cos(cos(ARG18)))))	0.0034110426913377193	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18, 3]	add(mul(5, cos(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))))), mul(5, ARG18))	0.04695663412320153	
+[16, 18]	add(cos(ARG16), mul(5, ARG18))	0.04887799826140989	
+[18, 3]	add(mul(5, cos(ARG3)), mul(5, ARG18))	0.04819574753693522	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 12]	add(mul(5, cos(cos(ARG18))), sin(sin(ARG12)))	0.003421509529171325	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[]	add(mul(5, cos(cos(add(5, 5)))), mul(5, 5))	0.003407112688668427	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(ARG18, ARG18))	0.00022255656813427232	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(mul(5, cos(cos(add(5, 5)))), ARG18))	0.01003197491040904	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(mul(5, ARG18), ARG18))	4.4628175971126803e-05	
+[18]	add(mul(5, cos(cos(ARG18))), neg(neg(5)))	0.0034205231980094153	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18, 3]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG3))), mul(mul(5, cos(cos(ARG3))), ARG18))	0.011604076332676967	
+[18]	add(neg(neg(5)), mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(sin(mul(5, ARG18)))), mul(5, ARG18))	0.049512067129494464	
+[]	add(mul(5, cos(sin(5))), 5)	0.003420941137461466	
+[5]	add(mul(5, cos(cos(5))), mul(5, sin(ARG5)))	0.003422084888933621	
+[18]	add(mul(ARG18, cos(sin(neg(sin(5))))), mul(5, ARG18))	0.02236194228290208	
+[8, 18, 15]	add(mul(protectedDiv(sub(5, ARG15), sin(ARG8)), cos(cos(add(5, 5)))), mul(5, ARG18))	0.000963501008816467	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(sin(cos(cos(ARG18))))), mul(5, ARG18))	0.04951589097485582	
+[18]	add(mul(5, cos(cos(5))), mul(neg(neg(5)), ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(cos(ARG18))), mul(ARG18, ARG18))	0.00022255377091319996	
+[18]	add(mul(5, cos(cos(mul(sin(5), cos(cos(5)))))), mul(5, ARG18))	0.04952088200384182	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[]	add(mul(5, cos(sin(neg(sin(5))))), mul(5, 5))	0.0034070311352794556	
+[18]	add(mul(5, cos(cos(ARG18))), mul(ARG18, ARG18))	0.00022255377091319996	
+[16, 18]	add(mul(sin(cos(5)), cos(cos(ARG16))), mul(5, ARG18))	0.04903613666800737	
+[18]	add(mul(mul(5, neg(5)), cos(cos(ARG18))), mul(5, ARG18))	0.03243847312764988	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(ARG18, mul(5, ARG18))	0.01619831510150951	
+[16, 18]	add(mul(5, cos(cos(mul(5, cos(cos(ARG16)))))), mul(5, ARG18))	0.04968094614471567	
+[8, 18, 4]	add(mul(mul(5, cos(sin(5))), neg(sin(protectedDiv(ARG4, ARG8)))), mul(5, ARG18))	0.04861547079222373	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18, 12, 7]	add(mul(5, cos(cos(sub(ARG7, ARG12)))), mul(cos(cos(ARG18)), ARG18))	0.004032903782320517	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(sin(cos(cos(add(5, 5)))))), mul(5, ARG18))	0.049525714104229686	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(sin(5))), mul(mul(5, neg(sin(5))), cos(cos(ARG18))))	0.003421126452304759	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(5, ARG18))	0.04957625172921271	
+[18, 13]	add(mul(5, cos(sub(ARG13, 5))), mul(5, ARG18))	0.048109449511109584	
+[18, 10]	add(mul(5, mul(sin(ARG18), neg(ARG10))), mul(5, ARG18))	0.004808134264348699	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(cos(5), add(5, 5)), mul(5, ARG18))	0.049571287723471656	
+[18]	add(mul(5, cos(cos(ARG18))), mul(neg(neg(5)), ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(5, ARG18))	0.04957252722087635	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[10, 18]	add(mul(5, cos(add(ARG10, 5))), mul(5, ARG18))	0.04815662605458182	
+[18]	add(mul(5, cos(sin(ARG18))), mul(5, ARG18))	0.04945746376816529	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, 5))	0.0034064302232323144	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(neg(neg(5)), ARG18))	0.04957252722087635	
+[18]	add(mul(5, cos(sin(cos(ARG18)))), mul(5, ARG18))	0.04954549884505584	
+[18]	add(mul(5, cos(neg(sin(ARG18)))), mul(5, ARG18))	0.04945746376816529	
+[16]	add(mul(5, cos(cos(ARG16))), mul(5, 5))	0.003406303504329075	
+[18]	add(mul(5, cos(cos(cos(cos(mul(5, ARG18)))))), mul(neg(neg(5)), ARG18))	0.04954795003333856	
+[9, 18]	add(mul(mul(5, cos(cos(mul(ARG9, 5)))), cos(cos(ARG18))), mul(5, ARG18))	0.04964518153431695	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, cos(neg(sin(5)))))	0.0034211800893084294	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), sin(5))	0.0034216561961916084	
+[18]	add(mul(5, cos(neg(mul(5, ARG18)))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, cos(cos(ARG18))), mul(ARG18, ARG18))	0.00022255377091319996	
+[2]	add(mul(5, cos(sin(5))), mul(ARG2, 5))	0.002365831459906356	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(cos(cos(ARG18))))), mul(5, ARG18))	0.049588825704676265	
+[18]	add(mul(5, cos(cos(ARG18))), mul(neg(neg(5)), ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(mul(5, cos(cos(cos(cos(ARG18))))))))), mul(5, ARG18))	0.04943859980365027	
+[]	add(5, mul(neg(neg(5)), 5))	0.003405270743479072	
+[18]	add(mul(5, cos(mul(5, ARG18))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, cos(neg(sin(5)))), cos(ARG18))	0.0034219498205623903	
+[18, 3]	add(mul(mul(ARG3, neg(sin(5))), cos(cos(ARG18))), 5)	0.003406544686827001	
+[18]	add(mul(mul(5, cos(cos(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573630179115126	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18, 7]	add(mul(ARG7, cos(neg(sin(mul(5, cos(neg(sin(5)))))))), mul(5, ARG18))	0.016443150054302094	
+[18]	add(mul(5, cos(cos(mul(5, cos(neg(sin(5))))))), mul(5, ARG18))	0.049571908546599694	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(ARG18, ARG18))	0.00022255646627666932	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), neg(neg(5))))	0.003406587324251433	
+[18, 15]	add(mul(5, cos(neg(sin(ARG15)))), mul(5, ARG18))	0.04952094289595567	
+[10, 18, 12]	add(5, mul(add(sub(5, ARG12), mul(5, ARG10)), ARG18))	5.7355321915178984e-05	
+[18]	add(mul(5, ARG18), mul(neg(neg(5)), ARG18))	0.0034330196661359986	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, cos(cos(cos(cos(ARG18))))))	0.0034208449497799627	
+[18]	add(mul(5, cos(cos(mul(5, ARG18)))), mul(5, ARG18))	0.04950938752468895	
+[18, 3]	add(mul(5, cos(cos(ARG18))), ARG3)	0.0033833746005913507	
+[18]	add(mul(5, cos(sin(5))), mul(cos(cos(add(5, 5))), ARG18))	0.003943621735690173	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(cos(cos(mul(5, ARG18)))))), mul(neg(5), ARG18))	0.001718045255487479	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(neg(5), ARG18))	0.0017180744275429151	
+[16]	add(mul(5, cos(cos(ARG16))), mul(5, mul(5, cos(sin(5)))))	0.0034157414983108955	
+[18]	add(mul(ARG18, neg(sin(5))), mul(5, ARG18))	0.016811918716799674	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(mul(5, ARG18), cos(neg(sin(5)))), mul(5, ARG18))	0.005941901875175003	
+[16]	add(mul(5, cos(cos(ARG16))), 5)	0.0034203412649843946	
+[18]	add(ARG18, mul(5, ARG18))	0.01619831510150951	
+[18]	add(mul(5, cos(cos(mul(5, cos(protectedDiv(neg(5), cos(5))))))), mul(5, ARG18))	0.049373825582006065	
+[18]	add(mul(5, cos(cos(mul(sin(cos(ARG18)), cos(cos(ARG18)))))), mul(5, add(5, 5)))	0.0033690865312789196	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[3]	add(mul(5, cos(sin(5))), cos(ARG3))	0.0034218456422815168	
+[18]	add(mul(mul(5, cos(mul(5, ARG18))), cos(cos(ARG18))), mul(5, ARG18))	0.04862324241888499	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, cos(sin(5))))	0.0034213684764672373	
+[18]	add(mul(5, cos(sin(5))), mul(mul(5, ARG18), ARG18))	4.462951738078888e-05	
+[18]	add(mul(5, cos(cos(ARG18))), 5)	0.0034205231980094153	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18, 2]	add(mul(5, sub(ARG18, ARG2)), mul(5, ARG18))	0.0023722497025786458	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[3]	neg(ARG3)	0.0033286142516765396	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(ARG18, ARG18))	0.00022255368843787808	
+[18, 11, 13, 15]	add(mul(5, mul(sin(ARG11), add(ARG15, ARG13))), mul(5, ARG18))	0.0033760666790664967	
+[]	add(mul(5, cos(neg(sin(5)))), mul(5, cos(neg(sin(5)))))	0.0034214208388750923	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[]	add(mul(5, cos(neg(sin(5)))), 5)	0.003420941137461466	
+[18, 11]	add(mul(mul(5, ARG18), ARG11), mul(5, ARG18))	5.9150052370721794e-05	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(mul(5, cos(cos(ARG16))), cos(sin(5))), mul(5, ARG18))	0.04959213011405443	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[18]	add(mul(mul(5, neg(sin(5))), cos(ARG18)), mul(5, ARG18))	0.04852955149618792	
+[13]	add(5, ARG13)	0.0033346124369114825	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(mul(5, cos(sin(neg(sin(5))))), ARG18))	0.01048524336018124	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[12]	ARG12	0.0033629382828734506	
+[19]	ARG19	0.003299939076882289	
+[18]	add(mul(mul(5, cos(sin(5))), neg(sin(5))), mul(5, ARG18))	0.04956736679173764	
+[18, 7]	add(mul(ARG7, cos(cos(ARG18))), mul(5, ARG18))	0.019678830231732947	
+[0, 1, 18, 19]	add(mul(5, cos(add(sin(ARG1), sub(ARG19, ARG0)))), mul(cos(ARG18), ARG18))	0.003433374942568309	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(ARG18, ARG18))	0.0002225695572537663	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[9, 2, 18]	add(mul(5, cos(sin(sin(add(ARG2, ARG9))))), mul(5, ARG18))	0.049465381428236324	
+[18]	add(mul(mul(5, cos(5)), cos(cos(ARG18))), mul(5, ARG18))	0.04931596109558387	
+[18, 3]	add(mul(5, cos(cos(ARG18))), mul(cos(ARG3), ARG18))	0.0033689851557757236	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(sin(5)))), mul(5, ARG18))	0.049530859232339366	
+[18, 3]	add(mul(mul(5, ARG18), cos(cos(ARG3))), mul(5, ARG18))	0.0043564021859297634	
+[18]	add(mul(5, cos(cos(ARG18))), 5)	0.0034205231980094153	
+[18]	add(mul(ARG18, cos(cos(ARG18))), mul(5, ARG18))	0.019992241231109906	
+[]	add(mul(5, cos(neg(sin(5)))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, cos(ARG18)))	0.003422002192386658	
+[18]	add(mul(5, cos(ARG18)), mul(neg(neg(5)), ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(cos(cos(mul(5, cos(cos(ARG18))))))), mul(neg(neg(5)), ARG18))	0.049495806877584855	
+[]	5	0.003421545617600307	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, cos(cos(mul(sin(5), cos(cos(ARG18)))))))	0.003420817840923181	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, cos(cos(ARG18))))	0.0034206859877141237	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[17, 14]	protectedDiv(ARG14, ARG17)	0.003266212778927148	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18, 11]	add(protectedDiv(ARG11, 5), mul(5, ARG18))	0.042749037636668506	
+[]	add(mul(5, cos(neg(sin(5)))), neg(sin(5)))	0.003421696713013082	
+[18]	add(mul(mul(5, neg(5)), cos(cos(ARG18))), mul(5, ARG18))	0.03243847312764988	
+[18]	add(mul(5, neg(sin(5))), mul(5, ARG18))	0.049408777364555796	
+[18]	add(mul(5, cos(sin(5))), mul(neg(sin(5)), ARG18))	0.004223781330915152	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(cos(mul(5, cos(sin(5)))))), mul(5, ARG18))	0.049571908546599694	
+[16, 18]	add(ARG16, mul(5, ARG18))	0.016338520675007417	
+[16, 18]	add(mul(mul(5, cos(mul(5, cos(cos(ARG16))))), cos(cos(ARG18))), mul(5, ARG18))	0.04795561904761968	
+[18, 3]	add(cos(ARG3), mul(5, ARG18))	0.04891654820921823	
+[18, 15]	add(cos(cos(ARG15)), mul(5, ARG18))	0.0492108371746285	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(mul(5, neg(5)), cos(protectedDiv(5, 5))), mul(5, ARG18))	0.03786181517090507	
+[18]	add(mul(mul(5, neg(sin(sin(5)))), cos(cos(ARG18))), mul(5, ARG18))	0.04959423288046738	
+[18]	add(cos(ARG18), mul(5, ARG18))	0.048974817566367235	
+[18]	add(mul(5, cos(mul(5, cos(sin(5))))), mul(5, ARG18))	0.04593868449845537	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[0, 9, 18, 6]	add(mul(5, cos(add(cos(ARG0), mul(ARG6, ARG9)))), mul(5, ARG18))	0.048240214701692256	
+[18]	add(mul(5, cos(sin(neg(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[18, 7]	add(sin(add(5, ARG7)), mul(5, ARG18))	0.04890510577483468	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.04954645565188801	
+[18]	add(sin(5), mul(neg(neg(5)), ARG18))	0.048521953458679164	
+[18]	add(mul(5, cos(mul(5, cos(cos(cos(5)))))), mul(5, ARG18))	0.045943651392235156	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[16, 18]	add(mul(5, cos(sin(cos(cos(ARG16))))), mul(5, ARG18))	0.049467071127339245	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18]	add(mul(5, cos(cos(mul(sin(5), cos(cos(ARG18)))))), cos(cos(ARG18)))	0.0034215339938939997	
+[18]	add(cos(cos(ARG18)), mul(5, ARG18))	0.049222656503199944	
+[18]	add(mul(5, mul(5, cos(sin(5)))), mul(5, ARG18))	0.0430993163469058	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[9, 18]	add(sin(ARG9), mul(5, ARG18))	0.04890131689640487	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(sin(5))), mul(5, ARG18))	0.04953658342080411	
+[18]	add(mul(5, cos(neg(mul(5, cos(neg(sin(5))))))), mul(5, ARG18))	0.04593868449845537	
+[18]	add(sin(5), mul(5, ARG18))	0.048521953458679164	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(mul(5, ARG18), ARG18))	4.462951738078888e-05	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), 5)	0.0034208827583110256	
+[18]	add(mul(mul(5, cos(ARG18)), cos(cos(ARG18))), mul(5, ARG18))	0.04883403106236916	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18, 10, 3]	add(ARG10, mul(cos(cos(ARG3)), ARG18))	0.003944650654065289	
+[18, 13]	add(protectedDiv(sin(5), sub(5, ARG13)), mul(5, ARG18))	0.04906056058392484	
+[18, 7]	add(mul(mul(5, neg(sin(5))), neg(ARG7)), mul(5, ARG18))	0.003500507516305334	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(cos(ARG18)))), mul(5, ARG18))	0.04951670205915938	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(neg(neg(5)), ARG18))	0.049507629411914555	
+[18]	add(neg(5), mul(5, ARG18))	0.0457910720939764	
+[18, 6]	add(mul(5, cos(cos(ARG6))), mul(5, ARG18))	0.049430663596102264	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, cos(neg(sin(5)))))	0.0034212433768241414	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(cos(ARG18))), mul(ARG18, ARG18))	0.00022255377091319996	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[18]	add(ARG18, mul(5, ARG18))	0.01619831510150951	
+[16, 2]	add(mul(5, cos(sin(5))), sub(ARG2, ARG16))	0.0032491642183960397	
+[18, 3]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG3))), mul(5, ARG18))	0.04956018718537874	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG18))), mul(neg(neg(5)), ARG18))	0.04956802069677598	
+[18]	add(mul(5, cos(sin(5))), cos(ARG18))	0.0034219498205623903	
+[16, 17, 18]	add(mul(5, cos(protectedDiv(sin(ARG16), sub(5, ARG17)))), mul(neg(neg(5)), ARG18))	0.04936883206109146	
+[3]	add(mul(5, cos(cos(ARG3))), sin(5))	0.0034218644973241195	
+[18]	add(mul(5, cos(mul(5, ARG18))), mul(5, ARG18))	0.04834232238419234	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18, 3, 4]	add(mul(protectedDiv(mul(ARG4, 5), neg(ARG3)), cos(cos(ARG16))), mul(5, ARG18))	0.016609726789457824	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(cos(ARG16)))), mul(5, ARG18))	0.049435438763661875	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[9, 18]	add(mul(sub(protectedDiv(5, ARG9), neg(ARG9)), cos(cos(mul(5, cos(neg(sin(5))))))), mul(5, ARG18))	0.024475572038082278	
+[16, 18]	add(mul(5, cos(neg(sin(sin(mul(5, cos(cos(ARG16)))))))), mul(5, ARG18))	0.04936187811737628	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(sin(neg(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[6]	add(mul(5, cos(neg(sin(5)))), mul(5, neg(protectedDiv(ARG6, 5))))	0.003346174137843992	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(cos(cos(cos(ARG18))), mul(neg(neg(5)), ARG18))	0.04918691006917797	
+[18]	add(mul(5, sin(5)), mul(neg(neg(5)), ARG18))	0.04595879432513025	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(mul(5, neg(sin(5))), cos(cos(ARG18))))	0.0034205749229256105	
+[18]	add(mul(ARG18, cos(neg(sin(sin(5))))), mul(5, ARG18))	0.02236194228290208	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[18, 4]	add(mul(ARG4, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0203224828380538	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[]	add(mul(5, cos(sin(5))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(ARG18, cos(neg(sin(5)))), mul(5, ARG18))	0.025534110349138273	
+[18]	add(mul(5, cos(cos(ARG18))), mul(mul(5, cos(neg(sin(5)))), ARG18))	0.00790744180775461	
+[1]	add(5, ARG1)	0.0033519819691937213	
+[18, 3]	add(mul(5, cos(cos(ARG18))), ARG3)	0.0033833746005913507	
+[18]	add(mul(5, cos(cos(mul(5, ARG18)))), mul(5, ARG18))	0.04950938752468895	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.04954645565188801	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(sin(5)))), mul(neg(neg(5)), ARG18))	0.04959368267118184	
+[18, 3]	add(mul(mul(5, neg(ARG3)), cos(cos(ARG18))), mul(5, ARG18))	0.004351877679531137	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(mul(cos(sin(5)), ARG18)))), mul(5, ARG18))	0.049491317703508134	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(cos(ARG18), cos(cos(ARG18))), mul(5, ARG18))	0.04897793094175245	
+[18]	add(mul(mul(5, neg(sin(5))), cos(5)), mul(5, ARG18))	0.049370392273272286	
+[]	add(mul(5, cos(neg(sin(5)))), 5)	0.003420941137461466	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(mul(5, ARG18), ARG18))	4.462951738078888e-05	
+[3]	add(mul(5, cos(cos(ARG3))), mul(5, 5))	0.003406661875148012	
+[18]	add(mul(5, cos(sin(ARG18))), mul(5, ARG18))	0.04945746376816529	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), neg(sin(5))), mul(5, ARG18))	0.04956018718537874	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(neg(neg(5)), ARG18))	0.04957252722087635	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(cos(cos(sin(5))))), mul(5, ARG18))	0.049576288930907576	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(5, cos(sin(sin(cos(cos(ARG18)))))), mul(5, ARG18))	0.049509755954687575	
+[18]	add(mul(mul(5, neg(sin(5))), 5), mul(5, ARG18))	0.03412975067250382	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), 5)	0.0034206237306891947	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, neg(sin(5))))	0.003420937566421025	
+[1, 18]	add(mul(5, cos(ARG18)), mul(neg(ARG1), ARG18))	0.00029147939612252696	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(mul(5, cos(sin(5))), neg(sin(5))), mul(5, ARG18))	0.04956736679173764	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[16, 18, 14]	add(mul(5, ARG14), mul(mul(5, cos(cos(ARG16))), ARG18))	0.0031698287648438874	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18]	add(mul(5, cos(cos(ARG18))), cos(cos(ARG18)))	0.0034214319884609845	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[1, 19]	add(mul(5, cos(sin(5))), mul(5, neg(sin(sin(mul(ARG1, ARG19))))))	0.0034225409267348147	
+[18]	add(mul(mul(5, cos(sin(5))), ARG18), mul(5, ARG18))	0.005941901875175003	
+[18]	add(5, mul(neg(neg(5)), ARG18))	0.04936366244246146	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18, 7]	add(mul(5, cos(add(ARG7, 5))), mul(5, ARG18))	0.04796530321320305	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(ARG18, ARG18))	0.00022258978071155737	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(5))), mul(5, ARG18))	0.049446138352943154	
+[18]	add(cos(ARG18), mul(5, ARG18))	0.048974817566367235	
+[18]	add(mul(5, cos(mul(5, cos(cos(ARG18))))), mul(5, ARG18))	0.047416263257291626	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(sin(sin(add(sin(5), cos(5)))))), mul(5, ARG18))	0.04959392583003646	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(mul(5, cos(sin(5))), ARG18))	0.00790864636381013	
+[18, 5]	add(mul(5, cos(cos(ARG18))), neg(ARG5))	0.0033415581775938915	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(cos(ARG18), mul(5, ARG18))	0.048974817566367235	
+[18]	add(mul(5, cos(mul(5, cos(neg(sin(5)))))), mul(5, ARG18))	0.04593868449845537	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, mul(5, ARG18)))	0.0008612453758870083	
+[18]	add(mul(5, cos(cos(add(5, 5)))), ARG18)	0.004266533085150744	
+[18, 4]	add(mul(5, cos(cos(cos(mul(5, cos(ARG4)))))), mul(5, ARG18))	0.04950180524137771	
+[0, 18]	add(mul(sin(ARG0), cos(cos(ARG18))), mul(5, ARG18))	0.048966991595295814	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(neg(sin(mul(5, cos(cos(mul(5, cos(neg(sin(5))))))))))), mul(5, ARG18))	0.049408266121469556	
+[18]	add(mul(5, cos(neg(sin(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[2, 18]	add(mul(cos(ARG2), cos(cos(ARG18))), mul(5, ARG18))	0.04892861506295884	
+[16, 18]	add(mul(5, ARG16), mul(5, ARG18))	0.0034862389173871693	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, ARG18))	0.0495710932295298	
+[8, 18]	add(mul(ARG8, cos(cos(ARG18))), mul(5, ARG18))	0.020164733493377034	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(cos(ARG18))), mul(cos(ARG18), ARG18))	0.0034334536240280085	
+[18]	add(mul(mul(5, neg(sin(5))), cos(5)), mul(5, ARG18))	0.049370392273272286	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 6]	add(mul(5, cos(cos(add(ARG6, 5)))), mul(5, ARG18))	0.049553545539218584	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[0, 18]	add(neg(mul(ARG0, ARG18)), mul(5, ARG18))	0.00029343981786241835	
+[18]	add(mul(5, neg(sin(5))), mul(5, ARG18))	0.049408777364555796	
+[18]	add(cos(cos(ARG18)), mul(5, ARG18))	0.049222656503199944	
+[18, 3]	add(mul(5, cos(cos(mul(5, cos(neg(sin(5))))))), mul(sin(protectedDiv(5, ARG3)), ARG18))	0.003424980472998839	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, 5))	0.0034064302232323144	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(ARG18, ARG18))	0.00022255368843787808	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, mul(5, cos(sin(5)))), mul(5, ARG18))	0.0430993163469058	
+[18]	add(cos(neg(sin(5))), mul(5, ARG18))	0.04915302405704863	
+[18]	add(mul(5, cos(cos(ARG18))), mul(neg(neg(5)), ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, cos(cos(ARG18))))	0.0034210857372931184	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[16, 18]	add(mul(cos(cos(ARG16)), cos(cos(ARG18))), mul(5, ARG18))	0.04918787826244124	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, mul(5, cos(cos(ARG18)))))	0.0034110426913377193	
+[18]	add(ARG18, mul(5, ARG18))	0.01619831510150951	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[2, 18]	add(neg(ARG2), mul(5, ARG18))	0.016192312040864815	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(sin(5))), mul(neg(neg(5)), ARG18))	0.0495727000667671	
+[18]	add(mul(5, mul(5, cos(cos(ARG18)))), mul(5, ARG18))	0.038092192170415616	
+[18]	add(cos(cos(ARG18)), mul(5, ARG18))	0.049222656503199944	
+[16, 18]	add(mul(sin(5), cos(cos(ARG16))), mul(5, ARG18))	0.048605321852554596	
+[18]	add(mul(5, cos(neg(5))), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(cos(sin(5)))), mul(5, ARG18))	0.04951000004329266	
+[18]	add(mul(5, sin(5)), mul(5, ARG18))	0.04595879432513025	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[1, 18]	add(mul(mul(5, ARG1), cos(cos(ARG18))), mul(5, ARG18))	0.004364665562840844	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(cos(mul(5, cos(cos(ARG18)))))))), mul(5, ARG18))	0.0495740174287507	
+[18]	add(mul(5, mul(5, cos(neg(sin(5))))), mul(5, ARG18))	0.0430993163469058	
+[18]	add(ARG18, mul(5, ARG18))	0.01619831510150951	
+[18, 3]	add(mul(5, cos(cos(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18)))))), mul(5, ARG18))	0.049465207105087144	
+[18]	add(mul(mul(5, neg(sin(5))), mul(5, cos(neg(sin(5))))), mul(5, ARG18))	0.04364821422325107	
+[18]	add(cos(cos(ARG18)), mul(5, ARG18))	0.049222656503199944	
+[18]	add(mul(5, cos(cos(mul(5, cos(cos(ARG18)))))), mul(5, ARG18))	0.04956154100434577	
+[16, 18]	add(ARG16, mul(5, ARG18))	0.016338520675007417	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, mul(5, ARG18)))	0.0008612464752789457	
+[18]	add(mul(cos(5), cos(sin(sin(5)))), ARG18)	0.004266575230628589	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(sin(cos(neg(sin(5)))))), mul(5, ARG18))	0.04949870490415614	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[16]	add(mul(5, cos(neg(sin(5)))), mul(5, cos(cos(ARG16))))	0.0034208980051753106	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[17, 18, 4]	add(mul(mul(5, neg(sub(ARG4, ARG17))), cos(cos(ARG18))), mul(5, ARG18))	0.0031019242599463143	
+[18]	add(mul(5, cos(sin(neg(sin(5))))), mul(5, ARG18))	0.049574185762626344	
+[18, 14]	add(ARG14, mul(5, ARG18))	0.01579552617491314	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[0, 18, 4]	add(mul(5, cos(sin(mul(sin(ARG0), cos(ARG4))))), mul(5, ARG18))	0.049523160929021384	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(5, ARG18))	0.04957252722087635	
+[18]	add(mul(5, cos(cos(cos(cos(cos(ARG18)))))), mul(5, ARG18))	0.04954249829149699	
+[18]	add(mul(5, cos(ARG18)), mul(neg(neg(5)), ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[8, 17, 18]	add(mul(5, mul(add(ARG17, 5), mul(ARG8, 5))), mul(5, ARG18))	1.2035932536993568e-05	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG18))), mul(ARG16, ARG18))	0.00029924523989259224	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(mul(5, ARG18), ARG18))	4.4628175971126803e-05	
+[]	add(mul(5, cos(neg(sin(5)))), neg(neg(5)))	0.003420941137461466	
+[18]	add(mul(mul(5, sin(5)), cos(cos(ARG18))), mul(5, ARG18))	0.04674320404732522	
+[18]	add(mul(mul(5, neg(neg(sin(5)))), cos(cos(ARG18))), mul(5, ARG18))	0.04674320404732522	
+[]	add(mul(5, cos(neg(sin(5)))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(mul(ARG18, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.020700684525746447	
+[18]	add(mul(mul(5, cos(5)), cos(cos(ARG18))), mul(5, ARG18))	0.04931596109558387	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(cos(ARG3), ARG18))	0.0033691370714094278	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18]	add(mul(5, cos(sin(sin(5)))), mul(5, ARG18))	0.049574185762626344	
+[18]	add(neg(sin(5)), mul(5, ARG18))	0.04926875354653564	
+[]	add(mul(5, cos(mul(5, cos(neg(sin(5)))))), neg(5))	0.003419393410246908	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 4]	add(mul(5, cos(cos(ARG18))), cos(ARG4))	0.0034213148917782246	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, 5))	0.0034064302232323144	
+[18]	add(mul(5, cos(sin(mul(5, cos(cos(ARG18)))))), mul(5, ARG18))	0.049430205709436965	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG18))), mul(5, ARG18))	0.04956802069677598	
+[3, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, ARG3))	0.0024770730503418377	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, cos(cos(ARG18))))	0.003420733948749754	
+[18, 6]	add(mul(ARG6, cos(cos(ARG18))), mul(neg(neg(5)), ARG18))	0.01947850685172808	
+[16, 18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(cos(cos(ARG16)), ARG18))	0.004018355223610087	
+[18]	add(mul(5, neg(neg(5))), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(5, mul(mul(5, neg(sin(5))), cos(cos(ARG18)))))	0.0034124578435754667	
+[18, 12, 14]	add(ARG18, mul(cos(mul(ARG12, ARG14)), ARG18))	0.004169944606731596	
+[16, 18]	add(ARG16, mul(neg(neg(5)), ARG18))	0.016338520675007417	
+[18]	add(mul(5, cos(cos(ARG18))), cos(cos(cos(ARG18))))	0.003421495959000317	
+[18, 11]	add(mul(5, cos(cos(ARG11))), mul(5, ARG18))	0.04949299322024719	
+[18, 3]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.049587277731426106	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(ARG18, ARG18))	0.00022258978071155737	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[16, 18]	add(mul(5, cos(cos(ARG18))), mul(mul(5, cos(cos(ARG16))), ARG18))	0.01127354479549411	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(sin(5), ARG18))	0.002875313951911678	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18, 4]	add(mul(5, cos(cos(cos(cos(ARG4))))), mul(neg(neg(5)), ARG18))	0.04958447474267249	
+[0, 18]	add(mul(5, cos(cos(cos(mul(sin(ARG0), cos(ARG18)))))), mul(5, ARG18))	0.049567284103661374	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(sin(sin(5)), ARG18))	0.0029440288189692596	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, cos(ARG18)))	0.003422348617758296	
+[]	sub(5, 5)	0.003421806493304708	
+[18, 3]	add(mul(neg(sin(5)), cos(cos(ARG3))), mul(5, ARG18))	0.0492095696870452	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[16, 18, 11]	add(mul(5, cos(cos(ARG16))), mul(neg(ARG11), ARG18))	0.00029345749571564134	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(mul(5, cos(sin(5))), ARG18))	0.007908445494878853	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[]	add(mul(5, cos(sin(5))), mul(5, 5))	0.0034076137938032812	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(ARG18)), ARG18))	0.00022255646627666932	
+[8, 18]	add(mul(ARG8, cos(cos(ARG18))), mul(5, ARG18))	0.020164733493377034	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(cos(mul(5, cos(cos(ARG18)))))), mul(5, ARG18))	0.04956154100434577	
+[18]	add(mul(mul(5, 5), cos(cos(ARG18))), mul(5, ARG18))	0.038092192170415616	
+[18, 3]	add(mul(5, cos(cos(cos(cos(cos(ARG3)))))), mul(neg(neg(5)), ARG18))	0.0495470904065846	
+[18]	add(mul(5, cos(sin(5))), ARG18)	0.004266588373894449	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, mul(5, ARG18)))	0.000861231802166176	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[17, 10, 18, 5]	add(mul(sub(cos(ARG17), add(ARG10, ARG5)), cos(neg(sin(5)))), mul(5, ARG18))	0.019588156572082075	
+[18]	add(mul(5, cos(cos(add(mul(5, ARG18), 5)))), mul(5, ARG18))	0.049459671304813504	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), 5)	0.0034208827583110256	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 13]	add(mul(5, cos(neg(sin(ARG13)))), mul(5, ARG18))	0.049548179557787446	
+[]	add(mul(5, cos(neg(sin(5)))), 5)	0.003420941137461466	
+[18]	add(mul(mul(5, ARG18), cos(cos(add(5, 5)))), mul(5, ARG18))	0.00511935014078499	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18, 3, 15]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), cos(cos(mul(sin(5), cos(cos(protectedDiv(5, ARG15)))))))	0.003421698329146072	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18, 11, 12]	add(mul(mul(5, cos(cos(ARG18))), neg(sin(5))), mul(ARG11, ARG12))	0.00028681495499137925	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(add(5, 5)))), mul(5, ARG18))	0.04957813131161472	
+[8, 18]	add(mul(neg(ARG8), cos(neg(neg(sin(5))))), mul(5, ARG18))	0.025128826012946113	
+[18, 14]	add(mul(5, ARG14), mul(5, ARG18))	0.003358383585113668	
+[18]	add(mul(mul(5, neg(ARG18)), cos(cos(ARG18))), mul(5, ARG18))	0.004346316137293936	
+[18]	add(mul(5, cos(cos(neg(5)))), mul(5, ARG18))	0.04940762422811357	
+[18]	add(mul(5, cos(cos(add(cos(cos(ARG18)), 5)))), mul(5, ARG18))	0.04955386442361612	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(ARG18))), mul(neg(neg(5)), neg(5)))	0.0034116804219778865	
+[18, 3]	add(mul(mul(5, cos(cos(ARG18))), cos(cos(ARG3))), mul(neg(ARG18), ARG18))	0.00022276066352111342	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[16, 18]	add(mul(mul(5, neg(sin(cos(cos(ARG16))))), cos(cos(ARG18))), mul(5, ARG18))	0.047431594566516654	
+[18]	add(mul(5, cos(sin(mul(5, cos(sin(5)))))), mul(5, ARG18))	0.04940270533705784	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, ARG18))	0.0495710932295298	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(sin(5), ARG18))	0.0028753202283187517	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, cos(cos(ARG18))))	0.0034210857372931184	
+[18]	add(mul(5, ARG18), mul(5, ARG18))	0.0034330196661359986	
+[18]	add(mul(mul(5, cos(cos(5))), neg(sin(5))), mul(5, ARG18))	0.049446138352943154	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(5, ARG18))	0.04957625172921271	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(sin(5), ARG18))	0.0028753480348783092	
+[18]	add(mul(5, cos(mul(sin(5), cos(cos(ARG18))))), mul(5, ARG18))	0.049507202422493096	
+[18]	add(mul(5, cos(cos(sin(5)))), mul(5, ARG18))	0.04951000004329266	
+[18, 3]	add(mul(ARG18, cos(cos(ARG3))), mul(5, ARG18))	0.019927010155962262	
+[10]	add(mul(5, cos(cos(mul(ARG10, ARG10)))), mul(5, 5))	0.003406613205345631	
+[16, 18]	add(mul(cos(ARG18), cos(cos(ARG16))), mul(5, ARG18))	0.0489696631157602	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(5)), mul(5, ARG18))	0.04931125824067336	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(sin(sin(5))))), mul(5, ARG18))	0.049580965760960265	
+[16, 18]	add(mul(mul(5, ARG18), cos(cos(ARG16))), mul(5, ARG18))	0.004453625945725582	
+[]	add(mul(5, cos(neg(sin(sin(5))))), 5)	0.0034207892269488174	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[13, 15]	add(add(mul(ARG13, ARG15), mul(5, 5)), mul(5, 5))	0.0002908912805584406	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(ARG18, ARG18))	0.00022255368843787808	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(mul(5, cos(neg(sin(5)))), cos(cos(ARG18))), mul(5, ARG18))	0.04953658342080411	
+[18]	add(mul(mul(5, ARG18), cos(sin(5))), mul(5, ARG18))	0.005941901875175003	
+[]	add(mul(5, cos(sin(5))), 5)	0.003420941137461466	
+[18]	add(mul(mul(5, ARG18), cos(cos(ARG18))), mul(5, ARG18))	0.004366600810361797	
+[]	add(mul(5, cos(sin(5))), 5)	0.003420941137461466	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(mul(5, neg(sin(5)))))), mul(5, ARG18))	0.04941210622837713	
+[18]	add(mul(ARG18, cos(cos(ARG18))), mul(5, ARG18))	0.019992241231109906	
+[16, 18]	add(mul(5, mul(5, cos(cos(ARG16)))), mul(5, ARG18))	0.03866227899044353	
+[18]	add(cos(sin(5)), mul(5, ARG18))	0.04915302405704863	
+[18]	add(mul(5, cos(neg(sin(5)))), cos(ARG18))	0.0034219498205623903	
+[18, 3]	add(mul(mul(5, cos(mul(5, ARG18))), cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.04865888543347432	
+[18]	add(mul(5, cos(cos(ARG18))), mul(mul(5, cos(cos(ARG18))), ARG18))	0.01170268370757903	
+[18]	add(mul(5, cos(cos(5))), mul(5, ARG18))	0.04940762422811357	
+[]	add(mul(5, cos(5)), 5)	0.003421288527576837	
+[18]	add(mul(5, cos(sin(mul(5, ARG18)))), mul(5, ARG18))	0.049512067129494464	
+[18]	add(mul(5, cos(cos(ARG18))), mul(cos(neg(sin(5))), ARG18))	0.0038607414177005313	
+[18]	add(mul(5, 5), mul(5, ARG18))	0.03326229837964816	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, ARG18))	0.0495710932295298	
+[18, 3]	add(mul(5, cos(cos(mul(5, ARG3)))), mul(5, ARG18))	0.04947690386359508	
+[18]	add(sin(5), mul(5, ARG18))	0.048521953458679164	
+[18, 3]	add(mul(5, cos(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))))), mul(5, ARG18))	0.04695663412320153	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(5)), mul(5, ARG18))	0.04931125824067336	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(cos(ARG18), ARG18))	0.003433658976408416	
+[18, 5]	add(mul(5, cos(ARG18)), mul(5, sin(ARG5)))	0.0034229974381766214	
+[]	add(mul(5, cos(sin(5))), mul(5, neg(sin(5))))	0.003420995365504643	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, sin(5)))	0.0034216030421151964	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(ARG18, cos(sin(5))), mul(5, ARG18))	0.025534110349138273	
+[]	add(mul(5, cos(sin(5))), mul(5, 5))	0.0034076137938032812	
+[16]	add(mul(5, cos(neg(mul(5, ARG16)))), 5)	0.0034229234721971733	
+[18]	add(mul(mul(5, ARG18), cos(neg(sin(5)))), mul(5, ARG18))	0.005941901875175003	
+[18]	add(mul(ARG18, cos(cos(ARG18))), mul(5, ARG18))	0.019992241231109906	
+[16]	add(mul(5, cos(cos(ARG16))), mul(5, mul(5, neg(sin(5)))))	0.00340740709191732	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, 5))	0.0034064302232323144	
+[18, 15]	add(mul(mul(ARG18, neg(sin(5))), cos(ARG15)), mul(5, ARG18))	0.022321334949713705	
+[16, 18]	add(mul(ARG18, cos(cos(ARG16))), mul(5, ARG18))	0.02031132101602616	
+[3]	add(mul(5, cos(cos(ARG3))), mul(5, 5))	0.003406661875148012	
+[18]	add(mul(5, cos(cos(ARG18))), cos(cos(ARG18)))	0.0034214319884609845	
+[18]	add(mul(5, mul(5, ARG18)), mul(5, ARG18))	0.0006890686404105234	
+[18]	add(mul(5, cos(cos(ARG18))), mul(mul(5, cos(cos(ARG18))), ARG18))	0.01170268370757903	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.0495710932295298	
+[]	add(mul(5, cos(sin(5))), mul(5, mul(5, cos(neg(sin(5))))))	0.003416677621086619	
+[9, 2, 18]	add(sub(mul(5, ARG9), mul(ARG2, 5)), mul(5, ARG18))	0.002470283073133988	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(sin(5))), ARG18))	0.0028752488538803748	
+[18]	add(mul(mul(5, neg(sin(5))), cos(5)), mul(5, ARG18))	0.049370392273272286	
+[18]	add(mul(5, cos(neg(sin(cos(ARG18))))), mul(5, ARG18))	0.04954549884505584	
+[11, 12]	add(mul(5, cos(sin(5))), mul(add(ARG12, 5), sub(ARG11, 5)))	0.0002858200737338079	
+[18]	add(mul(5, cos(mul(5, ARG18))), mul(neg(neg(5)), ARG18))	0.04834232238419234	
+[18]	add(5, mul(5, ARG18))	0.04936366244246146	
+[18]	add(mul(mul(5, cos(neg(sin(5)))), cos(sin(5))), mul(5, ARG18))	0.04943144990519896	
+[18, 3]	add(mul(mul(sin(5), cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.04869590314147202	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[]	5	0.003421545617600307	
+[18]	add(ARG18, mul(5, ARG18))	0.01619831510150951	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(5, ARG18))	0.0495710932295298	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[16, 18]	add(mul(5, cos(cos(ARG16))), mul(5, ARG18))	0.04967230361255246	
+[18]	add(mul(sin(5), cos(cos(ARG18))), mul(5, ARG18))	0.048618050274516496	
+[18, 3]	add(mul(5, cos(mul(5, cos(cos(ARG3))))), mul(5, ARG18))	0.047338943146478345	
+[18]	add(sin(sin(5)), mul(5, ARG18))	0.04859048674555855	
+[16, 18]	add(mul(5, cos(mul(5, cos(cos(ARG16))))), mul(5, ARG18))	0.047514709816907606	
+[16, 18]	add(mul(cos(cos(cos(ARG18))), cos(cos(ARG16))), mul(5, ARG18))	0.049152955055661425	
+[18]	add(mul(5, cos(5)), mul(neg(neg(5)), ARG18))	0.04938351003872977	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), cos(cos(ARG18)))	0.0034215231929089628	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), mul(neg(neg(5)), ARG18)), mul(5, ARG18))	0.0008759917440873612	
+[8, 18]	add(mul(mul(neg(mul(5, ARG8)), cos(cos(ARG18))), mul(5, ARG18)), mul(neg(neg(5)), ARG18))	1.5584524766777977e-05	
+[3]	add(mul(5, cos(sin(5))), cos(cos(ARG3)))	0.0034217355205286236	
+[1, 18]	add(mul(5, ARG1), mul(mul(5, cos(cos(ARG18))), ARG18))	0.0033127529658021912	
+[18]	add(neg(cos(5)), mul(5, ARG18))	0.04883227230216376	
+[14]	add(mul(5, cos(cos(ARG14))), mul(5, 5))	0.003406635472014548	
+[18]	add(mul(5, cos(cos(mul(5, cos(neg(sin(ARG18))))))), mul(5, ARG18))	0.04945924267337013	
+[18]	add(mul(cos(sin(5)), cos(cos(ARG18))), mul(5, ARG18))	0.049114446692483084	
+[18]	add(mul(5, mul(5, neg(sin(5)))), mul(5, ARG18))	0.03412975067250382	
+[18, 19, 13]	add(mul(5, cos(cos(cos(cos(ARG18))))), protectedDiv(ARG13, ARG19))	0.003415941759402975	
+[18]	add(neg(5), mul(5, ARG18))	0.0457910720939764	
+[18]	add(mul(5, cos(ARG18)), mul(5, ARG18))	0.04848150019640434	
+[18]	add(mul(5, cos(cos(cos(ARG18)))), mul(5, ARG18))	0.049507629411914555	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.04953835582974574	
+[18]	add(mul(mul(5, neg(sin(5))), cos(cos(ARG18))), mul(5, ARG18))	0.049573946722328614	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(cos(cos(cos(cos(ARG18)))), cos(neg(sin(sin(5))))), mul(5, ARG18))	0.04913674228795675	
+[18, 6, 15]	add(protectedDiv(ARG6, ARG15), mul(neg(neg(5)), ARG18))	0.00036747907749055584	
+[18]	add(mul(5, cos(cos(add(5, 5)))), mul(5, ARG18))	0.04957625172921271	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(mul(5, cos(cos(ARG18))))), mul(neg(neg(5)), ARG18))	0.047416263257291626	
+[18]	add(cos(cos(5)), mul(5, ARG18))	0.049269062613366645	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(cos(5)))), mul(neg(neg(5)), ARG18))	0.04957252722087635	
+[18]	add(cos(cos(mul(5, ARG18))), mul(5, ARG18))	0.049209581234759193	
+[18]	add(mul(5, mul(5, cos(cos(ARG18)))), mul(5, ARG18))	0.038092192170415616	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(ARG18, ARG18))	0.00022258978071155737	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(neg(5)), 5))	0.003406587324251433	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18, 6]	add(mul(5, cos(cos(neg(protectedDiv(ARG6, 5))))), mul(5, ARG18))	0.049561967746646673	
+[18, 3]	add(mul(mul(5, 5), cos(cos(ARG3))), mul(neg(neg(5)), ARG18))	0.0380934519659062	
+[18]	add(mul(5, cos(cos(mul(cos(cos(ARG18)), cos(cos(ARG18)))))), mul(5, ARG18))	0.04959533319616832	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(sin(5))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(5, ARG18))	0.0495727000667671	
+[18, 3]	add(mul(mul(5, cos(cos(ARG3))), cos(cos(ARG18))), mul(5, ARG18))	0.049587277731426106	
+[18]	add(mul(5, cos(cos(ARG18))), mul(5, ARG18))	0.049560641205639515	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, ARG18))	0.04954645565188801	
+[18]	add(mul(5, cos(cos(cos(cos(ARG18))))), mul(neg(mul(mul(5, neg(sin(5))), cos(cos(ARG18)))), ARG18))	0.0019696615772811944	
+[18]	add(neg(5), mul(5, ARG18))	0.0457910720939764	
+[18]	add(mul(5, cos(sin(neg(5)))), mul(5, ARG18))	0.0495727000667671	
+[18]	add(mul(5, cos(neg(sin(5)))), mul(sin(5), ARG18))	0.0028753457267638705	
+[18]	add(mul(5, cos(5)), mul(5, ARG18))	0.04938351003872977	
+[18, 3]	add(mul(cos(ARG3), cos(neg(sin(5)))), mul(5, ARG18))	0.04893728007094999	
+[18, 3]	add(mul(5, cos(cos(ARG3))), mul(5, cos(cos(ARG18))))	0.0034209397425889443	
+[9, 18]	add(mul(protectedDiv(ARG18, ARG9), ARG18), mul(5, ARG18))	0.0003796830725792225	
+[18]	add(mul(5, cos(add(5, 5))), mul(5, ARG18))	0.046433739308865705	
+[8, 18, 19]	add(mul(add(sub(5, ARG8), sub(ARG19, 5)), cos(cos(cos(ARG18)))), mul(5, ARG18))	0.013345034447966156	

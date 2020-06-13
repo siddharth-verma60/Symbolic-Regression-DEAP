@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[19]	sin(sub(ARG19, add(sin(add(mul(5, 5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6995647406441995	
+[3, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG3), 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.6260549421056664	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(sin(ARG19)), add(5, 5)), 5))))))))	0.5711212836449876	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[11, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(cos(neg(ARG11)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6333903973142379	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), 5))))))))	0.6953853877912782	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5599626557893069	
+[11, 19, 5]	sin(sub(ARG19, add(sin(add(add(ARG11, ARG5), 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5797939119017913	
+[2, 19]	sin(sub(ARG19, add(sin(protectedDiv(5, ARG2)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6621893528579161	
+[9, 19]	sin(sub(mul(ARG9, 5), sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.4533638443998334	
+[19]	sin(ARG19)	0.5854051545851906	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), sin(add(sin(ARG19), 5))))))))	0.744793087230247	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), 5)), 5))))))))	0.7545367158202457	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5801079621459161	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), add(5, 5))))))	0.546429834098088	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5985255954307874	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[18, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG18)), 5))))))))	0.7801563046544596	
+[2, 19, 6]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), mul(mul(ARG6, ARG2), neg(5)))))	0.44922055013127477	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.8120474466547147	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[]	sin(cos(5))	0.4916117330150081	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))))))))	0.7882990728860828	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[18]	sin(ARG18)	0.44413559511317247	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7076226838841838	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), add(5, 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4542640652190485	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8134977609100086	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(5), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8062458031064716	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))	0.6635845672940557	
+[4]	sin(neg(ARG4))	0.45187134238984245	
+[19, 12, 7]	sin(sub(ARG19, mul(ARG7, ARG12)))	0.4521374605611623	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), ARG19))))))))	0.7037523414408912	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[11, 19]	sin(sub(ARG19, add(sin(cos(cos(ARG11))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5307051841095617	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))))))))	0.7882990728860828	
+[16, 19, 15]	sin(sub(ARG19, add(sin(add(protectedDiv(ARG16, ARG15), add(5, 5))), sin(sin(ARG19)))))	0.5393775239485766	
+[11, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(neg(ARG11))))))))	0.6453418726770751	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, cos(protectedDiv(5, 5))))), sin(sin(add(sin(ARG19), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))	0.5550813567128532	
+[19]	sin(sin(add(sin(ARG19), 5)))	0.4727722799799698	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8135209288668501	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), 5))))))))	0.8012263611997471	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(5, 5))))))))	0.6051508850607863	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), add(5, 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4542640652190485	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8134977609100086	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(sin(ARG19), add(cos(5), 5)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7566959344214123	
+[19]	sin(sub(ARG19, add(sin(5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166006373881636	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), add(5, 5))))))	0.546429834098088	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5801079621459161	
+[19]	sin(sub(ARG19, add(sin(add(sin(5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.6042088502895587	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5190991597302986	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), add(5, 5))))	0.4101845005461792	
+[16, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG16))))	0.5671456372751873	
+[19, 7]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG7))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5856743684517459	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))))))))	0.7882990728860828	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), add(5, 5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5012652269956982	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(ARG19)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(5, sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.7919014687703801	
+[1, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(neg(ARG1))))))	0.5736167930854433	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 4]	sin(sub(ARG19, mul(ARG4, 5)))	0.45283038361570904	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), add(5, 5)), sin(add(sin(ARG19), 5))))))))	0.5025484361427418	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), 5)), add(5, 5))), sin(5))))	0.7043826783513223	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(5))))	0.5850673626908139	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7187537136906924	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[17, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(mul(5, ARG17), 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.5724338165802155	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[8, 19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(protectedDiv(cos(ARG8), cos(ARG13)), 5))), sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))	0.5949573993323083	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.8120474466547147	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), 5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5757968447800291	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(ARG19))))))))	0.6960707627242921	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5599626557893069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(add(sin(ARG19), add(5, 5)))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166177113959007	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(sub(ARG19, add(sin(add(sin(ARG19), neg(sub(ARG19, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.582643128557005	
+[19]	sin(ARG19)	0.5854051545851906	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(cos(sin(5))), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8075897560181543	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5757968447800292	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6287518836944258	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))	0.6103664104499742	
+[19]	sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))	0.5410585081417866	
+[19]	sin(sub(5, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4718880325702346	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), 5)), sin(add(sin(ARG19), 5))))))))	0.6428450159918812	
+[19, 12]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(mul(ARG12, 5))))))	0.5817054351085379	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))))	0.6771062730989375	
+[]	sin(5)	0.41974320096326795	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), 5)), 5))))))))	0.7545367158202457	
+[19]	sin(sub(ARG19, add(sin(add(cos(5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(ARG19), 5), 5))))))))	0.7129581245724808	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(sin(ARG19)))))))))	0.6966720454754984	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5833239087228694	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4141287263378226	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), add(5, 5))), 5))))))))	0.793160146677524	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, add(sin(5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166006373881636	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(ARG19), add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6167331061845736	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))	0.7188954692960368	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6660413670940524	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[17, 12]	sin(sub(ARG17, ARG12))	0.4450945420958062	
+[19]	sin(sub(ARG19, add(sin(add(add(5, 5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4905727989209887	
+[17, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(protectedDiv(cos(5), neg(ARG17))), sin(add(sin(ARG19), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))))	0.6407592081808281	
+[]	sin(5)	0.41974320096326795	
+[]	sin(5)	0.41974320096326795	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))))	0.7792051326505134	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[19, 17, 2, 10]	sin(sub(sub(protectedDiv(ARG17, ARG2), cos(ARG10)), add(sin(add(sin(ARG19), add(5, sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.4402332984388183	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7076226838841838	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4141287263378226	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5833239087228694	
+[19, 6]	sin(sub(ARG19, add(sin(add(sin(ARG19), cos(ARG6))), sin(sin(add(sin(ARG19), sin(5)))))))	0.5727773611687584	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(ARG19), 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7377645000123069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(ARG19, 5))))))))	0.6415751382890277	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), 5), sin(add(sin(ARG19), 5))))))))	0.6186554799914236	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(ARG19))))))))	0.6960707627242921	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), 5)))))	0.690029070937338	
+[19, 15]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(neg(5), add(ARG15, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))	0.6909510155722386	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8168892150237855	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), sin(add(sin(ARG19), 5))))))))	0.7626296424035437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 4]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG4)))))))	0.6495379919734698	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.607756713796901	
+[16, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(cos(cos(ARG16)))))))	0.5353019531759051	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4141287263378226	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), cos(neg(5))))), sin(add(sin(ARG19), 5))))))))	0.8164875439358449	
+[16, 8, 19, 7]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(add(mul(sub(ARG16, ARG7), neg(ARG8)), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6300201931257179	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(5), 5))))))))	0.7919883513854834	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(ARG19))))))	0.7197794248890437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), sin(add(sin(ARG19), 5))), sin(add(sin(sin(ARG19)), 5))))))))	0.7375159751783636	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5801079621459161	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), add(5, 5))))))	0.546429834098088	
+[19, 6]	sin(sin(add(sin(ARG19), add(5, sin(ARG6)))))	0.4787530045368377	
+[19]	sin(sub(ARG19, add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4155034549473745	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7217340481793287	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(sin(ARG19), 5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7377645000123069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(5)))))))	0.7591640874948717	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), add(5, 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4542640652190485	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8134977609100086	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(ARG19))))))	0.7197794248890437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), 5))))))))	0.7893443413473855	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), sin(add(sin(ARG19), 5))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6573842354216357	
+[12, 13]	sin(cos(mul(ARG13, ARG12)))	0.45973438419553975	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19, 12]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(add(ARG12, 5))))))))	0.5747164083755161	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[2]	sin(add(cos(ARG2), neg(5)))	0.44304551370017653	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), 5))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6653299685169273	
+[19]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5599626557893069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(add(sin(ARG19), add(5, 5)))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166177113959007	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), add(5, 5)))))))	0.7712969680493	
+[18, 19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(ARG19, sin(5))))), sin(add(sin(ARG19), add(5, neg(cos(ARG18)))))))))	0.6167783398507316	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 14]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), protectedDiv(cos(5), add(5, ARG14))))))), 5)))))))	0.814542701613388	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, sin(add(sin(ARG19), 5))))))))	0.6052350004088382	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))))	0.6771062730989375	
+[]	sin(5)	0.41974320096326795	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[13]	add(5, ARG13)	0.017532990063752366	
+[2, 19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(ARG2)))))	0.5020286313449389	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, sin(add(sin(add(ARG19, sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.6057433175689771	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), add(5, 5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5012652269956982	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(5, 5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5757968447800292	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6287518836944258	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5)))), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5))))))))	0.760784191738526	
+[17]	neg(ARG17)	0.01686861987606036	
+[19]	sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))	0.5433071370621346	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))	0.5433071370621345	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.7652546177980725	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), 5)))))))	0.6946722833329998	
+[19]	sin(sub(ARG19, sin(ARG19)))	0.5490904802736729	
+[19, 14]	sin(sub(ARG19, add(sin(add(add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), protectedDiv(cos(5), add(5, ARG14))))))), 5))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5920253766310988	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(ARG19), 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7377645000123069	
+[19, 5]	sin(sub(ARG19, cos(ARG5)))	0.5393898479996552	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), 5)), 5))))))))	0.7545367158202457	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.7981926164034815	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.735640561806128	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[2, 19]	sin(sub(ARG19, add(sin(add(sub(sin(5), mul(5, ARG2)), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), sin(add(sin(ARG19), 5))))))))	0.611726407127115	
+[19]	sin(sub(ARG19, 5))	0.663667054912667	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6723943635877053	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.5337878966305306	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), add(5, 5)), sin(add(sin(ARG19), 5))))))))	0.5025484361427418	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(sin(ARG19)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6414925335264701	
+[19, 13, 6]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(mul(ARG13, ARG6)))))	0.5677424673150192	
+[19]	sin(sub(ARG19, add(sin(add(5, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5390630663379565	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(ARG19)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19, 5]	sin(sub(ARG19, add(sin(add(sin(ARG19), ARG5)), sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))	0.5814807338607613	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.8120474466547147	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[8]	sin(ARG8)	0.44891200295386424	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(ARG19), 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7377645000123069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(5)))))))	0.7591640874948717	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6456876692880769	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5))))))))	0.5417584593031759	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(sin(add(sin(ARG19), 5)))))))))	0.6079662284638158	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.5268214881118015	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5833239087228694	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(5)))))	0.6088462587205219	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))	0.7406707043962538	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 4]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG4), 5))))))))	0.7820963003311021	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))	0.7387945217486555	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[3, 19]	sin(sub(ARG19, add(sin(add(sub(ARG19, add(sin(cos(neg(ARG3))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6216236418894269	
+[1, 19, 7]	sin(sub(ARG19, add(sin(sub(ARG19, add(mul(ARG1, ARG7), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.578268700953459	
+[19]	sin(add(sin(ARG19), add(5, 5)))	0.40371681461426495	
+[19]	sin(sub(ARG19, add(add(5, 5), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.4107327842332018	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(add(sin(ARG19), add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6610650214645171	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(5, 5))))))))	0.8115011407411102	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(ARG19)))))))))	0.6828099026081295	
+[19]	sin(sub(ARG19, sin(add(sin(ARG19), add(5, 5)))))	0.6582416773961356	
+[10, 19, 7]	sin(sub(ARG19, add(add(mul(ARG10, ARG7), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4490314190312292	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.607756713796901	
+[16, 1]	sin(sub(mul(ARG1, 5), sin(ARG16)))	0.453135497328214	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(ARG19))))))	0.7197794248890437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(ARG19), sin(add(sin(ARG19), 5))), 5))))))))	0.7851548881580394	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))))))))	0.7882990728860828	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), cos(5))), sin(ARG19))))	0.4536847883827494	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(sin(add(sin(ARG19), 5)), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5284900780348739	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), 5))))))))	0.6033781397273277	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(ARG19), 5))))))))	0.7613826953132713	
+[19]	sin(sub(5, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.468667536752584	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(sin(ARG19))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.7808379044063172	
+[]	sin(add(5, 5))	0.4685033951828986	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8135209288668501	
+[19]	sin(sub(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6486203033881641	
+[19]	sin(ARG19)	0.5854051545851906	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(ARG19, 5))))))))	0.6415751382890277	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7220913364720953	
+[18]	sin(ARG18)	0.44413559511317247	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(add(sin(ARG19), 5))))))))	0.712595021775092	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(add(sin(ARG19), 5))))))))	0.6326824671864631	
+[19, 12, 5, 7]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(sub(mul(ARG12, 5), add(ARG5, ARG7))), 5))))))))	0.5514745390293263	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(add(sin(ARG19), add(5, 5)))))))))))	0.7997329641177077	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5860668431728709	
+[19]	sin(sub(ARG19, sin(ARG19)))	0.5490904802736729	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(5, add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5)))))))	0.7652634577068765	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(5, 5), sin(add(sin(ARG19), 5))))))))	0.5786426402780369	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4988565689939381	
+[16, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(ARG19, sub(ARG16, 5)))))))))	0.6483693286617962	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(5))))	0.5850673626908139	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7187537136906924	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 7]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), ARG7)))	0.4479028919027251	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(5, 5)))))))	0.5648070154900262	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5601621592041481	
+[19]	sin(sin(add(sin(ARG19), 5)))	0.4727722799799698	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))	0.6403882141232281	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[]	5	0.16391442151435434	
+[16, 19]	sin(sub(add(5, 5), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(sin(ARG16))), sin(add(sin(ARG19), 5))))))))	0.42554717204183895	
+[19]	sin(ARG19)	0.5854051545851906	
+[19]	sin(sub(ARG19, add(sin(add(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.711386792318405	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[1, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), sin(sub(5, ARG1)))), 5))))))))	0.7899179337883161	
+[19, 12]	sin(sub(ARG19, add(sin(5), sin(sin(add(ARG12, sin(add(sin(ARG19), 5))))))))	0.6239431916843937	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(ARG19), add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6167331061845736	
+[11, 0, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sub(mul(ARG11, 5), add(ARG0, 5)), sin(add(sin(ARG19), 5))))))))	0.5858205485619268	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8168892150237855	
+[11, 19]	sin(sub(ARG19, add(ARG11, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4455442579926786	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(5, 5)))))))))	0.7340567130035207	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6287518836944258	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6235689196644448	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), neg(5)))))))	0.42238120519702044	
+[19]	sin(sin(add(sin(ARG19), add(5, 5))))	0.4155034549473745	
+[19, 4]	sin(sub(ARG19, add(sin(neg(ARG4)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5730463192061728	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5))))))))	0.5417584593031759	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.6495003910192199	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(ARG19), 5))))))))	0.7613826953132713	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))))))))	0.7882990728860828	
+[16, 19]	sin(sub(ARG19, add(sin(add(ARG16, add(5, 5))), sin(ARG19))))	0.5071598920649482	
+[19]	sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))	0.5410585081417866	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.7667941738505212	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.607756713796901	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(ARG19, 5)))))))	0.590495202969742	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 12, 14]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(add(sub(sub(ARG14, 5), sin(ARG12)), 5))))))))))	0.6749740443368641	
+[1, 19, 15]	sin(sub(ARG19, add(sin(add(sin(sub(ARG15, ARG1)), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6567439047379654	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(ARG19), add(5, 5)), 5))))))))	0.5716061291443381	
+[19, 6]	sin(sub(neg(mul(5, ARG6)), add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.45318885226135774	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[10, 19, 12, 6]	sin(sub(ARG19, add(sin(add(sin(ARG19), mul(add(ARG10, ARG12), protectedDiv(ARG6, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5781093927458375	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5)))))))))))))))	0.6773011331758723	
+[0, 2]	sin(sub(ARG0, ARG2))	0.4471813771086643	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, sin(add(sin(ARG19), 5))))))))	0.6052350004088382	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6660413670940524	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[8, 9, 18, 19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), 5)), add(5, 5))), sub(add(ARG18, 5), mul(ARG9, ARG8)))))	0.4493903396957259	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5527117908775684	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, 5))))))	0.6564609010589295	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8168892150237855	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(add(5, 5), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4230328383399875	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5398976050962342	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(add(sin(ARG19), 5))))))))	0.712595021775092	
+[]	sin(sin(5))	0.4368824850501842	
+[19, 12]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sub(neg(ARG12), sin(5))), sin(add(sin(ARG19), 5))))))))	0.6546206700821713	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), 5))))))))	0.6953853877912782	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.8179188054645369	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), 5)))))))	0.760002067166569	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4988565689939381	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(5, 5), sin(add(sin(ARG19), 5))))))))	0.5786426402780369	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8063228167535716	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), add(5, 5))))	0.4101845005461792	
+[19, 15]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))), sin(sin(add(sin(ARG15), sin(add(sin(ARG19), 5))))))))	0.5810148782095578	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(5), 5))))))))	0.7919883513854834	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[9, 19]	sin(sub(ARG19, ARG9))	0.44637663747755835	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6286160264526555	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), 5)), sin(ARG19))))	0.591149049634517	
+[19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), sub(protectedDiv(5, 5), add(5, ARG13)))), sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(sin(ARG19)), 5))))))))	0.6138318670586952	
+[3, 19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), protectedDiv(sin(5), sub(ARG3, ARG13)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381251212592463	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 6]	sin(sub(ARG19, add(sin(ARG6), sin(sin(add(sin(ARG19), ARG19))))))	0.5021102327080988	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), 5))), sin(add(sin(ARG19), 5))))))))	0.6439406937540056	
+[]	sin(neg(neg(5)))	0.41974320096326795	
+[19]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5599626557893069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.607756713796901	
+[19]	sin(sub(ARG19, add(5, 5)))	0.42807619363137417	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5734384856512192	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(ARG19))))))))	0.6960707627242921	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), 5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5757968447800291	
+[3, 9, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, mul(ARG9, ARG3)))), sin(sin(sin(add(sin(ARG19), add(5, 5))))))))	0.5671447622426583	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4931819378686846	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(add(sin(sin(ARG19)), 5))))))))	0.6938184810272483	
+[17, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, cos(ARG17)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6270826698593417	
+[19, 14]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), protectedDiv(cos(5), add(5, ARG14))))))), 5)))))))	0.814542701613388	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7217340481793287	
+[10, 19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, neg(add(ARG10, ARG19)))))), sin(sin(add(sin(ARG19), sin(add(ARG19, 5))))))))	0.5266565586252376	
+[19, 12]	sin(sub(ARG19, add(sin(add(sin(cos(sub(ARG12, 5))), add(5, 5))), sin(sin(add(sin(sin(sin(ARG19))), sin(add(sin(ARG19), 5))))))))	0.6460141475224255	
+[19]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5599626557893069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166177113959007	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4141287263378226	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5833239087228694	
+[18, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG18), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.62456315329071	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[1, 19]	sin(sub(ARG19, add(sin(ARG19), sub(5, ARG1))))	0.4601153759089062	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6890430414489961	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(ARG19))))))	0.7197794248890437	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(add(sin(ARG19), sin(add(sin(ARG19), 5))), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.808083566399598	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), add(5, 5))))))))	0.5768125861029275	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4931819378686846	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, sin(add(sin(ARG19), 5))))))))	0.6052350004088382	
+[2, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG2)))))))	0.6477317729902127	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, sin(add(sin(ARG19), 5))))))))	0.6052350004088382	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(ARG19)))))))))	0.6828099026081295	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(ARG19), 5))))))))	0.7613826953132713	
+[19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG13))))	0.5711339779996936	
+[19]	sin(sub(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5100666381865983	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6456876692880769	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5))))))))	0.5417584593031759	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(5, 5)))))))	0.5648070154900262	
+[19, 5]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG5), 5))))))))	0.5764068849897251	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(sin(ARG19))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6513582224961749	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(5, 5))))))))	0.8115011407411102	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(5, 5))))))))	0.8115011407411102	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19, 15]	sin(sub(cos(sin(ARG15)), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4217187455145476	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5562730040249314	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), 5))))))))	0.7607265671612308	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(5, 5)))	0.42807619363137417	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5983758271158375	
+[19]	sin(sin(add(sin(ARG19), 5)))	0.4727722799799698	
+[8, 16, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(mul(ARG8, ARG16), cos(5))))))))))))	0.5949579735411341	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.8120474466547147	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))	0.8128175783596947	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(5)))))	0.6088462587205219	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(sin(ARG19), sin(add(sin(ARG19), 5))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7108807528016451	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6660413670940524	
+[0, 3, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(mul(ARG0, ARG3)), sin(add(sin(ARG19), 5))))))))	0.6590031042647018	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7220913364720953	
+[19]	sin(sub(ARG19, 5))	0.663667054912667	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 12]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sub(ARG12, 5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5829220317318076	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(cos(5), 5))))))))	0.7821204037856232	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8168892150237855	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5100666381865983	
+[19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6660413670940524	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[17, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG17, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5781168293378958	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[9, 10, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sub(ARG10, ARG9)))))))	0.5845781758062092	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), 5)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7652713610674126	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(5, 5)))))))	0.5648070154900262	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.5927881580707111	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[3, 17, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sub(sin(ARG17), sin(ARG3)))))	0.5366389102785055	
+[1, 19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG1), sin(add(sin(ARG19), 5))))))))	0.6742527387793851	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5))))))))	0.5417584593031759	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(add(sin(ARG19), 5))))))))	0.6074190689759469	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.4473261721782276	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), 5))))))))	0.6033781397273277	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8135697556035282	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.6095110246154464	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), add(sin(ARG19), add(5, 5)))))	0.3973464400721913	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[2, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(sub(5, ARG19), protectedDiv(ARG2, 5)))))))), sin(add(sin(ARG19), 5))))))))	0.6381299874318521	
+[19]	sin(sub(ARG19, sin(ARG19)))	0.5490904802736729	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(add(sin(ARG19), add(5, 5)))))))	0.7603299846691427	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))))	0.5832492803166724	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.743473938125815	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), add(5, 5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5012652269956982	
+[8, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG8), 5))), sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.6454074822020333	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(cos(5)), 5)))))))	0.7795493473407316	
+[19]	mul(ARG19, 5)	0.003481055755144841	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))	0.6574352049534851	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(ARG19), 5))))))))	0.7613826953132713	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19, 6]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(mul(5, ARG6), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.7796682923583359	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(add(5, 5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.40831193537962246	
+[0, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(add(ARG0, add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5388436109329844	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 12, 14]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), sub(ARG12, ARG14)))))))	0.63006284030056	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[0, 19]	sin(sub(neg(mul(ARG0, 5)), add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.461455279645392	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166177113959007	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6287518836944258	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(5, 5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5757968447800292	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), sin(add(sin(ARG19), 5))))))))	0.7626296424035437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[17, 2, 19, 15]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(mul(neg(ARG2), add(ARG17, ARG15))), 5))))))))	0.779961129668744	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.7652546177980725	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(sin(add(sin(ARG19), 5))))))))	0.694850167562533	
+[19, 7]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(neg(5), neg(ARG7))))))	0.5717070236242155	
+[9, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), ARG9))))))	0.5751185007396594	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))	0.5346713919675949	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, 5)))))))	0.8135209288668501	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(5, 5))))))))	0.8115011407411102	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(5)))))	0.6088462587205219	
+[19]	sin(sub(ARG19, add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6769976640043149	
+[19]	sin(sub(ARG19, sin(add(sin(ARG19), add(5, 5)))))	0.6582416773961356	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(sin(ARG19)), 5)), sin(add(sin(ARG19), 5))))))))	0.632123454302818	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6235689196644448	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, add(sin(add(5, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5390630663379565	
+[]	sin(5)	0.41974320096326795	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.548423683545615	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.4473261721782276	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5833239087228694	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7377645000123069	
+[19, 14]	sin(sub(ARG19, add(sin(add(5, 5)), sin(sin(add(neg(ARG14), sin(add(sin(ARG19), 5))))))))	0.6213208019272004	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[17, 19, 14]	sin(sub(ARG19, add(sin(add(ARG17, ARG14)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5826061448771591	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(cos(5), 5))))))))	0.7821204037856232	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5985255954307874	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, ARG19)))))))	0.590495202969742	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), add(5, 5))))))))))	0.7576440563648533	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), 5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4924239439730913	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5527117908775684	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, 5))))))	0.6564609010589295	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), add(sin(ARG19), 5))))	0.5663919205061109	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))))	0.7754780007530144	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), 5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4924239439730913	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), add(5, 5))))))))))	0.7576440563648533	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), add(5, 5))))))))))	0.7576440563648533	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), 5), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.49268618482249915	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(sin(ARG19), 5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7377645000123069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(5)))))))	0.7591640874948717	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.607756713796901	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5507571294060276	
+[19, 15]	sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(cos(ARG15)))))	0.4161458484770016	
+[19]	sin(sub(ARG19, sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.44948003075568566	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(ARG19)))))))))	0.6828099026081295	
+[7]	ARG7	0.016900030115853542	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(5, 5))))))))	0.8115011407411102	
+[19]	sin(sub(sub(ARG19, add(sin(add(sin(ARG19), add(neg(5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5385242407323281	
+[9]	sin(ARG9)	0.44812913989685366	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(ARG19)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(5, 5))))))))	0.8115011407411102	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[18, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(cos(ARG18))))))	0.5861528027408077	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), 5)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7652713610674126	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(ARG19), add(5, 5)), 5))))))))	0.5716061291443381	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[8, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG8)))))))	0.6536617880866443	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(sin(ARG19)), add(5, 5)))))))	0.8106012728757711	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, sin(add(sin(ARG19), 5))))))), 5))))))))	0.7935359199407579	
+[19]	sin(sub(5, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4718880325702346	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.5565710828570155	
+[1, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), ARG1))))))	0.5870765444725251	
+[8, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(mul(cos(5), neg(ARG8))), sin(add(sin(ARG19), 5))))))))))	0.7589187097986609	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(ARG19))))))	0.7197794248890437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), sin(add(sin(ARG19), 5))), sin(add(sin(ARG19), 5))))))))	0.7484266455436714	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), sin(add(sin(ARG19), 5))))))))	0.7598406976436253	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), ARG19)))	0.5423758602433499	
+[9, 19]	sin(sub(ARG19, add(ARG9, sin(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(add(sin(ARG19), 5))))))))	0.44893046655016083	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(ARG19))))))))	0.6960707627242921	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), 5), sin(add(sin(ARG19), 5))))))))	0.6186554799914236	
+[11, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), ARG11))))))))	0.6529760396143335	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.8179188054645369	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 7]	sin(sub(ARG19, add(sin(add(ARG7, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.578719004808213	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5190991597302986	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), add(5, 5))))	0.4101845005461792	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), 5))))))))	0.6033781397273277	
+[17, 19, 15]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(protectedDiv(ARG15, ARG17)), sin(add(sin(ARG19), 5))))))))	0.5736898209621552	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), 5)))))))	0.7842605614962243	
+[19, 14]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(add(sin(ARG19), protectedDiv(sin(ARG19), add(5, ARG14)))))))))	0.6776209425534822	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(5, 5)), 5))))))))	0.7574392227067708	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5398976050962342	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 6]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(ARG6)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6264093331526296	
+[19]	sin(sub(ARG19, add(sin(add(add(sin(ARG19), add(5, 5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5012652269956982	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5381810763436019	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(ARG19), add(5, 5)), 5))))))))	0.5716061291443381	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(ARG19))))	0.7123868984540404	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.743473938125815	
+[19]	sin(sub(ARG19, add(sin(5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166006373881636	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(sin(ARG19), add(5, 5))))))))))	0.6874793739402236	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, add(sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5956941561339939	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(add(sin(ARG19), sin(add(sin(ARG19), 5))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5771006734998078	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(ARG19), 5)))	0.5645568445977022	
+[8, 1, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(mul(protectedDiv(ARG1, 5), sub(ARG19, ARG8)))))))))	0.6527562204613759	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(5)))))))	0.7591640874948717	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(sin(ARG19), 5)))))))))	0.779353958039311	
+[8]	mul(ARG8, 5)	0.0033610214295037764	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))	0.8080391283185876	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(ARG19, 5)))))))	0.590495202969742	
+[19, 15]	sin(sub(ARG19, add(sin(add(sin(5), add(5, ARG15))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5783799739814633	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(ARG19))))))))	0.6960707627242921	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), 5)), 5))))))))	0.7841279370791209	
+[18, 19]	sin(sub(ARG19, add(sin(neg(neg(ARG18))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5858358487040086	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), ARG19)))	0.5423758602433499	
+[]	sin(neg(5))	0.41970279437294294	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[3, 8, 19, 15]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(neg(ARG15), mul(ARG3, ARG8))))))))))	0.6525048064995593	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), 5))))))))	0.6953853877912782	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), 5)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7652713610674126	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))))	0.7387945217486555	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(5, 5), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5757968447800292	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6287518836944258	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(add(sin(ARG19), 5))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6653299685169273	
+[17, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG17, 5))), sin(sin(add(sin(ARG19), ARG19))))))	0.5043995031309559	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(add(sin(ARG19), 5))))))))	0.6074190689759469	
+[2, 19]	sin(sub(ARG19, add(ARG19, sin(ARG2))))	0.45927448474277377	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(5)))))	0.6088462587205219	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))))	0.7406707043962538	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5))))))))	0.5495422535968868	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(5), 5))))))))	0.7919883513854834	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6660413670940524	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.5268214881118015	
+[18, 19, 7]	sin(sub(ARG19, add(sin(add(mul(add(ARG18, ARG7), sin(5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5888940895020213	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[8, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(neg(ARG8), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.575642307168381	
+[17, 19, 14]	sin(sub(ARG19, add(sub(sub(sub(ARG14, ARG17), neg(5)), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4530723376144028	
+[19]	sin(sin(add(sin(ARG19), add(5, 5))))	0.4155034549473745	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[11, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), sin(add(ARG11, 5)))), sin(add(sin(ARG19), 5))))))))	0.7547564546786998	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), sin(add(sin(ARG19), 5))), sin(add(sin(ARG19), 5))))))))	0.7484266455436714	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(ARG19))))))	0.7197794248890437	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), add(5, 5))))))	0.546429834098088	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5801079621459161	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[16, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(add(sin(ARG19), cos(add(ARG16, 5)))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6339510428359607	
+[19]	sin(sub(ARG19, add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6769976640043149	
+[19]	sin(sub(ARG19, sin(add(sin(ARG19), add(5, 5)))))	0.6582416773961356	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), 5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6445661782204938	
+[17, 19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), cos(protectedDiv(ARG13, ARG17)))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.4577907313478348	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), add(5, 5))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5695907674027526	
+[19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(ARG19, 5))), sin(sin(sin(ARG13))))))	0.49053696167442346	
+[19]	sin(sub(ARG19, add(sin(add(sin(5), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5985255954307874	
+[19]	sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))	0.5346713919675949	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))))	0.6281154634534267	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), 5))))))))	0.7607265671612308	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(protectedDiv(sin(5), sin(5))), sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))	0.6632430420933852	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 5]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG5), sin(add(sin(ARG19), 5))))))))	0.6587204119686326	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(ARG19)	0.5854051545851906	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), sin(add(sin(sin(ARG19)), 5))))))))	0.7410920255758053	
+[8, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), ARG8)), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.5849715802697019	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))))))	0.6291577717741164	
+[19]	sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))	0.5346713919675949	
+[16, 1]	sin(add(protectedDiv(ARG1, 5), cos(ARG16)))	0.4443228477021252	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(5, 5)))))))))	0.7340567130035207	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), 5))))))))	0.7893443413473855	
+[0, 10, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(protectedDiv(protectedDiv(ARG0, 5), cos(ARG10))))))	0.5621938313740481	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(ARG19)))))))))	0.6828099026081295	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(5, sin(add(sin(ARG19), 5))))))))	0.6052350004088382	
+[19, 14]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG14))), sin(sin(add(sin(add(sin(ARG19), 5)), sin(add(sin(ARG19), 5))))))))	0.619191216739549	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 15]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sub(5, ARG15))))))))	0.653657322470411	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 14]	sin(sub(ARG19, add(mul(ARG14, 5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.44477724448386363	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(ARG19, 5))))))))	0.6415751382890277	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(cos(5)), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), 5)), sin(add(sin(ARG19), 5))))))))	0.604892822152427	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(ARG19)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6453404348309763	
+[19, 7]	sin(sub(ARG19, add(sin(ARG7), sin(sin(add(5, sin(add(sin(ARG19), 5))))))))	0.5988529671286408	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(add(sin(ARG19), add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6610650214645171	
+[2, 19]	sin(sub(ARG19, add(add(sub(add(5, ARG2), sin(5)), 5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4482319980293277	
+[8, 1, 19]	sin(sub(ARG19, add(sin(add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), add(5, 5))), mul(mul(5, ARG1), sin(ARG8)))))	0.45151353312765785	
+[]	sin(5)	0.41974320096326795	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))))	0.6281154634534267	
+[19, 11, 12]	sin(add(protectedDiv(protectedDiv(ARG12, 5), protectedDiv(5, ARG11)), sin(add(sin(ARG19), 5))))	0.4474804728243172	
+[0, 6]	sin(mul(sin(ARG0), cos(ARG6)))	0.4758139978294872	
+[19]	sin(sub(ARG19, add(sin(add(5, 5)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6871645460920064	
+[19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(sub(ARG13, 5)), 5))))))))	0.6002075775871182	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(ARG19, 5))))))))	0.6415751382890277	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[9, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), ARG9)))	0.4501233697622253	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5)))))))))	0.8179188054645369	
+[2, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(mul(5, ARG2), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.576362376661781	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5190991597302986	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), add(5, 5))))	0.4101845005461792	
+[19, 13]	sin(sub(ARG19, add(sin(sin(ARG19)), sin(sin(add(sin(ARG19), sin(ARG13)))))))	0.4915605377943665	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(ARG19), add(5, 5)), 5))))))))	0.5716061291443381	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8168892150237855	
+[19]	sin(sub(ARG19, add(sin(5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166006373881636	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, add(sin(ARG19), add(5, 5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6167331061845736	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(ARG19)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8156829167539044	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(ARG19, 5))))))))	0.6415751382890277	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 7]	sin(sub(ARG19, add(sin(add(sin(ARG19), cos(sin(ARG7)))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5104795099964188	
+[19]	sin(sin(ARG19))	0.5836633952614371	
+[19]	sin(sub(ARG19, add(sin(add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.595769972522501	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(sin(ARG19)), sin(add(sin(ARG19), 5))))))))	0.815481979942581	
+[19, 13]	sin(sub(ARG19, add(sin(add(sin(ARG13), add(5, 5))), sin(ARG19))))	0.5646412943545136	
+[9, 19]	sin(sub(ARG19, add(sin(ARG9), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5768291782357214	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), add(5, 5)))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8168892150237855	
+[19]	sin(sub(ARG19, add(sin(add(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.711386792318405	
+[19]	sin(ARG19)	0.5854051545851906	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(5, 5)), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6827787435243369	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5398976050962342	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5100666381865983	
+[8, 10, 19]	sin(sub(ARG19, add(sin(add(ARG19, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(ARG10, ARG8), 5))))))))	0.5379092605820606	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.5557922588777724	
+[13]	mul(cos(ARG13), sin(5))	0.4550046423743381	
+[0, 19]	sin(sub(ARG0, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4463542289598961	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(5), 5))))))))	0.7919883513854834	
+[19]	sin(sub(ARG19, add(add(sin(ARG19), 5), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.49327929398475134	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), add(5, 5))))))))))	0.7576440563648533	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))))))	0.6580559916222306	
+[19]	sin(add(sin(ARG19), 5))	0.4648779463453927	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), ARG19)), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5398976050962342	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(add(5, 5)), 5))))))))	0.7574392227067708	
+[19]	sin(sub(ARG19, add(sin(5), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6166006373881636	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(add(sin(ARG19), add(5, 5)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6167331061845736	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 6]	sin(sub(ARG19, add(ARG6, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.45271198248870353	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(5), sin(add(sin(ARG19), 5))))))))	0.607756713796901	
+[11, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, ARG19))), sin(sin(add(sin(ARG19), sin(add(sin(sin(neg(neg(ARG11)))), 5))))))))	0.5650698338669076	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), ARG19)))	0.5423758602433499	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), add(neg(sin(5)), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6011618142075039	
+[19]	sin(sub(ARG19, sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))	0.672142295653651	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))	0.6574352049534851	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(protectedDiv(5, 5))))))	0.5143546080658034	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[0, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(5, ARG0)), sin(add(sin(ARG19), 5))))))))	0.6599388843591407	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, ARG19))	0.5011407299650765	
+[1, 19]	sin(sub(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG1))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4196212138377067	
+[2, 19, 5]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), protectedDiv(ARG5, ARG2))))	0.4943910928484235	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[16, 2]	sin(add(neg(ARG2), sub(ARG16, 5)))	0.4457463057918895	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.548423683545615	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5))))))))	0.8145155645376757	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(5), 5))))))))	0.7919883513854834	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19, 6]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), neg(add(5, ARG6))))))))))	0.6498903099937263	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[17]	protectedDiv(sub(5, 5), protectedDiv(5, ARG17))	0.5011407299650765	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19]	sin(sub(ARG19, add(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.4187056497470876	
+[19, 5]	sin(sin(sin(add(sin(ARG19), add(ARG5, 5)))))	0.468467927839509	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(sin(add(sin(ARG19), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6456876692880769	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), add(5, 5))))))))	0.5417584593031759	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19, 5]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(5, ARG5)))))	0.5712541903806201	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), add(sin(ARG19), sin(add(sin(ARG19), 5)))))))))	0.7652546177980725	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(sin(add(sin(ARG19), 5)))))))	0.6946722833329998	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7217340481793287	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(ARG19)))))	0.7176441336407611	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4141287263378226	
+[19, 6]	sin(sub(sin(add(sin(ARG19), add(5, 5))), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(5), protectedDiv(5, ARG6))), sin(add(sin(ARG19), 5))))))))	0.4469698756850522	
+[19]	sin(sub(ARG19, add(sin(add(sin(sin(5)), add(5, 5))), 5)))	0.7339653322474678	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, sin(sin(5))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7661704779658214	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(sin(ARG19)), 5))))))))	0.8159286340808732	
+[19]	sin(sub(ARG19, add(sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5))))))))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5010625611876087	
+[19]	sin(add(sin(ARG19), add(5, 5)))	0.40371681461426495	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))))))	0.7948537088657129	
+[19]	sin(sub(ARG19, 5))	0.663667054912667	
+[19]	sin(sub(ARG19, add(sin(add(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.6235689196644448	
+[1, 17]	sin(add(add(ARG1, ARG17), sub(5, 5)))	0.4459250891424962	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), 5))))))))	0.6033781397273277	
+[19]	sin(sub(ARG19, add(sin(ARG19), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5206425494333932	
+[19, 5, 15]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(sub(protectedDiv(5, ARG15), sub(ARG5, 5)))))))))	0.6518642264350674	
+[19, 6]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(cos(ARG6))))))))	0.6608947411114742	
+[19]	sin(sub(ARG19, add(sin(add(5, add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5390630663379565	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(ARG19, sin(add(sin(ARG19), 5))))))))	0.6247926569630324	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(add(sin(ARG19), add(5, 5)))))))))))	0.7997329641177077	
+[19]	sin(sub(ARG19, add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.5599626557893069	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5)))))), 5))))))))	0.7634045741559721	
+[19]	sin(sub(ARG19, sin(ARG19)))	0.5490904802736729	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), 5))))))	0.6935593739811735	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))	0.7766119565504914	
+[16, 19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(neg(ARG16), sin(sin(ARG19))))))))	0.5801947576631442	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(add(sin(ARG19), 5), sin(add(sin(ARG19), 5))))))))	0.6186554799914236	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(add(sin(ARG19), sin(sin(add(sin(ARG19), 5))))))))	0.8145155645376757	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(cos(5)), sin(add(sin(ARG19), 5))))))))	0.737526357011811	
+[19]	sin(sub(ARG19, add(ARG19, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.4141287263378226	
+[19, 15]	sin(sub(ARG19, add(sin(add(ARG15, add(5, 5))), 5)))	0.5827707755690513	
+[19]	sin(sub(ARG19, sin(add(sin(add(sin(ARG19), sin(add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), sin(5))))), sin(add(sin(ARG19), add(5, sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))))))	0.7350838654901949	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.8169755572937022	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(ARG19), sin(ARG19)))))))	0.6956142327166395	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), sin(sin(add(sin(add(sin(ARG19), 5)), sin(sin(add(sin(ARG19), 5)))))))))	0.6439406937540056	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(5, 5))), 5)))	0.5347209841845356	
+[19]	sin(sub(ARG19, add(sin(add(sin(ARG19), add(sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))), 5))), sin(sin(add(sin(ARG19), sin(add(sin(ARG19), 5))))))))	0.7076226838841838	

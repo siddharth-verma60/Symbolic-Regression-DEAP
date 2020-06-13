@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), add(ARG12, sub(sub(ARG8, ARG5), add(ARG7, ARG10))))))	3.0968308678884554e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5))))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5))))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[1, 5, 6, 7, 10, 11, 12, 14, 18, 19]	mul(sub(cos(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094989909532148e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)), 5)))	3.2828641994299235e-11	
+[18]	mul(mul(protectedDiv(5, 5), 5), ARG18)	3.0442360360678366e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[5]	mul(mul(5, 5), cos(ARG5))	3.044235189539694e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(ARG18, 5))))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5))))	8.209572497091731e-10	
+[12]	sin(ARG12)	3.044235266715894e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[3]	sin(ARG3)	3.0442352648251945e-08	
+[18]	mul(5, mul(5, mul(mul(ARG18, 5), 5)))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(mul(ARG18, 5), 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG18))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[10, 18]	mul(neg(mul(5, ARG10)), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.141978109008536e-08	
+[1, 5, 10, 11, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG18, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0904265358864724e-08	
+[18, 12]	mul(mul(5, 5), mul(mul(ARG12, 5), mul(ARG18, 5)))	3.046408908288933e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, mul(5, 5))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.079668859744416e-08	
+[18, 19]	mul(ARG19, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9710773997614105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(5, sin(5)), 5), mul(ARG18, 5)))	3.043730925969821e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(add(ARG19, 5), 5))))	6.030224783992177e-09	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(5, cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.085094246542572e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 11]	mul(mul(5, 5), mul(mul(ARG18, 5), cos(mul(5, ARG11))))	3.0442362590334125e-08	
+[18]	mul(5, mul(mul(mul(5, 5), 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[2, 18, 10]	mul(ARG18, mul(mul(mul(ARG18, 5), 5), sin(sub(ARG10, ARG2))))	3.044164689108817e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 6]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG6))	3.044216326744596e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, 5), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.102078417594499e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), 5), ARG1), add(ARG19, ARG10)))))	3.0967543393425634e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 18, 19]	mul(mul(5, ARG1), mul(mul(ARG18, 5), mul(ARG19, 5)))	2.2839900256935304e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(5, add(mul(ARG18, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	2.6647670371696817e-08	
+[8, 18, 19]	mul(sub(ARG8, ARG19), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9643006164722608e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, 5), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(mul(5, 5), add(ARG7, ARG10))))))	3.093609393204554e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	1.84507672619551e-12	
+[18]	mul(mul(5, 5), mul(ARG18, mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, sub(ARG18, 5)), 5), mul(ARG18, 5)))	4.0595352104696055e-09	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[8]	mul(5, ARG8)	3.0442369001529335e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1039467921590466e-08	
+[10, 18]	mul(mul(cos(ARG10), 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.039579516650425e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 11]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG11))	3.0445259506979215e-08	
+[1, 2, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(mul(mul(ARG18, 5), 5))), sin(add(ARG12, ARG2))), ARG1), add(ARG19, ARG10)))))	3.07632046282612e-08	
+[1, 5, 6, 7, 8, 10, 11, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, 5), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), 5), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.0891801180925763e-08	
+[1, 18, 12]	mul(mul(5, 5), mul(mul(ARG18, add(ARG12, ARG1)), mul(ARG18, 5)))	1.7245402362275676e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), mul(ARG18, 5))), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	2.5885051742750836e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG19))	3.0455884280646177e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), 5)))	1.84507672619551e-12	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[2, 18, 4, 7]	mul(protectedDiv(protectedDiv(5, ARG7), protectedDiv(ARG4, ARG2)), mul(mul(mul(ARG18, 5), 5), ARG18))	3.02474556865411e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[1, 5, 10, 11, 12, 15, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, ARG18), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG15, ARG10)))))	1.2631041494388057e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(5, 5)))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, mul(5, 5))))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), ARG18)))	4.080418867286855e-09	
+[18]	mul(5, mul(mul(mul(5, 5), 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.09781676791852e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[19]	mul(mul(5, 5), mul(ARG19, 5))	3.0442456712923884e-08	
+[18]	mul(mul(5, mul(mul(ARG18, 5), 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(mul(5, 5), 5), cos(mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))), ARG5), ARG1), add(ARG19, ARG10)))))	3.083867719263067e-08	
+[18, 19]	mul(ARG19, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9710773997614105e-08	
+[0, 9, 18, 11]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, sub(protectedDiv(ARG9, 5), mul(ARG0, ARG11))), 5)))	1.0032635984868281e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0948151201646065e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(mul(ARG18, 5), mul(ARG18, 5)))	9.226197966459068e-12	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 2, 5, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, add(ARG7, ARG19))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(neg(ARG2), sin(5)), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0926390858471585e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 8, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, sub(5, 5)), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), 5)))))	3.0988586539633766e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5))))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(ARG18, 5))))	4.080418867286855e-09	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(mul(5, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	3.0798365520496845e-08	
+[18, 2, 19]	mul(ARG19, mul(mul(ARG2, 5), mul(ARG18, 5)))	3.0013312693464364e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[0, 1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(add(ARG12, sub(sub(mul(add(ARG6, 5), sub(ARG0, ARG10)), sub(5, 5)), add(ARG7, ARG10))), 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	3.0986925874453797e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, mul(ARG18, 5)), add(ARG7, ARG10))))))	2.8374944937671418e-08	
+[18, 19]	mul(mul(5, 5), mul(ARG19, mul(ARG18, 5)))	3.0455884280646177e-08	
+[18]	mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[8, 18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG8, 5)))	3.044739502687779e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG18, ARG19), add(ARG7, ARG10))))))	3.0937836546142535e-08	
+[18]	mul(mul(5, 5), protectedDiv(ARG18, 5))	3.0442360360678366e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9388524134950933e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[18, 12]	mul(mul(5, 5), mul(sin(sin(ARG12)), mul(mul(ARG18, 5), 5)))	3.04420024590076e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), add(5, sub(sub(ARG8, ARG5), add(ARG7, ARG10))))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.740253869260902e-08	
+[18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG19, ARG19)))	2.982796009579939e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG19, 5), mul(mul(ARG18, 5), 5)))	2.9352600084639257e-08	
+[1, 5, 6, 7, 8, 11, 12, 14, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG18)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, sub(add(ARG5, 5), sub(5, ARG14))))))))	3.05405137585518e-08	
+[2, 14]	sub(sin(ARG14), sub(ARG2, 5))	3.0442356425121465e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), ARG18)))	4.080418867286855e-09	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(5, ARG10)))))	3.102448497579129e-08	
+[18, 14]	mul(5, mul(mul(ARG18, 5), mul(ARG18, ARG14)))	2.9744324422396642e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 14]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, cos(neg(ARG14)))))	3.043941364399013e-08	
+[1, 18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, neg(ARG1)), 5)))	2.2041674575277238e-08	
+[18, 10, 19, 12]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(ARG18, add(ARG19, ARG10)))))	3.054434520045134e-08	
+[1, 5, 11, 18, 19]	mul(mul(5, 5), mul(mul(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), 5), mul(mul(ARG18, 5), 5)))	2.671889208048712e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(mul(5, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	9.226197966459068e-12	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), add(5, sub(sub(ARG8, ARG5), add(ARG7, ARG10))))))	3.0989570094487085e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 10, 11, 12, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(cos(5), 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0454206736610737e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1036207914490457e-08	
+[1, 5, 10, 11, 12, 14, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(neg(ARG14), 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.030608528368122e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 18, 12]	mul(mul(5, 5), mul(mul(add(ARG12, ARG1), 5), mul(ARG18, 5)))	3.036228087691952e-08	
+[1, 5, 6, 7, 8, 10, 11, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, 5), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG18), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.086416801803522e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.103420363296145e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), 5), 5), mul(mul(ARG18, 5), 5)))	2.916204734165127e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG18))	3.068196449446659e-08	
+[18, 6]	mul(mul(5, 5), mul(mul(ARG18, add(cos(5), mul(ARG6, 5))), mul(5, 5)))	2.8962858382177812e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18, 6]	mul(mul(5, 5), mul(5, mul(ARG18, neg(ARG6))))	3.043724155280715e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[16, 18, 15]	mul(mul(5, 5), mul(sub(cos(5), add(ARG16, ARG15)), mul(mul(ARG18, 5), 5)))	3.0157418163115984e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[1, 5, 6, 7, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, add(ARG7, ARG19))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG6, 5), cos(ARG19)), ARG5), ARG1), add(ARG19, ARG10)))))	3.087482454235171e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG11, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.077087153257032e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5)))))	9.226197966459068e-12	
+[1, 5, 10, 11, 12, 14, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG14, ARG10)))))	3.10337137042421e-08	
+[16, 18, 6]	mul(mul(5, 5), mul(neg(protectedDiv(ARG6, ARG16)), mul(ARG18, 5)))	3.015336606317745e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, mul(mul(ARG18, 5), 5)), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	1.7693857988933568e-08	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18, 14]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(mul(ARG18, ARG14), 5)))	2.7622192494652725e-12	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[5]	ARG5	3.044235181906743e-08	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	1.0161078978634234e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, ARG18), mul(ARG18, 5)))	1.7217505006705794e-08	
+[1, 5, 6, 7, 10, 11, 12, 15, 17, 18, 19]	mul(sub(cos(mul(ARG6, 5)), protectedDiv(protectedDiv(ARG15, 5), neg(ARG17))), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(sub(sub(mul(ARG19, cos(ARG11)), ARG5), add(ARG7, ARG10)), ARG10))))))	3.043943872191384e-08	
+[1, 6, 7, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, ARG7))))	3.06454125872967e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 4]	mul(mul(5, 5), mul(sub(5, ARG4), mul(ARG18, 5)))	3.044814848376335e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(sin(ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.0439195046795663e-08	
+[18]	mul(5, ARG18)	3.0442360360678366e-08	
+[9, 18]	mul(mul(5, 5), mul(mul(mul(mul(mul(ARG18, 5), 5), mul(ARG9, 5)), 5), mul(mul(ARG18, 5), 5)))	9.434413802939792e-12	
+[1, 5, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(cos(sub(5, 5)))), ARG5), ARG1), add(ARG19, ARG10)))))	3.084898532674692e-08	
+[1, 5, 6, 8, 11, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, sub(5, 5)), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG11), sub(sub(ARG8, cos(neg(5))), 5)))))	3.0748443819509555e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[1, 18]	mul(5, mul(mul(ARG18, neg(cos(ARG1))), mul(mul(ARG18, 5), mul(ARG18, 5))))	2.015565769037066e-08	
+[18, 10, 19, 12]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, 5)))	3.051685383600508e-08	
+[19, 1, 18, 10]	mul(mul(5, 5), mul(mul(ARG18, sub(add(ARG10, ARG1), add(ARG19, ARG10))), mul(ARG18, 5)))	1.7451652624599638e-08	
+[1, 10, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(mul(ARG18, 5), ARG1), add(ARG19, ARG10)))))	2.8740653651309138e-08	
+[11, 18, 19, 5]	mul(mul(5, 5), mul(mul(ARG18, 5), sub(mul(add(ARG19, 5), cos(ARG11)), ARG5)))	3.042959256324235e-08	
+[18, 19]	mul(ARG19, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9710773997614105e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, add(ARG19, 5))), add(sub(mul(5, 5), 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.079905633773016e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, ARG18), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9388524134950933e-08	
+[17]	ARG17	3.044235092360724e-08	
+[18]	mul(mul(5, 5), mul(5, mul(mul(ARG18, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(mul(mul(ARG18, 5), 5), 5), mul(mul(cos(5), 5), mul(ARG18, 5)))	3.2040928075952054e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, mul(5, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[1, 5, 7, 8, 11, 12, 14, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(mul(neg(5), cos(5)), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, sub(add(5, 5), sub(5, ARG14))))))))	3.0929322408708765e-08	
+[18, 5]	mul(mul(5, ARG5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	5.772892998855173e-09	
+[1, 7, 10, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(mul(mul(ARG18, 5), mul(ARG18, 5))), ARG19), add(ARG7, ARG10))))))	1.7927633905952235e-10	
+[5, 14]	mul(mul(5, 5), sub(add(ARG5, 5), sub(5, ARG14)))	3.0442297178597685e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18, 3]	mul(ARG3, mul(mul(ARG18, 5), mul(5, 5)))	3.042411536494819e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)), mul(ARG18, 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(5, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.082571782448001e-08	
+[18, 19]	mul(mul(ARG19, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.13124503717394e-08	
+[18, 11, 5, 6]	mul(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9556562490617458e-08	
+[1, 7, 8, 10, 12, 18, 19]	mul(sub(cos(add(ARG7, ARG10)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(mul(5, 5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.079155893405914e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, ARG18), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18, 6]	mul(mul(5, ARG6), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.0859587748920784e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(5, 5), cos(ARG11)), ARG5), add(ARG12, 5)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.094571059415636e-08	
+[9, 18]	mul(mul(5, 5), mul(ARG18, mul(cos(cos(ARG9)), 5)))	3.04425258373297e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(ARG18, 5)))	1.6415888407729052e-10	
+[1, 5, 6, 7, 10, 12, 18, 19]	mul(sub(cos(mul(ARG6, ARG1)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(ARG18, 5), ARG5), add(ARG7, ARG10))))))	2.8842010257823072e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, mul(5, 5))))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[7]	mul(5, neg(ARG7))	3.044235501610239e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(sub(5, ARG5), ARG1), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.6837604152750862e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), sub(cos(mul(ARG18, 5)), add(ARG19, ARG19))))	3.0400395714331066e-08	
+[17, 18]	mul(neg(ARG17), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.988491204828262e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 10, 11, 12, 15, 18, 19]	mul(sub(cos(mul(add(sub(mul(ARG15, cos(ARG11)), ARG5), add(ARG12, ARG1)), 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.097530846515512e-08	
+[1, 5, 7, 8, 12, 14, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(ARG12, ARG1), sub(sub(ARG8, ARG19), add(ARG7, sub(add(ARG5, 5), sub(5, ARG14))))))))	3.09256012548998e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.097784393641033e-08	
+[17, 18]	mul(mul(5, 5), mul(sin(protectedDiv(5, ARG17)), mul(ARG18, 5)))	3.044240866596643e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	2.516799231647454e-08	
+[18, 19, 7]	mul(mul(5, 5), mul(mul(ARG18, 5), sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19))))	3.040148366025186e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18, 6]	mul(neg(ARG6), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9970565603625306e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(ARG18, 5)))	8.209572497091731e-10	
+[16]	mul(mul(5, 5), cos(ARG16))	3.0442353070607355e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, ARG18), 5)))	4.080418867286855e-09	
+[0, 18, 12]	mul(add(ARG12, ARG0), mul(ARG18, mul(ARG18, 5)))	3.048629558258137e-08	
+[1, 5, 7, 8, 10, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(mul(ARG18, 5), mul(ARG18, 5)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	1.8006538392447472e-10	
+[11, 6]	mul(mul(5, 5), mul(add(ARG6, 5), cos(ARG11)))	3.044231734430686e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, ARG18), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	1.3907414664814442e-08	
+[0, 18, 14]	mul(neg(mul(ARG0, ARG18)), mul(mul(sub(5, ARG14), 5), mul(ARG18, 5)))	2.526219256024009e-09	
+[1, 5, 7, 10, 12, 18, 19]	mul(sub(cos(sub(5, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), ARG18)), ARG19), add(ARG7, ARG10))))))	3.08851733465581e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(neg(5), sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), add(ARG19, ARG10)))))	3.070531965093981e-08	
+[1, 5, 6, 7, 11, 12, 18, 19]	mul(sub(sub(sub(5, ARG6), add(ARG7, ARG19)), add(ARG19, 5)), mul(mul(ARG18, 5), add(ARG12, add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1))))	3.0998372986224776e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)), 5), mul(ARG18, 5)))	3.2828641994299235e-11	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, ARG18), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[1, 7, 10, 12, 18, 19]	mul(sub(cos(sub(5, add(ARG19, 5))), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(mul(5, 5), ARG19), add(ARG7, ARG10))))))	3.081240112634367e-08	
+[18, 5, 14]	mul(neg(sub(add(ARG5, 5), sub(5, ARG14))), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	1.6987830820855207e-08	
+[18]	mul(mul(5, 5), mul(5, mul(mul(ARG18, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(5, mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(ARG18, add(ARG12, sub(add(sub(mul(cos(cos(ARG18)), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.057364530898948e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(ARG19, cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.1081831444646196e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), cos(sin(5))))	3.044246297382e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, mul(5, 5)), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1061992903493816e-08	
+[18, 11]	mul(mul(5, neg(ARG11)), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.196690739996852e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, ARG18), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	1.3899584415732928e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(5, 5))))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18, 3]	mul(mul(5, 5), mul(mul(ARG18, sub(neg(5), protectedDiv(ARG18, ARG3))), mul(ARG18, 5)))	2.8335787046683984e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(sub(cos(ARG19), add(ARG19, ARG19)), 5)))	3.004188904072305e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	2.5136647769668457e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, 5), add(add(sub(mul(add(ARG6, add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.0983673236349515e-08	
+[18, 19]	mul(sub(cos(cos(5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), 5))	3.0435592624751727e-08	
+[18, 10, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(ARG18, 5))	3.044105528041683e-08	
+[1, 5, 10, 11, 12, 14, 18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG14, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))))))	3.3217601989223917e-09	
+[1, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(mul(5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.09043323551782e-08	
+[18, 5]	mul(add(ARG5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	2.123004268457617e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), 5), 5), mul(ARG18, 5)))	1.575622640867704e-08	
+[18, 5]	mul(ARG5, mul(mul(ARG18, 5), ARG18))	3.039062958323577e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 10, 11, 13, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(5, add(cos(sub(ARG13, ARG6)), sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.048297473168658e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(5, ARG10)))))	3.102446124108749e-08	
+[18, 19]	mul(ARG19, mul(mul(ARG18, 5), add(mul(5, 5), neg(5))))	3.045357408010372e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, mul(mul(ARG18, 5), mul(neg(sub(5, 5)), 5))), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.0442352662899686e-08	
+[8]	sin(ARG8)	3.044235263682658e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5))), add(ARG7, ARG10))))))	3.584775804332645e-11	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 14, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG18)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(neg(ARG14), 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.06458933437827e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG19, 5)))	3.04603397194236e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, ARG18), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	1.3899584415732928e-08	
+[17, 18]	mul(mul(ARG17, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0363213529655536e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(5, mul(mul(ARG18, mul(ARG18, 5)), mul(mul(ARG18, 5), 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(ARG18, mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), 5)), add(ARG19, ARG19)), mul(sin(add(ARG18, ARG7)), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0442945685510497e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5))))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(5), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094416763625764e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	9.226197966459068e-12	
+[18, 6]	mul(ARG6, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9649905771807882e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1036207914490457e-08	
+[18]	mul(mul(5, mul(mul(ARG18, 5), 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[1, 18]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG1))	3.043203968566768e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, ARG18)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(mul(ARG18, 5), ARG1), add(ARG12, sub(sub(mul(add(ARG6, protectedDiv(ARG10, 5)), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	2.886047736449688e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(ARG18, 5)))	3.068196449446659e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.09781676791852e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1034094504158426e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), 5)))	1.575622640867704e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 12, 15, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), ARG15), ARG5), ARG1), add(ARG19, ARG10)))))	6.537226452030918e-09	
+[18]	mul(mul(5, neg(5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9200790104996702e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.09781676791852e-08	
+[]	mul(mul(5, 5), sin(sin(5)))	3.044234142812113e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, mul(5, 5))))	3.1597070489162676e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, mul(5, 5)), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	2.3909507943780325e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, mul(5, 5))))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 4]	mul(ARG4, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9796177557413418e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 10, 19, 12]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(sub(5, ARG19), add(ARG19, ARG10)))))	3.0427672640147566e-08	
+[18, 19]	mul(mul(5, 5), mul(add(ARG19, 5), mul(ARG18, 5)))	3.0456842692819265e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5)))	1.6415888407729052e-10	
+[1, 10, 12, 13, 19]	mul(mul(5, 5), add(ARG12, sub(add(ARG13, ARG1), add(ARG19, ARG10))))	3.044214087700086e-08	
+[18, 10, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5))))	1.801171778960277e-10	
+[16, 18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, sin(ARG16))))	3.04333796450567e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, neg(cos(5))), mul(ARG18, 5)))	3.03737380210141e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)), 5)))	3.2828641994299235e-11	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, ARG18), 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, mul(5, 5))))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))), 5)))	4.0211386170235295e-10	
+[0, 5, 7, 10, 12, 18, 19]	mul(sub(cos(mul(add(ARG12, sub(sub(mul(add(protectedDiv(5, ARG19), neg(ARG5)), sub(ARG0, ARG10)), ARG5), add(ARG7, ARG10))), 5)), add(ARG19, ARG19)), ARG18)	3.044209497708867e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), 5)))	1.575622640867704e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(ARG18, 5)))	9.226197966459068e-12	
+[7]	mul(mul(5, 5), sub(5, ARG7))	3.044243302922407e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(5, mul(mul(5, 5), mul(ARG18, 5)))	3.044329635394276e-08	
+[1, 5, 6, 10, 11, 12, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG5, ARG10)))))	2.9474634347068425e-08	
+[1, 6, 10, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(ARG18, add(ARG19, ARG10))))))	3.0791658352971856e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG18), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.103439707298716e-08	
+[18, 10]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG10, 5)))	3.023913315393589e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG19))	3.0455884280646177e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, add(ARG7, mul(ARG18, 5)))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.79641319711747e-08	
+[1, 10, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(mul(mul(ARG18, 5), mul(ARG18, 5)), add(ARG19, ARG10)))))	1.8000027555029285e-10	
+[11, 1, 19, 5]	mul(mul(5, 5), add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1))	3.044224888112517e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(ARG6, cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.0969489516158205e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(add(ARG6, 5), 5), cos(ARG11)), ARG5), add(ARG12, 5)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.102869813182295e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(sin(5), 5)))	3.044141264685023e-08	
+[1, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(ARG18, cos(ARG11)), 5), ARG1), add(ARG19, ARG10)))))	3.0784772172017774e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(add(ARG19, 5), 5), mul(ARG18, 5)))	3.04650289190857e-08	
+[9, 18]	mul(mul(5, 5), mul(mul(ARG9, 5), mul(ARG18, 5)))	3.044337030213453e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, 5)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	2.493093575732223e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), sub(mul(mul(5, 5), sin(5)), add(ARG19, ARG19))))	3.039560703961059e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[11, 10, 18]	mul(mul(5, cos(cos(ARG10))), mul(mul(ARG18, cos(ARG11)), mul(ARG18, 5)))	3.0439864468697326e-08	
+[1, 5, 6, 7, 8, 10, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, 5), add(add(sub(mul(add(ARG6, 5), 5), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	2.9847560846660943e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(5, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(cos(ARG10), ARG10))))))	3.095460847528416e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(mul(ARG18, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	2.6766405568575514e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG19, 5), mul(ARG18, 5)))	3.04603397194236e-08	
+[1, 5, 10, 11, 12, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(5, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0650702280253846e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(ARG18, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094290650182269e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), add(5, sub(sub(ARG8, ARG5), add(ARG7, ARG10))))))	3.0989570094487085e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[19, 12]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(5, ARG12))	3.0443475826161333e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	3.0988109584169624e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[0, 18]	mul(ARG0, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.025972567580471e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.096230624824286e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), 5))	3.044329635394276e-08	
+[1, 5, 6, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), ARG5)))	3.052936507248896e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(cos(ARG19), ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10)))), ARG1), add(ARG19, ARG10)))))	3.051086967247957e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(mul(mul(ARG18, 5), mul(ARG18, 5))), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0944069594987575e-08	
+[11, 18, 19, 5]	mul(mul(5, 5), mul(mul(ARG18, sub(mul(add(ARG19, 5), cos(ARG11)), ARG5)), mul(ARG18, 5)))	1.909840396173366e-08	
+[18, 10, 19, 12]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(protectedDiv(5, ARG12), add(ARG19, ARG10)))))	3.0602727415420554e-08	
+[1, 5, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(neg(sin(5)), ARG5), ARG1), add(ARG19, ARG10)))))	3.084210731218671e-08	
+[18, 19, 6]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(mul(add(ARG19, 5), ARG6), 5)))	7.911842573068527e-09	
+[1, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, mul(5, 5)), cos(ARG11)), 5), ARG1), add(ARG19, ARG10)))))	3.0994770608713154e-08	
+[18, 5]	mul(mul(5, ARG5), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.0975215014168366e-08	
+[8]	sub(ARG8, 5)	3.044235318584436e-08	
+[16, 9, 18]	mul(mul(mul(ARG16, ARG9), 5), mul(5, mul(ARG18, 5)))	2.371631313742581e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(sub(5, ARG5), ARG1), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0959188813652e-08	
+[]	5	3.044235540786274e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5)))))	9.226197966459068e-12	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[10, 19, 5]	mul(sub(cos(ARG10), add(ARG19, ARG19)), ARG5)	3.04422431468626e-08	
+[1, 5, 10, 11, 12, 14, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))))), ARG1), add(ARG14, ARG10)))))	5.03989434885531e-10	
+[1, 5, 6, 8, 11, 12, 18, 19]	mul(sub(cos(5), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, sub(5, 5)), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), 5)))))	3.098743605705108e-08	
+[18, 19]	mul(mul(ARG19, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.13124503717394e-08	
+[1, 5, 6, 7, 10, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(mul(5, 5))), ARG5), add(ARG7, ARG10))))))	3.087450061478908e-08	
+[18, 11]	mul(ARG11, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9440770689327097e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)), 5)))	3.2828641994299235e-11	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[6]	sin(cos(ARG6))	3.044235266919412e-08	
+[18, 2]	mul(mul(5, 5), mul(mul(ARG18, 5), sin(sub(ARG2, 5))))	3.044239495629703e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[10]	mul(mul(5, ARG10), 5)	3.044237625905305e-08	
+[1, 5, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, 5)))))	3.099382651159362e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1034094504158426e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, ARG18), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[1]	mul(mul(5, 5), mul(mul(5, 5), protectedDiv(ARG1, 5)))	3.044189122539611e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[16, 18]	mul(mul(sin(ARG16), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5))), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.3002123808817023e-11	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, mul(ARG18, 5)), 5)))	8.209572497091731e-10	
+[1, 4, 5, 7, 10, 12, 18, 19]	mul(sub(cos(sub(sub(neg(sub(add(ARG5, 5), neg(ARG4))), ARG19), 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, 5))), ARG19), add(ARG7, ARG10))))))	3.0915729656391606e-08	
+[18, 14]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG14)))	2.1096101955456157e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 7, 10, 12, 14, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(mul(5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.090606365811581e-08	
+[12, 5, 14]	mul(add(ARG5, 5), neg(add(ARG14, ARG12)))	3.044229721401208e-08	
+[]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(sin(add(5, 5)), 5), 5)))	3.0437686097621126e-08	
+[18, 11]	mul(5, mul(ARG11, mul(ARG18, 5)))	3.0443345114837475e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), ARG18)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(ARG18, 5)))	1.6415888407729052e-10	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, sin(sub(ARG12, 5))), sub(ARG18, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0935520112648314e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[0, 17, 18]	mul(mul(5, 5), mul(mul(ARG18, add(protectedDiv(5, ARG17), sub(ARG0, 5))), mul(mul(ARG18, 5), 5)))	6.039693816722806e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(mul(mul(ARG18, 5), 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	8.209572497091731e-10	
+[18]	mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.6151323673987705e-11	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	4.080418867286855e-09	
+[16, 18]	mul(mul(5, mul(ARG16, 5)), mul(mul(ARG18, 5), mul(5, 5)))	2.954294486037369e-08	
+[1, 5, 6, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(5, ARG10))))))	3.095656903525371e-08	
+[0, 6, 7, 9, 18]	mul(ARG7, mul(mul(sub(protectedDiv(5, ARG9), mul(ARG6, ARG0)), 5), mul(mul(ARG18, 5), 5)))	6.855735220785597e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, 5)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.102078417594499e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094508953454993e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)), ARG1), add(ARG19, ARG10)))))	3.083326658457649e-08	
+[5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(mul(add(ARG19, 5), cos(ARG11)), ARG5))))	3.07960671517119e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	3.0988109584169624e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1034094504158426e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 6, 7, 8, 10, 11, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(mul(ARG18, 5), ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	2.893163430324463e-08	
+[18, 12]	mul(mul(5, 5), mul(ARG12, mul(ARG18, 5)))	3.0456365082376395e-08	
+[18]	mul(mul(ARG18, 5), 5)	3.044239112788391e-08	
+[18, 15]	mul(mul(5, 5), mul(mul(sub(ARG15, 5), 5), mul(ARG18, 5)))	3.037893719172964e-08	
+[18]	mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(5, mul(mul(ARG18, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(5, 5))))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, mul(ARG18, 5)), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	2.1383561617922468e-09	
+[18, 4]	mul(mul(cos(5), sin(ARG4)), mul(mul(ARG18, 5), 5))	3.0442357146625447e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(sub(5, ARG5), ARG1), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0959188813652e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 3]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, ARG3), 5)))	5.965189939413775e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(mul(5, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18, 19, 6]	mul(mul(sub(sin(ARG19), neg(ARG6)), 5), mul(mul(ARG18, 5), mul(5, 5)))	3.038781173946438e-08	
+[]	cos(5)	3.044235281862813e-08	
+[18, 6]	mul(mul(5, 5), mul(mul(ARG18, 5), add(ARG6, 5)))	3.044313697419988e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(mul(ARG18, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.000353312855947e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18, 7]	mul(5, mul(mul(mul(ARG18, 5), 5), sin(add(5, ARG7))))	3.0442190704346154e-08	
+[1, 7, 10, 11, 18, 19]	mul(sub(cos(ARG18), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(mul(ARG18, 5), sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG7), ARG1), add(ARG19, ARG10)))))	2.8973530943529618e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, ARG1)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(5, add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.074285980377511e-08	
+[1, 18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, add(ARG1, ARG1)), 5)))	2.961823090314517e-09	
+[1, 5, 10, 12, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(5, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(5)), ARG5), ARG1), add(ARG19, ARG10)))))	3.058085630767884e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(cos(sub(5, 5))), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094450301433914e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[1, 7]	mul(mul(5, 5), mul(ARG1, ARG7))	3.0445757570035676e-08	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(ARG18, 5)))	1.6415888407729052e-10	
+[16, 17, 18]	mul(sin(add(ARG17, ARG16)), mul(mul(ARG18, mul(5, 5)), mul(mul(ARG18, 5), 5)))	3.034785751631011e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(ARG18, 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 19]	mul(mul(5, ARG19), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.13124503717394e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(5, ARG10)))))	3.102446124108749e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	8.209572497091731e-10	
+[1, 7, 10, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(5, add(ARG7, ARG10))))))	3.0824789906779e-08	
+[18, 11, 5, 6]	mul(mul(5, sub(mul(add(ARG6, 5), cos(ARG11)), ARG5)), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	4.88482253144358e-09	
+[8, 9, 18]	mul(mul(mul(5, protectedDiv(ARG9, ARG8)), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.35214081182189e-08	
+[18, 5]	mul(5, mul(ARG5, mul(ARG18, 5)))	3.043958804948311e-08	
+[1, 5, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(5, 5), ARG5), ARG1), add(ARG19, ARG10)))))	3.080385446899623e-08	
+[11, 18, 19]	mul(mul(add(ARG19, 5), cos(ARG11)), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.993004263432094e-08	
+[18, 5]	mul(mul(mul(ARG18, ARG5), mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.839332602526784e-12	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[8]	mul(mul(5, 5), sin(ARG8))	3.044235201106785e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(5, cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.085094246542572e-08	
+[18, 19]	mul(mul(add(ARG19, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.176019228524211e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.096230624824286e-08	
+[1, 5, 6, 7, 10, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(cos(mul(ARG6, ARG1)), ARG5), add(ARG7, ARG10))))))	3.089213914893532e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(mul(add(ARG6, 5), cos(ARG11)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.090878618543811e-08	
+[1, 5, 6, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG18, ARG10))))))	3.0800439386545605e-08	
+[18, 7]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG7, 5)))	3.047357764024789e-08	
+[18]	mul(mul(5, 5), ARG18)	3.044239112788391e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(mul(ARG18, 5), mul(ARG18, 5)), 5), mul(ARG18, 5)))	1.6415888407729052e-10	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG19))	3.0455884280646177e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(mul(ARG18, 5), ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.8077171552086045e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(add(ARG12, ARG1), ARG10)))))	3.0756856298722265e-08	
+[1, 5, 7, 10, 14, 18, 19]	mul(sub(cos(sub(5, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG19, add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.076262275151377e-08	
+[1, 5, 11, 18, 19]	mul(mul(5, 5), mul(mul(sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), 5), 5), mul(mul(ARG18, 5), 5)))	2.667027602377897e-08	
+[18, 10, 19, 12]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, ARG18)))	3.0476615929617e-08	
+[18, 19]	mul(mul(5, ARG19), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.13124503717394e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(5, ARG10)))))	3.102446124108749e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1034094504158426e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 6]	mul(mul(ARG6, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	5.740375531114175e-09	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), mul(ARG18, 5)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.7798798831304506e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), add(ARG19, ARG19)))	3.046445773037534e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 7, 9, 10, 12, 18, 19]	mul(sub(cos(sub(ARG1, ARG5)), add(ARG19, add(ARG19, mul(5, 5)))), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), add(neg(ARG9), cos(5)))), ARG19), add(ARG7, ARG10))))))	3.0738502622289525e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(ARG19, cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.1026164949805495e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, mul(ARG18, 5)), 5), mul(ARG18, 5)))	8.209572497091731e-10	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))))	3.690088289876776e-13	
+[5, 7, 10, 18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), sub(sub(neg(sub(add(ARG5, 5), sub(5, 5))), ARG19), add(ARG7, ARG10))))	3.0438686709251634e-08	
+[1, 18, 19, 12]	mul(sub(cos(sub(5, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, mul(mul(ARG18, 5), 5)))))	1.3859860274401885e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(ARG18, 5))))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[7]	ARG7	3.044235219197203e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	9.226197966459068e-12	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[7]	mul(mul(5, 5), sin(sin(ARG7)))	3.044235296237347e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(mul(ARG18, 5), 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.988861006370989e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[8, 18]	mul(5, mul(mul(mul(ARG18, protectedDiv(5, ARG8)), 5), mul(ARG18, mul(ARG18, 5))))	5.407383315236018e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(5, 5))))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[6, 7, 12, 18, 19]	mul(sub(sub(sin(ARG6), add(ARG7, ARG19)), add(ARG19, 5)), mul(mul(ARG18, 5), add(ARG12, add(neg(5), add(ARG19, ARG19)))))	2.983384201767196e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	2.894688942462097e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, ARG18), 5)))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, mul(5, 5)), 5)))	1.575622640867704e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(mul(5, 5), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[16, 2, 18]	mul(mul(5, add(sin(ARG16), cos(ARG2))), mul(mul(ARG18, 5), mul(ARG18, mul(ARG18, 5))))	1.7155868399079443e-08	
+[8, 18]	mul(mul(5, add(5, ARG8)), mul(5, mul(ARG18, 5)))	3.045376216403135e-08	
+[11, 18, 19, 5]	mul(mul(5, sub(mul(add(ARG19, 5), cos(ARG11)), ARG5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.909840396173366e-08	
+[1, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(5, ARG1), add(ARG19, ARG10)))))	3.077059882954982e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[1, 5, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(mul(mul(ARG18, 5), mul(ARG18, 5)))), ARG5), ARG1), add(ARG19, ARG10)))))	3.096404330970252e-08	
+[11]	mul(mul(5, 5), ARG11)	3.0442251502370244e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(mul(ARG18, 5), 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(ARG18, mul(ARG18, 5)))	3.068196449446659e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(ARG18, mul(mul(ARG18, 5), add(ARG12, add(ARG12, sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))))))	3.0156102941952235e-08	
+[18, 19, 7]	mul(mul(5, 5), mul(mul(protectedDiv(5, ARG18), 5), mul(sub(sub(5, add(ARG7, ARG19)), add(ARG19, 5)), 5)))	3.044120779051679e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(5, 5), 5), mul(ARG18, 5)))	3.045471660850689e-08	
+[18]	mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5)))	2.9388524134950933e-08	
+[1, 18, 19, 6]	mul(sub(cos(mul(ARG6, ARG1)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), ARG18)))	3.066787965015896e-08	
+[5, 6, 7, 10, 11, 12, 18]	mul(mul(5, 5), mul(mul(add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))), 5), mul(ARG18, 5)))	3.0333448740929605e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[8, 18]	mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, sub(add(ARG8, 5), neg(5))), mul(ARG18, 5)))	3.576726427166985e-10	
+[18, 6]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, sub(mul(5, ARG6), cos(5)))))	2.8962021436804665e-08	
+[18, 5]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG5, 5)))	3.031179410870108e-08	
+[18, 4]	mul(mul(5, 5), mul(mul(ARG18, 5), neg(ARG4)))	3.0447204242317875e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), ARG18)))	4.080418867286855e-09	
+[8, 9, 18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, mul(ARG18, 5)), add(cos(ARG8), mul(5, ARG9)))))	1.3719058178608956e-11	
+[18]	mul(mul(sin(5), 5), mul(mul(ARG18, 5), 5))	3.044216740754331e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[9, 15]	sub(ARG9, ARG15)	3.04423516499776e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(mul(mul(ARG18, 5), 5), 5)))	1.575622640867704e-08	
+[9, 18, 6]	mul(5, mul(ARG18, mul(ARG18, add(protectedDiv(ARG9, 5), sin(ARG6)))))	3.042940022417125e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), neg(5))))	2.417953658733283e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(ARG18, add(add(ARG12, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.068287152623845e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, mul(ARG18, 5)), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0049551690408886e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[17, 19]	add(ARG17, ARG19)	3.044235176168469e-08	
+[1, 5, 7, 10, 14, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(5, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.085781105392622e-08	
+[18, 14]	mul(mul(5, 5), mul(mul(ARG18, ARG14), mul(ARG18, 5)))	2.1096101955456157e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 10]	mul(5, mul(mul(mul(ARG18, ARG10), 5), mul(ARG18, 5)))	2.2186442037383726e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, 5)), ARG7)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.09425524443929e-08	
+[1, 5, 7, 8, 10, 12, 18, 19]	mul(sub(cos(ARG19), neg(5)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(ARG19, ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.044741852017594e-08	
+[1, 5, 7, 8, 10, 11, 12, 14, 18, 19]	mul(sub(cos(sub(5, mul(mul(ARG18, 5), mul(ARG18, 5)))), add(ARG19, mul(mul(cos(5), add(ARG11, ARG8)), cos(ARG11)))), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0856290510635223e-08	
+[1, 5, 6, 7, 8, 10, 17, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), ARG5), ARG5), ARG17), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	8.584865445811448e-09	
+[1, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), cos(ARG11)), add(ARG12, 5)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.095953454360115e-08	
+[18]	mul(mul(mul(ARG18, 5), 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(ARG18, 5)))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(5, 5))))	1.575622640867704e-08	
+[1, 5, 6, 7, 8, 10, 12, 14, 18, 19]	mul(sub(cos(ARG19), cos(ARG14)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), mul(ARG18, 5)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	2.978289613196211e-08	
+[18, 11]	mul(mul(5, 5), mul(cos(ARG11), mul(ARG18, 5)))	3.044205333793929e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, cos(sin(5))), 5)))	3.058043462146679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.103420363296145e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG18)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094290650182269e-08	
+[0, 1]	mul(5, neg(sub(ARG1, ARG0)))	3.044238349102469e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(cos(sub(5, 5))), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, mul(5, 5)), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0960035399979945e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18, 19]	mul(mul(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.3535824725608175e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), 5), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.043869867354047e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5)))))	9.226197966459068e-12	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(5, mul(mul(ARG18, 5), mul(ARG18, 5))))))	1.84507672619551e-12	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5))))	8.209572497091731e-10	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), ARG18)))	4.080418867286855e-09	
+[18, 11]	mul(mul(ARG18, 5), ARG11)	3.044256759057131e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(sin(5), mul(ARG18, 5)))	3.044216740754331e-08	
+[18, 10]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, ARG10), 5)))	6.157912527321203e-09	
+[1, 5, 7, 12, 14, 15, 18, 19]	mul(sub(cos(cos(sub(mul(ARG1, ARG15), 5))), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, mul(5, 5)), sub(5, ARG14))), ARG19), add(ARG7, 5))))))	3.0927062416004446e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(sub(sin(ARG6), add(ARG7, ARG19)), add(ARG19, 5)), mul(mul(ARG18, 5), add(ARG12, add(neg(5), sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))))))	3.099166649522121e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.103420363296145e-08	
+[]	5	3.044235540786274e-08	
+[1, 5, 6, 7, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, ARG18)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, 5))))))	3.094158517895933e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(ARG18, 5))))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[1, 5, 6, 7, 10, 11, 12, 14, 18, 19]	mul(sub(cos(sub(ARG11, 5)), add(ARG19, ARG19)), mul(mul(ARG18, cos(mul(ARG6, 5))), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.045480260308565e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.097784393641033e-08	
+[18]	mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.6151323673987705e-11	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(ARG19, cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.1081831444646196e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 3]	mul(mul(protectedDiv(mul(ARG3, 5), protectedDiv(5, 5)), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	5.965189939413775e-09	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(5, 5), 5), 5)))	3.02715259351039e-08	
+[18, 6]	mul(ARG18, mul(mul(ARG18, 5), mul(mul(ARG18, protectedDiv(ARG6, 5)), 5)))	8.271808572369141e-09	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	3.044227083754644e-08	
+[18, 19, 6]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.853923002227763e-08	
+[1, 5, 10, 11, 12, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(5, add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.04841246628855e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 11, 6]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(add(ARG6, 5), cos(ARG11))))	3.0436564796890916e-08	
+[1, 5, 7, 10, 12, 18, 19]	mul(sub(sub(5, add(ARG7, ARG19)), add(ARG19, 5)), mul(mul(ARG18, 5), add(ARG12, add(ARG12, sub(add(sub(mul(ARG18, 5), ARG5), ARG1), add(ARG19, ARG10))))))	2.834556209617337e-08	
+[18]	mul(mul(5, 5), mul(5, mul(mul(ARG18, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG18), add(ARG19, add(ARG7, ARG19))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG7, ARG10)))))	3.095054753496834e-08	
+[10, 18]	mul(mul(5, 5), mul(mul(ARG10, 5), mul(ARG18, 5)))	3.023913315393589e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0948151201646065e-08	
+[16, 18, 3, 4]	mul(mul(5, mul(protectedDiv(mul(5, ARG3), sub(ARG16, ARG4)), 5)), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	1.8933717304644525e-09	
+[1, 18]	mul(mul(5, 5), mul(mul(ARG18, ARG1), 5))	3.043203968566768e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), neg(sin(5))))	3.0442536544177794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[]	5	3.044235540786274e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), mul(ARG18, mul(5, 5))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	1.1834698907340771e-08	
+[18, 19]	mul(mul(5, 5), mul(mul(ARG18, 5), add(ARG19, ARG19)))	3.046445773037534e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10))))))	3.0988109584169624e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[0, 17, 18]	mul(mul(5, ARG18), mul(sub(sub(5, ARG17), add(ARG0, 5)), mul(ARG18, 5)))	2.909668785651078e-08	
+[1, 5, 10, 11, 12, 14, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG11, ARG10))))))	3.08636549209926e-08	
+[1, 5, 6, 7, 8, 10, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(add(sub(mul(add(ARG6, 5), cos(ARG7)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.0888442723765996e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(5, add(ARG19, ARG19)), mul(ARG18, add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.0638589703019445e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[1, 5, 6, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.1017759899508583e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, mul(5, 5))))	3.420444537987679e-08	
+[9, 19]	mul(sub(add(ARG9, 5), add(ARG19, ARG19)), 5)	3.04423506285971e-08	
+[1, 5, 6, 10, 11, 12, 18, 19]	mul(mul(5, 5), mul(mul(mul(ARG18, mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG19, ARG10)))))), 5), mul(ARG18, 5)))	4.710962587144621e-12	
+[1, 2, 5, 6, 7, 10, 11, 12, 18, 19]	mul(mul(ARG12, ARG2), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(5, ARG19), add(ARG7, ARG10))))))	6.133424760286237e-09	
+[8, 18]	mul(mul(5, 5), mul(mul(ARG18, ARG8), mul(ARG18, 5)))	2.2123252912856195e-08	
+[18, 11]	mul(mul(5, 5), mul(mul(cos(ARG11), 5), mul(mul(ARG18, 5), 5)))	3.043464165360555e-08	
+[1, 5, 10, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), ARG18), ARG5), ARG1), add(ARG19, ARG10)))))	4.395267552481067e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(ARG18, 5)))	9.226197966459068e-12	
+[]	mul(5, 5)	3.044236638771534e-08	
+[]	5	3.044235540786274e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[1, 5, 10, 11, 18, 19]	mul(mul(5, 5), mul(mul(ARG18, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), mul(ARG18, 5)))	1.2343350407328426e-08	
+[18, 10, 19, 12]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, 5)))	3.051685383600508e-08	
+[1, 18, 19]	mul(5, mul(mul(ARG18, sub(cos(ARG1), add(ARG19, ARG19))), mul(mul(ARG18, 5), 5)))	1.3814537462122063e-08	
+[1, 5, 11, 12, 14, 18, 19]	mul(5, mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, cos(ARG14))))))	3.043865306333082e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), sin(5)))	3.044216740754331e-08	
+[0, 18]	mul(mul(5, sin(ARG0)), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.046893585773234e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.080418867286855e-09	
+[18, 10]	mul(mul(5, 5), mul(mul(ARG18, 5), neg(protectedDiv(ARG10, 5))))	3.044803543127223e-08	
+[1, 18, 4, 17]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), protectedDiv(mul(ARG4, ARG18), sub(ARG1, ARG17))))	1.8298186179538532e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(add(ARG19, 5), cos(ARG11))), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.097558148307191e-08	
+[18, 19]	mul(mul(5, ARG19), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	5.972906798560151e-09	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG19), cos(ARG5)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(5, ARG10)))))	3.044150082640728e-08	
+[18, 14]	mul(mul(sub(5, ARG14), 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.1762205471013157e-08	
+[1, 5, 7, 10, 12, 18, 19]	mul(sub(cos(sub(5, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), 5)), ARG19), add(ARG7, ARG10))))))	3.0912438383462965e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), ARG18), mul(ARG18, 5)))	1.7217505006705794e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, add(ARG7, ARG19))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))))	2.9794859014013768e-08	
+[6, 7, 14, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG7, add(ARG14, ARG19))))	2.999562657316997e-08	
+[18, 19, 6]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), mul(5, 5)))	3.040035776328329e-08	
+[1, 5, 7, 10, 11, 12, 18, 19]	mul(add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(ARG19, cos(ARG11)), ARG5), add(ARG7, ARG10)))), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	9.408773538821584e-09	
+[1, 4, 5, 6, 7, 8, 11, 12, 15, 18, 19]	mul(sub(cos(ARG19), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG7), add(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), protectedDiv(ARG15, ARG4))))))	3.0858814626573696e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(5, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.0825927434164876e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.09781676791852e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.103420363296145e-08	
+[18, 11]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, mul(5, add(5, ARG11)))))	3.4413890935049253e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(ARG18, 5)))	3.0446697336582035e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(mul(add(ARG6, ARG18), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.098583044506034e-08	
+[1, 5, 6, 7, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, add(ARG7, ARG19))), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.098920945640386e-08	
+[1, 5, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.094251436562212e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(ARG18, 5)))	9.226197966459068e-12	
+[11]	ARG11	3.044234861758099e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[10, 18]	mul(mul(sub(ARG10, ARG10), 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	3.0442352662899686e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18, 19]	mul(mul(5, add(ARG19, ARG19)), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.3535824725608175e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), 5), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10)))))	3.043869867354047e-08	
+[18]	mul(mul(5, 5), mul(mul(5, 5), mul(mul(ARG18, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18, 6]	mul(mul(5, 5), mul(mul(add(ARG6, 5), 5), mul(ARG18, 5)))	3.039359961548698e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(add(sub(mul(ARG18, cos(ARG11)), ARG5), add(ARG12, ARG1)), sub(sub(ARG8, ARG19), add(ARG7, ARG10))))))	3.091051893951618e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG18)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(mul(mul(ARG18, 5), 5), 5), 5)))	2.916204734165127e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG18))	3.068196449446659e-08	
+[18]	mul(mul(5, 5), mul(5, mul(mul(ARG18, 5), 5)))	3.0446697336582035e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(ARG18, 5)), mul(ARG18, 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(5, 5), 5)))	3.045471660850689e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(5, mul(mul(ARG18, 5), mul(mul(mul(ARG18, 5), 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), ARG18))	3.068196449446659e-08	
+[]	5	3.044235540786274e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 7, 10, 11, 14, 18, 19]	mul(sub(cos(sub(5, add(ARG19, 5))), add(sub(ARG19, 5), ARG19)), mul(mul(ARG11, 5), add(add(ARG18, ARG1), add(ARG1, sub(sub(neg(sub(add(ARG5, 5), sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	2.9769753737404704e-08	
+[18, 12]	mul(mul(5, 5), mul(mul(ARG12, 5), mul(ARG18, 5)))	3.046408908288933e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, mul(5, 5))))	3.045471660850689e-08	
+[18]	mul(mul(5, ARG18), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	4.080418867286855e-09	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), 5))	3.044329635394276e-08	
+[18, 15]	mul(mul(5, ARG15), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.136830691962742e-08	
+[1, 7, 10, 12, 14, 18, 19]	mul(sub(cos(sub(5, ARG7)), add(sub(ARG19, 5), ARG19)), mul(mul(ARG18, 5), add(add(ARG12, ARG1), add(ARG1, sub(sub(neg(sub(ARG18, sub(5, ARG14))), ARG19), add(ARG7, ARG10))))))	3.068530881535871e-08	
+[18, 14]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), 5), mul(add(sub(5, ARG14), 5), 5)))	2.9493817574409696e-08	
+[18, 2]	mul(mul(5, 5), mul(ARG18, cos(neg(ARG2))))	3.0442360930450325e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(mul(ARG18, 5), 5)))	3.420444537987679e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(ARG18, 5)))	9.226197966459068e-12	
+[1, 2]	sub(ARG2, ARG1)	3.0442355340356175e-08	
+[1, 5, 6, 7, 10, 11, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(5, sub(sub(mul(add(ARG6, 5), cos(ARG11)), ARG5), add(ARG7, ARG10))))))	3.090566665915882e-08	
+[18, 12]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, ARG12)))	2.1746744727959055e-08	
+[18]	mul(5, mul(mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), 5), mul(ARG18, 5)))	9.226197966459068e-12	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[18]	mul(mul(ARG18, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	1.7217505006705794e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[18, 11]	mul(cos(ARG11), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.0438532736279255e-08	
+[1, 5, 7, 13, 19]	mul(sub(cos(ARG1), add(ARG19, ARG19)), mul(protectedDiv(5, ARG7), sub(ARG13, ARG5)))	3.04478156132581e-08	
+[18, 2]	mul(ARG18, mul(ARG2, mul(ARG18, 5)))	3.04475950668055e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(5, 5), 5), mul(mul(ARG18, 5), 5)))	3.02715259351039e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18, 19]	mul(add(ARG19, ARG19), mul(mul(ARG18, 5), mul(ARG18, 5)))	2.8038629207184902e-08	
+[1, 5, 7, 8, 10, 11, 12, 18, 19]	mul(sub(5, mul(5, 5)), mul(mul(ARG18, 5), add(add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG19, ARG10))), add(ARG12, sub(sub(ARG8, ARG5), add(ARG7, ARG10))))))	3.036262704352164e-08	
+[18]	mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	4.6151323673987705e-11	
+[]	mul(mul(5, 5), mul(5, 5))	3.0442695783565015e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, mul(mul(ARG18, 5), mul(ARG18, 5))), mul(mul(ARG18, 5), cos(protectedDiv(5, 5)))))	1.7077594467761636e-11	
+[]	mul(mul(5, 5), 5)	3.0442421286987105e-08	
+[1, 5, 6, 7, 10, 12, 18, 19]	mul(sub(cos(mul(ARG6, 5)), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(add(ARG1, ARG1), add(ARG12, sub(sub(ARG19, ARG5), add(ARG7, ARG10))))))	3.0668225600696625e-08	
+[1, 5, 10, 11, 12, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(mul(ARG19, cos(ARG11)), ARG10)))))	3.0821969296809e-08	
+[18]	mul(mul(5, 5), mul(5, mul(ARG18, 5)))	3.044329635394276e-08	
+[8, 18]	mul(mul(5, 5), mul(mul(ARG18, 5), sin(neg(ARG8))))	3.044255528511065e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[0, 3]	mul(ARG3, ARG0)	3.044244211311651e-08	
+[18]	mul(mul(5, 5), mul(ARG18, 5))	3.044254439008024e-08	
+[18]	mul(mul(5, 5), mul(mul(mul(ARG18, 5), mul(ARG18, 5)), mul(mul(ARG18, 5), 5)))	1.6415888407729052e-10	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(5, 5)))	3.0446697336582035e-08	
+[0, 18, 5]	mul(mul(ARG18, 5), mul(mul(sin(sub(ARG0, ARG5)), 5), mul(mul(ARG18, 5), 5)))	3.0359724943128696e-08	
+[18]	mul(5, mul(mul(mul(ARG18, 5), 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[18]	mul(mul(5, 5), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.1597070489162676e-08	
+[1, 5, 10, 11, 12, 14, 18, 19]	mul(sub(cos(ARG10), add(ARG19, ARG19)), mul(mul(ARG18, 5), add(ARG12, sub(add(sub(mul(add(ARG19, 5), cos(ARG11)), ARG5), ARG1), add(ARG14, ARG10)))))	3.10337137042421e-08	
+[18, 5, 15]	mul(mul(sin(ARG15), sin(ARG5)), mul(mul(ARG18, 5), mul(ARG18, 5)))	3.044226162448089e-08	

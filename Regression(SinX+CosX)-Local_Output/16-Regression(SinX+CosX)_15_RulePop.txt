@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19, 14]	cos(add(ARG19, ARG14))	0.44702900599717	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[2]	cos(neg(add(5, sin(ARG2))))	0.45258428257084715	
+[19, 4]	cos(neg(add(ARG19, sin(ARG4))))	0.536251543805542	
+[17, 14]	cos(add(sin(sin(mul(ARG14, ARG17))), sin(sin(5))))	0.45144096218862456	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[9]	cos(neg(add(ARG9, sin(sin(5)))))	0.44395040159870675	
+[11, 19, 7]	cos(add(ARG19, sin(sin(protectedDiv(sub(5, ARG11), cos(ARG7))))))	0.5454052834875789	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[11, 19]	cos(add(ARG19, sub(neg(ARG11), cos(5))))	0.4501073190201338	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(neg(add(ARG19, sin(5)))))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(neg(neg(add(ARG19, sin(sin(5))))))))	0.5595746532577723	
+[]	cos(sin(5))	0.4611861693898396	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[8, 19]	cos(add(add(ARG19, sin(sin(5))), cos(ARG8)))	0.6068804207585357	
+[19]	cos(add(ARG19, sin(neg(add(ARG19, sin(sin(5)))))))	0.5635341065330983	
+[]	cos(neg(neg(sin(sin(5)))))	0.4491507724824902	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19, 12]	cos(neg(neg(add(ARG19, sin(sub(5, ARG12))))))	0.535099166328125	
+[19]	cos(neg(neg(add(ARG19, sin(5)))))	0.7513018779367657	
+[19]	cos(neg(neg(add(ARG19, sin(sin(ARG19))))))	0.5380604090995	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[0, 13]	sin(add(ARG13, ARG0))	0.44084925180800355	
+[11]	cos(cos(add(ARG11, 5)))	0.4390797511059054	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[15]	ARG15	0.01718453113393697	
+[]	cos(neg(add(5, sin(sin(sin(5))))))	0.4773255414824208	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[19]	cos(neg(neg(add(ARG19, add(ARG19, sin(sin(5)))))))	0.44572915369100147	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5))))))))	0.5666457187999445	
+[]	cos(5)	0.4869950964278401	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[4]	protectedDiv(ARG4, 5)	0.07787519470844867	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[18]	cos(ARG18)	0.4538686704421174	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[19]	cos(add(add(5, 5), sin(sin(ARG19))))	0.48229939288150897	
+[10]	cos(sub(add(ARG10, 5), add(5, ARG10)))	0.41158281328688134	
+[14]	cos(ARG14)	0.4472815874561114	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[]	cos(neg(neg(5)))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(add(add(sin(5), cos(5)), sin(sin(5))))	0.4961753117419157	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, add(ARG19, sin(sin(5))))))	0.44572915369100147	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[9, 2, 19]	cos(add(ARG19, sub(cos(ARG9), mul(5, ARG2))))	0.4515663467297987	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[]	cos(neg(neg(5)))	0.4869950964278401	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[11]	cos(ARG11)	0.44954725040665816	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(neg(neg(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(neg(add(ARG19, sin(sin(5)))))))	0.5635341065330983	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[4]	cos(ARG4)	0.44720819589745214	
+[16]	sin(neg(ARG16))	0.4491648790642467	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5)))))	0.5868035173261674	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[8]	protectedDiv(5, ARG8)	0.13394683845888025	
+[19]	cos(add(ARG19, sin(sin(neg(neg(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[13, 6]	cos(protectedDiv(mul(5, ARG13), sin(ARG6)))	0.4440461899969268	
+[19]	cos(neg(neg(add(ARG19, protectedDiv(add(5, 5), sin(ARG19))))))	0.45458355403358386	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[4]	cos(mul(5, ARG4))	0.4489942333278013	
+[19]	cos(add(ARG19, sin(sin(sin(sin(sin(5)))))))	0.7538542275069652	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(add(ARG19, add(ARG19, sin(sin(5)))))	0.44572915369100147	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, cos(5))))	0.5256765096270885	
+[19, 4, 6]	cos(neg(add(ARG19, protectedDiv(ARG6, ARG4))))	0.4846848729079476	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, cos(5)))	0.5256765096270885	
+[19, 14, 6]	cos(neg(add(ARG19, sub(neg(ARG14), mul(ARG6, 5)))))	0.4482787053070438	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, add(ARG19, sin(sin(5))))))	0.44572915369100147	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5))))))))	0.5666457187999445	
+[1]	cos(sin(ARG1))	0.4371684649227973	
+[10]	cos(sin(ARG10))	0.43554427657948236	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[18, 4]	cos(add(neg(ARG4), sub(5, ARG18)))	0.44367578815351283	
+[]	cos(protectedDiv(mul(5, 5), neg(5)))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[3, 12]	cos(sub(sub(5, ARG3), add(5, ARG12)))	0.44485584219959456	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(add(sin(sin(5)), sin(sin(sin(5))))))	0.49696378922012713	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5))))	0.5868035173261674	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[12, 5]	cos(mul(sin(ARG12), cos(ARG5)))	0.4254623022069357	
+[]	cos(neg(add(add(cos(5), sin(sin(5))), sin(sin(sin(5))))))	0.48582290838253717	
+[19]	cos(neg(neg(ARG19)))	0.5868035173261674	
+[19]	cos(neg(add(add(ARG19, sin(sin(5))), sin(sin(5)))))	0.5688540695948542	
+[8, 3]	cos(protectedDiv(sin(ARG3), sin(ARG8)))	0.44491496716006784	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19, 11, 7]	cos(neg(add(sub(neg(ARG7), protectedDiv(5, ARG11)), neg(add(ARG19, sin(sin(5)))))))	0.4519774441661568	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[3, 4]	cos(protectedDiv(ARG4, ARG3))	0.4421827593222174	
+[19, 6]	cos(neg(add(ARG19, neg(sin(ARG6)))))	0.543577347499792	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[0, 19]	cos(neg(neg(add(ARG19, sin(neg(add(ARG19, sin(protectedDiv(5, ARG0)))))))))	0.5295861460355756	
+[19]	cos(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5)))))	0.5868035173261674	
+[19]	cos(ARG19)	0.5868035173261674	
+[17, 19]	cos(neg(add(ARG19, ARG17)))	0.44847122491279756	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[17, 19]	cos(add(ARG19, sin(sin(sin(sin(protectedDiv(5, ARG17)))))))	0.5787867276417331	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[19]	cos(add(add(ARG19, sin(sin(5))), sin(sin(5))))	0.5688540695948542	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(5)))))))	0.5651178394367642	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[3, 19]	cos(neg(add(ARG19, sin(neg(add(cos(mul(5, ARG3)), sin(sin(5))))))))	0.47607559530923604	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(neg(neg(add(ARG19, sin(sin(5)))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[0, 19, 15]	cos(neg(add(ARG19, mul(ARG15, ARG0))))	0.4458061628383906	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(neg(add(ARG19, sin(sin(5)))))))))	0.5635341065330983	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[9, 6]	cos(neg(neg(protectedDiv(ARG9, ARG6))))	0.445638994105548	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19, 15]	cos(add(ARG19, sin(neg(ARG15))))	0.5325801243578371	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(sin(5))))))))	0.5613626330352597	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(neg(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5))))))	0.5868035173261674	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(neg(neg(add(ARG19, sin(sin(5))))))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[13]	cos(ARG13)	0.44992759207518274	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[]	cos(sin(5))	0.4611861693898396	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[6]	cos(sub(ARG6, 5))	0.44099788494639564	
+[]	cos(neg(neg(neg(add(sin(sin(5)), sin(sin(5)))))))	0.49669360778440547	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(neg(add(ARG19, sin(ARG19))))	0.5285345252320793	
+[13]	cos(cos(mul(5, ARG13)))	0.4373006585218236	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(neg(add(ARG19, sin(sin(sin(5)))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[6]	cos(sin(sin(ARG6)))	0.43339415290492156	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(neg(5))))	0.43058130670111766	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19, 7]	cos(add(ARG19, sin(sin(neg(ARG7)))))	0.5496001283678669	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[8, 1]	protectedDiv(cos(ARG8), mul(5, ARG1))	0.49617382756621886	
+[14]	ARG14	0.01689430514728647	
+[]	cos(neg(sin(sub(5, 5))))	0.41158281328688134	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[9]	cos(ARG9)	0.4528314827482315	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[9, 19]	cos(add(ARG19, ARG9))	0.4454516512500624	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[0, 19]	cos(add(ARG19, sub(5, ARG0)))	0.4497733028261223	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, add(ARG19, sin(sin(5))))))	0.44572915369100147	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[8, 19]	cos(add(ARG19, add(5, ARG8)))	0.4409957297143889	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(add(ARG19, add(ARG19, sin(sin(5)))))	0.44572915369100147	
+[2]	cos(neg(ARG2))	0.4485382857332981	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[9, 17]	sub(sin(5), mul(ARG9, ARG17))	0.0003028305667870305	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[8]	cos(cos(cos(ARG8)))	0.4445302447351272	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[8, 19, 4]	cos(add(ARG19, add(ARG19, protectedDiv(neg(ARG4), sin(ARG8)))))	0.4462636432798642	
+[13]	cos(add(sin(ARG13), sin(sin(5))))	0.45100794457450455	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[2, 19]	cos(neg(add(ARG19, sin(sin(ARG2)))))	0.5496761398258344	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[]	5	0.1635806680551385	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[8, 15]	cos(neg(add(cos(sub(ARG8, ARG15)), sin(sin(5)))))	0.4463750167679243	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[]	5	0.1635806680551385	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	sin(sub(5, 5))	0.49707486102175885	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[16, 2]	add(ARG2, ARG16)	0.012361062486971478	
+[19]	cos(neg(neg(add(ARG19, ARG19))))	0.44684693949539184	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(neg(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5))))))	0.5868035173261674	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19, 6]	cos(neg(add(ARG19, sin(sin(protectedDiv(ARG6, 5))))))	0.548846723546979	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[]	cos(neg(add(sin(5), cos(5))))	0.4378381045422846	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[13, 7]	cos(neg(add(protectedDiv(ARG7, ARG13), sin(sin(5)))))	0.44134239350758725	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(add(add(ARG19, sin(sin(5))), sin(sin(5))))	0.5688540695948542	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[11]	cos(add(sin(5), sin(sub(mul(ARG11, 5), cos(5)))))	0.4517704180980494	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, cos(cos(5))))	0.4304700582060408	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(neg(add(sin(sin(5)), sin(sin(5))))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, ARG19)))	0.44684693949539184	
+[1]	cos(sub(5, ARG1))	0.44915871758159576	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[19]	cos(neg(add(ARG19, sin(ARG19))))	0.5285345252320793	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19, 6]	cos(neg(neg(add(add(ARG19, ARG6), sin(sin(5))))))	0.441884275142729	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[]	cos(neg(neg(sin(sin(5)))))	0.4491507724824902	
+[19, 4, 7]	cos(add(ARG19, add(ARG19, sin(sin(protectedDiv(add(5, ARG4), mul(ARG7, 5)))))))	0.44869447620195435	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(5)	0.4869950964278401	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[5]	cos(ARG5)	0.44783612405892204	
+[]	cos(add(sin(sin(5)), sin(sin(5))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, ARG19)))	0.44684693949539184	
+[19]	cos(add(add(ARG19, sin(sin(5))), sin(sin(5))))	0.5688540695948542	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[10]	cos(ARG10)	0.4439495339728482	
+[19, 12, 7]	cos(add(ARG19, sin(sin(add(sub(ARG7, 5), mul(ARG12, 5))))))	0.5440078549051824	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[11, 19, 6]	cos(neg(add(ARG19, sin(add(protectedDiv(ARG11, ARG6), neg(5))))))	0.49021197055315896	
+[10, 19, 13, 7]	cos(neg(add(ARG19, sin(mul(protectedDiv(ARG10, ARG13), cos(ARG7))))))	0.5503989346935028	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5)))))	0.5868035173261674	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[]	sub(5, 5)	0.49707486102175885	
+[]	cos(neg(5))	0.4869950964278401	
+[7]	cos(neg(add(mul(neg(5), cos(ARG7)), sin(sin(5)))))	0.4471779248302431	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(neg(add(ARG19, sin(sin(sin(5)))))))	0.7694864365238127	
+[]	sin(5)	0.4188127339951162	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[]	5	0.1635806680551385	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(5))	0.4869950964278401	
+[3, 19]	cos(neg(add(ARG19, sin(neg(add(ARG19, sin(sin(ARG3))))))))	0.5337266915597926	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(ARG19)	0.5868035173261674	
+[16, 4, 5, 14]	cos(neg(add(neg(neg(add(mul(add(ARG4, ARG5), sub(ARG14, ARG16)), sin(sin(5))))), sin(sin(5)))))	0.44821872498847226	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[1, 12]	cos(protectedDiv(ARG1, ARG12))	0.44284841466292924	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[18]	cos(sub(cos(5), add(ARG18, 5)))	0.4435465904825161	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(add(ARG19, sin(sin(sin(sin(5))))))	0.7623559288185401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[]	sin(neg(5))	0.41650864949763056	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[2]	cos(ARG2)	0.4485382857332981	
+[19]	cos(add(ARG19, sin(mul(5, 5))))	0.6205795450165494	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[19]	cos(neg(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5)))))))))	0.5666457187999445	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	5	0.1635806680551385	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[15]	cos(neg(sub(5, ARG15)))	0.44664269544634994	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, sin(cos(sub(5, 5))))))	0.44304516210852324	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[2, 6]	mul(sub(ARG2, 5), protectedDiv(5, ARG6))	0.01625142332261482	
+[19]	cos(neg(add(add(ARG19, sin(sin(5))), sin(mul(5, 5)))))	0.7529557440949294	
+[]	cos(neg(neg(5)))	0.4869950964278401	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(add(ARG19, sin(sin(sin(sin(sin(5)))))))	0.7538542275069652	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(neg(add(ARG19, sin(sin(sin(sin(5))))))))	0.7623559288185401	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(ARG19))))	0.5285345252320793	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[]	cos(neg(5))	0.4869950964278401	
+[19, 6, 7]	cos(add(ARG19, protectedDiv(ARG7, ARG6)))	0.48181941714122933	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[0, 19, 4]	cos(add(ARG19, sin(sin(add(sin(ARG0), neg(ARG4))))))	0.553021078774946	
+[16]	cos(neg(ARG16))	0.4480333876952818	
+[19]	cos(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5))))))))	0.5666457187999445	
+[12]	sin(ARG12)	0.44559310634847227	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(add(ARG19, sin(sin(5))), sin(sin(5))))	0.5688540695948542	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(neg(neg(add(ARG19, sin(add(ARG19, sin(sin(5))))))))	0.5595746532577723	
+[]	cos(sin(5))	0.4611861693898396	
+[9, 19, 5]	cos(neg(add(ARG19, protectedDiv(ARG5, ARG9))))	0.4837761746812526	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(ARG19))))))	0.5380604090995	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(neg(neg(sin(sin(5)))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[2]	cos(cos(neg(ARG2)))	0.4377662949643017	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(neg(neg(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(add(ARG19, add(ARG19, sin(sin(5)))))	0.44572915369100147	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[19]	cos(neg(neg(add(ARG19, ARG19))))	0.44684693949539184	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(neg(add(ARG19, neg(protectedDiv(5, 5))))))	0.74202629587679	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5))))	0.5868035173261674	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(neg(add(ARG19, add(ARG19, sin(sin(5)))))))	0.44572915369100147	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[]	cos(neg(neg(5)))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[19]	cos(neg(neg(add(ARG19, add(ARG19, sin(sin(5)))))))	0.44572915369100147	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sub(ARG19, 5))))	0.45175134589857874	
+[17, 1, 15]	cos(neg(add(sin(sin(5)), add(protectedDiv(5, ARG17), protectedDiv(ARG1, ARG15)))))	0.44360408944835156	
+[19]	cos(neg(add(ARG19, ARG19)))	0.44684693949539184	
+[]	cos(add(sin(sin(5)), sin(sin(5))))	0.49669360778440547	
+[19]	cos(add(ARG19, sin(sin(sin(sin(5))))))	0.7623559288185401	
+[19]	cos(neg(neg(neg(add(ARG19, 5)))))	0.6619810044655027	
+[0, 19]	cos(neg(add(ARG19, neg(ARG0))))	0.44994440054847723	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[3, 15]	sub(sub(5, ARG3), protectedDiv(ARG15, 5))	0.01685310439001616	
+[19]	cos(neg(neg(add(ARG19, 5))))	0.6619810044655027	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(neg(neg(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[]	cos(add(5, sin(sin(sin(sin(5))))))	0.48211833017142647	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[3, 13, 15]	cos(neg(add(add(5, ARG13), protectedDiv(ARG3, ARG15))))	0.4440610435048384	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	5	0.1635806680551385	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(neg(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5)))))))))	0.5666457187999445	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(neg(add(ARG19, sin(sin(5)))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(cos(5))))	0.5263964338648233	
+[]	cos(add(sin(5), sin(5)))	0.4844022498941511	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(neg(5)))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[]	cos(5)	0.4869950964278401	
+[9, 19]	cos(neg(add(ARG19, sin(ARG9))))	0.5324072078078628	
+[]	cos(neg(sin(protectedDiv(5, 5))))	0.45107040196969383	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(neg(add(ARG19, add(ARG19, sin(sin(5)))))))	0.44572915369100147	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[0]	cos(ARG0)	0.4546771929934593	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[17, 6]	neg(sub(ARG6, ARG17))	0.012203882788992405	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19, 15]	cos(add(ARG19, neg(add(ARG19, sin(sin(ARG15))))))	0.4335022205433157	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(neg(add(ARG19, sin(sin(5))))))))	0.5635341065330983	
+[10, 19, 7]	cos(neg(add(ARG19, sin(add(ARG19, sub(ARG7, ARG10))))))	0.536124146604349	
+[]	cos(sin(5))	0.4611861693898396	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[]	cos(5)	0.4869950964278401	
+[9, 2, 19]	cos(neg(add(ARG19, sin(sin(add(protectedDiv(sub(ARG2, ARG2), sub(ARG9, ARG2)), sin(sin(5))))))))	0.7623559288185401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[3, 19, 6]	cos(neg(add(ARG19, sub(ARG6, ARG3))))	0.44849497352989076	
+[10, 19, 7]	cos(neg(neg(add(ARG19, sin(neg(mul(ARG10, ARG7)))))))	0.5343709098429021	
+[19, 4]	cos(add(ARG19, sub(cos(5), neg(ARG4))))	0.44509900183632456	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[]	cos(add(sin(sin(5)), sin(sin(5))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, ARG19)))	0.44684693949539184	
+[19, 13]	cos(add(ARG19, sin(neg(sin(add(5, ARG13))))))	0.547248236815135	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[]	cos(add(sin(sin(5)), sin(sin(5))))	0.49669360778440547	
+[19]	cos(neg(neg(add(ARG19, ARG19))))	0.44684693949539184	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[]	cos(neg(neg(neg(add(sin(sin(5)), sin(sin(5)))))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, add(ARG19, sin(sin(5))))))	0.44572915369100147	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(neg(add(ARG19, sin(sin(5))))))))	0.5635341065330983	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(neg(neg(add(ARG19, sin(sin(5)))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[12]	cos(cos(ARG12))	0.4365097689394694	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19, 4]	cos(neg(add(ARG19, sin(sin(ARG4)))))	0.5449859632993068	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[1, 2]	sub(ARG2, ARG1)	0.012099560960688328	
+[19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))))	0.5632556678581792	
+[12]	cos(sub(5, ARG12))	0.4477813941531076	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(neg(add(ARG19, sin(sin(5))))))))	0.5635341065330983	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5)))))	0.5868035173261674	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5))))))))	0.5666457187999445	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(neg(neg(add(ARG19, sin(sin(5))))))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(sin(ARG19))))))	0.5380604090995	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[4]	cos(neg(add(ARG4, sin(sin(5)))))	0.4493060899103676	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(neg(add(ARG19, sin(5)))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(sin(sin(5))))))	0.7623559288185401	
+[19]	cos(neg(neg(add(ARG19, 5))))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[19]	cos(neg(add(ARG19, sin(ARG19))))	0.5285345252320793	
+[]	5	0.1635806680551385	
+[19]	cos(neg(neg(add(ARG19, add(ARG19, sin(sin(5)))))))	0.44572915369100147	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[9, 19]	cos(neg(add(ARG19, mul(mul(5, ARG9), neg(5)))))	0.4420256814867065	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[]	cos(neg(add(neg(add(5, sin(sin(5)))), sin(sin(5)))))	0.4869950964278401	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(neg(neg(add(add(ARG19, sin(sin(5))), sin(sin(5))))))	0.5688540695948542	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[3, 19]	cos(neg(add(ARG19, sub(neg(ARG3), sin(5)))))	0.4446464862990174	
+[19]	cos(add(ARG19, 5))	0.6619810044655027	
+[19]	cos(add(ARG19, sin(sin(sin(sin(5))))))	0.7623559288185401	
+[6]	cos(neg(cos(add(5, ARG6))))	0.4384344726944329	
+[19, 7]	cos(neg(add(ARG19, ARG7)))	0.4450020879464215	
+[19]	cos(neg(neg(add(ARG19, sin(ARG19)))))	0.5285345252320793	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19, 15]	cos(neg(neg(add(ARG19, sub(5, ARG15)))))	0.4523025576075788	
+[]	cos(neg(add(sin(sin(sin(5))), sin(sin(5)))))	0.49696378922012713	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(sin(5))))))	0.4491507724824903	
+[]	cos(add(sin(sin(5)), sin(sin(5))))	0.49669360778440547	
+[19]	cos(neg(add(5, ARG19)))	0.6619810044655027	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[10]	cos(neg(add(sin(sin(ARG10)), sin(sin(5)))))	0.4463516299095564	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(add(ARG19, add(ARG19, sin(sin(5)))))	0.44572915369100147	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19, 6]	cos(add(ARG19, add(5, ARG6)))	0.44164749329063635	
+[19]	cos(add(ARG19, sin(sin(sin(add(ARG19, sin(sin(5))))))))	0.565769179651805	
+[]	cos(neg(neg(5)))	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[]	cos(neg(5))	0.4869950964278401	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(neg(add(add(ARG19, sin(sin(5))), sin(sin(5)))))	0.5688540695948542	
+[19]	cos(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5))))))))	0.5666457187999445	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[11, 19]	cos(add(ARG19, sin(sub(sin(5), cos(ARG11)))))	0.6921491646622409	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	neg(mul(5, 5))	0.03842699507108229	
+[19]	cos(add(ARG19, sin(sin(sin(sin(5))))))	0.7623559288185401	
+[19]	cos(neg(neg(add(ARG19, 5))))	0.6619810044655027	
+[3, 19]	cos(neg(add(ARG19, sin(ARG3))))	0.5400840848985988	
+[2]	cos(ARG2)	0.4485382857332981	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(neg(add(ARG19, sin(neg(neg(add(ARG19, sin(sin(5))))))))))	0.5595746532577723	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, ARG19)))	0.44684693949539184	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19, 13]	cos(neg(neg(add(ARG19, ARG13))))	0.4466649458738283	
+[]	cos(neg(protectedDiv(neg(5), cos(5))))	0.48291396611850296	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5)))))))))	0.5666457187999445	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[19]	cos(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5)))))	0.5868035173261674	
+[10, 11]	cos(sin(sub(ARG10, ARG11)))	0.4383105759413811	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, neg(5)))	0.40304384826510004	
+[]	cos(5)	0.4869950964278401	
+[]	cos(sin(5))	0.4611861693898396	
+[19, 13]	cos(neg(neg(add(ARG19, sin(add(ARG19, sin(mul(5, ARG13))))))))	0.5371330852868841	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(neg(neg(add(ARG19, sin(ARG19)))))	0.5285345252320793	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, add(ARG19, sin(sin(5))))))	0.44572915369100147	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(add(ARG19, add(ARG19, sin(sin(5)))))	0.44572915369100147	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[4, 7]	cos(add(sin(5), protectedDiv(ARG4, ARG7)))	0.4446602492794321	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[0, 6]	cos(neg(neg(add(sin(add(ARG6, ARG0)), sin(sin(5))))))	0.4485809813703288	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(add(ARG19, sin(sin(5))), 5))	0.4814113844223377	
+[]	cos(5)	0.4869950964278401	
+[]	cos(sin(5))	0.4611861693898396	
+[17, 19]	cos(neg(add(ARG17, sin(add(ARG19, sin(sin(5)))))))	0.4427885861212779	
+[19]	cos(add(ARG19, add(ARG19, 5)))	0.4444625688741424	
+[]	cos(neg(sin(sin(5))))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(ARG19)	0.5868035173261674	
+[14]	cos(neg(add(neg(neg(ARG14)), sin(sin(5)))))	0.44895792757616426	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[0, 19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG0, 5)))))))	0.5515394127615357	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[]	cos(neg(add(sin(sin(5)), sin(sin(5)))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, ARG19)))	0.44684693949539184	
+[]	cos(neg(add(5, sin(sin(5)))))	0.47009823617590224	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[19]	cos(add(ARG19, sin(sin(cos(neg(5))))))	0.5270902920785746	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[19]	cos(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(5))))))))	0.5632556678581792	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(ARG19))	0.5868035173261674	
+[19]	cos(neg(add(add(ARG19, sin(sin(5))), sin(sin(5)))))	0.5688540695948542	
+[3]	cos(neg(add(ARG3, sin(sin(5)))))	0.444569812042602	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	ARG19	0.01693325496691174	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[2]	cos(add(cos(sin(ARG2)), sin(sin(5))))	0.4133383668278901	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[8]	cos(add(ARG8, sin(5)))	0.44494285763914204	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[19]	cos(neg(neg(add(ARG19, sin(sin(sin(sin(5))))))))	0.7623559288185401	
+[]	cos(5)	0.4869950964278401	
+[0]	cos(ARG0)	0.4546771929934593	
+[]	cos(neg(neg(sin(sin(5)))))	0.4491507724824902	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19, 12]	cos(add(ARG19, cos(ARG12)))	0.5388816482563794	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(add(add(ARG19, sin(sin(5))), sin(sin(5))))	0.5688540695948542	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[5]	sin(protectedDiv(5, ARG5))	0.48518913007965575	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(neg(add(ARG19, sin(sin(sin(sin(5)))))))	0.7623559288185401	
+[12]	cos(sin(ARG12))	0.43899823453768955	
+[11, 6, 14, 15]	cos(add(protectedDiv(mul(ARG15, ARG11), protectedDiv(ARG14, ARG6)), sin(sin(5))))	0.45361047126739606	
+[19]	cos(neg(neg(add(neg(add(ARG19, sin(sin(5)))), sin(sin(5))))))	0.5868035173261674	
+[19]	cos(ARG19)	0.5868035173261674	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[]	cos(add(5, sin(sin(5))))	0.47009823617590224	
+[19]	cos(neg(neg(add(ARG19, add(ARG19, sin(sin(5)))))))	0.44572915369100147	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[17]	cos(neg(add(ARG17, sin(sin(5)))))	0.450284262026562	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[19]	cos(neg(add(ARG19, add(ARG19, sin(sin(5))))))	0.44572915369100147	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, ARG19))	0.44684693949539184	
+[]	cos(5)	0.4869950964278401	
+[2, 13, 15]	cos(neg(add(sin(5), protectedDiv(add(5, ARG13), add(ARG2, ARG15)))))	0.45335716510567114	
+[19]	cos(add(ARG19, sin(ARG19)))	0.5285345252320793	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(sin(5))))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, neg(add(ARG19, sin(5)))))	0.4611861693898394	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[]	cos(neg(5))	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(add(ARG19, sin(sin(5)))))))	0.5632556678581792	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19, 15]	cos(add(ARG19, sin(protectedDiv(ARG15, ARG19))))	0.5411355752583333	
+[14]	cos(ARG14)	0.4472815874561114	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[0]	cos(neg(ARG0))	0.4546771929934593	
+[8, 10, 19]	cos(neg(neg(add(ARG19, sin(sin(add(ARG19, sin(sin(sub(ARG8, ARG10))))))))))	0.5445028420726405	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(ARG19))))	0.5380604090995	
+[]	cos(neg(add(5, sin(sin(sin(5))))))	0.4773255414824208	
+[]	cos(add(sin(5), sin(sin(5))))	0.492493261322445	
+[19]	cos(neg(neg(add(ARG19, sin(ARG19)))))	0.5285345252320793	
+[19]	cos(neg(neg(add(ARG19, ARG19))))	0.44684693949539184	
+[]	cos(neg(neg(add(sin(sin(5)), sin(sin(5))))))	0.49669360778440547	
+[19]	cos(neg(add(ARG19, neg(add(ARG19, sin(sin(5)))))))	0.4491507724824903	
+[]	cos(sin(sin(5)))	0.4491507724824902	
+[14]	cos(neg(neg(ARG14)))	0.4472815874561114	
+[19]	cos(add(ARG19, sin(add(ARG19, sin(sin(5))))))	0.5595746532577723	
+[19]	cos(neg(neg(add(ARG19, sin(add(ARG19, sin(sin(5))))))))	0.5595746532577723	
+[]	cos(neg(sin(5)))	0.4611861693898396	
+[19]	cos(neg(neg(add(ARG19, sin(sin(sin(5)))))))	0.7694864365238127	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19, 15]	cos(neg(neg(add(ARG19, sin(sin(protectedDiv(5, ARG15)))))))	0.5805216355289871	
+[19]	cos(neg(add(ARG19, sin(ARG19))))	0.5285345252320793	
+[]	cos(neg(add(sin(5), sin(sin(5)))))	0.492493261322445	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(sin(5)))))	0.7694864365238127	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[]	cos(sin(5))	0.4611861693898396	
+[19]	cos(neg(add(ARG19, sin(add(ARG19, sin(sin(5)))))))	0.5595746532577723	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(5)))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(cos(cos(5))))))	0.45619831685061074	
+[16]	cos(add(5, sin(sin(cos(ARG16)))))	0.4634494413496638	
+[19]	cos(neg(add(ARG19, sin(sin(ARG19)))))	0.5380604090995	
+[19]	cos(neg(neg(add(ARG19, sin(sin(5))))))	0.7705017217605673	
+[19]	cos(neg(add(ARG19, sin(sin(5)))))	0.7705017217605673	
+[]	cos(5)	0.4869950964278401	
+[19]	cos(add(ARG19, sin(sin(neg(add(ARG19, sin(sin(5))))))))	0.5666457187999445	
+[19]	cos(neg(add(ARG19, sin(5))))	0.7513018779367657	
+[19]	cos(add(ARG19, sin(sin(5))))	0.7705017217605673	
+[19]	cos(add(ARG19, sin(sin(sin(sin(5))))))	0.7623559288185401	
+[19]	cos(neg(add(ARG19, 5)))	0.6619810044655027	
+[19]	cos(add(add(ARG19, sin(sin(5))), sin(sin(5))))	0.5688540695948542	
+[19]	cos(ARG19)	0.5868035173261674	

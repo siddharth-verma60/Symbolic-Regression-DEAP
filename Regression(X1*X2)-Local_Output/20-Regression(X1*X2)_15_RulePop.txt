@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(ARG7))), 5), sin(sin(ARG7)))))	0.0003087724576467641	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG7, add(5, 5)))))))	0.00030951054420391504	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG10)))))	0.0003096150341205533	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[19]	mul(cos(ARG19), mul(mul(5, 5), add(5, 5)))	0.00030708318121381423	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, sin(sin(mul(ARG10, add(5, 5)))))))	0.00030942276730599896	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), 5), sin(sin(mul(ARG10, add(5, 5)))))))	0.0003087090354421716	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(sin(ARG7)), sin(sin(ARG7)))))	0.00030800453425049477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), add(5, 5))))	0.0003065800520916152	
+[19, 14, 7]	mul(cos(ARG19), mul(sub(ARG14, 5), add(add(5, 5), sin(sin(ARG7)))))	0.00030480507494517686	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, 5)))	0.00022567090126612117	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), 5), sin(sin(ARG7)))))	0.0003087417674051736	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, sin(5))))	0.00030920765564751104	
+[]	5	0.0003079683054937865	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(sin(ARG7)))))	0.0003087417674051736	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, sin(sin(ARG7))), sin(5))))	0.00030924607412926767	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19]	mul(cos(ARG19), mul(mul(ARG10, sub(neg(5), cos(5))), add(5, 5)))	0.0002460196194954458	
+[19, 6]	mul(cos(ARG19), cos(neg(ARG6)))	0.00030795780760485943	
+[10]	mul(5, mul(ARG10, add(neg(5), 5)))	0.0003079557961640519	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, cos(ARG19))))	0.0003093495845968899	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(sin(5))))))	0.00030967889850793876	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[9]	sin(ARG9)	0.00030795293599027363	
+[5, 10, 14, 17, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(sub(ARG17, ARG5), sin(ARG14)))))	0.00025500005629481215	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(add(5, 5)))))	0.00030967149018173355	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(sin(5), sin(5))))	0.00030709878829230107	
+[10, 11]	mul(cos(sin(ARG11)), mul(ARG10, add(add(5, 5), add(5, 5))))	0.00029723082844848847	
+[10, 7]	mul(cos(mul(ARG10, add(add(5, 5), sin(sin(ARG7))))), mul(ARG10, add(5, 5)))	0.00030612734033228254	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), sin(sin(ARG7))), 5)))	0.0003087417674051736	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[19, 7]	mul(cos(ARG19), mul(sin(sin(ARG7)), add(add(5, 5), sin(5))))	0.00030796837573376196	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG10)))	0.00022612707688643376	
+[17, 11]	sub(ARG11, ARG17)	0.00030749413010480546	
+[9, 10, 12]	mul(cos(sub(sub(ARG12, 5), sub(ARG9, 5))), mul(ARG10, add(5, 5)))	0.00030619861265117625	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[3, 10, 19]	mul(cos(ARG19), mul(ARG10, add(5, neg(ARG3))))	0.0002483552887298581	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 13]	mul(cos(cos(ARG13)), mul(ARG10, add(add(cos(ARG19), 5), sin(5))))	0.00030805162780421416	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19, 15]	mul(cos(ARG19), mul(ARG10, ARG15))	0.00025481185769554786	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[16, 0, 19]	mul(cos(ARG19), mul(ARG16, ARG0))	0.00024614547595189017	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(mul(ARG10, add(5, 5)), 5), sin(5))))	3.274293384256583e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[18]	add(ARG18, ARG18)	0.00030777703819053696	
+[10, 7]	mul(cos(sin(sin(ARG7))), mul(ARG10, add(5, 5)))	0.000305634978131006	
+[10, 19, 7]	mul(cos(ARG19), mul(mul(ARG10, 5), add(add(5, 5), sin(sin(ARG7)))))	0.0002753169097387288	
+[10, 19]	mul(cos(ARG19), ARG10)	0.0003083362744308528	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[10, 19, 7]	mul(ARG19, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	3.129664040855461e-05	
+[10, 19, 7]	mul(cos(cos(ARG19)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030613215492927723	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(cos(ARG19)))))	0.00030961837427430404	
+[17, 10]	mul(sin(mul(ARG10, sin(ARG17))), mul(ARG10, add(5, 5)))	0.00030592037795045397	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, ARG7), sin(sin(ARG7)))))	0.0002542954930541227	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, cos(ARG19)), sin(sin(ARG7)))))	0.00030938925881861577	
+[10]	mul(5, mul(ARG10, add(add(5, 5), sin(5))))	0.00024405928370503402	
+[3, 10, 19]	mul(cos(ARG19), mul(ARG10, add(5, neg(mul(ARG3, ARG10)))))	5.648960650205226e-06	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[16, 10, 7]	mul(sin(sin(ARG7)), mul(ARG10, add(cos(ARG16), 5)))	0.00030837300725300887	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), cos(ARG19))))	0.0003096117040807569	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10]	mul(mul(ARG10, add(5, 5)), mul(ARG10, add(add(5, 5), sin(5))))	2.596781156728771e-06	
+[19, 7]	mul(cos(ARG19), mul(ARG7, add(5, 5)))	0.0003067498529719541	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG10)))))	0.0003096150341205533	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(sin(ARG7)), 5)))	0.0003094314873075696	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 7]	mul(cos(add(add(5, 5), sin(sin(ARG7)))), mul(ARG10, add(5, 5)))	0.0003054493058705904	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[9, 10, 3]	mul(cos(cos(mul(ARG9, ARG3))), mul(ARG10, add(5, 5)))	0.00030524042416412854	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, sin(sin(5)))))	0.00022456447078254794	
+[19]	mul(cos(ARG19), mul(add(5, 5), add(5, 5)))	0.0003077186854728894	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(cos(ARG19)), mul(ARG10, add(5, 5)))	0.0003060258979519891	
+[10, 19]	mul(ARG19, mul(ARG10, add(5, 5)))	3.1374813183141234e-05	
+[18, 19]	mul(cos(ARG19), mul(ARG18, add(add(5, 5), sin(5))))	0.00030771619894698663	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10, 7]	mul(add(add(5, 5), sin(sin(ARG7))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00015458689638305913	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG7, sin(5))))	0.0002537161296590111	
+[10, 19, 6]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(cos(ARG6)))))	0.00030952756774861074	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, ARG19)))))))	0.00030977898198023457	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[10, 2]	mul(ARG10, mul(ARG10, add(ARG2, 5)))	3.905273285452919e-06	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[15]	sin(neg(ARG15))	0.00030795131431504084	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(mul(ARG10, add(add(5, 5), sin(5)))))))	0.0003096072441619194	
+[19, 7]	mul(cos(ARG19), sin(ARG7))	0.0003079574382211158	
+[10, 7]	mul(cos(ARG10), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003053570001984505	
+[19]	mul(cos(ARG19), mul(ARG19, add(5, 5)))	0.0003035964477996791	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), sin(sin(ARG7))), 5)))	0.0003087417674051736	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[1, 10, 19]	mul(cos(cos(ARG19)), mul(ARG10, add(add(5, 5), sin(sin(sub(5, ARG1))))))	0.00030603710756918343	
+[10, 19]	mul(ARG19, mul(ARG10, add(add(5, 5), sin(5))))	3.465959749322296e-05	
+[10]	mul(ARG10, mul(ARG10, add(5, 5)))	2.3470899675697508e-05	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, 5)))	0.0002558500964219866	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, sin(sin(ARG7))), sin(sin(ARG7)))))	0.0003094519005332768	
+[10]	mul(cos(sin(sin(mul(ARG10, add(5, 5))))), mul(ARG10, add(5, 5)))	0.000305279860151936	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(protectedDiv(5, 5), 5), ARG19)))	0.0002559426673149944	
+[10]	mul(cos(ARG10), mul(ARG10, add(5, 5)))	0.0003052776348495347	
+[19]	mul(cos(ARG19), mul(ARG19, add(5, 5)))	0.0003035964477996791	
+[10, 19]	mul(cos(mul(ARG10, add(5, 5))), mul(ARG10, sin(add(ARG19, 5))))	0.0003078471778053994	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[1, 19]	mul(cos(ARG19), mul(add(5, ARG1), add(add(5, 5), sin(5))))	0.00030674778838016173	
+[19, 7]	mul(cos(ARG19), mul(add(5, ARG7), add(5, 5)))	0.0003066221873763237	
+[10, 19, 13]	mul(cos(ARG19), mul(ARG10, add(5, mul(mul(ARG13, ARG10), sin(5)))))	6.004671969773125e-06	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(add(5, 5), sin(5))))))	3.617377551710534e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[15]	sub(add(ARG15, ARG15), sin(5))	0.0003073147221961914	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), sin(5))))	0.00025573599660630355	
+[10, 19]	mul(cos(5), mul(ARG10, ARG19))	0.00029624750524331493	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, sin(ARG7)))	0.0003079902504430329	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(add(5, 5)))))	0.00030967149018173355	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7))))))	3.2716808714533325e-05	
+[19]	mul(cos(ARG19), add(5, 5))	0.00030793884810775184	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), cos(ARG19))))	0.0003096117040807569	
+[10, 4]	mul(sin(protectedDiv(protectedDiv(5, ARG4), mul(5, 5))), mul(ARG10, add(5, 5)))	0.00030803947309043865	
+[10, 13, 14]	mul(add(ARG14, ARG13), mul(ARG10, add(5, ARG10)))	2.8718411237683046e-06	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[16, 10, 7]	mul(cos(ARG16), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030551008997910456	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 7]	mul(cos(add(5, 5)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030411385748553473	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG19, sin(sin(ARG7)))))	0.00025500945023967486	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10, 7]	mul(cos(add(5, 5)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030411385748553473	
+[10, 19, 7]	mul(ARG19, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	3.129664040855461e-05	
+[10, 19]	mul(cos(cos(ARG19)), mul(ARG10, add(5, 5)))	0.0003060258979519891	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), 5)))	0.0003093495845968899	
+[10]	mul(5, mul(ARG10, add(add(5, 5), sin(5))))	0.00024405928370503402	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), 5)))	0.0003093495845968899	
+[10, 19, 13]	mul(cos(ARG19), mul(ARG10, mul(sin(5), cos(ARG13))))	0.0003080432176966764	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(ARG7))))	0.00030968683949789854	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[8, 10, 19, 15]	mul(cos(ARG19), mul(ARG10, add(add(sin(ARG8), cos(ARG15)), 5)))	0.00030936520615602436	
+[17, 10, 19, 15]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(mul(protectedDiv(5, ARG17), protectedDiv(ARG15, ARG15))))))	0.0003096293823132756	
+[17]	mul(cos(ARG17), mul(sin(5), add(5, 5)))	0.00030795867223987373	
+[10, 19]	mul(cos(neg(5)), mul(ARG10, add(ARG19, 5)))	0.000296187490839091	
+[10]	mul(cos(5), cos(ARG10))	0.0003079561841145253	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), add(5, 5))))	0.0003065800520916152	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(5), sin(sin(ARG7)))))	0.0003075806954289287	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10, 7]	mul(add(add(5, 5), sin(sin(5))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00016531913682688682	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(5, 5)))))	3.2756504630053824e-05	
+[15]	ARG15	0.0003076831042017484	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))))))	0.0003095133251305472	
+[19, 7]	mul(cos(ARG19), ARG7)	0.00030805897449426463	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), sin(sin(ARG7)))))	0.000255877402090966	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG10, sin(sin(ARG7)))))	0.00022478705320295187	
+[19, 7]	mul(cos(ARG19), mul(add(5, 5), add(add(5, 5), sin(sin(ARG7)))))	0.00030773306284094645	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10]	mul(cos(add(5, 5)), mul(ARG10, add(5, sin(5))))	0.0003072079714470256	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(ARG7))), 5), sin(sin(ARG7)))))	0.0003087724576467641	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG19)))	0.00025604188604635167	
+[10, 14, 7]	mul(cos(sin(ARG14)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003057561409125311	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(cos(ARG19), 5), sin(sin(ARG7)))))	0.00030938925881861577	
+[10]	mul(5, mul(ARG10, add(5, 5)))	0.0002343600311094655	
+[19]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(sin(5)))))	0.0003078655912994573	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG10)))	0.00022567090126612117	
+[10]	mul(mul(ARG10, add(5, 5)), mul(ARG10, add(5, 5)))	2.3477125293455577e-06	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), sin(sin(ARG7)))))	0.0003079342384967124	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG7, sin(sin(5)))))	0.0002537379505398405	
+[11, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(5, ARG11))))))	0.00030960432128172366	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 13]	mul(cos(ARG19), mul(ARG10, neg(ARG13)))	0.0002532164546699291	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5)))))))	0.0003096642521889689	
+[10]	mul(cos(add(5, 5)), mul(ARG10, add(5, 5)))	0.00030423458958091584	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, sin(5))))	0.0002547440393604056	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 7]	mul(mul(ARG10, add(5, add(ARG7, 5))), mul(ARG10, add(5, 5)))	3.8140143582456125e-07	
+[2, 19]	mul(cos(ARG19), cos(sub(ARG19, ARG2)))	0.0003079572174638441	
+[0, 10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG0)))	0.0003079368752602645	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[18, 16, 10, 19]	mul(cos(ARG19), mul(ARG10, mul(ARG10, cos(sub(ARG18, ARG16)))))	0.00025936520491675154	
+[0, 19]	mul(cos(ARG19), add(add(mul(5, 5), cos(ARG0)), 5))	0.00030789999396528854	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(5, 5))))))	0.00030967030289732946	
+[0, 10, 11]	mul(cos(sub(protectedDiv(ARG0, ARG11), neg(5))), mul(ARG10, add(5, 5)))	0.0003053568937752677	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 7]	mul(neg(5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023127833771313398	
+[]	protectedDiv(neg(5), add(5, 5))	0.00030795450510523253	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(neg(ARG19))))))	0.00030970626185092016	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, cos(ARG19))))	0.0003093495845968899	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(ARG7))), 5), sin(5))))	0.00030901450965619955	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, neg(5)), sin(add(5, 5)))))	0.00030772958930157793	
+[17, 10, 7]	mul(cos(ARG17), mul(ARG10, add(sin(ARG7), sin(5))))	0.00030761064271747537	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, add(5, 5))))	0.00030869213247506684	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, sin(sin(ARG7)))))	0.0003094314873075696	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[16, 10, 19, 6]	mul(cos(ARG19), mul(ARG10, sub(neg(5), sub(ARG16, ARG6))))	0.00022417790504443042	
+[10, 14]	mul(ARG14, mul(ARG10, add(5, 5)))	3.0823263537699855e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10]	mul(ARG10, mul(ARG10, add(5, 5)))	2.3470899675697508e-05	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, 5)))	0.0002558500964219866	
+[10, 7]	mul(cos(5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030781448169684463	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(cos(ARG19), 5), sin(sin(ARG7)))))	0.00030938925881861577	
+[10]	mul(5, mul(ARG10, add(add(5, 5), sin(5))))	0.00024405928370503402	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 5, 7]	mul(ARG5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	3.0449303112731213e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG10)))	0.00022567090126612117	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[17, 10, 9, 7]	mul(cos(protectedDiv(protectedDiv(ARG17, ARG9), protectedDiv(5, 5))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003064867543599506	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(ARG7), 5)))	0.0003094326782345075	
+[9, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, add(ARG9, 5)), sin(cos(ARG19)))))	0.0002484798250977558	
+[10, 7]	mul(sin(ARG7), mul(ARG10, add(5, 5)))	0.0003072601473927896	
+[10]	mul(cos(5), mul(ARG10, 5))	0.00030795556967795607	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, 5)))	0.0002558500964219866	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(ARG10))))	0.00030961279353804475	
+[19, 7]	mul(cos(ARG19), mul(sin(ARG7), add(5, 5)))	0.00030797187403527795	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(mul(ARG10, add(5, 5)), sin(5))))	3.2730005586462445e-05	
+[11]	mul(cos(cos(ARG11)), add(5, 5))	0.0003079715459928198	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), sin(5))))	0.00030749013269112523	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), sin(sin(ARG7)))))	0.000255877402090966	
+[17, 10]	mul(cos(5), mul(ARG10, mul(5, ARG17)))	0.00017505283115721505	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, sin(sin(ARG7)))))	0.0003094314873075696	
+[10, 19, 14]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), ARG14), sin(5))))	0.0002522428356243471	
+[10]	mul(mul(ARG10, add(5, 5)), mul(ARG10, add(5, 5)))	2.3477125293455577e-06	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[4, 7, 9, 10, 15, 19]	mul(cos(ARG19), mul(protectedDiv(cos(ARG15), mul(ARG9, ARG4)), add(add(5, 5), sin(sin(mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))))))	0.000307955586531677	
+[19, 7]	mul(cos(ARG19), ARG7)	0.00030805897449426463	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, add(5, 5))))	0.00030869213247506684	
+[10, 19, 14, 15]	mul(cos(ARG19), mul(ARG10, add(sub(add(cos(ARG14), sin(5)), 5), cos(ARG15))))	0.00030470534394525255	
+[10]	mul(cos(mul(ARG10, add(5, 5))), mul(ARG10, add(add(5, 5), sin(5))))	0.00030676828057295345	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[2, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG2, sin(sin(5))), sin(5))))	0.00024948558141066145	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(5))))	0.0003079608374670854	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 3, 7]	mul(cos(sub(add(ARG3, ARG7), mul(5, 5))), mul(ARG10, add(5, 5)))	0.00030409663506574544	
+[19]	mul(cos(ARG19), sub(cos(5), sin(5)))	0.00030795377215332416	
+[19, 12, 7]	mul(cos(ARG19), mul(neg(neg(ARG12)), add(add(5, 5), sin(sin(ARG7)))))	0.00030674373916458707	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[18, 10, 19]	mul(cos(ARG19), mul(ARG10, add(protectedDiv(ARG18, 5), sin(5))))	0.0003014651893804954	
+[16, 10]	mul(ARG16, mul(ARG10, add(5, sin(sin(5)))))	7.230112232640569e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[19]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(5))))	0.00030786720869317404	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG10, 5), sin(sin(ARG7)))))	0.00022570362602481928	
+[18, 19]	mul(cos(ARG19), mul(protectedDiv(sin(ARG18), add(5, 5)), cos(ARG19)))	0.00030795578596070396	
+[10, 7]	mul(add(add(5, 5), sin(sin(ARG7))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00015458689638305913	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(sin(5))))))	0.00030967889850793876	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), add(5, 5))))	0.0003065800520916152	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(sin(sin(5)), sin(sin(5)))))	0.0003072345585775551	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10]	mul(add(add(5, 5), sin(5)), mul(ARG10, add(5, 5)))	0.00016684667138804543	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(ARG7))), 5), sin(sin(ARG7)))))	0.0003087724576467641	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), 5)))	0.0003093495845968899	
+[10]	mul(5, mul(ARG10, add(5, 5)))	0.0002343600311094655	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[19]	mul(cos(ARG19), neg(neg(5)))	0.00030794751035482777	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG7, 5), sin(sin(ARG7)))))	0.0002542954930541227	
+[10, 19, 5]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sub(sin(ARG10), protectedDiv(5, ARG5)))))	0.00030939706861751693	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5))))))))	3.25849883659239e-05	
+[19]	mul(cos(ARG19), add(add(5, 5), sin(5)))	0.0003079405385657306	
+[10]	mul(ARG10, mul(ARG10, add(5, 5)))	2.3470899675697508e-05	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[10, 19, 5, 7]	mul(cos(ARG19), mul(cos(protectedDiv(5, ARG5)), add(ARG10, sin(sin(ARG7)))))	0.0003082762686708594	
+[]	neg(5)	0.00030794255735602766	
+[7, 9, 10, 17, 19]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(ARG7))), 5), sin(add(sin(ARG9), sub(5, ARG17))))))	0.00030884041805540426	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, sin(ARG7)), sin(sin(ARG7)))))	0.0003094504836581626	
+[10, 19, 7]	mul(cos(ARG19), mul(mul(ARG10, add(5, 5)), add(add(5, 5), sin(sin(ARG7)))))	0.0002044266444490534	
+[10, 19]	mul(cos(ARG19), ARG10)	0.0003083362744308528	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(sin(ARG7)))))	0.0003087417674051736	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, sin(sin(ARG7)))))	0.0003094314873075696	
+[8, 19, 5]	mul(cos(ARG19), sin(sin(sin(mul(ARG5, ARG8)))))	0.00030795657608767346	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(add(5, 5), sin(5))))))	3.6187528913342585e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[18, 10, 19]	mul(cos(ARG19), mul(ARG10, ARG18))	0.0002416208294445616	
+[19]	mul(cos(ARG19), sin(5))	0.00030795734222858264	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(cos(ARG19), 5), sin(sin(5)))))	0.0003091927481943257	
+[10]	mul(5, mul(ARG10, add(add(5, 5), sin(5))))	0.00024405928370503402	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, add(5, 5))))	0.00030869213247506684	
+[1, 14]	mul(add(neg(ARG14), protectedDiv(5, ARG1)), 5)	0.00030695968839679057	
+[10, 19, 7]	mul(cos(ARG19), add(ARG7, mul(ARG10, add(5, 5))))	0.0003097737077123126	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(5))))	0.0003089657435480752	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(sin(ARG7))))))	0.00030968369265664146	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(ARG7))))	0.00030968683949789854	
+[19, 7]	mul(cos(ARG19), sin(sin(ARG7)))	0.0003079572113079183	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(5, 5)))))	3.2756504630053824e-05	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10]	mul(5, mul(ARG10, add(5, 5)))	0.0002343600311094655	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), 5)))	0.0003093495845968899	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, add(add(5, 5), sin(sin(sin(5)))))))	0.0003089043912698197	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10, 7]	mul(mul(ARG10, add(add(5, 5), sin(sin(ARG7)))), mul(ARG10, add(5, 5)))	2.3487098357177074e-06	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 4]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(protectedDiv(ARG4, ARG4)))))	0.00030956408352836946	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 7]	mul(sin(add(neg(5), sub(5, 5))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030455633596258153	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(cos(ARG19)))))	0.00030961837427430404	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[9, 10, 19, 13]	mul(cos(ARG19), mul(ARG10, add(add(mul(add(5, ARG13), mul(ARG9, 5)), 5), sin(5))))	1.4840138087215262e-06	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 7]	mul(cos(ARG7), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5)))))))	0.00030695037723927417	
+[10]	mul(cos(add(5, 5)), mul(ARG10, add(add(5, 5), sin(5))))	0.0003048579767639643	
+[19, 18, 10, 5]	mul(cos(sin(add(ARG5, ARG18))), mul(ARG10, add(ARG19, sin(5))))	0.0002444799032741177	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, sub(sin(5), protectedDiv(5, 5)))))	0.0003089690064080684	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(sin(ARG7)))))	0.0003087417674051736	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19, 13, 7]	mul(cos(ARG19), mul(ARG10, add(add(sin(sin(ARG7)), 5), sin(protectedDiv(sin(5), mul(5, ARG13))))))	0.00030942719431782326	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG7, sin(5))))	0.0002537161296590111	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(5, 5))))))	0.00030967030289732946	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[9, 10, 19, 12]	mul(cos(ARG19), mul(ARG10, add(mul(5, ARG9), mul(ARG19, ARG12))))	7.737989491856153e-06	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, cos(ARG19)), sin(sin(ARG7)))))	0.00030938925881861577	
+[5]	ARG5	0.0003075931846499405	
+[19, 7]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(sin(ARG7)))))	0.00030786315163498817	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG10, 5), sin(sin(5)))))	0.00022555224685588159	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(add(5, 5), sin(sin(5))))))))	0.000309622134986046	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, ARG7))	0.00025385493938660477	
+[18, 19]	mul(cos(ARG19), mul(ARG18, add(5, 5)))	0.0003074501659825834	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG10))	0.00022475673345476467	
+[5]	add(mul(5, ARG5), mul(5, 5))	0.0003052580416111968	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))))	3.27412161195891e-05	
+[19]	mul(cos(ARG19), sin(sin(cos(5))))	0.00030795534822529344	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(add(5, 5), 5))))))	0.00030958888990751835	
+[10, 19, 5, 7]	mul(cos(ARG19), mul(ARG10, add(ARG5, sin(sin(ARG7)))))	0.000246411312968847	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(sin(5)))))	0.00030892839269559705	
+[8, 10, 19, 12]	mul(cos(ARG19), mul(ARG10, mul(ARG8, ARG12)))	7.331272753189678e-06	
+[19]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(sin(5)))))	0.0003078655912994573	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, ARG10), sin(sin(ARG7)))))	0.00022570362602481928	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), sin(sin(ARG7)))))	0.0003079342384967124	
+[10]	mul(add(5, 5), mul(ARG10, add(add(5, 5), sin(5))))	0.00016684667138804543	
+[10, 11]	mul(cos(ARG11), mul(ARG10, add(add(5, 5), ARG10)))	0.0002232979073590118	
+[19]	mul(cos(ARG19), mul(sin(5), add(add(5, 5), sin(sin(add(5, 5))))))	0.0003079698995336115	
+[10, 13]	mul(sin(5), mul(ARG10, add(add(5, 5), sin(ARG13))))	0.000303171426275915	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), cos(5))))	0.0003096184009072384	
+[19]	mul(cos(ARG19), sin(5))	0.00030795734222858264	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(5, 5)))))	3.2756504630053824e-05	
+[10]	mul(cos(5), sub(5, ARG10))	0.0003079372263577378	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, 5)))	0.0002558500964219866	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(5)))))	2.5556246101587284e-05	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(5)))))	0.00030796090839056576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(sin(5))))))	0.00030967889850793876	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, mul(ARG10, add(5, 5))), sin(sin(ARG7)))))	3.274583091387653e-05	
+[10, 7]	mul(cos(mul(ARG10, add(add(5, 5), sin(sin(5))))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030456184910057096	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, sin(ARG7))))	0.0003094326782345075	
+[19]	mul(cos(ARG19), sin(protectedDiv(5, ARG19)))	0.0003079555518791881	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG10))	0.00022475673345476467	
+[5]	mul(ARG5, mul(add(5, 5), add(5, 5)))	0.0001476773376715643	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(5), sin(sin(ARG7)))))	0.0003075806954289287	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), add(5, 5))))	0.0003065800520916152	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(cos(5), 5), sin(sin(ARG7)))))	0.0003094779443839705	
+[11, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(neg(ARG11), 5), sin(5))))	0.0002497700524864932	
+[19]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(5))))	0.00030786720869317404	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, 5)))	0.00022567090126612117	
+[10]	mul(cos(add(5, 5)), mul(ARG10, add(5, 5)))	0.00030423458958091584	
+[19]	mul(cos(ARG19), add(5, 5))	0.00030793884810775184	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), sin(5)), 5)))	0.0003089657435480752	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[3, 17, 10, 19]	mul(cos(ARG19), mul(ARG10, add(5, add(cos(ARG3), sub(5, ARG17)))))	0.0002451031009668462	
+[0, 10, 19, 12]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(mul(ARG0, ARG12)))))	0.0003096481938661441	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10]	mul(add(5, 5), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.00016501849355561186	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG10)))	0.00022567090126612117	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[19, 7]	mul(cos(ARG19), mul(ARG7, add(5, 5)))	0.0003067498529719541	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[19]	mul(cos(ARG19), mul(add(5, 5), add(add(5, 5), sin(5))))	0.0003077479252853215	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG10, sin(sin(ARG7)))))	0.00022478705320295187	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[1, 10, 4]	mul(protectedDiv(ARG1, ARG4), mul(ARG10, add(5, 5)))	6.523016365101259e-05	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, sin(sin(ARG7)))))	0.0003094314873075696	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 7]	mul(add(5, 5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00015525007646331588	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), sin(sin(ARG7)))))	0.0003079342384967124	
+[10]	mul(cos(mul(ARG10, add(5, 5))), mul(ARG10, add(5, 5)))	0.0003064287514438259	
+[19, 12]	mul(cos(ARG12), ARG19)	0.00030797381936122846	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(cos(ARG19)), mul(ARG10, add(5, 5)))	0.0003060258979519891	
+[10, 19, 7]	mul(ARG19, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	3.129664040855461e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10]	mul(cos(add(5, 5)), mul(ARG10, add(5, 5)))	0.00030423458958091584	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[10]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(5))))	2.5951448028609302e-05	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG10, 5), sin(5))))	0.0002255306723326985	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, ARG10), sin(5))))	0.0002255306723326985	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG10)))	0.00022612707688643376	
+[19]	mul(cos(ARG19), mul(sin(sin(sin(5))), add(5, 5)))	0.0003079672198519181	
+[19, 7]	mul(cos(ARG19), add(add(cos(5), 5), sin(sin(ARG7))))	0.0003079484467931655	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7))))))	3.2716808714533325e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 4, 12, 15]	mul(cos(mul(cos(ARG4), add(ARG12, ARG15))), mul(ARG10, add(5, 5)))	0.00030548543298261155	
+[19, 7]	mul(cos(ARG19), mul(add(add(5, 5), sin(sin(ARG7))), add(5, 5)))	0.00030773306284094645	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG10))	0.00022475673345476467	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), sin(sin(sin(5))))))	0.0003075917589662528	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 1, 18, 3]	mul(cos(mul(mul(ARG1, ARG18), neg(ARG3))), ARG10)	0.0003082881237790624	
+[10, 19, 7]	mul(cos(ARG19), mul(mul(ARG10, add(5, 5)), add(add(5, 5), sin(sin(ARG7)))))	0.0002044266444490534	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 14]	mul(cos(ARG19), mul(ARG10, ARG14))	0.0002514572911369057	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG10)))))	0.0003096150341205533	
+[19, 7]	mul(cos(ARG19), mul(ARG7, add(5, 5)))	0.0003067498529719541	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(5, 5)))))	3.2756504630053824e-05	
+[19]	mul(cos(ARG19), sin(sin(5)))	0.0003079571168085872	
+[10, 5]	mul(sin(ARG5), mul(ARG10, add(5, 5)))	0.00030732088618885063	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG10)))	0.00022567090126612117	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(add(5, 5)))))	0.00030967149018173355	
+[10, 19]	mul(cos(ARG19), mul(ARG10, sin(5)))	0.00030754803933079734	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[19, 7]	mul(cos(ARG19), sin(sin(ARG7)))	0.0003079572113079183	
+[10, 13]	mul(mul(neg(5), mul(5, ARG13)), mul(ARG10, add(add(5, 5), mul(ARG10, add(5, 5)))))	1.6558555667897394e-08	
+[10, 7]	mul(cos(add(add(5, 5), sin(sin(ARG7)))), mul(ARG10, add(add(5, 5), sin(5))))	0.000305916602379617	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5)))))))	0.0003096642521889689	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(ARG7), 5)))	0.0003094326782345075	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(5, 5))))))	0.00030967030289732946	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[]	mul(cos(5), mul(neg(5), add(5, 5)))	0.00030791634340520237	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG19)))	0.0002558500964219866	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(mul(ARG10, add(5, 5)), sin(sin(ARG7)))))	3.273316509230803e-05	
+[19]	mul(cos(ARG19), add(5, 5))	0.00030793884810775184	
+[10]	mul(ARG10, mul(ARG10, 5))	4.667143133155371e-05	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[10, 19]	mul(cos(ARG19), mul(ARG19, ARG10))	0.00025498535357842863	
+[19]	mul(cos(ARG19), mul(add(5, 5), add(add(5, 5), sin(sin(5)))))	0.0003077437316499304	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[17]	ARG17	0.00030801925467013446	
+[10, 19, 13]	mul(cos(ARG19), mul(ARG10, add(5, sin(ARG13))))	0.00030938512099911873	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG7, 5)))	0.0002541855692151659	
+[10]	mul(cos(ARG10), mul(ARG10, add(5, 5)))	0.0003052776348495347	
+[19]	mul(cos(ARG19), mul(ARG19, add(5, 5)))	0.0003035964477996791	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10, 7]	mul(cos(add(add(5, 5), sin(sin(ARG7)))), mul(ARG10, add(5, 5)))	0.0003054493058705904	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10]	mul(ARG10, mul(ARG10, add(5, 5)))	2.3470899675697508e-05	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[19, 7]	mul(cos(ARG19), mul(sin(cos(5)), add(add(5, 5), sin(sin(ARG7)))))	0.00030795160164818136	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19, 5, 7]	mul(cos(ARG19), mul(ARG10, add(add(mul(ARG10, add(add(5, 5), sin(sin(ARG5)))), 5), sin(sin(ARG7)))))	3.247254334110105e-05	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[2, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(sin(ARG2))))))	0.00030968383010883556	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, cos(ARG19))))	0.0003093495845968899	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(ARG19, mul(ARG10, add(5, 5)))	3.1374813183141234e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(cos(ARG19)), 5)))	0.00030947829708843666	
+[19]	mul(cos(ARG19), add(5, 5))	0.00030793884810775184	
+[10, 19]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(5, 5))))	3.2732593782583965e-05	
+[10, 19]	mul(cos(ARG19), ARG10)	0.0003083362744308528	
+[10, 19]	mul(cos(ARG19), mul(mul(ARG10, add(5, 5)), add(5, 5)))	0.00020427352691273508	
+[19]	mul(cos(ARG19), neg(neg(5)))	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[17, 10]	mul(add(ARG17, 5), mul(ARG10, add(5, 5)))	3.008000047533374e-05	
+[10]	mul(cos(sin(5)), mul(ARG10, add(5, 5)))	0.00030681673994922116	
+[10, 19, 12, 13]	mul(cos(ARG19), mul(ARG10, protectedDiv(cos(ARG12), cos(ARG13))))	9.054820422322048e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, add(5, 5))))	0.00030869213247506684	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, 5)))	0.00022567090126612117	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5)))))))	0.0003096642521889689	
+[19, 7]	mul(cos(ARG19), ARG7)	0.00030805897449426463	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(cos(ARG19)))))	0.00030961837427430404	
+[10]	mul(5, mul(ARG10, add(5, 5)))	0.0002343600311094655	
+[10, 19]	mul(ARG19, mul(ARG10, add(5, 5)))	3.1374813183141234e-05	
+[10, 19]	mul(cos(cos(ARG19)), mul(ARG10, add(5, 5)))	0.0003060258979519891	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[19, 13, 7]	mul(cos(ARG19), mul(mul(neg(5), neg(ARG13)), add(add(5, 5), sin(sin(ARG7)))))	0.0002582335570245422	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[2, 9, 10, 19]	mul(cos(ARG19), mul(ARG10, add(5, protectedDiv(add(ARG2, ARG2), sub(5, ARG9)))))	0.00021204812820813925	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, add(add(5, 5), sin(sin(ARG7))))))	0.0003087417674051736	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[19]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(5))))	0.00030786720869317404	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, 5)))	0.00022567090126612117	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10, 4, 7]	mul(add(add(5, 5), sin(sin(ARG7))), mul(ARG10, add(add(5, 5), sin(sin(sub(ARG4, ARG7))))))	0.0001545188338821654	
+[10, 19, 4]	mul(cos(ARG19), mul(ARG10, add(add(5, protectedDiv(5, ARG4)), sin(cos(ARG19)))))	0.0003089307094878659	
+[10, 7]	mul(sin(ARG7), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003072401071452208	
+[10, 7]	mul(cos(mul(5, add(5, 5))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003045093423622981	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(sin(ARG7), 5), sin(5))))	0.00030924716637311425	
+[10, 19]	mul(cos(ARG19), mul(mul(ARG10, add(5, 5)), add(add(5, 5), sin(5))))	0.0002168025632257063	
+[10, 19]	mul(cos(ARG19), ARG10)	0.0003083362744308528	
+[16, 10, 19, 7]	mul(cos(ARG19), mul(mul(ARG10, add(add(5, 5), neg(cos(ARG16)))), add(add(5, 5), sin(sin(ARG7)))))	0.00020386642836482655	
+[10]	mul(cos(neg(neg(5))), ARG10)	0.000307970577242506	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[]	5	0.0003079683054937865	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, sin(cos(5))))	0.0003080669080398022	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[2, 19, 4, 6]	mul(sub(add(ARG2, ARG6), add(ARG4, 5)), ARG19)	0.00015860503845292374	
+[10]	mul(cos(mul(ARG10, add(add(5, 5), sin(5)))), mul(ARG10, add(5, 5)))	0.00030740399016674063	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(ARG19, 5))))))	0.00030961831412018077	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19, 6]	mul(cos(ARG19), mul(ARG10, ARG6))	0.0002568741565794354	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(cos(ARG19), 5), sin(sin(neg(5))))))	0.0003094745128894728	
+[19, 7]	mul(cos(ARG19), mul(add(5, 5), add(add(5, 5), sin(sin(ARG7)))))	0.00030773306284094645	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG10, sin(sin(ARG7)))))	0.00022478705320295187	
+[19, 7]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(sin(ARG7)))))	0.00030786315163498817	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG10)))	0.00022567090126612117	
+[10, 7]	mul(cos(ARG7), mul(ARG10, add(5, 5)))	0.00030690099317274026	
+[10, 19, 7]	mul(neg(ARG7), mul(ARG10, add(add(5, 5), sin(sin(ARG19)))))	2.9923243666046123e-05	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10, 7]	mul(mul(ARG10, add(add(5, 5), sin(sin(ARG7)))), mul(ARG10, add(5, 5)))	2.3487098357177074e-06	
+[10]	mul(ARG10, mul(ARG10, add(5, 5)))	2.3470899675697508e-05	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(5)))))	0.00030796090839056576	
+[19, 15]	mul(cos(ARG19), sin(protectedDiv(ARG15, 5)))	0.00030795445074416317	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, ARG7))	0.00025385493938660477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(sin(ARG7)))))	0.0003087417674051736	
+[16, 10, 19]	mul(cos(ARG19), mul(ARG10, protectedDiv(ARG16, 5)))	0.00030514414815863275	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))))	3.27412161195891e-05	
+[18, 7]	mul(cos(add(ARG18, 5)), sin(sin(ARG7)))	0.0003079557608569631	
+[10]	mul(mul(ARG10, add(5, 5)), mul(ARG10, add(add(5, 5), sin(5))))	2.596781156728771e-06	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10, 19, 4]	mul(cos(ARG19), mul(ARG10, cos(neg(ARG4))))	0.00030791674493867995	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, sin(ARG7)))	0.0003079902504430329	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[1, 19]	mul(cos(ARG19), mul(sub(sin(5), add(ARG1, ARG1)), add(add(5, 5), 5)))	0.0002841390767415397	
+[10, 7]	mul(cos(mul(ARG10, add(add(5, 5), sin(sin(ARG7))))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030626904923924107	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(protectedDiv(sin(5), cos(5)), sin(sin(5)))))	0.0003058666059224956	
+[10, 19]	mul(5, mul(ARG10, add(add(ARG19, 5), 5)))	6.054744893335213e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG19)))	0.0002558500964219866	
+[10, 14, 7]	mul(cos(protectedDiv(protectedDiv(ARG7, ARG10), sin(ARG14))), mul(ARG10, add(5, 5)))	0.00030584005901049613	
+[10, 7]	mul(cos(5), mul(ARG10, add(add(mul(ARG10, add(5, 5)), 5), sin(sin(ARG7)))))	8.06941808821486e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[19, 7]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7)))))	0.0003079607301180931	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 12]	mul(cos(sin(add(ARG12, 5))), mul(ARG10, add(5, 5)))	0.0003059781568919267	
+[10, 19]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(add(5, 5), sin(5)))))	3.6158125490222883e-05	
+[19]	mul(cos(ARG19), add(add(5, 5), sin(5)))	0.0003079405385657306	
+[10, 7]	mul(cos(add(add(5, 5), sin(sin(ARG7)))), mul(ARG10, add(5, 5)))	0.0003054493058705904	
+[10, 19]	mul(5, mul(ARG10, ARG19))	6.174989307776432e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 7]	mul(cos(neg(ARG7)), mul(ARG10, add(5, 5)))	0.00030690099317274026	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, 5)))	0.00022567090126612117	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[1, 19]	mul(cos(ARG19), cos(ARG1))	0.0003079577663973199	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, sin(ARG7)), sin(sin(ARG7)))))	0.0003094504836581626	
+[10, 19]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(5, 5))))	3.2732593782583965e-05	
+[19, 7]	mul(cos(ARG19), add(add(5, 5), sin(sin(ARG7))))	0.00030794026826823655	
+[19, 5]	mul(cos(ARG19), mul(ARG5, add(5, 5)))	0.0003055908457785764	
+[0, 19]	mul(cos(ARG19), sub(sin(ARG0), add(5, 5)))	0.00030796934370870766	
+[19]	mul(cos(ARG19), add(5, 5))	0.00030793884810775184	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10]	mul(add(5, 5), mul(ARG10, add(add(5, 5), sin(5))))	0.00016684667138804543	
+[]	neg(5)	0.00030794255735602766	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(5))), 5), sin(sin(ARG7)))))	0.00030897728756355483	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(5, ARG7)))	0.0002541855692151659	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, sin(5)))	0.00030754803933079734	
+[19]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(add(5, 5)))))	0.0003078624059636943	
+[10, 14]	mul(cos(mul(ARG10, add(5, 5))), mul(ARG10, ARG14))	0.0002556623909898883	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(5, 5))))))	0.00030967030289732946	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, cos(ARG19))))	0.0003093495845968899	
+[10]	mul(5, mul(ARG10, add(5, 5)))	0.0002343600311094655	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), cos(ARG19))))	0.0003096117040807569	
+[10, 7]	mul(sin(sin(ARG7)), mul(ARG10, add(5, 5)))	0.00030765783858738516	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19]	mul(cos(ARG19), mul(ARG10, cos(ARG19)))	0.00030790028413167425	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), sin(sin(5))), sin(sin(ARG7)))))	0.00030972583173836287	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[18]	ARG18	0.0003079152695927286	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), 5)))	0.0003093495845968899	
+[10]	mul(add(5, 5), mul(ARG10, add(add(5, 5), sin(5))))	0.00016684667138804543	
+[9, 10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), mul(ARG9, ARG19))))	7.62518611965833e-06	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, add(5, 5)), sin(neg(5)))))	0.0003083755972244926	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, sin(5))))	0.00030920765564751104	
+[10, 19]	mul(ARG19, mul(ARG10, add(add(5, 5), sin(5))))	3.465959749322296e-05	
+[10, 19]	mul(cos(cos(ARG19)), mul(ARG10, add(5, 5)))	0.0003060258979519891	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5)))))))	0.0003096642521889689	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, 5)))	0.0002558500964219866	
+[]	mul(add(5, 5), neg(5))	0.0003077906332784424	
+[10]	mul(mul(ARG10, add(add(5, 5), sin(5))), mul(ARG10, add(add(5, 5), sin(5))))	2.8722786655581287e-06	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(mul(ARG10, add(5, 5)), 5)))	3.274525273220025e-05	
+[10, 7]	mul(cos(mul(ARG10, add(add(5, 5), sin(sin(ARG7))))), mul(ARG10, add(5, 5)))	0.00030612734033228254	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10, 19, 12]	mul(cos(ARG19), mul(ARG10, cos(sin(ARG12))))	0.00030823107147772745	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10, 7]	mul(mul(ARG10, add(5, 5)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.3487098357177074e-06	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[10]	mul(mul(ARG10, add(5, 5)), mul(ARG10, add(5, 5)))	2.3477125293455577e-06	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG19)))	0.00025604188604635167	
+[10, 19, 13, 7]	mul(cos(sin(sin(ARG7))), mul(ARG10, add(sub(mul(5, ARG13), sub(ARG19, 5)), 5)))	7.45467583895749e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), 5), sin(5))))	0.0003089657435480752	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, sin(5))))	0.00030920765564751104	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(5, 5), 5), sin(sin(ARG7)))))	0.0003087417674051736	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(neg(5), add(5, 5))))	0.0003093919950530269	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), sin(protectedDiv(add(5, 5), protectedDiv(5, 5))))))	0.0002557884025905107	
+[10, 7]	mul(cos(5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030781448169684463	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG19, 5)))	0.0002558500964219866	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), sin(sin(ARG7)))))	0.000255877402090966	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[10]	mul(5, mul(ARG10, add(5, sin(5))))	0.0002918290536484478	
+[17, 10, 19, 9]	mul(cos(protectedDiv(sub(ARG17, 5), sub(5, ARG9))), mul(ARG10, add(cos(ARG19), 5)))	0.0003076285223794238	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(sin(ARG7), 5)))	0.0003094326782345075	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), cos(ARG19))))	0.0003096117040807569	
+[10, 7]	mul(sin(sin(ARG7)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030764081145266827	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 7]	mul(sin(ARG7), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003072401071452208	
+[16, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sub(sin(ARG16), sub(5, ARG10)))))	0.00022556662317939924	
+[10]	mul(mul(ARG10, add(5, 5)), mul(sin(neg(5)), add(5, 5)))	0.00015988483208140332	
+[19]	mul(cos(ARG19), cos(ARG19))	0.0003079563995376561	
+[19, 6]	mul(cos(ARG19), mul(add(cos(add(ARG6, 5)), 5), add(5, 5)))	0.00030785931051969666	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG10))	0.00022475673345476467	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[19, 7]	mul(cos(ARG19), mul(add(add(5, 5), sin(sin(ARG7))), add(add(5, 5), sin(5))))	0.0003077609078073308	
+[2, 10, 19]	mul(cos(ARG19), mul(ARG10, ARG2))	0.00024993624654224053	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[11, 10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG11, 5)))	0.00024988298723476967	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[2, 10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(cos(add(ARG2, ARG7)), sin(sin(ARG7)))))	0.000307993132763064	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[19]	mul(cos(ARG19), mul(cos(sub(5, 5)), add(5, 5)))	0.00030793884810775184	
+[4, 5]	protectedDiv(ARG5, ARG4)	0.0003080008693601792	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(add(add(5, 5), sin(sin(5))), 5), sin(sin(ARG7)))))	0.00030897728756355483	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, ARG7))	0.00025385493938660477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(add(5, 5), sin(sin(ARG7))))))))	0.0003096105008820361	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[10]	mul(ARG10, mul(ARG10, add(5, 5)))	2.3470899675697508e-05	
+[10]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.00024262885413456754	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, cos(ARG19))))	0.0003093495845968899	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[0, 19, 5, 7]	mul(cos(ARG19), mul(5, add(sub(cos(ARG0), sub(ARG5, 5)), sin(sin(ARG7)))))	0.0003072629400750919	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG10, 5), sin(sin(ARG7)))))	0.00022570362602481928	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG10, 5), sin(sin(ARG7)))))	0.00022570362602481928	
+[19, 7]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(sin(ARG7)))))	0.00030786315163498817	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG10))	0.00022475673345476467	
+[19]	mul(cos(ARG19), mul(add(add(5, 5), sin(sin(add(5, 5)))), add(5, 5)))	0.00030773463861129155	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG7, sin(5))))	0.0002537161296590111	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(5, 5))))))	0.00030967030289732946	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[19, 6]	mul(cos(ARG19), ARG6)	0.00030811562737884736	
+[10]	mul(cos(mul(ARG10, add(5, 5))), mul(5, add(5, 5)))	0.0003082713967684638	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(5, 5)))))	3.2756504630053824e-05	
+[19, 7]	mul(cos(ARG19), sin(sin(ARG7)))	0.0003079572113079183	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG19)))	0.00025604188604635167	
+[10, 7]	mul(cos(sin(sin(ARG7))), mul(ARG10, add(5, 5)))	0.000305634978131006	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, ARG7))	0.00025385493938660477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(add(add(5, 5), sin(5)))))))	0.0003096113502983383	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[19, 5]	mul(cos(ARG19), ARG5)	0.00030793890519284874	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), neg(ARG10))))	0.00022497109026508246	
+[19]	mul(cos(ARG19), add(5, 5))	0.00030793884810775184	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(mul(ARG10, add(add(5, 5), sin(sin(sin(5))))), sin(sin(ARG7)))))	3.527852019075855e-05	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(ARG10, sin(sin(ARG7)))))	0.00022478705320295187	
+[19]	mul(cos(ARG19), mul(add(5, 5), add(5, 5)))	0.0003077186854728894	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10, 7]	mul(cos(mul(ARG10, add(add(5, 5), sin(5)))), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030746287288094514	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7))))), sin(sin(ARG7)))))	3.273031746462217e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, sin(sin(ARG7))), sin(sin(ARG7)))))	0.0003094519005332768	
+[1, 10, 14]	mul(cos(add(add(ARG1, 5), mul(ARG1, ARG14))), mul(ARG10, add(add(5, 5), sin(sin(sin(5))))))	0.00030523165666747175	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG7)))	0.0002538530658125904	
+[10, 19]	mul(cos(ARG19), mul(ARG10, 5))	0.0003093919950530269	
+[4]	sub(cos(ARG4), sin(5))	0.00030795726146762764	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10]	mul(5, mul(ARG10, add(5, 5)))	0.0002343600311094655	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, sin(protectedDiv(5, 5)))))	0.0003095176702883874	
+[10]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.00024262885413456754	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000309681833556773	
+[10, 19]	mul(cos(ARG19), sin(sin(mul(ARG10, add(5, 5)))))	0.0003079575951833632	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))))	3.27412161195891e-05	
+[8, 19]	mul(cos(ARG19), add(add(5, ARG19), sub(ARG8, 5)))	0.00030755637697130195	
+[10, 19, 5]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, add(add(5, 5), sin(ARG5))))))	3.243632384966886e-05	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[19]	mul(cos(ARG19), ARG19)	0.00030772291061576966	
+[10]	mul(cos(mul(ARG10, add(add(5, 5), sin(5)))), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.00030762390030272926	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, cos(ARG19)), sin(5))))	0.0003091626632393117	
+[10, 7]	mul(5, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00023477097379392362	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(ARG19, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	3.129664040855461e-05	
+[10, 19, 7]	mul(cos(cos(ARG19)), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030613215492927723	
+[16, 0]	mul(add(ARG16, ARG0), 5)	0.0003045954786602788	
+[8, 10, 19, 13]	mul(cos(ARG19), mul(ARG10, add(add(5, mul(ARG10, add(add(5, 5), sin(add(ARG8, ARG13))))), sin(5))))	3.2681411321221984e-05	
+[1, 10, 11, 15]	mul(cos(add(add(ARG11, 5), sub(ARG1, ARG15))), mul(ARG10, add(5, 5)))	0.00030535517701153975	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[18, 19]	mul(cos(ARG18), mul(ARG19, add(add(5, 5), sin(sin(5)))))	0.0003063477731674112	
+[10]	mul(cos(ARG10), mul(ARG10, add(add(5, 5), sin(5))))	0.00030571633852067757	
+[1, 10]	mul(5, mul(ARG10, add(add(5, 5), sin(cos(ARG1)))))	0.00023375938476589872	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), 5)))	0.0003093495845968899	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(ARG10, 5), sin(sin(ARG7)))))	0.00022570362602481928	
+[19, 7]	mul(cos(ARG19), sin(sin(ARG7)))	0.0003079572113079183	
+[16, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), mul(ARG10, sin(sub(5, ARG16))))))	0.00025829029860514164	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[0, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(neg(mul(5, ARG0))))))	0.00030949666661254905	
+[10, 7]	mul(cos(5), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030781448169684463	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), sin(5))))	0.00025573599660630355	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 11]	mul(ARG11, mul(ARG10, add(5, ARG10)))	4.021786169295658e-06	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[19, 7]	mul(cos(ARG19), mul(sin(add(neg(ARG7), sin(5))), add(5, 5)))	0.0003079363088167059	
+[10, 12]	mul(ARG12, mul(ARG10, add(add(5, 5), sin(ARG10))))	3.100055206021126e-05	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, ARG10), sin(sin(ARG7)))))	0.00022570362602481928	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, sin(sin(ARG7))), sin(sin(ARG7)))))	0.0003094519005332768	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), add(add(5, ARG7), sin(sin(5))))))	0.0002530710014228924	
+[10, 19]	mul(cos(ARG19), mul(ARG10, sin(5)))	0.00030754803933079734	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(add(5, 5), sin(5))))	0.0003079608374670854	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 7]	mul(cos(ARG7), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.00030699291934447524	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG19)))))	0.0003095643059706756	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, mul(ARG10, add(5, 5))))	3.2732593782583965e-05	
+[19]	mul(cos(ARG19), add(add(5, 5), sin(sin(5))))	0.00030794029201158644	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5))))))), sin(sin(ARG7)))))	3.259840011759741e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[17, 10]	mul(cos(ARG17), mul(ARG10, add(5, 5)))	0.0003078509119520584	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, mul(ARG10, add(5, 5)))))	3.274525273220025e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[19, 7]	mul(cos(ARG19), mul(add(add(5, 5), sin(sin(ARG7))), add(5, 5)))	0.00030773306284094645	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG10))	0.00022475673345476467	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(5))))	0.0003096857219195718	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(mul(ARG10, add(add(5, 5), sin(sin(mul(ARG10, add(5, 5)))))), 5)))	3.259784086880955e-05	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[2, 10, 19]	mul(cos(ARG19), mul(ARG10, add(ARG10, sin(ARG2))))	0.00022469409582861547	
+[19]	mul(cos(ARG19), mul(add(5, 5), add(5, 5)))	0.0003077186854728894	
+[10]	mul(add(5, 5), mul(ARG10, add(5, 5)))	0.00015497231152043577	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(cos(ARG19), sin(sin(ARG7)))))	0.0003079342384967124	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(mul(ARG10, add(5, 5)), add(5, 5)))	0.00020427352691273508	
+[10, 19]	mul(cos(ARG19), ARG10)	0.0003083362744308528	
+[19]	mul(cos(ARG19), mul(ARG19, add(5, 5)))	0.0003035964477996791	
+[17, 10]	mul(cos(ARG10), mul(ARG10, add(add(5, 5), protectedDiv(protectedDiv(ARG17, ARG10), add(5, 5)))))	0.0003052681069017113	
+[10, 7]	mul(cos(sin(sin(ARG7))), mul(ARG10, add(5, 5)))	0.000305634978131006	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), ARG19)))	0.00025604188604635167	
+[10]	mul(cos(5), mul(ARG10, add(5, 5)))	0.00030777019473954303	
+[9, 10, 19]	mul(cos(ARG19), mul(ARG10, add(add(ARG19, 5), protectedDiv(ARG9, 5))))	0.0002554969105904333	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(sin(sin(ARG7)), 5), sin(sin(ARG7)))))	0.0003094519005332768	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), 5)))	0.00030869213247506684	
+[19]	mul(cos(ARG19), mul(ARG19, add(5, 5)))	0.0003035964477996791	
+[17]	ARG17	0.00030801925467013446	
+[10, 19]	mul(cos(ARG19), mul(ARG10, ARG19))	0.00025498535357842863	
+[10, 4, 12]	mul(cos(add(add(5, 5), mul(mul(ARG4, 5), protectedDiv(5, ARG12)))), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.000307045341118906	
+[1, 4]	mul(ARG1, ARG4)	0.00021470816561946373	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(cos(ARG19), 5), sin(5))))	0.0003091626632393117	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[19]	mul(cos(ARG19), mul(cos(ARG19), add(5, 5)))	0.00030796131757392743	
+[19]	mul(cos(ARG19), 5)	0.00030794751035482777	
+[10, 19, 14]	mul(cos(ARG19), mul(ARG10, add(mul(ARG10, add(add(5, 5), sin(sin(sin(ARG14))))), 5)))	3.278591126554378e-05	
+[10, 7]	mul(ARG10, mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	2.347860479928534e-05	
+[3]	add(cos(ARG3), sin(5))	0.0003079525381904314	
+[10, 19]	mul(cos(cos(ARG19)), mul(ARG10, 5))	0.0003076756812103658	
+[10, 19]	mul(ARG19, mul(ARG10, add(add(5, 5), 5)))	2.0982423566930946e-05	
+[10]	mul(add(add(5, 5), sin(sin(5))), mul(ARG10, add(add(5, 5), sin(5))))	0.0001770326776863035	
+[17, 10, 19]	mul(ARG17, mul(ARG10, cos(ARG19)))	0.0002565390852474311	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, ARG10)))	0.00022567090126612117	
+[19]	mul(cos(ARG19), mul(5, add(5, 5)))	0.00030785601068036465	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(5, 5)))	0.0003096402995975477	
+[10, 19]	mul(cos(ARG19), neg(sub(ARG10, 5)))	0.0003075213096394242	
+[10, 19, 7]	mul(cos(ARG19), mul(ARG10, add(add(5, 5), sin(sin(ARG7)))))	0.0003096851400967576	
+[10, 19]	mul(cos(ARG19), mul(ARG10, add(add(5, ARG10), sin(sin(sin(5))))))	0.00022556565131282241	
+[19, 7]	mul(cos(ARG19), mul(5, add(add(5, 5), sin(sin(ARG7)))))	0.00030786315163498817	
+[0, 10, 19, 15]	mul(cos(ARG19), mul(ARG10, protectedDiv(ARG15, ARG0)))	0.000293471682756635	
+[10]	mul(cos(neg(sin(5))), mul(ARG10, add(add(5, 5), sin(sin(5)))))	0.00030702262688454504	

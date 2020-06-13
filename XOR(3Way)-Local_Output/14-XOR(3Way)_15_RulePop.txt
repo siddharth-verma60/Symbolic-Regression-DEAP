@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7793749999999999	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(ARG17, sub(ARG14, cos(5)))))	0.49687499999999996	
+[17, 18, 14]	sin(sub(sin(ARG14), mul(protectedDiv(protectedDiv(cos(protectedDiv(ARG17, ARG18)), ARG18), ARG18), 5)))	0.49812500000000004	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.565625	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), ARG17)))	0.5762499999999999	
+[8, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sub(ARG14, cos(5)))))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.590625	
+[17, 18, 19, 14]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sub(ARG14, cos(5))), ARG18), 5)))	0.48625	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), ARG18)))	0.593125	
+[17]	sin(sub(sin(ARG17), mul(ARG17, 5)))	0.49312500000000004	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18))))), sub(ARG14, cos(5)))))	0.639375	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(neg(neg(ARG18)), ARG18), 5)))	0.5	
+[17, 18, 19]	sin(sub(sin(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.708125	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(mul(protectedDiv(ARG17, ARG18), ARG18), cos(5)))))	0.59375	
+[18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG14)), ARG18), ARG18), 5)))	0.494375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), cos(ARG18))), protectedDiv(5, ARG8))	0.445	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sin(ARG17), sub(ARG14, cos(5)))))	0.478125	
+[17, 18]	sin(sub(ARG18, sin(ARG17)))	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5))))))), sub(ARG14, cos(5)))))	0.62125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sub(ARG19, protectedDiv(ARG17, ARG18)), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.45	
+[18]	sin(sub(ARG18, 5))	0.4975	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(ARG17, ARG18)), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.39249999999999996	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG18, sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.529375	
+[17, 18]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.5075000000000001	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG19, ARG18))), ARG18), ARG18), 5)))	0.48125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))))))	0.37125	
+[16, 1, 18, 11]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(cos(5)), ARG18), ARG18), 5)))	0.4975	
+[14]	sin(ARG14)	0.49375	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5))))), ARG18), ARG18), 5)))	0.42937499999999995	
+[6, 9, 14, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(sub(neg(ARG9), add(ARG6, 5)), ARG18)), sub(ARG14, cos(5)))))	0.5175000000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), ARG18))), ARG18), ARG18), 5)))	0.48000000000000004	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(protectedDiv(ARG17, ARG18)), ARG18), ARG18), cos(ARG18))))	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[18, 14]	sin(sub(ARG18, protectedDiv(ARG18, sub(ARG14, cos(5)))))	0.499375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))))))))), sub(ARG14, sub(ARG14, cos(5))))))	0.556875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sub(ARG19, ARG17))))), sub(ARG14, cos(5)))))	0.68625	
+[17, 18]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), 5)))	0.494375	
+[1, 6, 14, 15, 18]	sin(sub(ARG18, protectedDiv(protectedDiv(ARG14, ARG15), sub(ARG1, ARG6))))	0.510625	
+[1, 11, 14, 16, 17, 18]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(sub(ARG14, cos(5)), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.50625	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(5), cos(ARG18))), protectedDiv(5, ARG8))	0.350625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17)))), sub(ARG14, cos(ARG17)))))	0.56	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, sub(neg(5), sin(ARG14))), sub(ARG14, cos(5)))))	0.51625	
+[5, 8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(ARG18, cos(ARG18))), protectedDiv(ARG5, ARG8))	0.68875	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sin(ARG17)), ARG18), 5)))	0.614375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, 5)))), sub(ARG14, cos(5)))))	0.39375	
+[17, 18, 2]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(cos(neg(ARG2))), ARG18), ARG18), sin(ARG17))))	0.508125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18))), 5)))	0.7075	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(ARG18, sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.511875	
+[17, 18, 14]	sin(sub(sin(ARG18), protectedDiv(protectedDiv(ARG17, sin(ARG17)), sub(ARG14, cos(5)))))	0.51375	
+[0, 4, 8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(mul(protectedDiv(ARG17, ARG18), sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(mul(neg(ARG0), protectedDiv(5, ARG4)))))))), cos(ARG18))), protectedDiv(5, ARG8))	0.603125	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG18)), ARG18), 5), 5)))	0.509375	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), ARG18)), ARG18))), ARG18), ARG18), 5)))	0.48375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG17), 5)))	0.649375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.6737500000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[3, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, protectedDiv(neg(ARG3), neg(ARG14))))	0.646875	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG17, ARG18), 5)))	0.48562500000000003	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(5, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.48375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), ARG18), ARG18), 5)))	0.528125	
+[6, 11, 14, 18, 19]	sin(sub(ARG18, protectedDiv(cos(sub(ARG19, mul(add(ARG11, ARG6), ARG18))), sub(ARG14, cos(5)))))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG19))))	0.51125	
+[0, 17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(cos(5), mul(protectedDiv(mul(mul(5, ARG0), cos(5)), ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.49875	
+[17, 18, 19]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5)))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG17)))	0.41	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(5, ARG18), ARG17))), ARG18), ARG18), 5)))	0.571875	
+[17, 18, 19, 14]	sin(sub(protectedDiv(ARG17, ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.73125	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG18, ARG18))), ARG18), ARG18), 5)))	0.49312500000000004	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))), 5)))	0.53	
+[2]	add(protectedDiv(ARG2, ARG2), protectedDiv(5, 5))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(protectedDiv(ARG17, ARG18), ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.71375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7931250000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 14]	sin(sub(sin(ARG18), protectedDiv(sub(sub(ARG14, cos(5)), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.49875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(5))), ARG19)))	0.5025	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(mul(protectedDiv(ARG17, ARG18), ARG18), ARG8))	0.735625	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, 5)), ARG18), ARG18), 5)))	0.494375	
+[17]	sin(sub(sin(ARG17), ARG17))	0.5	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5), ARG18), ARG18))), ARG18), ARG18), 5)))	0.371875	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.50125	
+[17]	ARG17	0.5081249999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG18)))	0.32499999999999996	
+[]	sin(sub(sin(neg(neg(5))), sin(5)))	0.5	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, 5))))	0.499375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))))), ARG18), ARG18), 5)))	0.6581250000000001	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG18), sub(ARG14, cos(5)))))	0.504375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5))), sub(ARG14, cos(5)))))	0.52	
+[17, 18, 19]	sin(sub(ARG18, sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(mul(protectedDiv(5, 5), sin(5)), ARG18))))))	0.455625	
+[16, 18]	sin(sub(ARG18, neg(ARG16)))	0.5081249999999999	
+[17, 18, 19]	sin(sub(sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.65625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, ARG14))))	0.5025	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(cos(5), cos(5)))))	0.5025	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG17), sin(ARG17)))))), sub(ARG14, cos(neg(5))))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), 5)))	0.50875	
+[17, 14]	sin(sub(sin(sub(ARG14, cos(5))), mul(ARG17, 5)))	0.506875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, neg(neg(ARG18))))))	0.47750000000000004	
+[17, 18, 19, 9]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(sin(ARG17), ARG18), cos(add(ARG9, ARG18))))), ARG18), ARG18), 5)))	0.5575	
+[8, 12, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18)), sin(protectedDiv(ARG12, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.605	
+[18]	sin(ARG18)	0.508125	
+[17, 18, 19, 14]	sin(sub(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.5825	
+[17, 18, 19]	sin(sub(ARG18, mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(5, cos(5))), 5)))	0.60875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18), ARG18)))	0.479375	
+[18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG14, ARG18), ARG18))), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG17, cos(5)))))	0.6174999999999999	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[17, 18, 19, 15]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, sin(mul(ARG15, 5)))), ARG18), ARG18), 5)))	0.49	
+[14, 15, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(sin(ARG15), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.568125	
+[17, 18]	sin(mul(protectedDiv(ARG17, ARG18), ARG18))	0.526875	
+[17, 18, 19, 14]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))), ARG18), ARG18), 5)))	0.6375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG17), sin(ARG17)))), ARG18)), sin(protectedDiv(neg(5), neg(5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.670625	
+[1, 11, 16, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG18, ARG18), ARG18))), ARG18), ARG18), 5)))	0.48	
+[3, 14, 16, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(cos(sub(ARG16, ARG3)), protectedDiv(ARG17, ARG18)), sub(ARG14, cos(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))))))	0.47062499999999996	
+[]	sin(5)	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18))))))	0.53	
+[16, 18]	sin(sub(sin(sin(ARG16)), mul(protectedDiv(5, ARG18), 5)))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(protectedDiv(ARG17, ARG18), ARG18), ARG18))), ARG18), ARG18), 5)))	0.7518750000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG17, sin(protectedDiv(ARG17, sin(5))))), sub(ARG14, cos(5)))))	0.568125	
+[17, 18, 19]	sin(sub(sin(neg(ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19]	sin(sub(sin(neg(neg(neg(ARG18)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(cos(ARG19), sin(ARG17))))	0.559375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(ARG17)), ARG18), sin(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), sub(ARG14, cos(5)))))), sub(ARG14, cos(5)))))	0.530625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), 5)))	0.441875	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(protectedDiv(ARG17, ARG18), ARG18), ARG18), 5)))	0.4825	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7931250000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), 5)), sub(ARG14, cos(5)))))	0.41812499999999997	
+[17, 18, 19]	sin(sub(sin(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18), ARG18), sin(protectedDiv(ARG17, sin(ARG17))))))	0.42374999999999996	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG17), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.6737500000000001	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG18, ARG18), ARG18))), ARG18), ARG18), 5)))	0.464375	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))), sub(ARG14, cos(5)))))	0.53	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))), ARG18), ARG18), 5)))	0.4825	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 5]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sub(ARG5, 5), protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)), ARG18), 5)))	0.46124999999999994	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(ARG18, 5)))	0.505625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))), ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7381249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG17), sub(ARG14, cos(5)))))	0.65125	
+[19, 17, 18, 3]	sin(sub(sin(ARG3), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.7581249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), neg(neg(ARG18))), ARG18), 5)))	0.80375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(neg(mul(5, 5))))), sub(ARG14, cos(5)))))	0.510625	
+[17]	sin(ARG17)	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))), ARG18)))), sub(ARG14, cos(5)))))	0.7262500000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), ARG18)))), sub(ARG14, cos(5)))))	0.55625	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(ARG17, sub(ARG14, cos(5)))))	0.49687499999999996	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG17, cos(5)))))	0.5575	
+[]	5	0.5	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), ARG17)))	0.5762499999999999	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(sub(ARG14, cos(5)), ARG18), ARG17))), ARG18), ARG18), 5)))	0.515	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG17), sub(ARG14, cos(5)))))	0.65125	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, sub(5, 5))), ARG18), ARG18), 5)))	0.501875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), 5))), ARG18), ARG18), 5)))	0.571875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(ARG18, ARG8))	0.7425	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)))))))), sub(ARG14, cos(5)))))	0.7306250000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(ARG17, sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.613125	
+[4, 11, 14, 17, 18]	sin(sub(ARG18, protectedDiv(sub(protectedDiv(add(ARG4, 5), neg(ARG11)), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.5231250000000001	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(neg(5), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.48	
+[17, 18, 19, 14]	sin(sub(sin(neg(ARG14)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.6599999999999999	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(neg(ARG18), cos(5)))))	0.478125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5), ARG18))), ARG18), ARG18), 5)))	0.326875	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), protectedDiv(ARG17, ARG18)))	0.488125	
+[18, 4]	sin(sub(ARG18, sub(5, ARG4)))	0.4825	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.494375	
+[19]	sin(ARG19)	0.5075000000000001	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG17, cos(5)))))	0.6056250000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG14, ARG18), sin(protectedDiv(ARG17, ARG17)))), sub(ARG14, cos(5)))))	0.511875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG18))), cos(5))))	0.684375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), protectedDiv(ARG17, ARG18)), ARG18), 5)))	0.560625	
+[8, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG8), sub(ARG14, sub(ARG14, cos(5))))))	0.49062500000000003	
+[17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(neg(5), neg(5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))))	0.770625	
+[1, 18, 11]	sin(sub(protectedDiv(ARG18, sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(5), ARG18), ARG18), 5)))	0.485625	
+[11, 16, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(ARG16, ARG11)))), ARG18), ARG18), 5)))	0.61125	
+[17, 18, 19]	sin(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18))	0.46687500000000004	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))), ARG18), 5)))	0.450625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), neg(ARG18))))	0.508125	
+[17, 18, 19]	sin(sub(sin(neg(5)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[18, 14]	sin(sub(ARG18, protectedDiv(ARG18, sub(ARG14, cos(5)))))	0.499375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17)))))), 5)))	0.690625	
+[18]	sin(sub(ARG18, ARG18))	0.5	
+[1, 11, 14, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))), ARG18), ARG18), 5)))	0.578125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sin(ARG17)))), sub(ARG14, cos(5)))))	0.7293750000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17))))))), sub(ARG14, cos(5)))))	0.7293750000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(5, mul(protectedDiv(ARG17, ARG18), ARG18)))))), sub(ARG14, cos(5)))))	0.43000000000000005	
+[18, 19]	sin(sub(sin(5), mul(protectedDiv(protectedDiv(cos(sub(ARG19, 5)), ARG18), ARG18), 5)))	0.5	
+[3, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sin(protectedDiv(ARG18, sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, protectedDiv(neg(ARG3), neg(ARG14))))	0.5337500000000001	
+[4, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(ARG19, ARG4))), sub(ARG14, cos(5)))))	0.603125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(5, sub(sin(ARG17), cos(ARG18))))))), sub(ARG14, cos(5)))))	0.39375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), 5), protectedDiv(5, ARG8))	0.650625	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[4]	sin(ARG4)	0.509375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), sub(neg(neg(ARG18)), cos(5)))))	0.579375	
+[17, 18, 14]	sin(sub(sin(ARG14), mul(protectedDiv(protectedDiv(cos(sub(sub(5, 5), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.506875	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.609375	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG18), sub(ARG14, cos(5)))))	0.504375	
+[4, 7]	sub(add(ARG4, ARG7), sin(5))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, sin(protectedDiv(protectedDiv(ARG17, sin(ARG17)), ARG18)))), sub(ARG14, cos(5)))))	0.6675	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), sub(ARG14, cos(5)))))	0.600625	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(ARG18, sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.511875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18))), ARG18), 5)))	0.719375	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(ARG19, sub(ARG14, cos(5)))))	0.51125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.5125	
+[17, 18]	sin(sub(sin(ARG17), mul(protectedDiv(ARG18, ARG18), 5)))	0.5	
+[17, 18, 19]	sin(sub(sin(neg(neg(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.708125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17)))))))), ARG18), ARG18), 5)))	0.604375	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(ARG17, sub(ARG14, cos(5)))))	0.49687499999999996	
+[17, 18, 19, 14]	sin(sub(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17)))), sub(ARG14, cos(5)))))	0.645	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG18), sub(ARG14, cos(5)))))	0.504375	
+[11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG18, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.708125	
+[17, 18, 19, 1]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG1), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.60625	
+[17, 18, 19]	sin(sub(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.7150000000000001	
+[0, 4, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18)))), sub(ARG14, add(ARG0, ARG4)))))	0.5231250000000001	
+[17]	sin(ARG17)	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))), ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.5387500000000001	
+[19, 3]	sub(ARG3, ARG19)	0.4925	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, sub(ARG14, cos(5))))))	0.599375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG18, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.625625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG19), 5)))	0.661875	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), 5)))	0.494375	
+[4, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))), sub(ARG14, neg(ARG4)))))	0.57875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18]	sin(sub(sin(neg(neg(sin(5)))), mul(protectedDiv(protectedDiv(ARG17, ARG18), ARG18), 5)))	0.511875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), sin(ARG17)))), 5)), sin(protectedDiv(neg(5), neg(5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.521875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(ARG18)))))	0.605	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), 5))), ARG18), ARG18), 5)))	0.5525	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))), sub(ARG14, cos(5)))))	0.7175	
+[16, 1, 18, 11]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), 5)))	0.49875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, neg(5)), sub(ARG14, cos(5)))))	0.520625	
+[0, 18, 7]	sin(sub(sin(neg(neg(ARG18))), mul(neg(add(ARG7, ARG0)), 5)))	0.489375	
+[18, 19]	sin(sub(sin(ARG19), ARG18))	0.49124999999999996	
+[17, 18, 19]	sin(sub(sin(neg(ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19, 14]	sin(sub(neg(ARG18), protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.329375	
+[17, 18, 19]	sin(sub(sin(neg(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.54875	
+[18, 19, 12, 14]	sin(sub(sin(ARG18), protectedDiv(sub(ARG19, neg(ARG18)), sub(ARG14, protectedDiv(mul(5, ARG12), neg(5))))))	0.500625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(mul(protectedDiv(ARG17, ARG18), ARG18))))))	0.6375	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, 5)), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5)))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG19, ARG18), 5)))	0.491875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.495	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG17, ARG18)), 5)))	0.54625	
+[18, 3]	sin(sub(sin(neg(neg(ARG18))), mul(ARG3, 5)))	0.50875	
+[17, 18, 19, 14]	sin(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.545625	
+[18, 14]	sin(sub(ARG18, protectedDiv(ARG18, sub(ARG14, cos(5)))))	0.499375	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(ARG17, 5)))	0.47187500000000004	
+[17, 18, 19, 15]	sin(sub(sin(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG15, ARG18), ARG17))), ARG18), ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.70375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.481875	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG19), ARG18), ARG18), 5)))	0.501875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), cos(5)))))	0.6275	
+[18, 5]	sin(sub(sin(neg(neg(ARG18))), neg(ARG5)))	0.509375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[10, 17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), protectedDiv(5, ARG10)), ARG18), 5)))	0.5725	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(sin(ARG17), ARG18))), ARG18), ARG18), 5)))	0.67875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, protectedDiv(ARG17, ARG18)))))), sub(ARG14, cos(5)))))	0.6737500000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(ARG17))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(protectedDiv(neg(5), neg(5)), ARG18)))), sub(ARG14, cos(5)))))	0.71375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, sin(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(ARG17)), mul(protectedDiv(ARG17, ARG18), sin(ARG17))))), sub(ARG14, cos(5)))))	0.491875	
+[0, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17)))))), sub(add(sin(5), cos(ARG0)), cos(5)))))	0.660625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG17, ARG18))), ARG18), ARG18), 5)))	0.72375	
+[7, 8, 11, 17, 18, 19]	mul(protectedDiv(sub(protectedDiv(add(ARG11, ARG7), cos(5)), mul(protectedDiv(protectedDiv(ARG17, ARG18), protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.53125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(add(5, 5), protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(neg(5), neg(5))))), ARG18), protectedDiv(5, ARG8))	0.576875	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, sub(sin(ARG17), cos(ARG18))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.835	
+[16, 17]	sin(sub(sin(ARG17), mul(protectedDiv(neg(5), add(ARG16, 5)), 5)))	0.5	
+[8, 12, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), mul(protectedDiv(ARG12, ARG18), ARG18)), protectedDiv(5, ARG8))	0.631875	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG18), sub(ARG14, cos(5)))))	0.504375	
+[17, 18, 19, 14]	sin(sub(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.673125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), sub(ARG14, cos(5)))))	0.275625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17)))), 5)))	0.62	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(protectedDiv(ARG18, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(neg(ARG18)))), sub(ARG14, cos(5)))))	0.6581250000000001	
+[17, 18, 19]	sin(sub(protectedDiv(ARG17, ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), 5)))	0.681875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(sin(neg(neg(ARG18))), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.65625	
+[17, 18, 19, 14]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, protectedDiv(neg(ARG18), neg(ARG14))))	0.770625	
+[3, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG3), ARG18), 5)))	0.579375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, neg(5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.464375	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(neg(5), ARG18), ARG18))), ARG18), ARG18), 5)))	0.49	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5)))	0.770625	
+[6, 15, 17, 18, 19]	sin(sub(sin(neg(mul(ARG6, ARG15))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.68875	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(cos(5), ARG18), ARG18))), ARG18), ARG18), sin(5))))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, ARG17))))	0.46624999999999994	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG19), cos(ARG18))), protectedDiv(5, ARG8))	0.6399999999999999	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(ARG17, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), sub(ARG14, cos(5)))))	0.49187500000000006	
+[18]	sin(ARG18)	0.508125	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5))))))), ARG18), ARG18), 5)))	0.6875	
+[17, 18]	sin(sub(sin(neg(5)), mul(protectedDiv(protectedDiv(cos(sub(ARG18, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.48687499999999995	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG19), ARG18))), ARG18), ARG18), 5)))	0.60875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(sub(ARG14, cos(5)), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.495625	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), protectedDiv(ARG17, ARG18))))	0.52875	
+[17, 18, 19]	sin(sub(ARG18, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.74125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(sin(neg(neg(ARG18)))))), protectedDiv(5, ARG8))	0.76625	
+[17, 18, 19]	sin(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))))	0.469375	
+[1, 11, 16, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), ARG18), ARG18), 5)))	0.47375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[10, 16, 17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(neg(ARG18), ARG18))), add(ARG10, ARG16)), ARG18), 5)))	0.49	
+[17, 18, 19]	sin(sub(sin(neg(protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.54875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), protectedDiv(ARG17, protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.65125	
+[17, 18, 19]	sin(sub(sin(sin(protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.745625	
+[15]	sin(ARG15)	0.50875	
+[18, 19, 13]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, cos(5))), ARG18), add(5, ARG13)), 5)))	0.51	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, sin(ARG19)), ARG18))), ARG18), ARG18), 5)))	0.645625	
+[14, 15, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(protectedDiv(ARG15, ARG19), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.4525	
+[0, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, neg(ARG0)))))	0.559375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), ARG18)), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.57125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sin(protectedDiv(ARG17, ARG18))), ARG18), 5)))	0.59375	
+[11, 13, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(add(sub(5, ARG13), protectedDiv(ARG11, 5)), mul(protectedDiv(ARG17, ARG18), ARG19)), sub(ARG14, cos(5)))))	0.48624999999999996	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sin(protectedDiv(ARG18, ARG18)), protectedDiv(ARG19, ARG17)), sub(ARG14, cos(5)))))	0.54375	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(sin(sub(ARG14, cos(5))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.7093750000000001	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), neg(neg(ARG18)))))	0.593125	
+[]	sin(neg(5))	0.5	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.6399999999999999	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5))), 5)))	0.46187500000000004	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17)))))	0.479375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(sin(5), protectedDiv(ARG17, ARG18)), sub(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), cos(5)))))	0.4625	
+[18, 19, 14]	sin(sub(sin(ARG19), mul(protectedDiv(ARG14, ARG18), 5)))	0.50375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[8, 11]	sin(add(ARG11, ARG8))	0.515	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))))), sub(ARG14, cos(5)))))	0.50125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(5)))))	0.780625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), ARG14)))	0.524375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(sub(ARG14, cos(5)), cos(5)))))	0.558125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), sin(protectedDiv(ARG17, sin(ARG17))))), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.6375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), sub(ARG14, cos(5)))))	0.600625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), neg(neg(ARG18))), 5)))	0.80375	
+[17, 18, 19]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5)))	0.770625	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG18, cos(5)))))	0.608125	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG14), ARG18), 5)))	0.545625	
+[18]	sin(sub(ARG18, ARG18))	0.5	
+[2, 8, 14, 17, 18, 19]	sin(sub(sin(neg(neg(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(mul(ARG8, mul(ARG19, ARG2))))))), sub(ARG14, cos(5)))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.736875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, sub(ARG14, cos(5))))))	0.7849999999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(5, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.26937500000000003	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, 5)))), sub(ARG14, cos(ARG18)))))	0.48062499999999997	
+[17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), ARG17)	0.76625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(neg(neg(ARG18))))), sub(ARG14, cos(5)))))	0.765625	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, sin(ARG17))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), neg(sin(5))))), ARG18), ARG18), 5)))	0.7518750000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(cos(ARG18), ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.6168750000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), ARG17)), protectedDiv(5, ARG8))	0.3425	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7931250000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))), sub(ARG14, cos(5)))))	0.55	
+[17, 18]	sin(sub(ARG18, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))))	0.500625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(5)))))	0.51625	
+[9, 18, 19, 17]	sin(sub(sin(neg(neg(ARG9))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG17), 5)))	0.618125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5)))	0.770625	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG18, cos(5)))))	0.585625	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG14), ARG18))), ARG18), ARG18), 5)))	0.53875	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5))))))	0.58125	
+[18]	sin(sub(ARG18, 5))	0.4975	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.38249999999999995	
+[18]	sin(sub(ARG18, ARG18))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5))), sub(ARG14, cos(5)))))	0.56875	
+[17, 18, 19]	sin(sub(ARG18, sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17))))))	0.60875	
+[18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(ARG18, ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))), ARG18))), ARG18), ARG18), 5)))	0.60375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[3, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, protectedDiv(protectedDiv(5, ARG3), neg(ARG14)))))), sub(ARG14, cos(5)))))	0.70625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG17, ARG18))), ARG18), ARG18), 5)))	0.72375	
+[17, 18, 19, 14]	sin(sub(neg(ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.315	
+[17, 18, 19]	sin(sub(sin(neg(ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19, 14]	sin(sub(ARG17, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.63625	
+[0, 4, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG18))))), sub(ARG14, cos(add(ARG4, ARG0))))))	0.55125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(5))))), sub(ARG14, cos(5)))))	0.628125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG19))))	0.51125	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(cos(5), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.5	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.81875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, sub(ARG14, cos(5))))))	0.6856249999999999	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG17), ARG18), ARG18), 5)))	0.511875	
+[18, 15]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(neg(ARG18), ARG18), protectedDiv(ARG15, 5)), 5)))	0.5	
+[11, 17, 18, 19]	sin(sub(sin(neg(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(sub(ARG11, 5), ARG18))), ARG18), ARG18), 5)))	0.469375	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[18]	sin(sub(sin(neg(neg(ARG18))), 5))	0.5	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG18, ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), 5)))	0.47375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, sub(ARG14, protectedDiv(ARG17, ARG18))))))	0.52875	
+[11, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(cos(5), sin(protectedDiv(ARG17, add(ARG11, 5))))), sub(ARG14, cos(5)))))	0.5187499999999999	
+[1, 11, 16, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), cos(5)))))	0.510625	
+[16, 4]	sin(sub(sub(5, ARG4), sin(ARG16)))	0.4975	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[0, 17, 18, 19]	sin(sub(sin(neg(neg(sub(sin(ARG0), neg(5))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.615	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG18, ARG18), 5)))	0.5	
+[17, 18, 19, 14]	sin(sub(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.6325000000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG17)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.685	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.6018749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))))), sub(ARG14, cos(5)))))	0.7306250000000001	
+[17, 18]	sin(protectedDiv(ARG17, ARG18))	0.51875	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(cos(5), ARG18), ARG18))), ARG18), ARG18), 5)))	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG17))))	0.46624999999999994	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[10, 12, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, cos(add(ARG10, ARG12)))))), sub(ARG14, cos(5)))))	0.680625	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG19, ARG18), 5)))	0.491875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.719375	
+[17, 18]	sin(sub(ARG18, mul(protectedDiv(ARG17, ARG18), ARG18)))	0.488125	
+[3, 14, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5))))), ARG18), mul(sub(5, ARG3), sin(5))), 5)))	0.504375	
+[18]	sin(sub(ARG18, ARG18))	0.5	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))), 5)))	0.44625000000000004	
+[18, 5]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(ARG5, 5), ARG18), 5)))	0.493125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG19)))	0.454375	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(5, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.48375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(ARG17)))))	0.5231250000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(5, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.493125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[16, 17, 18, 19]	sin(sub(ARG16, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.7475	
+[8, 17]	mul(ARG17, protectedDiv(5, ARG8))	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), ARG18)))), sub(ARG14, cos(5)))))	0.690625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.5543750000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG17))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(ARG18)))))	0.5643750000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), 5))), ARG18), ARG18), 5)))	0.571875	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, 5), sub(ARG14, sub(ARG14, cos(5))))))	0.50125	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18))))))))	0.510625	
+[18]	sin(sub(sin(neg(neg(ARG18))), neg(neg(ARG18))))	0.5	
+[17, 18, 19]	sin(sub(sin(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.708125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))))	0.53625	
+[16, 1, 18, 11]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(5), ARG18), ARG18), 5)))	0.489375	
+[17, 18, 19]	sin(sub(ARG18, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.74125	
+[17, 18, 19, 14]	sin(sub(sin(ARG19), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.703125	
+[17, 18, 19]	sin(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18))	0.46687500000000004	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))), ARG18), 5)))	0.605	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[4]	sin(ARG4)	0.509375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.6737500000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG17), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.5125	
+[17, 18, 19]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, neg(neg(ARG18))), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[2]	cos(neg(ARG2))	0.49124999999999996	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.81875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(protectedDiv(ARG17, sin(ARG17)), ARG18)))), sub(ARG14, cos(5)))))), sub(ARG14, cos(5)))))	0.609375	
+[17, 18]	sin(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))	0.51875	
+[17, 18, 19, 7]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), neg(ARG7)))), ARG18), ARG18), 5)))	0.59125	
+[18]	sin(sub(ARG18, ARG18))	0.5	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[18]	sin(sin(neg(neg(ARG18))))	0.508125	
+[17, 18, 19, 14]	sin(sub(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17)))), sub(ARG14, cos(5)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.46	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(neg(neg(ARG18)), ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 5]	sin(sub(sub(cos(5), sin(ARG5)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.556875	
+[8, 17, 18, 19]	mul(protectedDiv(cos(ARG19), sub(sin(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), cos(ARG18))), protectedDiv(5, ARG8))	0.5525	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[]	neg(mul(5, 5))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), sub(ARG14, cos(5)))), sub(ARG14, cos(5)))))	0.655625	
+[11, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG11, cos(5)))))	0.663125	
+[9, 18, 19, 17]	sin(sub(ARG9, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), 5)))	0.7224999999999999	
+[17, 18, 19]	sin(sub(sin(neg(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.605	
+[17, 18, 14]	sin(sub(ARG17, protectedDiv(neg(ARG18), sub(ARG14, cos(5)))))	0.49062500000000003	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.518125	
+[18, 19, 14]	sin(sub(sin(ARG18), protectedDiv(ARG19, sub(ARG14, cos(5)))))	0.50875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 4]	sin(sub(ARG18, protectedDiv(sub(ARG18, mul(protectedDiv(ARG17, ARG18), sin(add(ARG4, 5)))), cos(5))))	0.48375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG19), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.5918749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18]	sin(sub(sin(ARG17), ARG18))	0.48125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.6925	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), cos(5)))))	0.590625	
+[18, 14]	sin(sub(sin(neg(neg(ARG18))), mul(ARG14, 5)))	0.498125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[10]	sin(neg(add(ARG10, 5)))	0.4975	
+[17, 18, 19, 14]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG14))	0.770625	
+[8, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(5, 5))))), sub(ARG8, cos(5)))))	0.6325000000000001	
+[8, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, ARG14)), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(5), cos(ARG18))), protectedDiv(5, ARG8))	0.5543750000000001	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(mul(protectedDiv(ARG17, ARG18), sin(ARG17)), cos(5)))))	0.6975	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, 5), sub(ARG1, ARG11)), mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))))	0.523125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.535625	
+[17, 18, 19]	sin(sub(sin(sin(protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), cos(5)), 5)))	0.799375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17)), sub(ARG14, cos(5)))))	0.7	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(5, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(5)))))	0.5037499999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG18)))	0.32499999999999996	
+[0, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), 5))), ARG18), ARG0), 5)))	0.538125	
+[17, 18]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(sin(ARG17), ARG18), 5)))	0.483125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), cos(ARG18))), protectedDiv(5, ARG8))	0.445625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), ARG18))), sub(ARG14, cos(5)))))	0.649375	
+[17, 18, 19, 6]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, cos(neg(ARG6))), ARG18))), sin(protectedDiv(ARG17, ARG18))), ARG18), 5)))	0.6487499999999999	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), cos(5)))))	0.61875	
+[18, 14]	sin(sub(ARG18, protectedDiv(ARG14, sub(ARG14, cos(5)))))	0.50625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.558125	
+[17, 18]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG19, cos(5)))))	0.62375	
+[17, 18, 14]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG14, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.5175000000000001	
+[18]	sin(sub(ARG18, 5))	0.4975	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(protectedDiv(ARG17, ARG18), sub(ARG14, cos(5)))))	0.4925	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), ARG18))), ARG18), ARG18), 5)))	0.49625	
+[18, 19]	sin(sub(sin(ARG19), ARG18))	0.49124999999999996	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(sin(ARG17), cos(5)))))	0.6025	
+[8, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG14))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.583125	
+[1, 18, 19, 14]	sin(sub(sin(ARG18), protectedDiv(sub(ARG19, cos(ARG1)), sub(ARG14, cos(5)))))	0.4875	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(ARG18, 5)))	0.505625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), ARG18)))	0.593125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG14, cos(5))), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.32125000000000004	
+[14]	mul(ARG14, 5)	0.49375	
+[17, 18, 19, 14]	sin(sub(ARG17, protectedDiv(sub(protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5))), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.478125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))))), sub(ARG14, cos(5)))))	0.653125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, ARG17)), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.6399999999999999	
+[17, 18, 19, 5]	sin(sub(sin(cos(sub(ARG5, ARG5))), mul(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), 5)))	0.583125	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), cos(5))))	0.558125	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(neg(neg(ARG18))))), sub(protectedDiv(5, 5), cos(5)))))	0.556875	
+[8, 17]	sin(sub(sin(protectedDiv(ARG17, sin(ARG17))), ARG8))	0.49750000000000005	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), 5)), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.5525	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), neg(neg(5)))))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(sin(5), protectedDiv(5, ARG18))), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), 5)))	0.785	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sub(5, ARG18)))), sub(ARG14, cos(5)))))	0.7168749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(neg(ARG18))))))	0.568125	
+[17, 18, 19]	sin(sub(sin(neg(5)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(protectedDiv(ARG18, sin(ARG17)), cos(5)))))	0.525	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG14))), sub(ARG14, cos(5)))))	0.5275000000000001	
+[4, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG4))))	0.51	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(sin(ARG17), ARG18)))), sub(ARG14, cos(5)))))	0.71375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))))))), sub(ARG14, cos(5)))))	0.7050000000000001	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sin(ARG17), ARG18), ARG18), 5)))	0.483125	
+[8, 17, 18, 19]	sin(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, sub(5, ARG8)), ARG18))), ARG18))	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))), ARG18), 5)))	0.450625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.71875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG18))), sub(ARG14, cos(5)))))	0.765625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))))), sub(ARG14, cos(5)))))	0.6387499999999999	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(protectedDiv(ARG17, ARG18), sub(ARG14, cos(5)))))	0.4925	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)))))	0.524375	
+[8, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(sub(ARG14, cos(5)), sin(protectedDiv(ARG18, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.52375	
+[11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.67625	
+[1, 8, 11, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(sub(ARG1, ARG11), sin(protectedDiv(ARG17, ARG18)))), sub(sin(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), cos(ARG18))), protectedDiv(5, ARG8))	0.536875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 15]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), sub(ARG15, 5)), 5)))	0.481875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17))), ARG17))), ARG18), ARG18), 5)))	0.693125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[18, 14]	sin(sub(ARG18, protectedDiv(protectedDiv(5, 5), sub(ARG14, cos(5)))))	0.5025	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), ARG19)))	0.5487500000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG19))), ARG18)), sin(protectedDiv(neg(5), neg(5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.651875	
+[2, 8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(sin(sub(5, ARG2)), mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.548125	
+[17, 18, 19, 14]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG14, ARG18))), ARG18), ARG18), 5)))	0.474375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(protectedDiv(ARG17, ARG18), cos(5)))))	0.68625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 6, 1]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), sub(ARG6, ARG1)))	0.48375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(protectedDiv(ARG17, ARG18), ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.7075	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG17, sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.7849999999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17)), sub(ARG14, cos(5)))))	0.7	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(sin(protectedDiv(ARG17, sin(ARG17))))))))), sub(ARG14, cos(5)))))	0.7025	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(5, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.48375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG19)))	0.405625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG17), sub(ARG14, cos(5)))))	0.65125	
+[8, 17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(protectedDiv(ARG8, 5), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17))))))))))), sub(ARG14, cos(5)))))	0.491875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(cos(5), ARG18)))), sub(ARG14, cos(5)))))	0.40875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG17))))	0.46624999999999994	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(5, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), neg(ARG18)))))), sub(ARG14, cos(5)))))	0.48562500000000003	
+[17, 18, 19]	sin(sub(sin(neg(sin(ARG17))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.54875	
+[18, 14]	sin(sub(ARG18, protectedDiv(ARG18, sub(ARG14, cos(5)))))	0.499375	
+[17, 18, 19, 5]	sin(sub(sin(neg(neg(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG5)))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.699375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.555625	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(ARG17), ARG18), ARG18), 5)))	0.478125	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(mul(protectedDiv(ARG17, ARG18), ARG18), ARG18))), ARG18), ARG18), 5)))	0.7275	
+[16, 10, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(protectedDiv(sub(5, ARG16), protectedDiv(ARG19, ARG10))), ARG18), ARG18), 5)))	0.49874999999999997	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(ARG17)), mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), sub(ARG14, cos(5)))))	0.350625	
+[17, 18, 19]	sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17)))))	0.56375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)), sub(ARG14, cos(5)))))	0.530625	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17)))), 5)))	0.47562499999999996	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))), sub(ARG14, cos(5)))))	0.478125	
+[17, 18, 19]	sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))))	0.56375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(ARG17))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(protectedDiv(ARG17, ARG18), ARG18), ARG18))), ARG18), ARG18), 5)))	0.7518750000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(ARG17)), mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.51625	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(ARG19, sub(ARG14, cos(5)))))	0.51125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, neg(ARG18)))))	0.560625	
+[17, 18, 19]	sin(sub(sin(neg(cos(5))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.708125	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG18, cos(5)))))	0.585625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG14), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.541875	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG17), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.75875	
+[11, 17, 18, 19]	sin(sub(sin(protectedDiv(ARG18, ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG11)))), ARG18), ARG18), 5)))	0.65125	
+[17, 18, 19]	sin(sub(neg(neg(ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.74125	
+[18, 11]	sin(sub(sin(sin(neg(neg(ARG18)))), mul(cos(add(ARG11, ARG18)), 5)))	0.48187500000000005	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), cos(5))), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.5918749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG17)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80125	
+[17, 18, 19, 14]	sin(sub(sin(protectedDiv(ARG17, ARG18)), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.6725	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), sub(ARG14, cos(5)))))	0.600625	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG19))), ARG18), ARG18), 5)))	0.64125	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG18, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.48687499999999995	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG18, ARG18))), ARG18), ARG18), 5)))	0.49312500000000004	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(ARG17, ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.43375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(sin(ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[12, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(cos(ARG12))))))	0.483125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.49624999999999997	
+[17, 18]	sin(sub(sin(ARG17), mul(protectedDiv(ARG17, ARG18), sin(ARG17))))	0.506875	
+[8, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(ARG14, sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.571875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(protectedDiv(ARG17, ARG18), cos(5)))))	0.636875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[5, 15, 17, 18, 19]	sin(sub(sin(neg(sin(protectedDiv(ARG17, sin(ARG17))))), mul(protectedDiv(protectedDiv(cos(sub(protectedDiv(add(ARG15, ARG19), neg(ARG5)), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.5075000000000001	
+[17, 18, 19, 14]	sin(sub(ARG17, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), neg(ARG18))), sub(ARG14, cos(5)))))	0.57375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(ARG19, ARG18), 5)))	0.515	
+[9, 18, 19, 7]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(sub(sin(ARG19), add(ARG9, ARG7)), ARG18), 5)))	0.50125	
+[18]	sin(ARG18)	0.508125	
+[7, 14, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5))))), ARG18))), ARG18), ARG18), ARG7)))	0.45187499999999997	
+[17, 18, 19, 4]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG4))), ARG18), ARG19), 5)))	0.5775	
+[17, 18]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(neg(sin(ARG17)), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.506875	
+[17, 18, 19]	sin(sub(sin(5), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19, 14]	sin(sub(sin(ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(neg(neg(ARG18)))))))	0.62125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[0, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, protectedDiv(ARG0, 5)))))	0.5931249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(5, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.5543750000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(ARG17)))))	0.6112500000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, neg(neg(ARG18))), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(neg(ARG18), ARG18), ARG18))), ARG18), ARG18), 5)))	0.49312500000000004	
+[0, 17, 18, 19]	sin(sub(sin(neg(ARG17)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG0), ARG18), 5)))	0.516875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sub(sub(ARG19, protectedDiv(ARG17, ARG18)), 5))))), sub(ARG14, cos(5)))))	0.47687500000000005	
+[18, 14]	sin(sub(ARG18, protectedDiv(5, sub(ARG14, cos(5)))))	0.505	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(cos(5), cos(5)))))	0.5025	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, ARG14))))	0.5025	
+[13, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, mul(ARG13, 5)), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.49812500000000004	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG17, cos(5)))))	0.6174999999999999	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG14, ARG18), ARG17))), ARG18), ARG18), 5)))	0.555625	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG19, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), ARG18), ARG18), 5)))	0.765	
+[17, 18]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG17, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[0, 17, 18, 11]	sin(sub(ARG18, protectedDiv(sub(sub(ARG0, ARG11), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.50625	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5))), ARG18), 5)))	0.6331249999999999	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18)))	0.32499999999999996	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.609375	
+[6, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, protectedDiv(5, ARG6))))), sub(ARG14, cos(5)))))	0.64125	
+[17, 18, 19]	sin(sub(sin(ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(sin(protectedDiv(ARG17, ARG18)), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.6443749999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), sub(ARG14, cos(5)))))	0.600625	
+[18, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG14), ARG18), ARG18), 5)))	0.49812500000000004	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), cos(5)))))	0.631875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.6737500000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG17), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18))))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(sin(ARG17), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG19)))), sub(ARG14, cos(5)))))	0.693125	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(5, ARG18), ARG18))), ARG18), ARG18), ARG18)))	0.508125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), 5), ARG18), 5)))	0.316875	
+[16, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG18), ARG18), ARG18), neg(neg(ARG16)))))	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.510625	
+[1, 11, 16, 17, 18]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG18, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.49	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG19), 5)))	0.661875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.70375	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(ARG17, sin(protectedDiv(neg(5), neg(5))))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.613125	
+[18, 13]	sin(sub(sin(neg(neg(ARG18))), cos(sub(ARG13, 5))))	0.49312500000000004	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(protectedDiv(protectedDiv(cos(sub(5, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG18), ARG18))), ARG18), ARG18), 5)))	0.621875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG19), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.52125	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG18, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.48687499999999995	
+[17, 18, 19, 7]	sin(sub(sin(neg(neg(ARG18))), mul(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG7), 5), 5)))	0.569375	
+[17, 18, 19]	sin(sub(sin(ARG17), protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)))	0.390625	
+[18]	sin(sub(ARG18, protectedDiv(5, ARG18)))	0.505625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG14, cos(5))), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG19))))	0.5387500000000001	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))))	0.400625	
+[]	sin(5)	0.5	
+[18, 14]	sin(sub(ARG18, protectedDiv(5, sub(ARG14, cos(5)))))	0.505	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))))))	0.50875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5)))), sub(ARG14, cos(5)))))	0.62	
+[17, 18]	sin(sub(ARG18, sin(protectedDiv(ARG18, sin(ARG17)))))	0.508125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.6225	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG19, ARG18), 5)))	0.491875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG17)), neg(ARG18)), ARG18), 5)))	0.494375	
+[17, 18, 19]	sin(sub(sin(neg(ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), ARG19)))	0.5487500000000001	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(sub(ARG14, cos(5)), mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(5)))))	0.508125	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sin(ARG17), ARG18), ARG18), 5)))	0.483125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.74	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(ARG18)))))	0.568125	
+[17, 18, 19]	sin(sub(sin(neg(neg(5))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[18]	sin(ARG18)	0.508125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sub(ARG14, cos(5)))))), sub(ARG14, cos(5)))))	0.43625	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sin(ARG17))))	0.5762499999999999	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), ARG17))	0.48125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5), ARG18), ARG18))), ARG18), ARG18), 5)))	0.371875	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))), ARG18), ARG18), 5)))	0.5425	
+[18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(ARG18, ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[4]	sin(cos(protectedDiv(5, ARG4)))	0.499375	
+[17, 18, 14, 7]	sin(sub(ARG18, protectedDiv(sub(protectedDiv(5, ARG7), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.503125	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, 5)), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(protectedDiv(ARG17, protectedDiv(ARG17, ARG18))), mul(protectedDiv(protectedDiv(cos(sub(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG17)), ARG18), ARG18), 5)))	0.39625	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(ARG19, ARG18), ARG18), 5)))	0.48250000000000004	
+[17, 18, 19]	sin(sub(protectedDiv(ARG17, ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), ARG18), 5)))	0.661875	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, sin(neg(neg(ARG18)))), sub(ARG14, cos(5)))))	0.48875	
+[6, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(cos(5), protectedDiv(ARG6, 5)), ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, 5))))	0.499375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), cos(5))))	0.508125	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG19, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG17, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.4975	
+[2, 11, 17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, protectedDiv(ARG2, ARG11))), ARG18), ARG18), 5)))	0.515625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), neg(neg(5)))))	0.80125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(ARG19))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.728125	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(protectedDiv(ARG18, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.514375	
+[17, 18, 19, 14]	sin(sub(ARG17, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.65875	
+[2, 7, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(mul(protectedDiv(ARG18, ARG18), sin(ARG17)), add(mul(5, ARG18), sub(ARG2, ARG7)))))), sub(ARG14, cos(5)))))	0.46375	
+[17, 18, 19, 14]	sin(sub(cos(5), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18))), sub(ARG14, cos(5)))))	0.6225	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(sin(protectedDiv(ARG17, ARG18)), ARG18), 5)))	0.483125	
+[18, 14]	sin(sub(ARG18, ARG14))	0.506875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5))), cos(5)))))	0.491875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG19)))), sub(ARG14, cos(5)))))	0.693125	
+[17, 18]	sin(sub(ARG18, protectedDiv(sub(sin(ARG17), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.504375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[6]	ARG6	0.51125	
+[17, 18, 19, 13]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), sin(protectedDiv(ARG18, ARG18)))), sub(sub(ARG17, ARG13), cos(5)))))	0.555625	
+[3, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(ARG3, 5))), ARG18)), sin(protectedDiv(ARG17, ARG18))))))))	0.5025000000000001	
+[8, 17, 18]	mul(protectedDiv(cos(5), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.5125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sin(neg(neg(ARG18))))))	0.608125	
+[17, 18, 19, 14]	sin(sub(sub(ARG14, cos(5)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.734375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[17, 18, 19, 14]	sin(sub(ARG17, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.7637499999999999	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(sin(protectedDiv(ARG17, ARG18)), ARG18))), ARG18), ARG18), 5)))	0.6581250000000001	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), protectedDiv(ARG17, ARG18))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.61625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), ARG18))), ARG18), ARG18), 5)))	0.48000000000000004	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(protectedDiv(ARG17, ARG18)), ARG18), ARG18), 5)))	0.505	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[5, 6]	sin(add(mul(ARG6, ARG5), sin(5)))	0.51	
+[18, 13]	sin(sub(sin(neg(neg(ARG18))), mul(sin(sub(ARG13, 5)), 5)))	0.509375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(ARG18, sin(ARG17))), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7475	
+[17, 18, 19, 7]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG7, sin(ARG17))), ARG18)))	0.420625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), 5), ARG18), 5)))	0.316875	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.50125	
+[17, 18, 19]	sin(sub(ARG19, mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.725625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG18))))))	0.508125	
+[18, 14]	sin(sub(ARG18, protectedDiv(5, sub(ARG14, cos(5)))))	0.505	
+[18, 17, 10, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(cos(ARG10), protectedDiv(5, 5))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, 5))	0.628125	
+[8, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(ARG8)))))	0.565625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), ARG17)))	0.41	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(5, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.5543750000000001	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(5)))))	0.780625	
+[4, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(cos(neg(ARG4)), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.5125	
+[18, 14]	sin(sub(ARG18, protectedDiv(ARG18, sub(ARG14, cos(5)))))	0.499375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18))))))), ARG18), ARG18), 5)))	0.604375	
+[17, 18, 19]	sin(sub(ARG18, mul(protectedDiv(protectedDiv(cos(sub(ARG19, protectedDiv(ARG17, ARG18))), ARG18), ARG18), 5)))	0.74125	
+[1, 7, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG17, sub(protectedDiv(ARG1, 5), protectedDiv(ARG7, ARG14)))), sub(ARG14, cos(5)))))	0.5687500000000001	
+[9, 18, 3]	sin(sub(ARG18, neg(mul(add(5, ARG9), mul(ARG3, 5)))))	0.509375	
+[17, 18, 19, 14]	sin(sub(sin(neg(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.6425	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))), ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.563125	
+[17]	sin(ARG17)	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(5, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.435	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), ARG17)))	0.41	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), ARG18), sin(ARG18))), sub(ARG14, cos(5)))))	0.509375	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(ARG17, sub(ARG14, cos(5)))))	0.49687499999999996	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[3, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG3)), sub(ARG14, cos(5)))))	0.5543750000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7975	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))), ARG18), ARG18), 5)))	0.561875	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(ARG18, ARG18), ARG18), 5)))	0.4975	
+[18, 10, 5]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(5, protectedDiv(ARG10, ARG5)), 5)))	0.5	
+[8, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(protectedDiv(cos(sub(mul(neg(ARG8), protectedDiv(ARG19, ARG8)), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18))))))	0.46749999999999997	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), sub(ARG14, cos(ARG18)))))	0.568125	
+[11, 17, 18, 19]	sin(sub(sin(neg(neg(5))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), neg(neg(ARG11)))))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5))))), sub(ARG14, cos(5)))))	0.5918749999999999	
+[17, 18]	sin(sub(ARG18, sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17))))))	0.508125	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(5, 5)))	0.5	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18))))	0.32499999999999996	
+[9, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(protectedDiv(neg(ARG9), sin(5)), ARG14), ARG18))), ARG18), ARG18), 5)))	0.49375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG18, cos(5)))))	0.585625	
+[0, 18]	sin(sub(protectedDiv(ARG0, ARG18), mul(protectedDiv(protectedDiv(cos(sin(neg(neg(ARG18)))), ARG18), ARG18), 5)))	0.485625	
+[17, 18, 19]	sin(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.625625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG17, sin(sin(ARG18)))), sub(ARG14, cos(5)))))	0.62875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(protectedDiv(ARG17, ARG18), ARG18)))), sub(ARG14, cos(5)))))	0.71375	
+[17, 18, 9]	sin(sub(sin(neg(neg(ARG18))), mul(mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(sin(ARG9), add(5, 5)), sin(ARG18))), 5)))	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)), sub(ARG14, cos(5)))))	0.530625	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG18, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.491875	
+[0, 13, 14, 17, 19]	sin(sub(ARG17, protectedDiv(sub(ARG19, add(sin(ARG0), sin(ARG13))), sub(ARG14, cos(5)))))	0.47875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, ARG17))))	0.46624999999999994	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(cos(5), ARG18)))), sub(ARG14, cos(5)))))	0.40875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), protectedDiv(ARG17, sin(ARG17)))))	0.556875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sub(ARG14, cos(5))))), sub(ARG14, cos(5)))))	0.478125	
+[17, 18, 19]	sin(sub(ARG18, sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), cos(5)))))	0.640625	
+[17, 18, 19, 14]	sin(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5))))	0.37625	
+[17, 18, 19]	sin(sub(sin(ARG17), sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17))))))))	0.5137499999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5), sub(ARG14, cos(5)))))	0.44937499999999997	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), protectedDiv(ARG18, sin(ARG17))), 5)))	0.815625	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[11, 14, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), neg(sin(ARG14))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.79625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7893749999999999	
+[16, 1, 18, 11]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(ARG18, ARG18), ARG18), 5)))	0.49562500000000004	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))), ARG18), ARG18), 5)))	0.561875	
+[17, 18, 14, 15]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(add(ARG14, ARG15), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.49875	
+[0]	ARG0	0.49687499999999996	
+[11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.596875	
+[1, 18, 11]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sub(ARG1, ARG11), ARG18), ARG18), 5)))	0.495	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sin(ARG18)))), sub(ARG14, cos(5)))))	0.76625	
+[17, 18, 19, 5]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), mul(5, ARG5))))	0.50875	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18))))	0.635	
+[17, 14]	sin(sub(sin(ARG17), mul(sub(ARG14, cos(5)), 5)))	0.504375	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5), 5)))	0.58125	
+[18, 17, 10, 19]	sin(sub(sin(neg(neg(mul(ARG10, 5)))), protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)))	0.5175000000000001	
+[11, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG11, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(sub(ARG19, 5))))))	0.570625	
+[1, 11, 16, 17, 18, 19]	sin(sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG17)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.723125	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(neg(ARG18), mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.496875	
+[17, 18, 19]	sin(sub(sin(neg(ARG19)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.54875	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.53125	
+[17, 18, 9]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(protectedDiv(ARG17, protectedDiv(add(ARG9, 5), ARG18))), ARG18), ARG18), 5)))	0.505	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, ARG17), sub(ARG14, cos(5)))))	0.65125	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, sin(ARG17)))), ARG18), ARG18))), ARG18), ARG18), 5)))	0.7324999999999999	
+[9, 18, 19]	sin(sub(ARG18, protectedDiv(ARG19, add(5, ARG9))))	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))))), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.518125	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(sin(neg(neg(ARG18))), ARG18), ARG18), 5)))	0.4975	
+[17, 18, 19, 6]	sin(sub(cos(sub(ARG19, mul(protectedDiv(ARG17, add(ARG6, 5)), ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.779375	
+[17, 18, 19]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.815625	
+[0, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG0, ARG18), sin(protectedDiv(ARG17, ARG14)))), sub(ARG14, cos(5)))))	0.516875	
+[18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG18, sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.5075	
+[17, 18, 19, 14]	sin(sub(protectedDiv(ARG17, ARG18), protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.6581250000000001	
+[17, 18, 19, 14]	sin(sub(ARG17, protectedDiv(sub(ARG19, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18)), sub(ARG14, cos(5)))))	0.541875	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), ARG18), 5)))	0.49000000000000005	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), 5)))	0.5	
+[18]	sin(sub(sin(neg(neg(ARG18))), ARG18))	0.5	
+[8, 17, 18, 19]	mul(protectedDiv(sub(sin(protectedDiv(ARG17, ARG18)), mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.564375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG19)), sub(ARG14, cos(5)))))	0.61375	
+[17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(sin(protectedDiv(ARG17, ARG18)), sin(protectedDiv(ARG17, ARG18)))), cos(5))))	0.525625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), protectedDiv(ARG17, ARG18))), sub(ARG14, cos(5)))))	0.713125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), sub(ARG14, cos(5)))))	0.350625	
+[17, 18, 19]	sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))))	0.56375	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG18, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.48687499999999995	
+[19, 14]	sin(sub(ARG19, protectedDiv(sin(5), sub(ARG14, cos(5)))))	0.485	
+[3, 14, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, protectedDiv(neg(ARG3), neg(ARG14))))	0.770625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(ARG17, ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.43375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG18, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(5)))))	0.600625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(5, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18)))))))	0.370625	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(5), ARG18), ARG18), 5)))	0.494375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(cos(5)))), sub(ARG14, cos(5)))))	0.40875	
+[]	sin(sin(5))	0.5	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)), sub(ARG14, cos(5)))))	0.350625	
+[2, 17, 18, 19]	sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(mul(ARG2, 5), sin(ARG17))))))	0.489375	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(ARG18, ARG18))), ARG18), ARG18), 5)))	0.49312500000000004	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), protectedDiv(ARG17, ARG18)), ARG18), 5)))	0.560625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(ARG14, cos(5)))))	0.72125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(protectedDiv(ARG17, ARG18), ARG18), sin(protectedDiv(ARG18, sin(ARG17))))), sub(ARG14, cos(5)))))	0.7462500000000001	
+[2, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(sub(ARG19, mul(protectedDiv(5, ARG2), ARG18)), mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.48	
+[18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(ARG19), ARG18), ARG18), 5)))	0.501875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG17))), ARG18), sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, sub(ARG14, cos(5)))))), 5)))	0.510625	
+[18]	sin(ARG18)	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))), ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.66	
+[8, 16]	sin(sub(cos(ARG8), sub(5, ARG16)))	0.500625	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))))), sub(ARG14, cos(sin(add(5, 5)))))))	0.485	
+[]	sin(cos(5))	0.5	
+[17, 18, 14]	sin(sub(ARG18, protectedDiv(sub(ARG18, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG18, ARG18)))), sub(ARG14, cos(5)))))	0.4875	
+[19, 17, 18, 11]	sin(sub(sin(ARG17), mul(protectedDiv(protectedDiv(cos(sub(ARG11, mul(protectedDiv(ARG17, ARG19), ARG18))), ARG18), ARG18), 5)))	0.449375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG14)))), sub(ARG14, sub(ARG14, cos(5))))))	0.7749999999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), sin(ARG18)))))), sub(ARG14, cos(5)))))	0.7649999999999999	
+[18, 19, 5]	sin(sub(sin(neg(protectedDiv(cos(ARG5), neg(5)))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, ARG18)), ARG18), ARG18), 5)))	0.49	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(mul(protectedDiv(ARG17, ARG18), sin(ARG17)), mul(protectedDiv(ARG17, mul(protectedDiv(ARG17, ARG18), ARG18)), sin(ARG17)))))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[6, 12, 14, 15, 17, 18, 19]	sin(sub(protectedDiv(protectedDiv(ARG17, ARG6), mul(ARG15, ARG12)), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), sub(ARG14, cos(5)))))	0.759375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18)))), sub(ARG14, cos(5)))))	0.6475	
+[18]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(ARG18, ARG18), 5)))	0.5	
+[17]	sin(ARG17)	0.5081249999999999	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(5)))), ARG18), sin(protectedDiv(ARG17, ARG14)))), sub(ARG14, cos(5)))))	0.608125	
+[1, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG1))), sub(ARG14, cos(ARG19)))))	0.5075000000000001	
+[18, 2]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(5, mul(protectedDiv(5, ARG2), ARG18))), ARG18), ARG18), 5)))	0.495625	
+[1, 11, 16, 17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, sub(protectedDiv(sub(ARG16, ARG11), sub(ARG1, ARG11)), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(5, 5), ARG18))), ARG18), ARG18), 5))), ARG18))), ARG18), ARG18), 5)))	0.455625	
+[18]	sin(ARG18)	0.508125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5))), sub(ARG14, cos(5)))))	0.610625	
+[17, 18]	sin(sub(sin(ARG17), sin(protectedDiv(ARG18, sin(ARG17)))))	0.505625	
+[17, 18, 19, 12]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, ARG18)))), ARG12)))	0.555625	
+[17, 18, 19]	sin(sub(sin(ARG19), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.80125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17)))), ARG18))), ARG18), ARG18), 5)))	0.74125	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG17, sin(ARG17)))))), sub(ARG14, cos(5)))))	0.7931250000000001	
+[2, 4, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), mul(protectedDiv(ARG17, ARG18), sin(ARG18)))), sub(add(ARG19, ARG4), protectedDiv(5, ARG2)))))	0.5175	
+[19, 17, 18, 3]	sin(sub(sin(neg(neg(add(cos(ARG17), sin(ARG3))))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.7575000000000001	
+[17, 18, 19]	sin(sub(sin(neg(neg(5))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), cos(5)), ARG18), 5)))	0.5	
+[11, 13, 14, 17, 18, 19]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG11, sin(ARG13))))), sub(ARG14, ARG18))))	0.488125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18))))	0.32499999999999996	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, 5), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.56125	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(sin(neg(neg(ARG14))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.736875	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, protectedDiv(ARG17, ARG18)), sub(ARG14, cos(5)))))	0.77	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18))), ARG18), ARG18), 5)))	0.411875	
+[17, 18]	sin(sub(sin(ARG17), mul(protectedDiv(mul(protectedDiv(ARG17, ARG18), ARG18), ARG18), 5)))	0.504375	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, mul(ARG18, sin(ARG17)))))), sub(ARG14, cos(5)))))	0.76875	
+[17, 18, 19, 14]	sin(sub(protectedDiv(ARG17, ARG18), protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(5)))))	0.62	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.770625	
+[17, 18, 19]	sin(sub(sin(neg(neg(ARG18))), mul(protectedDiv(protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, ARG18), ARG18))), ARG18), ARG18), 5)))	0.835	
+[17, 18, 19, 14]	sin(sub(ARG18, protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, ARG18), sin(protectedDiv(ARG17, sin(ARG17))))), sub(ARG14, cos(ARG18)))))	0.568125	
+[8, 17, 18, 19]	mul(protectedDiv(sub(ARG19, mul(protectedDiv(ARG17, protectedDiv(cos(sub(ARG19, mul(protectedDiv(ARG17, 5), sin(ARG17)))), ARG18)), sin(protectedDiv(ARG17, ARG18)))), sub(sin(ARG17), cos(ARG18))), protectedDiv(5, ARG8))	0.5549999999999999	

@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[10]	protectedDiv(mul(5, 5), mul(ARG10, 5))	0.003435615210558033	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[5]	ARG5	0.003366850993373489	
+[9, 2]	protectedDiv(mul(5, 5), cos(protectedDiv(ARG9, ARG2)))	0.001892122247787793	
+[17, 18, 12, 13]	protectedDiv(mul(add(mul(ARG12, 5), mul(ARG13, ARG17)), 5), protectedDiv(mul(5, 5), ARG18))	2.6458703758482327e-05	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16, 17, 0]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(ARG16, ARG17), sub(5, ARG0)))	2.1852341828534777e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[16]	protectedDiv(mul(ARG16, 5), 5)	0.0033329119649560027	
+[5]	protectedDiv(mul(5, 5), sub(5, ARG5))	0.0034228859580173	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18, 6]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG6))	0.003408457696805602	
+[8]	neg(ARG8)	0.0033664062484165458	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16, 18, 5]	protectedDiv(mul(5, sub(ARG5, ARG16)), protectedDiv(5, ARG18))	0.00020770844039592619	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[11]	protectedDiv(mul(5, 5), ARG11)	0.0025484864941913016	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[3]	sub(5, ARG3)	0.0033872625080091905	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18, 4, 13]	protectedDiv(mul(5, add(ARG13, ARG4)), protectedDiv(5, ARG18))	0.00021653624369765367	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[12, 6]	protectedDiv(mul(cos(add(ARG12, ARG6)), 5), 5)	0.003436137966993692	
+[18, 15]	protectedDiv(5, protectedDiv(neg(cos(ARG15)), ARG18))	0.00012532728428247565	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	5	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16, 2, 18]	sub(sub(ARG2, ARG18), neg(ARG16))	0.002732699810494637	
+[18, 2, 10, 6]	protectedDiv(mul(5, mul(sin(ARG6), add(ARG2, ARG10))), protectedDiv(ARG18, ARG18))	0.0024390916417611776	
+[8]	protectedDiv(5, sin(ARG8))	0.0033348811079665446	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[16]	protectedDiv(mul(5, ARG16), 5)	0.0033329119649560027	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[1, 7]	protectedDiv(mul(5, 5), protectedDiv(5, add(ARG1, ARG7)))	0.0019781207143818604	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[10]	protectedDiv(mul(5, 5), mul(5, mul(ARG10, 5)))	0.00343575463983201	
+[18, 7]	protectedDiv(5, protectedDiv(neg(ARG7), ARG18))	0.003276826988739775	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(ARG18, protectedDiv(sin(sub(5, 5)), ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 15]	protectedDiv(ARG15, protectedDiv(5, ARG18))	0.001448829869942107	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16, 5]	protectedDiv(mul(5, 5), protectedDiv(5, sub(sin(ARG5), protectedDiv(ARG16, ARG16))))	0.0034369380607796435	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[9]	protectedDiv(mul(5, 5), protectedDiv(ARG9, 5))	0.00331102901694118	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(cos(sin(5)), 5), 5)	0.0034356967329238334	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[9, 13]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, mul(add(5, ARG9), sub(5, ARG13))))	1.1905686549976585e-05	
+[10, 18]	protectedDiv(mul(ARG10, 5), protectedDiv(5, ARG18))	0.0003035490430060211	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[]	protectedDiv(5, 5)	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[13, 6]	add(neg(ARG6), sin(ARG13))	0.00337736991678028	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[9, 18]	protectedDiv(mul(protectedDiv(5, ARG9), 5), protectedDiv(5, ARG18))	0.0032927992019822806	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[9, 18]	protectedDiv(ARG9, protectedDiv(5, ARG18))	0.0013544468050263499	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, 5))	0.0034378881490313476	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[7]	protectedDiv(mul(5, 5), ARG7)	0.003434772723474306	
+[]	5	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[1, 18]	protectedDiv(mul(ARG1, 5), protectedDiv(5, ARG18))	0.0002936416574822087	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 6]	protectedDiv(ARG6, protectedDiv(5, ARG18))	0.001384149066263377	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[9, 18, 1]	protectedDiv(mul(protectedDiv(neg(5), sub(ARG9, ARG1)), 5), protectedDiv(5, ARG18))	0.0019004097894158173	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18, 11]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, sin(neg(ARG11))))	0.003435858084745964	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18, 6]	protectedDiv(mul(5, protectedDiv(5, ARG18)), cos(mul(ARG6, ARG6)))	0.003380746042034822	
+[16]	cos(sub(5, ARG16))	0.0034355885747559276	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[16, 2, 6]	mul(add(5, ARG2), mul(ARG6, ARG16))	5.112319164374195e-06	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[0, 10, 18]	protectedDiv(protectedDiv(sin(ARG10), cos(ARG0)), protectedDiv(5, ARG18))	0.0024902973322561426	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18, 7]	protectedDiv(mul(5, 5), protectedDiv(sub(sin(ARG7), add(5, 5)), ARG18))	0.0022925002509370587	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[8, 18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG8), ARG18))	6.077612846689039e-05	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, sin(neg(5))), protectedDiv(ARG18, ARG18))	0.0034346428257954623	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[8, 18]	protectedDiv(mul(5, 5), protectedDiv(neg(ARG8), ARG18))	0.002727847719232039	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[9, 18]	protectedDiv(mul(ARG9, 5), protectedDiv(5, ARG18))	0.0002977418034323742	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[3]	protectedDiv(mul(5, 5), protectedDiv(neg(ARG3), 5))	0.003400108656677507	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[]	protectedDiv(mul(5, neg(5)), mul(5, 5))	0.003435904288490448	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), sin(cos(5)))	0.0032730553701025874	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[13]	sin(ARG13)	0.003435962406369176	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[2]	protectedDiv(mul(5, 5), mul(neg(5), neg(ARG2)))	0.0034368603503644834	
+[12]	protectedDiv(mul(5, 5), protectedDiv(5, cos(ARG12)))	0.0034346612689920304	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[19, 6]	protectedDiv(mul(5, 5), mul(ARG6, ARG19))	0.0034330519881101812	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[6]	protectedDiv(mul(5, 5), ARG6)	0.0019831936751583397	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16, 18, 10, 6]	protectedDiv(mul(5, ARG18), protectedDiv(5, add(neg(ARG10), add(ARG6, ARG16))))	0.00017863392173413103	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[2, 12]	protectedDiv(mul(5, mul(5, 5)), mul(ARG12, ARG2))	0.003419733333014786	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[0, 18]	protectedDiv(mul(5, ARG0), protectedDiv(5, ARG18))	0.00029266336369665593	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), neg(5))	0.0034346644363552107	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 4]	protectedDiv(mul(ARG4, 5), protectedDiv(5, ARG18))	0.00030881175865022406	
+[18, 12]	protectedDiv(mul(sin(mul(5, ARG12)), 5), protectedDiv(5, ARG18))	0.003386917655774751	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[5]	protectedDiv(mul(add(ARG5, 5), 5), 5)	0.003365503809403029	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, cos(neg(5))))	0.003435543932015306	
+[8, 10]	mul(protectedDiv(ARG10, ARG8), mul(ARG8, 5))	0.0024071495093093307	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[10]	ARG10	0.0033514517755899595	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[19]	protectedDiv(mul(5, 5), protectedDiv(cos(ARG19), neg(5)))	0.00012160092414763724	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18, 6]	protectedDiv(mul(5, sin(cos(ARG6))), protectedDiv(protectedDiv(5, ARG18), ARG18))	0.000352845913191509	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), neg(protectedDiv(5, 5)))	0.0034266027642428517	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[13]	protectedDiv(mul(5, 5), ARG13)	0.003437070923673845	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[10, 3, 12]	protectedDiv(mul(5, 5), protectedDiv(sub(5, ARG3), sub(ARG10, ARG12)))	0.0005406369849905309	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18, 13, 15]	protectedDiv(5, protectedDiv(protectedDiv(ARG18, 5), sub(ARG15, ARG13)))	0.0012191918286866116	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[]	protectedDiv(5, protectedDiv(5, 5))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[1, 18, 17]	protectedDiv(sub(sin(5), sub(ARG1, ARG17)), protectedDiv(5, ARG18))	0.0009739054871292889	
+[9, 18]	protectedDiv(mul(neg(ARG9), 5), protectedDiv(5, ARG18))	0.0002997276649622868	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(mul(ARG18, 5), 5), 5)	0.04965266492079299	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(sin(5), 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	0.0002301751048394939	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(neg(neg(5)), protectedDiv(5, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, neg(5)), protectedDiv(mul(5, 5), ARG18))	0.0028661340755252534	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[6, 7]	protectedDiv(add(ARG7, 5), sub(5, ARG6))	0.003430803193468562	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(5, sin(protectedDiv(5, 5)))	0.003434231185821838	
+[18]	protectedDiv(mul(5, neg(5)), protectedDiv(5, ARG18))	0.001722643866563953	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 3]	protectedDiv(ARG3, protectedDiv(5, ARG18))	0.001363681253206295	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18, 7]	protectedDiv(mul(5, 5), protectedDiv(ARG18, neg(neg(ARG7))))	0.001032803010880181	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18, 2]	protectedDiv(ARG18, neg(ARG2))	0.0034153448494995014	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[4]	ARG4	0.003398500729046016	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18, 12]	protectedDiv(mul(mul(mul(neg(5), sub(ARG12, 5)), 5), 5), protectedDiv(5, ARG18))	1.1952663472539932e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[16, 2, 15]	protectedDiv(mul(5, protectedDiv(sub(ARG15, ARG2), cos(ARG16))), 5)	0.0011433535081027215	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(cos(sin(5)), ARG18))	2.545417189554342e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16]	sin(cos(ARG16))	0.003435905522108095	
+[18, 15]	protectedDiv(mul(ARG15, 5), protectedDiv(5, ARG18))	0.00030860887046282306	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[5, 18, 13]	protectedDiv(mul(sub(cos(ARG13), add(ARG5, ARG18)), 5), protectedDiv(5, ARG18))	0.00017817968481816625	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16]	protectedDiv(mul(5, 5), cos(sub(5, ARG16)))	0.00042646667442873196	
+[]	protectedDiv(5, 5)	0.0034356232960004607	
+[18, 11]	protectedDiv(mul(protectedDiv(5, ARG18), ARG11), protectedDiv(5, ARG18))	0.0033650719498080324	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[17, 18]	protectedDiv(protectedDiv(5, protectedDiv(5, ARG17)), protectedDiv(5, ARG18))	0.0013445749469718318	
+[0]	protectedDiv(mul(5, 5), mul(sub(5, ARG0), sin(5)))	0.0034381918295737267	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[10, 18, 13]	protectedDiv(sub(add(5, ARG10), cos(ARG13)), protectedDiv(5, ARG18))	0.001458245092544797	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[8, 18]	protectedDiv(mul(5, protectedDiv(add(5, ARG8), sin(5))), protectedDiv(5, ARG18))	0.000285506448688613	
+[19]	protectedDiv(mul(5, 5), protectedDiv(5, ARG19))	0.0023957870791653907	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 19]	protectedDiv(mul(ARG19, 5), protectedDiv(5, ARG18))	0.0003050166096961726	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18, 4]	protectedDiv(mul(mul(5, sub(ARG4, 5)), 5), protectedDiv(5, ARG18))	6.175053659177252e-05	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[17]	protectedDiv(mul(5, 5), protectedDiv(neg(5), cos(ARG17)))	0.0034335415347200872	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, sin(5)), protectedDiv(5, ARG18))	0.0028857929960807616	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[10]	protectedDiv(mul(5, 5), sin(sin(ARG10)))	0.0008970013547360047	
+[1]	cos(add(ARG1, 5))	0.003435721349579911	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[4, 6]	protectedDiv(5, sub(protectedDiv(5, ARG4), sin(ARG6)))	0.003160985310990846	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 5]	protectedDiv(mul(ARG5, 5), protectedDiv(5, ARG18))	0.00030004665589768447	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[8, 14]	add(mul(ARG8, 5), mul(ARG14, 5))	0.0019717534556072543	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[1]	protectedDiv(mul(5, cos(ARG1)), 5)	0.003435701844233099	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 19, 6]	protectedDiv(mul(sub(ARG6, ARG19), 5), protectedDiv(5, ARG18))	0.00021069458942390675	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18, 7]	protectedDiv(mul(5, mul(5, ARG7)), protectedDiv(5, protectedDiv(5, ARG18)))	0.001032803010880181	
+[18]	protectedDiv(sub(sin(5), cos(5)), protectedDiv(5, ARG18))	0.003274107168072706	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 19]	protectedDiv(mul(5, add(ARG19, 5)), protectedDiv(5, ARG18))	0.0003064702949512891	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	neg(5)	0.003435977429460904	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[8, 18]	protectedDiv(mul(mul(ARG8, 5), 5), protectedDiv(5, ARG18))	6.077612846689039e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[12]	ARG12	0.003389670845645794	
+[16]	protectedDiv(mul(5, 5), sub(5, ARG16))	0.0034164594308597456	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[0, 18, 3, 5]	protectedDiv(sub(sin(ARG3), add(ARG5, ARG0)), protectedDiv(5, ARG18))	0.0009921110468961594	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[8, 18]	protectedDiv(mul(5, 5), protectedDiv(ARG8, ARG18))	0.00273283813491899	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18, 7]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, cos(sin(ARG7))), ARG18))	0.011648754556287683	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[2]	ARG2	0.003325409342110155	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[8, 17]	protectedDiv(mul(5, 5), sub(protectedDiv(ARG17, ARG8), mul(5, 5)))	0.0034357193365548207	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[11, 10, 3]	protectedDiv(mul(5, 5), add(mul(ARG3, ARG10), neg(ARG11)))	0.0034358172507680082	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[13]	protectedDiv(5, neg(ARG13))	0.00343517653977897	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, neg(5)))	0.001722643866563953	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, protectedDiv(5, ARG18)), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[4]	protectedDiv(mul(5, 5), protectedDiv(5, sin(add(5, ARG4))))	0.0034350387758803687	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[0]	ARG0	0.0033663891948954106	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[13]	protectedDiv(mul(5, 5), sub(5, ARG13))	0.0034200989871988664	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), add(5, 5))	0.003435305697639391	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[0, 17]	protectedDiv(mul(5, 5), protectedDiv(mul(ARG17, ARG0), 5))	0.0031218043211082677	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[7]	ARG7	0.003347775976454138	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[]	protectedDiv(neg(add(5, 5)), 5)	0.0034359836903257814	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18, 11, 12]	protectedDiv(ARG18, add(neg(ARG11), sub(ARG12, ARG11)))	0.00343355436820318	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18, 19]	protectedDiv(ARG18, protectedDiv(ARG19, ARG18))	0.0002871674654772171	
+[7]	protectedDiv(mul(5, 5), protectedDiv(ARG7, mul(5, 5)))	0.002981988615821921	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[10, 11, 7]	protectedDiv(mul(5, 5), protectedDiv(5, sub(sub(ARG11, ARG7), add(ARG10, 5))))	0.0017547971837064992	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[16, 15]	protectedDiv(mul(5, 5), protectedDiv(ARG16, ARG15))	0.0006399166383519392	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18, 11]	protectedDiv(mul(5, 5), protectedDiv(sub(ARG11, 5), ARG18))	0.0013324061850254144	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18, 15]	protectedDiv(mul(5, protectedDiv(5, ARG15)), protectedDiv(5, ARG18))	0.0021719612449460648	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[2]	protectedDiv(mul(5, 5), protectedDiv(5, ARG2))	0.002343056984806477	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[7]	protectedDiv(mul(5, 5), protectedDiv(5, ARG7))	0.002382964036301835	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[8]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG8)))	0.003435264053011634	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[0, 18]	protectedDiv(mul(5, add(add(5, ARG0), sub(5, 5))), protectedDiv(5, ARG18))	0.00029247895038794514	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), 5)	0.0034359802284220403	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[8, 18]	protectedDiv(neg(ARG8), protectedDiv(ARG18, ARG18))	0.0033664062484165458	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(protectedDiv(5, 5), protectedDiv(ARG18, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	neg(5)	0.003435977429460904	
+[18, 6]	protectedDiv(mul(mul(5, ARG6), 5), protectedDiv(mul(5, 5), ARG18))	0.00029746290652948637	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(protectedDiv(5, ARG18), protectedDiv(5, ARG18))	0.0034356232960004607	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[2, 18]	protectedDiv(mul(5, ARG2), protectedDiv(5, ARG18))	0.00029440093456343977	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[17, 18]	protectedDiv(mul(5, 5), protectedDiv(mul(neg(ARG17), cos(ARG18)), ARG18))	9.357297617135587e-05	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18, 13]	protectedDiv(mul(sin(ARG13), 5), protectedDiv(mul(5, 5), ARG18))	0.0034268313781184935	
+[]	protectedDiv(5, mul(5, 5))	0.0034357552386138765	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18, 6]	protectedDiv(protectedDiv(add(ARG6, 5), sin(5)), protectedDiv(5, ARG18))	0.0012553472954050212	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, sub(5, 5)), protectedDiv(5, ARG18))	0.0034357841527710687	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(ARG18, protectedDiv(ARG18, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, mul(5, 5)), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[1]	protectedDiv(mul(ARG1, 5), protectedDiv(5, 5))	0.0024963497338057854	
+[19]	sin(ARG19)	0.0034360365177450183	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, cos(mul(ARG18, 5))), protectedDiv(5, ARG18))	0.003417125317491678	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(5, ARG18))	0.0034345730670575086	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, ARG18), protectedDiv(5, ARG18))	0.00022132044429926405	
+[18]	protectedDiv(ARG18, protectedDiv(5, ARG18))	0.0010595156712818322	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, mul(5, 5)))	0.0031423756168636146	
+[9, 4]	sin(mul(ARG9, ARG4))	0.003435536944927691	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, sin(5)))	0.0034359895512069555	
+[9, 18]	protectedDiv(mul(ARG9, 5), protectedDiv(5, ARG18))	0.0002977418034323742	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(protectedDiv(5, ARG18), ARG18))	4.4315694582439286e-05	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(5, 5), protectedDiv(ARG18, ARG18))	0.0034196552694684234	
+[18]	protectedDiv(mul(ARG18, 5), protectedDiv(5, ARG18))	0.00022132044429926405	
+[]	protectedDiv(mul(5, 5), protectedDiv(5, 5))	0.0034196552694684234	
+[18]	protectedDiv(mul(mul(5, 5), 5), protectedDiv(5, ARG18))	0.0008616541357067848	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, protectedDiv(5, ARG18)))	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), ARG18)	0.0034378881490313476	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[]	protectedDiv(mul(5, 5), mul(5, 5))	0.0034356232960004607	
+[18, 4]	protectedDiv(protectedDiv(5, sin(ARG4)), protectedDiv(5, ARG18))	0.001617567950774646	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(mul(5, 5), ARG18))	0.00428707635571429	
+[4]	protectedDiv(5, neg(ARG4))	0.003436491272347328	
+[16, 7]	protectedDiv(mul(5, 5), sin(add(ARG16, ARG7)))	0.0005468449441246951	
+[17, 18, 14]	protectedDiv(mul(5, 5), protectedDiv(mul(ARG17, ARG14), ARG18))	0.003103408280749533	
+[18, 5]	protectedDiv(mul(protectedDiv(5, ARG18), 5), protectedDiv(neg(ARG5), ARG18))	0.0034359211277128457	
+[]	protectedDiv(mul(5, 5), 5)	0.0034345730670575086	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[3]	protectedDiv(mul(5, 5), protectedDiv(5, mul(sin(protectedDiv(ARG3, 5)), 5)))	0.003427532805156283	
+[18]	protectedDiv(ARG18, protectedDiv(neg(5), ARG18))	0.0010476689983125137	
+[18]	protectedDiv(5, protectedDiv(5, ARG18))	0.00428707635571429	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	
+[18]	protectedDiv(mul(5, 5), protectedDiv(5, ARG18))	0.049652664920793	

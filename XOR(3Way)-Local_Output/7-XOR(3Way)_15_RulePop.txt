@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))), protectedDiv(ARG14, ARG16))	0.5425	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(5, ARG5))	0.5137499999999999	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(ARG4, ARG16)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.56625	
+[16, 4, 5, 15]	add(sub(neg(ARG5), mul(5, ARG15)), protectedDiv(ARG4, ARG16))	0.55	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG16, ARG16))	0.540625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG4))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.47875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(sub(5, 5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5406249999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG5, ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.56375	
+[3, 4, 5, 11, 14, 16]	add(sub(neg(sub(sub(ARG3, 5), cos(5))), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG5), ARG4), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.541875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG11, ARG16))	0.54875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4]	add(ARG4, protectedDiv(ARG4, ARG16))	0.526875	
+[0, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(sub(neg(ARG0), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 13, 14, 16]	add(sub(add(add(5, 5), neg(ARG13)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 12, 14, 15]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(cos(ARG4), protectedDiv(ARG15, ARG12))))), ARG5)	0.496875	
+[4, 5, 11, 14, 16]	add(sub(neg(protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.50125	
+[8, 7]	add(mul(ARG7, ARG8), neg(5))	0.5	
+[4, 5, 7, 14, 16]	add(sub(neg(ARG14), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG7, ARG16))	0.5131249999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(protectedDiv(ARG4, ARG16), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG5, ARG4)), ARG5)))), neg(ARG5))	0.500625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG5, ARG4)), ARG5)))), protectedDiv(neg(ARG5), ARG16))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 10, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(protectedDiv(cos(sin(ARG10)), ARG5), ARG16))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG14, mul(ARG4, ARG4))))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 10, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.56375	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[16, 4, 5, 14]	add(sub(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, neg(ARG5))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, sin(5))), protectedDiv(ARG4, ARG16))	0.529375	
+[16, 4, 5, 14]	add(sub(ARG4, mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.5375	
+[16, 4, 5, 14]	add(sub(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), neg(ARG5)), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(protectedDiv(sin(5), cos(ARG5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[1, 4, 5, 14, 16]	add(sub(neg(ARG1), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.536875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.546875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.5181250000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, protectedDiv(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.5375	
+[16, 4]	add(ARG4, protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5))), ARG5))))), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53375	
+[0, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), sin(ARG0))))), neg(ARG5))	0.5	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.559375	
+[5]	add(sub(neg(ARG5), ARG5), 5)	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), neg(ARG5))	0.499375	
+[16, 4, 5, 14]	add(sub(protectedDiv(ARG4, ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG14), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(mul(mul(ARG5, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5325	
+[2, 4, 5, 7, 16, 19]	add(sub(neg(ARG5), mul(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.54875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG14)), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), sin(sin(ARG5)))))), protectedDiv(ARG4, ARG16))	0.535625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(protectedDiv(ARG4, ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), neg(sub(sin(5), neg(ARG5))))	0.539375	
+[2, 3, 4, 5, 7, 14, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(mul(5, ARG3), ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG14))	0.524375	
+[4, 5, 9, 16, 19]	add(sub(neg(ARG5), mul(ARG16, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.535625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5325	
+[10, 11]	sub(neg(5), mul(ARG11, ARG10))	0.5	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG16)))), protectedDiv(ARG4, ARG16))	0.56	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG11, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG11))	0.5287499999999999	
+[4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG16, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG17, ARG16))	0.530625	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))))	0.49874999999999997	
+[16, 1, 4]	add(ARG1, protectedDiv(ARG4, ARG16))	0.515625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG5, ARG16))	0.549375	
+[4, 5, 10, 11, 14, 15, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG4))))), protectedDiv(add(neg(ARG15), protectedDiv(ARG10, ARG4)), ARG16))	0.516875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), sin(neg(5)))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, protectedDiv(ARG4, ARG16)))), protectedDiv(ARG4, ARG16))	0.5375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(ARG14, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, cos(neg(ARG14)))), protectedDiv(ARG4, ARG16))	0.534375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 12, 4]	add(neg(ARG12), protectedDiv(ARG4, ARG16))	0.531875	
+[16, 4, 5]	add(sub(neg(ARG5), mul(neg(ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), 5)))), protectedDiv(ARG4, protectedDiv(ARG4, ARG16)))	0.48562500000000003	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG14, ARG4))), ARG16)	0.494375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[4, 5, 13, 14, 16]	add(sub(cos(ARG13), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.5087499999999999	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG14, ARG16))	0.5425	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5606249999999999	
+[16, 4, 5]	add(sub(neg(ARG5), mul(mul(ARG5, ARG4), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.5325	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), mul(ARG14, ARG4))))), protectedDiv(ARG4, ARG16))	0.546875	
+[10]	neg(sub(ARG10, 5))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(protectedDiv(ARG4, ARG16), ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 10, 4]	add(cos(sin(ARG10)), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[3, 4, 5, 8, 9, 16]	add(sub(neg(ARG5), add(add(ARG9, ARG8), sub(5, ARG3))), protectedDiv(ARG4, ARG16))	0.5	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, sin(neg(ARG4)))), ARG5)	0.485	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(ARG4, ARG16))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 11, 4, 5]	add(sub(neg(ARG5), neg(ARG11)), protectedDiv(ARG4, ARG16))	0.5237499999999999	
+[16, 4, 5]	add(protectedDiv(neg(sin(ARG4)), ARG5), protectedDiv(ARG4, ARG16))	0.504375	
+[4, 5, 10, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG14, mul(ARG4, ARG10)))))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG16, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG4))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(ARG5, protectedDiv(ARG4, ARG16))	0.5225	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), ARG4)	0.521875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(protectedDiv(ARG4, ARG16), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.52625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG5), protectedDiv(5, ARG5)))), protectedDiv(ARG4, ARG16))	0.53125	
+[16, 4, 5, 14]	add(sub(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[]	5	0.5	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(ARG11, ARG5)))	0.52125	
+[16, 4, 5, 6]	add(sub(neg(ARG5), mul(sub(ARG6, 5), mul(5, 5))), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.56625	
+[16, 4, 5, 14]	add(sub(protectedDiv(ARG4, ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))), neg(ARG5))	0.49937499999999996	
+[4, 12, 16, 18, 19]	add(mul(add(5, ARG18), add(ARG19, ARG12)), protectedDiv(ARG4, ARG16))	0.504375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)), protectedDiv(ARG4, ARG16))	0.525625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(neg(ARG5), ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.51625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)))), protectedDiv(ARG4, ARG16))	0.538125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG4)), protectedDiv(ARG4, ARG16))	0.5275	
+[16, 4, 5]	add(sub(neg(ARG5), ARG16), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.538125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))	0.538125	
+[4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(ARG17, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 14, 6]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG6))	0.516875	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(5, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG16, ARG4)), protectedDiv(ARG4, ARG16))	0.536875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16))))	0.5175000000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 3, 4]	add(protectedDiv(ARG3, 5), protectedDiv(ARG4, ARG16))	0.506875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.56625	
+[16, 4, 5, 14]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, 5)), protectedDiv(ARG4, ARG16))	0.52875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[2, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), sub(neg(ARG2), sub(5, ARG16)))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.56375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG16)	0.494375	
+[4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(ARG14, mul(ARG17, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(ARG4, ARG16)))	0.495	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG5, ARG16), ARG16))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG14, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(sub(neg(ARG5), mul(neg(ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[0, 4, 5, 7, 11, 14, 16]	add(sub(add(cos(ARG7), neg(ARG0)), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.53125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.56375	
+[0, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(mul(neg(ARG0), mul(ARG4, protectedDiv(neg(ARG5), ARG5))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.545625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, ARG4), ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[2, 4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), sin(ARG2))))), protectedDiv(ARG4, ARG16))	0.56	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[2, 4, 5, 11, 14]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, neg(ARG2)))	0.520625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG14))))), protectedDiv(ARG4, ARG16))	0.55	
+[16, 4, 5]	add(sub(neg(ARG5), neg(ARG5)), protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(ARG5, protectedDiv(ARG4, ARG16))	0.5225	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.56375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG16))	0.55	
+[7]	cos(ARG7)	0.4975	
+[16, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(ARG4, ARG16), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275000000000001	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG14)	0.514375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(protectedDiv(neg(ARG5), ARG5), protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.535625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, ARG4))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(add(ARG16, 5), ARG4), ARG4)), ARG5)))), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5))))), protectedDiv(ARG4, ARG16))	0.5406249999999999	
+[16, 4, 5, 14]	add(sub(neg(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5225	
+[8, 16, 4]	add(cos(ARG8), protectedDiv(ARG4, ARG16))	0.509375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, protectedDiv(neg(mul(ARG5, ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275	
+[4, 5, 14, 16, 18]	add(sub(neg(ARG5), mul(ARG14, ARG18)), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[8, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), neg(sin(ARG8)))	0.5	
+[16, 4, 5]	add(sub(neg(ARG5), protectedDiv(neg(ARG5), ARG5)), protectedDiv(ARG4, ARG16))	0.47875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5)))))), mul(ARG14, ARG4))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4]	add(ARG16, protectedDiv(ARG4, ARG16))	0.5	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG14), ARG5)))), protectedDiv(ARG4, sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5)))))))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[3, 4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(cos(cos(ARG3))))))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[0, 16, 4, 5]	add(sub(neg(ARG5), cos(ARG0)), protectedDiv(ARG4, ARG16))	0.5393749999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[2, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, sub(ARG2, 5))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.5231250000000001	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5425	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG14)), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG5)), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.520625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, add(mul(5, 5), mul(5, ARG16)))), protectedDiv(ARG4, ARG16))	0.5375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5)))))))))), protectedDiv(ARG4, ARG16))	0.55125	
+[17, 4, 5]	add(ARG5, protectedDiv(ARG4, neg(ARG17)))	0.49125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5)))), ARG4)), ARG5)))	0.5625	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG5, ARG16))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[4, 5, 11, 14, 16]	add(sub(ARG14, mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.51625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(neg(ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(protectedDiv(ARG4, ARG16), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), mul(ARG14, ARG11))	0.51125	
+[9, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), add(5, ARG9))))), protectedDiv(ARG4, neg(ARG5)))	0.525625	
+[16, 4, 14]	add(sub(ARG16, mul(ARG14, 5)), protectedDiv(ARG4, ARG16))	0.514375	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG14))), ARG4)), ARG5)))	0.549375	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.55	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.5181250000000001	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), neg(mul(mul(ARG14, ARG4), ARG4))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.483125	
+[18]	ARG18	0.498125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(protectedDiv(neg(ARG5), ARG5), ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[2, 4, 5, 14, 15, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG14))), protectedDiv(protectedDiv(ARG4, add(add(ARG15, 5), sub(ARG16, ARG2))), ARG16))	0.561875	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.483125	
+[16, 4]	add(cos(5), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 9, 4, 5]	add(sub(neg(ARG5), mul(ARG5, ARG9)), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG14), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG5), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(ARG4, mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[1, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(add(sin(5), sin(ARG1)), ARG16), ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG16))	0.5625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, ARG4), ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 8, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG14, mul(ARG8, protectedDiv(neg(ARG5), ARG5)))))), protectedDiv(ARG4, ARG16))	0.5700000000000001	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(protectedDiv(neg(mul(ARG14, ARG4)), ARG5), ARG4)), ARG5)))	0.553125	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[3, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(sub(neg(ARG5), mul(ARG14, ARG3)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5606249999999999	
+[2, 4, 5, 7, 13, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG13, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.564375	
+[4, 5, 10, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG19, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.56375	
+[4, 5, 14, 15, 16]	add(sub(neg(ARG5), mul(ARG14, mul(cos(ARG15), sin(5)))), protectedDiv(ARG4, ARG16))	0.529375	
+[16, 4, 5, 14]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(5, 5)))	0.520625	
+[3, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, mul(ARG5, ARG3))), ARG4)), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(protectedDiv(ARG11, neg(ARG5)), ARG5)))), protectedDiv(protectedDiv(neg(ARG5), ARG5), ARG16))	0.54	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG4))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 17, 4, 14]	add(sub(neg(ARG17), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.505625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG14, mul(ARG4, sin(neg(ARG14)))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(neg(ARG5), ARG16))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(ARG4, mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.5325	
+[16, 4, 5, 14]	add(sub(neg(mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5406249999999999	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG5), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(ARG11, ARG5)))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG14, ARG16))	0.5425	
+[10, 13]	cos(add(ARG10, ARG13))	0.49625	
+[7]	ARG7	0.495625	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.524375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG4, ARG4)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(protectedDiv(neg(ARG5), ARG5), ARG16))	0.540625	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, protectedDiv(5, ARG5)))	0.521875	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(ARG16), sub(sub(neg(ARG5), mul(mul(ARG14, ARG4), ARG4)), ARG5)))	0.530625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(cos(protectedDiv(ARG4, ARG4)), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.529375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)))))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.546875	
+[4, 5]	add(sub(neg(ARG5), mul(ARG5, ARG4)), cos(5))	0.525625	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG14), ARG5))))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), add(protectedDiv(ARG4, ARG4), cos(5)))	0.51	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG16), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.531875	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG14), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.530625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4]	add(protectedDiv(ARG4, ARG16), protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 11, 14, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), sub(neg(ARG5), mul(mul(ARG14, mul(ARG19, ARG11)), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))))	0.5025000000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG4))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG16, ARG16))	0.540625	
+[16, 4, 5]	add(sub(neg(ARG5), protectedDiv(ARG4, ARG16)), protectedDiv(ARG4, ARG16))	0.5	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG14), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.530625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.5325	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, neg(ARG5))), protectedDiv(ARG4, ARG16))	0.535	
+[4, 5, 10, 13, 14, 16]	add(sub(mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.544375	
+[1, 4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(ARG14, mul(sin(add(ARG17, ARG1)), protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.54375	
+[4, 5, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), sub(sin(5), cos(ARG19)))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[13, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(ARG13, 5)))	0.5081249999999999	
+[2, 4, 5, 10, 14, 16]	add(sub(protectedDiv(5, ARG2), mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), ARG16)), ARG5)))), protectedDiv(ARG4, ARG16))	0.505	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(neg(ARG5), ARG5))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG16)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(mul(ARG4, protectedDiv(ARG11, neg(ARG5))), ARG16))	0.56125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))))), protectedDiv(ARG4, ARG16))	0.546875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(sub(5, 5), ARG5)))), ARG5)	0.5	
+[16, 17, 4, 5]	add(sub(neg(ARG5), mul(ARG4, mul(sin(ARG17), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(add(5, 5), ARG5)))), protectedDiv(ARG14, ARG16))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG11, ARG16))	0.55125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(protectedDiv(neg(ARG5), ARG5), ARG5)))))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 11, 14, 16]	add(sub(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5]	add(sub(neg(ARG5), neg(ARG5)), protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG16), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[1, 4, 5, 11, 14]	add(sub(neg(ARG1), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG11))	0.51375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, 5))	0.52125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[2, 4, 5, 7, 14, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(sub(5, ARG5)), ARG5)))), protectedDiv(ARG4, sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5))))))	0.54125	
+[16, 11, 4]	add(ARG16, protectedDiv(ARG4, protectedDiv(5, ARG11)))	0.46375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.5506249999999999	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), protectedDiv(ARG4, protectedDiv(neg(ARG4), ARG5)))	0.52	
+[4, 5, 13, 14, 16]	add(sub(protectedDiv(ARG13, 5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.52	
+[16, 4]	add(cos(5), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 9, 14, 16, 19]	add(sub(cos(add(5, 5)), mul(ARG14, mul(mul(add(ARG19, ARG9), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53375	
+[16, 4, 5, 14]	add(sub(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.534375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, neg(ARG5)), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(mul(sub(5, 5), sin(5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.526875	
+[4, 5, 10, 13, 14, 16]	add(sub(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(neg(ARG5), ARG16))	0.5499999999999999	
+[16, 4]	add(ARG16, protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))))	0.5393749999999999	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)), ARG5)))), ARG14)	0.514375	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(ARG4, ARG16), mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.535625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG5), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.5587500000000001	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG16), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.534375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, ARG16)), ARG4)), protectedDiv(ARG4, ARG16))	0.55	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.5181250000000001	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.56625	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))))	0.5425	
+[16, 4]	add(ARG16, protectedDiv(ARG4, ARG16))	0.5	
+[16, 11, 4, 5]	add(sub(neg(ARG5), ARG11), protectedDiv(ARG4, ARG16))	0.5218750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 14]	add(ARG14, protectedDiv(ARG4, ARG16))	0.515625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[3, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)))), protectedDiv(ARG3, ARG16))	0.544375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(neg(ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54375	
+[16, 4, 5, 14]	add(sub(neg(ARG14), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.52875	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))	0.50125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(ARG4, ARG16), ARG4)), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5]	add(sub(neg(ARG5), protectedDiv(ARG4, ARG16)), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4), ARG16))	0.54625	
+[4, 5, 9, 14, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), ARG4)	0.5237499999999999	
+[4, 5, 11, 14, 16, 17]	add(sub(neg(ARG5), mul(ARG14, mul(protectedDiv(ARG4, ARG16), protectedDiv(ARG11, cos(sub(ARG11, ARG17)))))), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG14)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.5325	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), add(neg(5), sub(ARG16, 5)))))), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5606249999999999	
+[4, 5, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(neg(ARG5), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 10, 14, 16]	add(sub(cos(ARG10), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.505625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5]	add(sub(neg(ARG5), mul(neg(add(5, 5)), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), ARG4), protectedDiv(ARG4, ARG16))	0.541875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG16))	0.55	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[1, 4, 5, 14, 16]	add(sub(neg(ARG5), cos(add(ARG1, ARG14))), protectedDiv(ARG4, ARG16))	0.499375	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG14))), ARG4)), ARG5)))	0.549375	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5325	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(ARG4, ARG16), mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.535625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG14)	0.514375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5))), protectedDiv(ARG4, ARG16))	0.5275	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG16)))), protectedDiv(ARG4, ARG16))	0.56	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, sub(sin(5), cos(ARG4)))), protectedDiv(ARG4, ARG16))	0.523125	
+[16, 4, 5]	add(mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)), protectedDiv(ARG4, ARG16))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(protectedDiv(ARG4, ARG16)), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, add(sin(5), protectedDiv(ARG13, 5))))), protectedDiv(ARG4, ARG16))	0.549375	
+[4, 5, 11, 14, 16]	add(sub(neg(neg(protectedDiv(5, ARG5))), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5081249999999999	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(ARG5, sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.521875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5)))))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(neg(ARG4), ARG5), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.541875	
+[4, 5, 7, 11, 14, 16]	add(sub(cos(ARG7), mul(ARG14, mul(ARG4, protectedDiv(neg(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5)))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.518125	
+[16, 4, 5]	add(ARG5, protectedDiv(ARG4, ARG16))	0.5225	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.55	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.5181250000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(neg(ARG5)))))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 10, 4]	add(neg(ARG10), protectedDiv(ARG4, ARG16))	0.5225	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG5, ARG16))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(ARG16, ARG16)), ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(ARG4, ARG16)))	0.500625	
+[16, 4, 5]	add(sub(neg(ARG5), ARG16), protectedDiv(ARG4, ARG16))	0.538125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))))	0.539375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[0, 16, 12]	mul(cos(ARG0), mul(ARG16, ARG12))	0.4875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG16))	0.56	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[4, 5, 9, 10, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(sub(neg(ARG5), mul(ARG14, mul(sub(ARG9, ARG10), neg(ARG10)))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[4]	add(ARG4, protectedDiv(ARG4, 5))	0.490625	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5525	
+[2, 4, 5, 14, 16]	add(sub(neg(mul(protectedDiv(ARG2, ARG4), add(5, 5))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.48875	
+[16, 4, 5, 14]	add(sub(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5606249999999999	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 14, 16, 18]	add(sub(neg(ARG5), mul(ARG14, mul(5, ARG18))), protectedDiv(ARG4, ARG16))	0.5425	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(sub(neg(ARG5), ARG4), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5]	add(sub(neg(ARG5), mul(mul(mul(ARG4, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5275	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, protectedDiv(5, 5))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG14, mul(ARG5, protectedDiv(neg(ARG5), ARG5)))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(5, ARG16)), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.561875	
+[3, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG3)	0.519375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))	0.5	
+[16, 4, 5]	add(sub(neg(ARG5), protectedDiv(ARG4, ARG16)), protectedDiv(ARG4, ARG16))	0.5	
+[18, 3, 4]	add(ARG4, sub(ARG3, ARG18))	0.489375	
+[1, 4, 5, 14, 16, 19]	add(sub(neg(protectedDiv(cos(ARG19), mul(ARG1, 5))), mul(ARG14, mul(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.495625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 9, 14, 16, 17, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), protectedDiv(5, ARG17))))), protectedDiv(ARG4, ARG16))	0.551875	
+[4, 5, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), sub(neg(ARG5), mul(ARG14, mul(5, ARG13))))))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5]	add(ARG5, protectedDiv(ARG4, ARG16))	0.5225	
+[16, 4, 5, 14]	add(sub(neg(ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[4, 5, 9, 14, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG5))	0.54375	
+[16, 4, 5]	add(sub(neg(ARG5), ARG16), protectedDiv(ARG4, ARG16))	0.538125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), protectedDiv(ARG4, mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))	0.539375	
+[4, 5, 7, 12, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(sub(protectedDiv(ARG12, 5), neg(ARG7)), protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54625	
+[4, 5, 7, 12, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG4, ARG12), cos(ARG7)), mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5))), ARG5))))), protectedDiv(ARG4, ARG16))	0.5525	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(neg(5), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[2, 4, 5, 7, 10, 13, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG16))	0.556875	
+[4, 5, 6, 8, 12, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, sub(neg(ARG5), sub(protectedDiv(ARG8, ARG6), add(5, ARG12)))), ARG16))	0.563125	
+[16, 4]	add(ARG16, protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.5	
+[16, 4, 5]	add(protectedDiv(neg(ARG4), ARG5), protectedDiv(ARG4, ARG16))	0.51875	
+[13]	sub(protectedDiv(ARG13, 5), neg(5))	0.5	
+[16, 4, 5, 14]	add(sub(ARG16, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.511875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, neg(ARG5)))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 10, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, ARG10))), protectedDiv(ARG4, ARG16))	0.5425	
+[4, 5, 11, 14, 16]	add(sub(neg(5), mul(mul(ARG14, mul(protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5), protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4)), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.52125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, protectedDiv(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.5375	
+[4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG5)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5575	
+[2, 4, 5, 11, 14, 16]	add(sub(neg(ARG2), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.534375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.546875	
+[4, 5, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(mul(ARG13, 5), ARG16))	0.53	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG16))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.55	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.52	
+[16, 4, 5, 14]	add(sub(neg(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5406249999999999	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(neg(ARG5)), ARG5))), ARG4)), ARG5)))	0.5625	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG5)), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(protectedDiv(ARG11, neg(ARG5)), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))), protectedDiv(ARG4, ARG16))	0.56	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.564375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(ARG4, ARG16))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG5, ARG16))	0.549375	
+[1, 4, 5, 14, 16, 18]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG5, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(sub(neg(ARG1), mul(5, ARG18)), ARG16))	0.5349999999999999	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG4))))), protectedDiv(ARG4, ARG16))	0.55	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.47875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[10, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, neg(ARG5))), sin(protectedDiv(ARG4, ARG10)))	0.500625	
+[1, 4, 5, 14, 16]	add(sub(mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(ARG1, ARG5)))), protectedDiv(ARG4, ARG16))	0.528125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(sub(neg(ARG5), ARG4), protectedDiv(ARG4, ARG16))	0.541875	
+[4, 5, 7, 16, 17]	add(sub(neg(ARG5), protectedDiv(ARG7, ARG17)), protectedDiv(ARG4, ARG16))	0.505	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, neg(ARG5)))	0.5393749999999999	
+[16, 2, 4, 14]	add(sub(ARG16, mul(ARG14, sub(5, ARG2))), protectedDiv(ARG4, ARG16))	0.514375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))))), protectedDiv(ARG4, ARG16))	0.53375	
+[16, 11, 4, 5]	add(mul(ARG4, protectedDiv(ARG11, neg(ARG5))), protectedDiv(ARG4, ARG16))	0.531875	
+[4, 5, 10, 13, 16]	add(sub(neg(ARG5), neg(add(cos(ARG10), protectedDiv(ARG13, 5)))), protectedDiv(ARG4, ARG16))	0.50125	
+[4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(ARG14, mul(sub(ARG17, 5), protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.54	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG4))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(protectedDiv(neg(ARG5), ARG5), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG16, ARG16))	0.540625	
+[]	5	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, neg(ARG5))), protectedDiv(ARG4, ARG16))	0.535	
+[4, 5, 11, 14, 16]	add(sub(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.55	
+[16, 4, 5]	add(sub(neg(ARG5), neg(ARG5)), protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.528125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, neg(ARG5)), ARG4)), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), mul(mul(ARG14, mul(ARG4, 5)), ARG4)), ARG5)))	0.561875	
+[4, 5, 9, 14, 16, 19]	add(sub(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53	
+[16, 4, 5]	add(sub(neg(ARG5), neg(ARG5)), protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54	
+[1, 4, 5, 14, 16]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(mul(ARG14, ARG1), ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.538125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG16, ARG5))), mul(ARG14, ARG4))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(protectedDiv(cos(ARG17), ARG16), ARG16), neg(ARG5)))	0.53875	
+[16, 4]	add(ARG16, protectedDiv(ARG4, ARG16))	0.5	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG4), ARG5))))))	0.54125	
+[4, 5, 14, 16, 18]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG18, ARG5)))), protectedDiv(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), ARG16))	0.549375	
+[8, 16, 4, 6]	add(protectedDiv(cos(ARG6), sub(ARG8, 5)), protectedDiv(ARG4, ARG16))	0.52	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[]	5	0.5	
+[4, 5, 10, 14, 16, 17]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(add(add(ARG17, ARG5), cos(ARG10)), ARG16))	0.528125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[19, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, ARG4)), ARG5)))), protectedDiv(mul(5, 5), add(ARG19, 5)))	0.49875	
+[4, 5, 10, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.56375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[3, 4, 5, 14, 16, 19]	add(sub(neg(ARG4), mul(ARG14, mul(sub(ARG19, ARG3), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG16, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[0, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(sub(add(5, 5), sin(ARG0)), ARG4), ARG16))	0.5349999999999999	
+[16, 4, 5]	add(sub(neg(ARG5), ARG16), protectedDiv(ARG4, ARG16))	0.538125	
+[19, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(cos(ARG19)), ARG5)))), protectedDiv(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))))	0.536875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)))	0.500625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG16, ARG16))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, add(neg(5), sin(ARG16))), ARG4)), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(mul(ARG4, protectedDiv(ARG11, neg(ARG5)))), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.535625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG5)), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.56375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 9, 14, 16, 19]	add(sub(protectedDiv(ARG4, ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), neg(ARG5))	0.498125	
+[4, 5, 14]	sub(protectedDiv(ARG4, neg(ARG5)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.54	
+[16, 4, 5, 14]	add(sub(sin(ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5118750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(neg(ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 8, 11, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), add(ARG8, ARG13))))), protectedDiv(protectedDiv(protectedDiv(ARG11, neg(ARG5)), ARG16), ARG16))	0.523125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG4))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG5), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.546875	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG4))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG16, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), sub(5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))))), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5]	add(ARG5, protectedDiv(ARG4, ARG16))	0.5225	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG16, ARG16))	0.540625	
+[4, 5, 14, 6]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(sub(ARG6, 5), neg(ARG6)))	0.510625	
+[4, 5, 14, 16, 18]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG5), protectedDiv(cos(add(5, ARG18)), ARG5)))), protectedDiv(ARG4, ARG16))	0.536875	
+[16, 4, 5, 14]	add(sub(ARG4, mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), sin(neg(ARG4))), protectedDiv(ARG4, ARG16))	0.53125	
+[2, 4, 5, 7, 14, 15, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), mul(ARG14, mul(mul(protectedDiv(sin(ARG15), cos(5)), ARG4), protectedDiv(neg(ARG5), ARG5))))))), protectedDiv(ARG4, ARG16))	0.556875	
+[0, 4, 5, 14, 16]	add(sub(neg(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(sin(sub(5, ARG0)), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.525	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 7, 14, 16]	add(sub(neg(ARG5), mul(ARG14, cos(sin(ARG7)))), protectedDiv(ARG4, ARG16))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), neg(protectedDiv(5, ARG5))), protectedDiv(ARG4, ARG16))	0.5	
+[0, 4, 5, 11, 14, 16]	sub(protectedDiv(ARG4, sin(ARG16)), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5))), sub(sub(neg(ARG0), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.528125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, neg(5)))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4)), ARG16)	0.490625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(protectedDiv(neg(ARG5), ARG5)), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.561875	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5))))))), protectedDiv(ARG4, ARG16))	0.5475000000000001	
+[12, 5]	add(sub(neg(ARG5), ARG5), mul(sub(5, ARG12), neg(5)))	0.5	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, ARG5))	0.5425	
+[2, 4, 5, 7, 14, 16, 19]	add(sub(neg(ARG16), mul(ARG14, mul(mul(mul(add(mul(ARG19, ARG7), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.531875	
+[4, 5, 8, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, add(ARG8, ARG5)))), protectedDiv(ARG4, ARG16))	0.5675	
+[9, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG9, ARG5))), ARG4)), neg(ARG5))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(mul(ARG14, ARG4), ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(neg(ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG14), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), 5), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 10, 13, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(cos(ARG19), ARG5)))), protectedDiv(add(cos(ARG10), protectedDiv(ARG13, 5)), ARG16))	0.53125	
+[16, 4]	add(ARG4, protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))), ARG5)	0.49874999999999997	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(ARG4, ARG16))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, 5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.565625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(ARG5, mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4)), protectedDiv(ARG4, ARG16))	0.538125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[0, 16, 4]	add(neg(protectedDiv(ARG0, 5)), protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[1, 4, 5, 10, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), sin(add(ARG1, ARG10)))	0.510625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG16)), protectedDiv(ARG4, ARG16))	0.5475000000000001	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5275	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG14, ARG16))	0.5425	
+[1, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG1)	0.501875	
+[16, 4]	add(protectedDiv(ARG4, ARG16), protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG5, ARG16))	0.549375	
+[4, 5, 14, 15, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, sin(sin(ARG15))))), protectedDiv(ARG4, ARG16))	0.54625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.5181250000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(cos(5), mul(ARG14, mul(ARG4, ARG16)))), protectedDiv(ARG4, ARG16))	0.54625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.56375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 10, 4]	add(mul(5, ARG10), protectedDiv(ARG4, ARG16))	0.525625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG14))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(neg(ARG5), ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.541875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 15]	sub(protectedDiv(ARG4, sin(ARG16)), mul(ARG15, ARG5))	0.5275	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG16))	0.54875	
+[16, 4, 5]	add(sub(neg(ARG5), ARG4), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5))), protectedDiv(ARG4, ARG16))	0.543125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 9, 11, 13, 14, 16, 17]	add(sub(neg(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(mul(protectedDiv(ARG13, ARG11), protectedDiv(ARG17, ARG9)), mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.5406249999999999	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG5, ARG4)), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[16, 4, 5]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG16)), sub(sub(neg(ARG5), cos(mul(5, 5))), ARG5)))	0.536875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG16, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 2, 4, 5]	add(sub(neg(ARG5), protectedDiv(ARG16, ARG2)), protectedDiv(ARG4, neg(ARG5)))	0.50875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), mul(add(cos(ARG14), sin(5)), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.545	
+[16, 4, 14]	add(ARG14, protectedDiv(ARG4, ARG16))	0.515625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, 5)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.56375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG4))	0.540625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG16, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5475	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), neg(ARG5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 9, 16, 18]	add(sub(ARG4, mul(add(ARG9, ARG18), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.518125	
+[3, 14]	protectedDiv(neg(ARG3), add(ARG14, 5))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, protectedDiv(neg(ARG5), ARG5))), protectedDiv(ARG4, ARG16))	0.524375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[0, 5, 14]	add(sub(neg(ARG5), ARG14), ARG0)	0.5175	
+[16, 4]	add(protectedDiv(ARG4, ARG16), protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG4), ARG5)))), sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))	0.500625	
+[1, 4, 5, 13, 14, 16, 17, 18]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG16), add(add(ARG1, ARG13), add(ARG18, ARG17)))), protectedDiv(ARG4, ARG16))	0.55125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG4))	0.540625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, 5)), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.5375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(neg(ARG5), ARG5)), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 10, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.56375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), sin(sin(5))), protectedDiv(ARG4, ARG16))	0.503125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(neg(ARG5), ARG4)), protectedDiv(ARG4, ARG16))	0.5325	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 19, 4, 5]	add(sub(neg(ARG5), mul(cos(ARG19), ARG4)), protectedDiv(ARG4, ARG16))	0.5393749999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG16))	0.5625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 2, 19, 4]	add(mul(mul(add(mul(ARG19, 5), add(ARG19, ARG2)), ARG4), ARG4), protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[1, 4, 5, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(neg(cos(ARG1)), protectedDiv(neg(neg(ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, neg(ARG14))), protectedDiv(ARG4, ARG16))	0.529375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(5, ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.561875	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(neg(ARG5), ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[0, 4, 5, 14, 16]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, cos(ARG0)), ARG4)), ARG5)))	0.553125	
+[4, 5, 14, 15, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), sin(ARG15))))), protectedDiv(ARG4, ARG16))	0.555625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(protectedDiv(neg(ARG5), ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 1, 4, 5]	add(sub(neg(ARG5), cos(protectedDiv(5, ARG1))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 8, 10, 14, 16]	add(sub(sub(neg(add(ARG8, ARG10)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.50875	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(neg(sin(5)), protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5]	add(sub(neg(ARG5), mul(5, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(add(5, ARG19), ARG16))	0.5175000000000001	
+[3, 4, 5, 9, 11, 16, 19]	add(sub(neg(ARG5), mul(protectedDiv(protectedDiv(5, ARG11), add(ARG3, ARG16)), mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG16))), ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(neg(ARG5), ARG5))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG14)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 11, 4, 5]	add(sub(neg(ARG5), mul(ARG5, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), mul(5, ARG4))), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 19, 5, 14]	add(sub(neg(ARG5), mul(ARG14, sin(cos(ARG19)))), protectedDiv(ARG5, ARG16))	0.5293749999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), ARG4))))), protectedDiv(ARG4, ARG16))	0.546875	
+[12, 4, 5]	add(sub(neg(ARG5), neg(ARG5)), protectedDiv(ARG4, ARG12))	0.5	
+[2, 4, 5, 11, 14, 16]	add(sub(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), mul(ARG14, mul(cos(ARG2), protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.504375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG14, ARG16))	0.5425	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG4, mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.56125	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 14, 16, 18]	add(sub(neg(ARG5), mul(ARG14, mul(sub(5, ARG18), cos(ARG14)))), protectedDiv(ARG4, ARG16))	0.525	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 14]	add(ARG14, protectedDiv(ARG4, ARG16))	0.515625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.55	
+[4, 5, 11, 14, 16, 18]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), neg(protectedDiv(5, ARG18)))))), protectedDiv(ARG4, ARG16))	0.556875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), ARG5)	0.49874999999999997	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(ARG4, ARG16)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.49874999999999997	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))))), ARG4)), ARG5)))	0.548125	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 10, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(add(cos(ARG10), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.535625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(ARG4, ARG16))))), protectedDiv(ARG4, ARG16))	0.546875	
+[19, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), cos(sub(5, ARG19)))	0.51875	
+[16, 10, 4, 14]	add(sub(neg(ARG10), mul(ARG14, protectedDiv(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.5275	
+[0, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, sin(cos(ARG0))))), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.5118750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5349999999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), ARG16), ARG16))	0.5475	
+[16, 4]	add(ARG4, protectedDiv(ARG4, ARG16))	0.526875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(protectedDiv(ARG4, ARG16)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)	0.49874999999999997	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG16, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, 5))), protectedDiv(ARG4, ARG14))	0.5231250000000001	
+[16, 11, 4]	add(ARG11, protectedDiv(ARG4, ARG16))	0.515	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4))))	0.540625	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5)))))	0.49874999999999997	
+[16, 4, 5]	add(sub(neg(ARG5), protectedDiv(ARG4, ARG16)), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(neg(ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)	0.49874999999999997	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(ARG5, ARG16), mul(ARG4, protectedDiv(neg(protectedDiv(ARG4, ARG16)), ARG5))))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.546875	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5662499999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, protectedDiv(neg(ARG4), ARG5))), protectedDiv(ARG4, ARG16))	0.5275	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG16), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[4, 5, 11, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(add(neg(mul(mul(ARG14, ARG11), ARG4)), protectedDiv(ARG13, 5))), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 10, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(cos(ARG10), ARG5)))), protectedDiv(ARG4, ARG16))	0.56125	
+[4, 5, 10, 11, 16]	add(sub(neg(ARG5), mul(add(ARG10, ARG11), mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.53875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.548125	
+[16, 4, 14]	add(ARG14, protectedDiv(ARG4, ARG16))	0.515625	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(5, ARG4))	0.51	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG16, ARG16))	0.54125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG5))	0.54125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG16)))), protectedDiv(ARG4, ARG16))	0.56	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), ARG4), protectedDiv(ARG4, ARG16))	0.541875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5]	add(sub(neg(ARG5), neg(ARG5)), protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 6, 14, 16]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG6), ARG5))), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4))))	0.52875	
+[4, 5, 6, 11, 12, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(mul(cos(ARG12), mul(5, ARG6)), protectedDiv(protectedDiv(ARG11, neg(ARG5)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 6, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG6)), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), ARG5)))))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(ARG11, ARG5))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(protectedDiv(ARG11, neg(ARG5)), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG5), protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.561875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, neg(ARG5)))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG16, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.54	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG4))), ARG4)), ARG5)))	0.5487500000000001	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))), mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4]	add(5, protectedDiv(ARG4, ARG16))	0.5	
+[4, 5, 13, 14, 17]	add(sub(mul(mul(ARG17, 5), neg(ARG13)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)	0.49125	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(ARG4, ARG16)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.49874999999999997	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG5, ARG16), ARG16))	0.549375	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG4), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.559375	
+[16, 4]	add(protectedDiv(ARG4, ARG16), protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, protectedDiv(ARG4, ARG16))), protectedDiv(ARG4, neg(ARG11)))	0.51	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))	0.52	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(mul(ARG4, protectedDiv(neg(ARG5), ARG5)), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.541875	
+[16, 4, 14]	add(sub(neg(cos(sin(ARG4))), mul(ARG14, ARG14)), protectedDiv(ARG4, ARG16))	0.50125	
+[18]	protectedDiv(5, ARG18)	0.5	
+[4, 5, 8, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG8, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.570625	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG14))), ARG4)), ARG5)))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.546875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.561875	
+[0, 4, 5, 14]	add(sub(ARG5, mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(sub(5, 5), cos(ARG0)))	0.474375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG16)	0.49375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, protectedDiv(ARG4, ARG16)))	0.500625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG16, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.534375	
+[1, 4, 5, 13, 14, 16]	add(sub(neg(protectedDiv(add(ARG1, 5), sub(5, ARG13))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG14))	0.5	
+[16, 4, 5, 14]	add(sub(ARG5, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[4, 5, 14]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), cos(sin(5)))	0.5137499999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(neg(ARG5), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(mul(neg(5), neg(5))))))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[16, 4, 5, 14]	add(sub(neg(neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.53625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG5, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 11, 4, 5]	add(sub(neg(ARG5), ARG11), protectedDiv(ARG4, ARG16))	0.5218750000000001	
+[16, 4, 5]	add(sub(neg(ARG5), ARG16), protectedDiv(ARG4, ARG16))	0.538125	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(ARG4, ARG16)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.49874999999999997	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG5)	0.49874999999999997	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG4), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(neg(ARG5), ARG5))	0.5387500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG4, ARG16)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), ARG16))	0.546875	
+[16, 4]	add(ARG4, protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 9, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG9), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.565625	
+[0, 4, 5, 14, 16, 17]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(sub(neg(ARG0), sin(ARG17)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5618749999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.563125	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(5, mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5))))), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.558125	
+[16, 4, 5]	add(sub(neg(ARG5), ARG5), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.47875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(mul(mul(ARG14, ARG4), ARG4), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), sin(ARG16))	0.494375	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, protectedDiv(ARG4, ARG16)), mul(neg(protectedDiv(5, ARG5)), sub(neg(ARG5), mul(mul(ARG14, protectedDiv(protectedDiv(ARG4, ARG16), ARG16)), ARG4))))	0.49875	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))))), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4]	add(ARG4, protectedDiv(ARG4, ARG16))	0.526875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), neg(ARG5))), ARG5)))), ARG5)	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(protectedDiv(ARG4, ARG16)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5))))	0.4975	
+[16, 4, 5]	add(sub(neg(ARG5), protectedDiv(ARG4, ARG16)), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG5, ARG16), ARG16))	0.549375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, 5)), protectedDiv(ARG4, ARG16))	0.5375	
+[4, 5, 11, 14, 16]	add(sub(protectedDiv(ARG11, neg(ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.524375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, neg(ARG5)))), protectedDiv(ARG4, ARG16))	0.546875	
+[8, 16, 4, 5]	add(sub(neg(ARG5), mul(protectedDiv(ARG8, ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.529375	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG14))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(neg(add(5, 5))), mul(ARG14, ARG5)), protectedDiv(ARG4, ARG16))	0.5	
+[16, 4, 5, 14]	sub(protectedDiv(ARG4, sin(ARG16)), mul(neg(protectedDiv(ARG5, ARG5)), sub(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), ARG5)))	0.565625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), 5)))), protectedDiv(ARG4, ARG16))	0.54875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG16))), protectedDiv(ARG4, ARG16))	0.55	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5]	add(ARG5, protectedDiv(ARG4, ARG16))	0.5225	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5]	add(sub(neg(ARG5), ARG4), protectedDiv(ARG4, ARG16))	0.541875	
+[4, 5, 13, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG13), ARG4)), ARG5))), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, ARG4))	0.50125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(protectedDiv(neg(5), ARG16), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.5625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(protectedDiv(neg(ARG5), ARG5)), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, ARG5))), protectedDiv(ARG4, ARG16))	0.548125	
+[16, 4, 5, 14]	add(sub(neg(5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(protectedDiv(ARG4, ARG4)), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.49812500000000004	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(mul(ARG14, mul(ARG16, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5))), ARG5)))), sin(sin(ARG5)))	0.500625	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG14, ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(protectedDiv(ARG4, ARG16), ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(neg(ARG5), ARG4)))), protectedDiv(ARG4, ARG16))	0.5487500000000001	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(protectedDiv(neg(mul(mul(ARG14, ARG11), ARG4)), ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, neg(ARG5)))), protectedDiv(ARG4, ARG16))	0.546875	
+[4, 5, 11, 14, 16, 18]	add(sub(mul(ARG5, ARG18), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.535	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 9, 11, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), cos(ARG9))	0.53875	
+[11, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG11))	0.5287499999999999	
+[16, 3, 4]	add(sin(neg(ARG3)), protectedDiv(ARG4, ARG16))	0.52375	
+[4, 5, 12, 14, 16]	add(sub(sin(neg(ARG12)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5393749999999999	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))), ARG4)), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(sub(cos(5), sub(5, ARG16)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.499375	
+[4, 5, 14, 15]	add(sub(neg(cos(sin(ARG15))), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(mul(ARG14, ARG4), ARG4)), ARG5)))), protectedDiv(ARG4, ARG5))	0.505625	
+[16, 4, 5, 14]	add(sub(neg(protectedDiv(neg(ARG5), ARG5)), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.47875	
+[4, 5, 10, 12, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, mul(ARG12, ARG10)))), protectedDiv(ARG4, ARG16))	0.553125	
+[16, 4, 5, 14]	add(sub(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.5606249999999999	
+[16, 4, 5]	add(neg(ARG5), protectedDiv(ARG4, ARG16))	0.5475	
+[4, 5, 14, 16, 19]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(mul(add(ARG19, ARG5), ARG4)), ARG5)))), protectedDiv(ARG4, ARG16))	0.561875	
+[4, 5, 9, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG9), ARG5)))), protectedDiv(ARG4, ARG16))	0.565	
+[16, 4, 5, 14]	add(sub(5, mul(ARG14, mul(ARG14, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(protectedDiv(ARG4, ARG16), ARG16))	0.5	
+[16, 4, 5]	add(sub(neg(ARG5), mul(ARG4, mul(ARG4, protectedDiv(neg(ARG5), 5)))), protectedDiv(ARG4, ARG16))	0.5337500000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG5, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(ARG4, protectedDiv(neg(ARG5), ARG11)))), protectedDiv(ARG4, ARG16))	0.5575	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(mul(mul(ARG14, ARG4), ARG4), mul(protectedDiv(ARG4, ARG16), protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(neg(protectedDiv(protectedDiv(ARG4, ARG16), mul(ARG14, ARG4))), sub(neg(ARG5), mul(ARG14, ARG4)))), protectedDiv(ARG4, ARG16))	0.561875	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5))))), protectedDiv(ARG4, ARG16))	0.563125	
+[4, 5, 11, 14, 16]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(ARG11, neg(ARG5))))), protectedDiv(ARG4, ARG16))	0.5643750000000001	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	
+[16, 4, 5, 14]	add(sub(neg(ARG5), mul(ARG14, mul(ARG4, protectedDiv(neg(ARG5), ARG5)))), protectedDiv(ARG4, ARG16))	0.563125	

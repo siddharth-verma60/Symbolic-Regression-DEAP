@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003007845916302563	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029932054560700614	
+[16]	ARG16	0.0002978286424907679	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(ARG1, ARG12))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300696811867338	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030053178061665106	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG3)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002982985386917369	
+[1, 3, 4, 11, 12, 14, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(neg(mul(ARG14, 5)), ARG1), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030073182029217397	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029987033656758856	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), sin(ARG1)))), ARG1), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), neg(cos(5)))	0.0003004699229407463	
+[]	neg(5)	0.0002978808413894499	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(mul(sin(ARG1), sub(ARG11, ARG1))))	0.000297636600150451	
+[16, 1, 4, 12]	add(neg(add(cos(5), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030017643575182994	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), neg(mul(5, 5))), neg(cos(5)))	0.0003003335327838792	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(ARG12, ARG1), ARG12)), sub(ARG11, ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003015661074142272	
+[1, 2, 12]	protectedDiv(add(add(ARG2, ARG1), ARG12), neg(5))	0.0002980492351722451	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(cos(5), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003007898801878953	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG1, ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), add(neg(mul(5, 5)), ARG1)), ARG12), neg(cos(5)))	0.0003014137494654229	
+[1, 3, 4, 11, 12]	add(neg(add(ARG1, add(mul(sin(ARG3), sub(5, ARG1)), ARG4))), add(neg(mul(add(ARG1, ARG12), 5)), add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), ARG1)))	0.00030007773362252736	
+[1, 3, 4, 6, 7, 12, 16]	add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), sub(ARG7, 5))))	0.000300578552974361	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 2, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG2), ARG12), neg(cos(5)))	0.0002996364932965637	
+[]	5	0.00029792308586323635	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), ARG4)	0.00029797614075090776	
+[1, 4, 11, 12, 17]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(ARG17, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996568105326203	
+[1, 18, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(add(5, ARG18), ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003003696980123993	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, neg(mul(5, 5)))), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003008923784957884	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(ARG1, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029776798394307757	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(add(add(neg(mul(5, 5)), ARG1), ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992051868800281	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(neg(mul(5, 5)), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002988538608853623	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	add(neg(add(mul(ARG12, sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0001781913299872975	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), sin(ARG3)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030052558656996106	
+[1, 3, 4, 6, 10, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(add(sub(ARG12, 5), neg(ARG10)), ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), sin(add(add(neg(mul(5, 5)), ARG1), ARG12)))))	0.0002974763049629725	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(ARG1, sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	5.0260487915400326e-05	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG1), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030032150526276456	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), 5)), ARG12))	0.00030025081989794517	
+[1, 3, 4, 6, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1))))	8.407938861700172e-05	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(add(protectedDiv(5, add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1), ARG1)))	0.0003000290812315755	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), 5), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996634240558666	
+[1, 4, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(sub(ARG11, ARG1), ARG4))), 5), ARG1)), ARG1)))	0.0002996262670440918	
+[17, 12, 14, 1]	protectedDiv(add(add(neg(neg(sub(mul(5, ARG17), neg(ARG14)))), ARG1), ARG12), neg(cos(5)))	0.0002870407028596296	
+[1, 4, 11, 12, 18]	add(neg(add(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), mul(5, ARG18)))	0.0002986665493599229	
+[1, 9, 11, 12, 19]	add(neg(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(cos(sub(ARG9, ARG19)), 5), ARG1)))	0.0003004802028932117	
+[1, 4, 5, 6, 11, 12, 15]	protectedDiv(add(add(neg(neg(add(neg(neg(add(mul(sin(add(mul(protectedDiv(ARG15, ARG4), sub(ARG6, ARG5)), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002988887105147905	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), ARG1), ARG12), neg(cos(5)))	0.0002958065580797472	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), ARG1), ARG12), neg(cos(5)))	0.00029599652399685885	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 6, 12, 15, 16]	add(neg(ARG15), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003715388192984	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(ARG1, ARG12))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300696811867338	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030092369377824284	
+[12]	protectedDiv(add(cos(5), ARG12), neg(cos(5)))	0.00029865812616134655	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1)))	0.0002978974030357552	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(sub(ARG11, ARG1)))	0.0002978964221455768	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), cos(5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996409329884317	
+[1, 12]	protectedDiv(add(add(neg(5), ARG1), ARG12), neg(cos(5)))	0.0002996497287744682	
+[1, 4, 7, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), sub(ARG7, 5))))	0.0003005156622916827	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG11), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030007361074232757	
+[1, 12]	protectedDiv(add(add(neg(neg(5)), ARG1), ARG12), neg(cos(5)))	0.0002995056741815894	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)))	0.00029769663906045014	
+[1, 12, 14]	protectedDiv(add(add(neg(sin(sub(ARG12, ARG14))), ARG1), ARG12), neg(cos(5)))	0.0002995860002793785	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG1), neg(cos(5)))	0.0002998306180632485	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG12), ARG12), neg(cos(5)))	0.0002998721296369842	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(ARG1), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002987338799958114	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), mul(5, 5))), 5), ARG1)), ARG1)))	0.000299793510422416	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(ARG12, ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029782490236935206	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), add(neg(mul(5, 5)), ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993521107110673	
+[1, 4, 9, 11, 12, 13]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG1, ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(sub(mul(ARG13, ARG9), sin(ARG13)))))	0.000277459797659185	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG12, ARG1), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00030051762247474496	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(sin(add(add(5, ARG1), ARG12)))))	0.0002994619681464375	
+[1, 11, 4]	protectedDiv(add(add(neg(neg(add(mul(5, sub(ARG11, ARG1)), ARG4))), ARG1), sin(neg(5))), neg(cos(5)))	0.0002753462374335421	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(sin(add(ARG12, ARG1)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029981419358459364	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(ARG11, sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	5.0966716038780094e-05	
+[1, 12, 4]	add(neg(add(add(add(neg(mul(5, 5)), ARG1), ARG12), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0002999498053055595	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), 5)), ARG12))	0.0002995344109904229	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5))))	0.00010425266296694494	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(5), ARG12))	0.00029883269146516194	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, sin(add(add(5, ARG1), ARG12))), 5), ARG1)), ARG1)))	0.00025325754931147814	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(add(add(ARG1, ARG4), ARG1), sub(ARG11, add(neg(5), ARG4))), ARG4))), ARG1), ARG12), neg(cos(5)))	2.4998037682908175e-05	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), sin(add(neg(mul(5, 5)), ARG1)))))	0.0003002802192633447	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(ARG1, sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	8.190069546871757e-05	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(sin(add(neg(mul(5, 5)), ARG1)), 5)), ARG1), ARG12))))	0.0003007284658474714	
+[1, 3, 4, 11, 12]	add(neg(5), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), neg(add(mul(5, sub(ARG11, mul(sin(ARG3), sub(ARG11, ARG1)))), ARG4))))	0.00029789568474582553	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), add(neg(mul(5, 5)), ARG1)))), ARG1), ARG12), neg(cos(5)))	0.00030090209972987727	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(ARG4, ARG12), 5)), ARG12))	0.00029901425669813465	
+[1, 4, 9, 11, 12]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, protectedDiv(cos(5), neg(ARG9)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003004326349460697	
+[1, 3, 4, 6, 16]	add(neg(add(ARG1, ARG4)), add(5, add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002986945875810442	
+[0, 1, 4, 11, 12, 16]	add(neg(add(mul(sin(add(neg(mul(add(add(ARG11, ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), sub(5, ARG0)), ARG1))), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), 5), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030018113528141195	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(neg(mul(5, 5)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029962378263650145	
+[0, 1, 12]	add(5, add(neg(mul(add(add(ARG0, ARG1), ARG12), 5)), sin(5)))	0.00029873923547387994	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))))	3.163995061462027e-05	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), 5), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991053397297038	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(ARG1)))	0.0002173074172064053	
+[1, 11, 12, 4]	protectedDiv(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), neg(cos(5)))	0.00030031682632981633	
+[1, 11, 12, 4]	protectedDiv(add(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), neg(cos(5)))	0.000300973090778717	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, neg(mul(5, 5)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003016214807630974	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(5, ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002998793142962633	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), add(neg(mul(5, mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)))), ARG1))))	0.0003021582013423766	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(5, ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029956619233417774	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, add(mul(sin(ARG3), sub(5, ARG1)), ARG4))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG1), ARG1)), 5), ARG1)), ARG1)))	0.0002968150644711471	
+[]	add(5, 5)	0.00029794322173052424	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(add(neg(neg(add(mul(sin(add(add(cos(ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003004772760844891	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003003015335736591	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030069705861957355	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG3), neg(cos(5)))	0.0002992639746664811	
+[1, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG12, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029064513385187557	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12)	0.0002979440922151647	
+[1, 2, 4, 6, 11, 12, 17]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), add(sub(ARG17, ARG2), sub(ARG12, ARG6))), neg(cos(5)))	0.00029934017879585707	
+[1, 12]	protectedDiv(add(add(ARG1, ARG1), ARG12), neg(cos(5)))	0.00029934174348955443	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), ARG12), neg(cos(5)))	0.0002994981331389019	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(neg(mul(5, 5)), mul(5, 5)), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.00029745464208543067	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(ARG1), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029853642601329757	
+[]	5	0.00029792308586323635	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(ARG12, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029949713757060234	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))))), ARG1), ARG12), neg(cos(5)))	0.0002984034708932652	
+[1, 4, 12]	protectedDiv(add(add(neg(ARG4), ARG1), ARG12), neg(cos(5)))	0.0002984034708932652	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), protectedDiv(ARG16, ARG1)), neg(cos(5)))	0.0002776017568553932	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(ARG12, 5), ARG1)))	0.0003005426855097304	
+[1, 5, 11, 12, 15]	add(neg(add(5, add(add(ARG11, ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), sin(mul(ARG5, ARG15))), ARG12), 5)), ARG12))	0.0002994291010642664	
+[0, 1, 4, 12, 14]	add(neg(5), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), neg(add(sub(sin(ARG14), add(ARG0, 5)), ARG4))))	0.00029995726325979634	
+[1, 11, 4, 12]	add(neg(add(ARG1, add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), cos(sub(ARG4, ARG12))))	0.00029998814172996793	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), cos(5)), ARG4))), ARG1), ARG1))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030018138947188877	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(sub(ARG11, ARG1)))	0.0002978964221455768	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG11), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029815845542354905	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(add(add(neg(mul(5, 5)), ARG1), ARG12), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029912717220335476	
+[1, 3, 4, 12]	protectedDiv(add(add(protectedDiv(ARG3, ARG4), ARG1), ARG12), neg(cos(5)))	0.00029891872463477836	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG1))), add(add(neg(mul(add(add(neg(ARG12), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002989752703722233	
+[1, 4, 11, 12, 16]	add(neg(add(mul(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG16), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	7.882767262262415e-05	
+[1, 3, 12]	protectedDiv(add(add(sin(ARG3), ARG1), ARG12), neg(cos(5)))	0.0002995862998785189	
+[12]	protectedDiv(add(neg(cos(5)), ARG12), neg(cos(5)))	0.0002986663949930824	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, mul(5, 5))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002998987916525256	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), sin(ARG3)), neg(cos(5)))	0.0003003212119408271	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(5), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029823953264068487	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(add(ARG12, ARG1)), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002994506568121038	
+[1, 10, 11, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG10), sub(ARG11, ARG1)), ARG4))), ARG1), 5), neg(cos(5)))	0.00029826540426468567	
+[1, 4, 12, 13, 16]	add(neg(add(protectedDiv(5, ARG13), ARG4)), add(add(neg(mul(add(add(neg(mul(5, ARG12)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00027509973234926647	
+[1, 12]	protectedDiv(add(add(neg(sub(5, 5)), ARG1), ARG12), neg(cos(5)))	0.00029958185774156033	
+[1, 11, 4, 12]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(neg(mul(5, 5)), ARG1), 5), ARG1)))	0.0003003633277521305	
+[1, 4, 12, 6]	protectedDiv(add(add(neg(neg(add(ARG6, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002995485211073677	
+[1, 3, 4, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	0.00029463081307307484	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), add(ARG12, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029851505636923443	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(sub(ARG11, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002997506671671647	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG4)), sub(ARG11, ARG1)), ARG4))), neg(mul(5, 5))), ARG12), neg(cos(5)))	0.00029819484637493406	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1))), ARG1), ARG12), neg(cos(5)))	0.00030089371696331656	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, add(neg(5), ARG4))), ARG4))), ARG1), ARG12), neg(cos(ARG1)))	0.00014551705660810713	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), 5), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991053397297038	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), 5)), add(neg(add(ARG1, ARG4)), sin(sin(ARG16))))	0.0002988528539404013	
+[1, 3, 4, 6, 12, 13, 16]	add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(sin(protectedDiv(ARG13, ARG6)), sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002975091835735514	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(sin(add(neg(mul(5, 5)), ARG1))), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030027727787404956	
+[]	protectedDiv(5, neg(cos(5)))	0.000297823748088437	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003009245224000381	
+[1, 12]	protectedDiv(add(ARG1, ARG12), neg(cos(5)))	0.00029958185774156033	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG12), ARG12), neg(cos(5)))	0.0003000643607001248	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG1), neg(cos(5)))	0.00029975046752293594	
+[1, 4, 7, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), protectedDiv(protectedDiv(cos(ARG7), ARG1), 5))))	0.0003002107525646477	
+[1, 4, 11, 12, 15, 18]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(ARG15, ARG18), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002985257997350694	
+[16, 1, 12]	add(neg(5), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030007525009755125	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4), sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002740478567071214	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG1))	0.0002979647032780279	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, cos(5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003009527549297648	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), neg(cos(5))), ARG12), neg(cos(5)))	0.0003002981775270975	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG1)	0.00029800582969959126	
+[1, 11, 12, 4]	protectedDiv(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), neg(cos(5)))	0.00029942289487854164	
+[1, 11, 12, 4]	protectedDiv(add(add(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG1), ARG12), neg(cos(5)))	0.0003005266035871554	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), add(add(neg(5), ARG4), ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003007742863804154	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, ARG4), 5), ARG1)), ARG1)))	0.0003006973827353143	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 12]	protectedDiv(add(add(neg(ARG1), ARG1), ARG12), neg(cos(5)))	0.00029866227382888323	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300211869254485	
+[1, 3, 4, 6, 11, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002993399252790419	
+[16, 1, 12]	protectedDiv(add(add(ARG16, ARG1), ARG12), neg(cos(5)))	0.00029915064728169334	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1))))), ARG1), ARG12), neg(cos(5)))	0.000301546945342405	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG4, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002985743518372075	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030075905810563895	
+[1, 4, 11, 12, 19]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), sin(ARG19)), neg(cos(5)))	0.0003003319006300925	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029908302929214137	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(sub(ARG11, ARG1))), ARG1), ARG12), neg(cos(5)))	0.00029860589889137807	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG1, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993667502850489	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.000300809839156684	
+[3, 6, 12, 16, 18]	protectedDiv(add(sub(sin(mul(ARG6, ARG18)), sub(ARG3, ARG16)), ARG12), neg(cos(5)))	0.00029808586300428724	
+[1, 11, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1)), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029793063208600513	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993248809400864	
+[1, 12]	protectedDiv(add(add(neg(neg(add(neg(mul(5, 5)), ARG1))), ARG1), ARG12), neg(cos(5)))	0.00029958944452676355	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), sub(ARG11, ARG1))	0.0002978906919041099	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), neg(cos(5))), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003004093547676089	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	add(neg(add(ARG1, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003002485711540292	
+[18]	add(5, ARG18)	0.00029771711291133276	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(cos(5)), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029863131092118164	
+[1, 8, 11, 12, 14]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), protectedDiv(ARG14, ARG8)))), ARG1), ARG12), add(neg(mul(5, 5)), ARG1))	0.0002979452396017141	
+[1, 3, 4, 11, 12]	add(neg(add(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4), ARG11)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00030020613349245143	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG4, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994381385682963	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003010305146196897	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), neg(neg(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4)))))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003189492782788	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003060361080271	
+[1, 2, 4, 12, 13]	add(neg(add(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5), ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(neg(add(ARG13, ARG2)), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.0002981163838337767	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(sub(ARG1, 5), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029685612989226585	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG12))), ARG1), ARG12), neg(cos(5)))	0.00030086995369552717	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG4), neg(cos(5)))	0.00029921872043878374	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG12)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003006789788171952	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG1)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029942219838669036	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG12)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003007210295352053	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, neg(mul(5, 5)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003016214807630974	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030070727442845435	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(5, ARG1)), cos(5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996425455561135	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(sub(ARG11, ARG1)))	0.00029788152162905956	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(neg(cos(5)))))	0.0002993164454287805	
+[1, 18, 12]	protectedDiv(add(add(neg(add(mul(5, ARG18), neg(5))), ARG1), ARG12), 5)	0.00029786235798035665	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(add(neg(mul(5, 5)), ARG1), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	0.0002991664904660905	
+[0, 1, 4, 12, 16]	add(cos(cos(ARG0)), add(add(neg(mul(add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002989587678502035	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(ARG1, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029976131563285265	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), 5), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991053397297038	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG11)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029963946273199566	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(5, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002999086497634909	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG11)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992177385156232	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG12, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030013579365727053	
+[1, 12]	protectedDiv(add(add(mul(5, 5), ARG1), ARG12), neg(cos(5)))	0.0002991182265806443	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003004531464157703	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(5, ARG12))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029441912795459974	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(5, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029899326045268	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), mul(5, 5)), neg(cos(5)))	0.0002998852938647901	
+[1, 4, 6, 11, 12]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(cos(ARG6)), ARG12))	0.00029801648330256443	
+[4, 12]	protectedDiv(add(ARG4, ARG12), neg(cos(5)))	0.0002987515994040272	
+[1, 4, 11, 12, 16]	add(neg(add(ARG1, add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.00030069700887979046	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG11))), ARG1), ARG12), neg(cos(5)))	0.00030107589442942764	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG4, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994381385682963	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[12]	protectedDiv(add(5, ARG12), neg(cos(5)))	0.0002985852839752686	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030103126884538747	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG11))	0.0002978397010510199	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(cos(5), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002998889244850077	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4))))	0.00024906937637143433	
+[1, 4, 11, 12, 16]	add(neg(5), add(neg(mul(add(add(add(neg(neg(add(mul(sin(add(add(cos(ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030058116411619466	
+[1, 3, 4, 12, 19]	add(neg(add(mul(sin(ARG3), sub(ARG19, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(add(add(neg(mul(5, 5)), ARG1), ARG12), 5), ARG1)))	0.0002999858092476844	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003010305146196897	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), 5), ARG12), neg(cos(5)))	0.00030003131451045384	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), ARG1)), ARG1))	0.00013229554711163014	
+[1, 4, 11, 12, 19]	protectedDiv(add(add(ARG19, ARG1), ARG12), neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))	0.0002979083387237838	
+[1, 12]	protectedDiv(add(add(neg(neg(cos(5))), ARG1), ARG12), neg(cos(5)))	0.0002995777579099792	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003009245224000381	
+[1, 3, 13, 7]	protectedDiv(add(ARG13, ARG7), protectedDiv(ARG3, ARG1))	0.00025492117260062403	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003006973827353143	
+[1, 12]	protectedDiv(add(add(5, ARG1), ARG12), neg(cos(5)))	0.0002995056741815894	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(mul(5, 5)))	0.0002979631311785571	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(cos(5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003002793886076747	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003010305146196897	
+[0, 1, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), mul(sub(ARG0, 5), sub(ARG11, ARG1))), ARG4))), ARG1), ARG12), neg(cos(5)))	7.904348702400348e-05	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(sub(ARG11, ARG1), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000298707392416246	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(protectedDiv(neg(ARG4), sin(ARG12)), ARG1)), sub(ARG11, add(neg(5), ARG4))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029789074968003293	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(ARG1, ARG1)), 5), ARG1)), ARG1)))	0.0002968365562527517	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), add(neg(mul(5, 5)), ARG1))	0.0002978856177390215	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(neg(mul(add(neg(cos(5)), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002989932509494238	
+[1, 4, 11, 12, 19]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(ARG19)))	0.00021989000616600692	
+[1, 3, 4, 11, 12, 14, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(neg(mul(ARG14, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003007775713881207	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030005924586935	
+[1, 6, 8, 11, 12]	protectedDiv(add(add(sub(ARG11, ARG1), ARG1), ARG12), neg(sub(protectedDiv(ARG8, ARG6), sub(5, ARG6))))	0.0002979498836382247	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), neg(cos(5))))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029823512503551823	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(ARG1, ARG12))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG1)	0.00028678842004746427	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), neg(mul(5, 5))), ARG12), neg(cos(5)))	0.00030051319880266246	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030028024698440314	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG11)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003002038056623575	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG1, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029963946273199566	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003009245224000381	
+[1, 4, 11, 12, 15]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(sub(sin(ARG4), sin(ARG15)), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002984374904195852	
+[12]	protectedDiv(ARG12, neg(cos(5)))	0.00029866227382888323	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12)), neg(cos(5)))	0.0003000547489755524	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), mul(5, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002997177920043549	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(sub(ARG11, ARG1)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994914044543796	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 12]	protectedDiv(add(ARG1, ARG12), neg(cos(5)))	0.00029958185774156033	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003005561504380637	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG11)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029869663155194343	
+[1, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG1, ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.00029957630763212325	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0002988771614254631	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(5), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002984686237953718	
+[1, 11, 12, 4]	add(neg(add(ARG12, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(5)))	0.00030013262827112587	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG12, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002998480131424637	
+[1, 4, 5, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(neg(ARG5), protectedDiv(ARG16, 5)), ARG4))), ARG1), ARG12), neg(cos(cos(5))))	0.00029231402865531473	
+[1, 4, 12, 15]	protectedDiv(add(add(neg(neg(add(add(sin(5), neg(ARG15)), ARG4))), ARG1), ARG12), neg(5))	0.00029808120743950053	
+[1, 12]	protectedDiv(add(add(add(ARG12, ARG1), ARG1), ARG12), neg(cos(5)))	0.00029902387893884156	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), cos(5))	0.0002920612904530458	
+[1, 3, 4, 11, 12, 14, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(neg(mul(ARG14, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG4), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029869951476156983	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1))), 5), ARG12), neg(cos(5)))	0.00030106204262918057	
+[1, 4, 5, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, sin(ARG5)))), 5), ARG1)), ARG1)))	0.00030012212815462536	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00030048191214984455	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003005561504380637	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(mul(sin(ARG3), sub(5, ARG1)), ARG4), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003000703138278278	
+[1, 3, 4, 6, 12, 14, 16]	add(neg(add(ARG1, add(neg(mul(ARG14, 5)), ARG12))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.000299415530982378	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[16, 18]	protectedDiv(mul(ARG18, ARG16), neg(cos(5)))	7.934764812988933e-05	
+[1, 11, 12]	protectedDiv(add(add(neg(sub(ARG11, ARG1)), ARG1), ARG12), neg(cos(5)))	0.0002983613677307838	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(ARG1))	0.00029784267158955636	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, cos(5))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029849148667544247	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[11, 12]	protectedDiv(add(ARG11, ARG12), neg(cos(5)))	0.00029860589889137807	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003000640389543012	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(neg(mul(5, 5)))), ARG1), ARG12), neg(cos(ARG11)))	0.00015261712612478227	
+[1, 11, 12]	protectedDiv(add(add(neg(ARG11), ARG1), ARG12), neg(cos(5)))	0.00029856788441410745	
+[1, 4, 11, 12, 14]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG1)), ARG4))), ARG1), ARG12), mul(neg(ARG14), neg(5)))	0.00029802707172987293	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, sin(add(ARG12, ARG1)))), ARG1), ARG12), 5)), ARG12))	0.00030010381163954856	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(5, sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00027598535921939123	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), add(ARG12, ARG1)), ARG12), neg(cos(5)))	0.000300973090778717	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003000823621620538	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG1))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030041267040762943	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[4]	protectedDiv(ARG4, neg(cos(5)))	0.00029795647432459777	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12)))), ARG1), ARG12), neg(cos(5)))	0.00030109925005140003	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003006771163817876	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[10, 11, 15]	add(mul(ARG11, ARG10), neg(ARG15))	0.00020818838054530994	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), 5), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029962638794688864	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, 5)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003003088276568028	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), ARG1)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0001426957794515084	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003006350474434584	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1))), ARG1), ARG12), neg(cos(5)))	0.00030089371696331656	
+[1, 11, 12, 4]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(add(add(neg(5), ARG4), ARG1), ARG1), 5), ARG1)))	0.0003004882719121076	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, ARG16), 5), ARG1)), ARG1)))	0.0002997137795488736	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), 5)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029888202620440284	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, ARG12)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029949713757060234	
+[1, 3, 4, 11, 12, 18]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), sin(add(ARG12, ARG1)))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(add(mul(ARG18, ARG18), protectedDiv(ARG18, ARG3)))))	0.00027739398205265937	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(ARG12, sub(5, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	8.071779357018836e-05	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), cos(5)), neg(cos(5)))	0.0003000094646976276	
+[1, 4, 11, 12, 17]	protectedDiv(add(add(neg(neg(add(mul(sin(add(protectedDiv(ARG17, 5), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG12))	0.0002979017170376903	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003060361080271	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(neg(mul(5, add(neg(mul(5, 5)), ARG1))), ARG1), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.0002989672302500554	
+[1, 3, 4, 5, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(5, ARG12), 5)), ARG5), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002985366160829064	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG4), ARG12))), neg(mul(5, 5)))	0.0002987467392268377	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00025530699416912827	
+[1, 4, 11, 12, 16]	add(neg(mul(5, 5)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030038524243090165	
+[1, 12]	protectedDiv(add(add(neg(neg(sin(5))), ARG1), ARG12), neg(cos(5)))	0.00029959551916520014	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(neg(mul(add(add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002983460193364157	
+[1, 3, 4, 5, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG5), add(neg(mul(5, 5)), ARG1)))	0.0003001627032837753	
+[16, 1, 12]	protectedDiv(add(add(neg(neg(protectedDiv(ARG16, ARG1))), ARG1), ARG12), neg(cos(5)))	0.00027733774058975207	
+[1, 11, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.0003000921265040046	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 5, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(cos(ARG5), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029858324195618333	
+[1, 11, 12]	protectedDiv(add(add(neg(ARG11), ARG1), ARG12), neg(cos(5)))	0.00029856788441410745	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029943071586044026	
+[]	protectedDiv(mul(5, 5), neg(cos(5)))	0.00029742830223126744	
+[1, 3, 4, 11, 12, 14, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(neg(mul(ARG14, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003007775713881207	
+[16, 1, 4, 12]	protectedDiv(add(add(neg(neg(add(neg(add(ARG16, ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002988957648536837	
+[1, 11, 12, 4]	add(neg(add(5, add(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), protectedDiv(ARG1, ARG4)), ARG12), 5)), ARG12))	0.0002998963368165024	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG12)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003003366679932715	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(sub(5, ARG16), ARG1)))	0.00030040578240497014	
+[1, 12]	protectedDiv(add(add(cos(neg(5)), ARG1), ARG12), neg(cos(5)))	0.0002995777579099792	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), neg(mul(5, 5)))))	0.000301078603072177	
+[1, 11, 12]	protectedDiv(add(add(neg(mul(sin(ARG1), sub(ARG11, ARG1))), ARG1), ARG12), neg(cos(5)))	0.0002980816648794092	
+[1, 4, 11, 12, 16]	add(neg(add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), ARG4)), add(neg(mul(add(add(add(neg(neg(add(mul(sin(add(add(cos(ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030032395927264197	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(ARG12, ARG1)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003001879523524163	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG12), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029853642601329757	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030103126884538747	
+[1, 3, 12]	protectedDiv(add(add(neg(neg(cos(sub(5, ARG3)))), ARG1), ARG12), neg(cos(5)))	0.00029957904226500883	
+[0, 1, 12]	protectedDiv(add(add(neg(neg(cos(ARG0))), ARG1), ARG12), neg(cos(5)))	0.0002995880106873272	
+[1, 4]	add(neg(add(ARG1, ARG4)), 5)	0.0002984222852182507	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029773653203900183	
+[1, 11]	protectedDiv(sub(ARG11, ARG1), neg(cos(5)))	0.00029584597431518223	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(neg(mul(5, 5)))))	0.00029922170104862986	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(5, ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030015898152163336	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(neg(mul(5, 5))))	0.00029784309204395433	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(cos(5), ARG1), ARG12), 5)), ARG12))	0.0003001423925634421	
+[1, 2, 4, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(sin(cos(ARG2)), ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003309840629291	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003007845916302563	
+[1, 11, 12, 4]	add(neg(add(ARG12, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), 5)), ARG12))	0.00029447040465903525	
+[1, 12]	protectedDiv(add(add(neg(add(add(neg(mul(5, 5)), ARG1), ARG12)), ARG1), ARG12), neg(cos(5)))	0.00029742830223126744	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(mul(sin(sub(ARG11, ARG1)), sub(ARG11, ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002999747837247562	
+[0, 1, 12, 4]	add(neg(add(add(ARG12, ARG1), ARG4)), mul(mul(5, 5), cos(ARG0)))	0.0002986863760570864	
+[1, 11, 12]	protectedDiv(add(add(neg(sub(ARG11, ARG1)), ARG1), ARG12), neg(cos(5)))	0.0002983613677307838	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))), neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002990848574098183	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG4, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002989380308501964	
+[16, 1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG12))), ARG1), ARG12), neg(cos(5)))	0.00030060382982427254	
+[1, 11, 12, 14]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), mul(5, 5)))), ARG1), ARG12), sin(ARG14))	0.00027217453345984214	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), neg(ARG4)), ARG12), neg(cos(5)))	0.0003001945913828392	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030028024698440314	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030044581571873284	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4), ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(ARG4, 5), ARG1)))	0.0003002451414193145	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(ARG4)), ARG1), ARG12), neg(cos(5)))	0.00029963946273199566	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 4, 11, 12, 17]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(protectedDiv(5, ARG17), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030140287449942013	
+[2]	neg(sin(ARG2))	0.0002979002624065992	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002983010395120489	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, mul(5, 5))), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.000300466268246916	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), neg(neg(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4)))))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003189492782788	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00030051762247474496	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[12]	protectedDiv(add(ARG12, ARG12), neg(cos(5)))	0.0002983377779228725	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1)), neg(cos(5)))	0.00029885465352962623	
+[1, 11, 4, 12]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(ARG12, ARG1), ARG12), 5)), ARG12), 5))	0.0002990422253311214	
+[1, 4, 9, 11, 12]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, protectedDiv(cos(5), neg(ARG9)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(mul(5, 5))))	0.0003003031901483626	
+[1, 11, 12]	protectedDiv(add(add(neg(ARG11), ARG1), ARG12), neg(cos(5)))	0.00029856788441410745	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000299177122217479	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(ARG12, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029858189420762794	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(add(neg(mul(5, 5)), ARG1), ARG12), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029789938007075776	
+[1, 4, 5, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), cos(ARG5))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029911925860260616	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(sub(sin(add(neg(mul(5, 5)), ARG1)), ARG1), 5), ARG1)))	0.00030031376880768214	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG1, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993667502850489	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), ARG12), neg(cos(5)))	0.00030052336046769597	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.0003007078711593474	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG11), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029815845542354905	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(add(ARG12, ARG1), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029931767060100626	
+[1, 12]	protectedDiv(add(add(ARG12, ARG1), ARG12), neg(cos(5)))	0.0002992587932055941	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(protectedDiv(5, 5), ARG1)), ARG4))), ARG1), neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), neg(cos(5)))	0.00029867320468304195	
+[1, 4, 6, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(sin(ARG6), ARG1), ARG12)), sub(ARG11, cos(5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003003188955708606	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG1))	0.00029788763973739315	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), neg(5)), protectedDiv(protectedDiv(ARG16, ARG1), 5)), neg(cos(5)))	0.0002978349460273411	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(ARG12, ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300696811867338	
+[0, 12, 6]	protectedDiv(add(add(add(ARG12, ARG0), sin(ARG6)), ARG12), neg(cos(5)))	0.00029804511598006115	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG11), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002999039773886904	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030103126884538747	
+[3, 1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), sin(ARG3))	0.0002682601937115392	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sub(cos(ARG1), neg(cos(5))))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030067680967284694	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), protectedDiv(cos(5), cos(5))), neg(cos(5)))	0.0003000992893427565	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(add(neg(neg(add(mul(sin(add(add(cos(ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003004772760844891	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(add(neg(neg(add(mul(sin(add(add(cos(ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003004772760844891	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))))	0.0002978797919121436	
+[1, 12]	protectedDiv(add(add(neg(cos(5)), ARG1), ARG12), neg(cos(5)))	0.00029958593081814565	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), ARG4), ARG1)))	0.0003001580553219565	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), 5))), ARG1), ARG12), neg(cos(5)))	0.00030106204262918057	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))))	0.00026081006773914664	
+[1, 12]	protectedDiv(add(add(neg(5), ARG1), ARG12), neg(cos(5)))	0.0002996497287744682	
+[1, 3, 4, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	8.726704993207765e-05	
+[1, 4, 6]	add(neg(add(ARG1, ARG4)), neg(ARG6))	0.00029848632898695073	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG12)), ARG4)), ARG1)))	0.0003005818380010989	
+[1, 3, 4, 6, 12, 16]	protectedDiv(add(add(neg(add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)), ARG1), ARG12), neg(cos(5)))	0.000298277579210504	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030092369377824284	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(sub(ARG11, ARG1), add(5, ARG4))), 5), ARG1)), ARG1)))	0.00029964521560656187	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), add(neg(5), ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029920944124174094	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003011571699777341	
+[1, 12]	protectedDiv(add(add(5, ARG1), ARG12), neg(cos(5)))	0.0002995056741815894	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(add(neg(neg(add(mul(sin(neg(mul(5, 5))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002980520617231944	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(add(add(cos(ARG12), ARG1), ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991680446134232	
+[1, 12, 6]	protectedDiv(add(add(add(sub(ARG6, 5), ARG12), ARG1), ARG12), neg(cos(5)))	0.00029912868879625084	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))))	0.0002985255386924031	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), 5), neg(cos(5)))	0.0002995746724576094	
+[1, 3, 4, 11, 12, 13]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(ARG12, 5)), sub(sub(ARG3, ARG13), cos(ARG12))), ARG12), 5)), sin(5)))	0.00027453720741071116	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(ARG12, ARG1), ARG1)), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029863954279407917	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG12), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029853642601329757	
+[1, 2, 9, 12, 13]	protectedDiv(add(add(neg(mul(mul(ARG2, ARG13), sin(ARG9))), ARG1), ARG12), neg(cos(5)))	0.00011308335752860265	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 14, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(neg(mul(ARG14, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003007775713881207	
+[1, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(cos(5), 5)), ARG1), ARG12)), add(5, 5)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0002999197414739636	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(5))	0.0002982013331019086	
+[1, 11, 12, 4]	add(neg(add(ARG12, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.000300330420370402	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003011571699777341	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, add(ARG1, ARG12))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003009760228732664	
+[16, 1, 4, 6]	add(neg(add(ARG1, protectedDiv(5, ARG6))), add(neg(mul(ARG1, 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.0002995863389376024	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG1), ARG12), 5)), ARG12))	0.0002948386136464549	
+[1, 12]	protectedDiv(add(add(neg(neg(mul(5, 5))), ARG1), ARG12), neg(cos(5)))	0.0002991182265806443	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG1))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030041267040762943	
+[1, 4, 11, 12, 13]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(cos(neg(ARG13)), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002989438200800598	
+[1, 12]	protectedDiv(add(add(neg(5), ARG1), ARG12), neg(cos(5)))	0.0002996497287744682	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029988507855108356	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), sin(add(add(5, ARG1), ARG12)))), 5), ARG1)), ARG1)))	0.0003003189963151804	
+[9, 12, 1]	protectedDiv(add(add(neg(add(sin(5), mul(5, ARG9))), ARG1), ARG12), neg(cos(5)))	0.0002875422276850095	
+[1, 12]	add(neg(5), add(neg(ARG1), ARG12))	0.00029784187594799667	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002887219729604831	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003010305146196897	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), sin(ARG11)), neg(cos(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))))	2.053257749668046e-05	
+[1, 10, 12]	protectedDiv(add(add(neg(ARG10), ARG1), ARG12), neg(cos(5)))	0.0002990714066870964	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), cos(ARG4))), sub(ARG11, sub(cos(ARG1), sin(ARG3)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994371912863519	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 17]	protectedDiv(add(add(neg(neg(add(mul(sin(add(sin(ARG1), sub(ARG3, ARG17))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002987094711127373	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)), 5), ARG1)))	0.0003001673840513589	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), protectedDiv(ARG16, ARG1))	0.00029846829028001615	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1), ARG1)))	0.00030082487049910535	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG3), ARG12)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029934152034987875	
+[18, 12, 6]	protectedDiv(add(cos(mul(ARG18, ARG6)), ARG12), neg(cos(5)))	0.0002986741278607275	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(mul(5, 5), ARG12), 5)), 5), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029812799552585254	
+[0, 1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, protectedDiv(5, ARG0))), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029974968817722043	
+[1, 3, 4, 6, 12, 15, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG15)), ARG1)))	0.0002997427673383862	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG1, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994804408657328	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG12)))	0.0003003858902214627	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(sin(cos(5))))	0.00029981386895126734	
+[17, 11, 12, 1]	add(neg(add(add(5, ARG12), sub(ARG11, ARG17))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0002998330330336298	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), add(neg(mul(5, 5)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002986301747613335	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(sub(neg(ARG12), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002981433487183597	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sin(add(neg(mul(5, ARG4)), neg(sin(5)))))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030067548478339705	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), 5))), ARG1), ARG12), neg(cos(5)))	0.0003005351763065811	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(mul(5, 5), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0001268355669323967	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(sin(add(add(5, ARG1), ARG12))), ARG1), ARG12), 5)), ARG12))	0.00030015755854758823	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(ARG12, ARG1), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002970957165778251	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), 5)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029965330900874035	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), add(neg(mul(5, 5)), ARG1))	0.000297886164713894	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(neg(cos(5)), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.0002975748816994575	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, add(neg(5), ARG4))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030033630553984175	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, add(neg(5), ARG4))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030033630553984175	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003005561504380637	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), sin(sin(ARG1)))	0.0002519764382918986	
+[1, 3, 4, 11, 16]	add(neg(add(mul(neg(cos(5)), sub(ARG11, 5)), ARG4)), add(ARG3, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029771629916456097	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00030043450826916843	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(5, ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002998793142962633	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(neg(mul(5, 5)))))	0.0002992774424930671	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030075905810563895	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(add(add(neg(mul(5, 5)), ARG1), ARG12)), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029704056442494953	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(5), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002984686237953718	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG4)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002987662224837765	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1))), ARG1), ARG12), neg(cos(5)))	0.00030089371696331656	
+[0, 1]	protectedDiv(sin(ARG0), neg(cos(ARG1)))	0.0002975813876098248	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), 5), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991053397297038	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(cos(5), ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029948166222700044	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG11))	0.00029783466947359643	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992647595180495	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG1, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993667502850489	
+[1, 3, 12]	add(ARG12, sub(sub(5, ARG1), cos(ARG3)))	0.0002978858277188662	
+[3, 1, 11, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(add(ARG1, ARG4)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), sin(ARG3)), neg(cos(5)))	0.00029884803162262194	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002969454115692314	
+[1, 11, 12]	protectedDiv(add(add(neg(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1))), ARG1), ARG12), neg(cos(5)))	0.0002969454115692314	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, ARG11)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00027291604890312157	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(5, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002999086497634909	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG4), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002982044051127953	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG1), ARG4))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029994119247014217	
+[16, 1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.00028704531653376305	
+[1, 11, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), sub(ARG11, ARG1)))	0.0002993103360667695	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, neg(cos(5)))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029863131092118164	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG1)	0.0002978772314363326	
+[1, 4, 11, 12, 19]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG19)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996814591322561	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), sub(ARG11, ARG1))	0.00029789097977051226	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), neg(cos(5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029964137969997064	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), 5), neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))))	0.0003009254038783391	
+[16, 1, 12]	protectedDiv(add(add(neg(add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)), ARG1), ARG12), neg(cos(5)))	0.000298537136271798	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	7.639982092406562e-05	
+[1, 3, 4, 11, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), ARG16)	0.0002980650452569231	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5))	0.00029748733114517956	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(neg(cos(5)), ARG1)), ARG1)))	0.00024423412956631196	
+[1, 3, 4, 11, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(5, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029807926585245797	
+[1, 4, 6, 11, 12]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, sin(cos(ARG6)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(5), ARG1), ARG12), 5)), ARG12))	0.0002991275423947373	
+[1, 3, 4, 6, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG12, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, neg(add(ARG4, ARG6))), 5), ARG1)))	0.00030006529645310097	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG11, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992488524646289	
+[1, 4, 12, 6]	add(neg(add(mul(sin(5), sub(ARG6, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0002998138069940419	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, add(add(5, ARG1), ARG12)))))), ARG1), ARG12), neg(cos(5)))	0.0002737068430721898	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG1, ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), add(5, ARG1)), ARG12), neg(cos(5)))	0.0003009287665496852	
+[1, 19, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG19, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002985753982561651	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003005561504380637	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002986395591184107	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(5, 5), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991902935478941	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003006973827353143	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030000921845746583	
+[1, 11, 12]	protectedDiv(add(add(ARG11, ARG1), ARG12), neg(cos(5)))	0.00029949342500140946	
+[1, 3, 4, 6, 12, 16]	add(neg(protectedDiv(5, 5)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00030020685282372556	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[8]	ARG8	0.000297759286084652	
+[1, 4, 11, 12, 16]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1))	0.00029822468207479506	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), add(mul(sin(add(ARG12, add(ARG1, ARG12))), sub(ARG11, ARG1)), ARG4)), neg(cos(5)))	0.0002996753532476323	
+[1, 12]	protectedDiv(add(add(neg(neg(ARG12)), ARG1), ARG12), neg(cos(5)))	0.0002992587932055941	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG4)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002987662224837765	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1))), ARG1), ARG12), neg(cos(5)))	0.00030089371696331656	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sub(cos(ARG1), sin(ARG3)))), ARG4))), ARG1), add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), neg(cos(5)))	0.00029992420694298285	
+[1, 3, 12, 15]	protectedDiv(add(add(neg(neg(ARG12)), ARG1), ARG12), neg(sub(mul(ARG15, 5), mul(ARG3, 5))))	0.00027381857158096875	
+[16, 1, 11, 4]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(ARG11), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029806746139153317	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5), ARG1)), ARG4))), ARG1), ARG12), neg(5))	0.00029788141359665573	
+[1, 19, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), add(ARG19, ARG19)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029938573598165945	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003004216422790957	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030028024698440314	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(sin(sin(ARG12)), ARG12)), sub(ARG11, sub(cos(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), sin(ARG3)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029941296641476477	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG1, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993667502850489	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), 5), ARG12), neg(cos(5)))	0.00030022557933978675	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), ARG1)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	0.00014792828832482094	
+[19]	ARG19	0.0002979911847312347	
+[1, 3, 4, 6, 12, 16]	add(neg(ARG12), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00030008821764880935	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), neg(mul(5, 5)))))	0.0003002542720076641	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 10, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(ARG10), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029910319469415457	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), 5), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029885559176899806	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002996774731136586	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(5, ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002977931542640599	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003011571699777341	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), 5), ARG4))), ARG1), neg(mul(5, 5))), neg(cos(5)))	0.0002991139834649458	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(ARG12, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300696811867338	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00030048191214984455	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(sub(ARG11, ARG1)))	0.0002978964221455768	
+[1, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), cos(5)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.00029957844615185683	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, protectedDiv(protectedDiv(ARG16, ARG1), 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030111645162718816	
+[10, 15]	sub(protectedDiv(ARG10, ARG10), neg(ARG15))	0.0002978285769402158	
+[1, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG4, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	0.0002935308022122532	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG3)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003002760572654359	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))))	5.533719634700751e-05	
+[7]	protectedDiv(5, cos(ARG7))	0.0002979294287457715	
+[1, 12]	protectedDiv(add(add(neg(cos(5)), ARG1), ARG12), neg(cos(5)))	0.00029958593081814565	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))))	0.0002978273124016029	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12)), ARG12), neg(cos(5)))	0.0002691142288977115	
+[16, 1, 11, 4]	add(neg(add(mul(sin(neg(cos(5))), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(neg(mul(5, 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002974936256978562	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(neg(mul(5, 5)), ARG1)))	0.0003004430703862238	
+[1, 11, 12, 4]	add(ARG1, add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(add(mul(sin(ARG12), sub(ARG11, ARG1)), ARG4))))	0.00029982752873146986	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 3, 4, 5, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG5), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030032484282794495	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(ARG12, ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002972720250590318	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(ARG12, neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5))))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0002998929428665995	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), sin(ARG12)))), ARG1), ARG12), neg(cos(5)))	0.00030092904342350206	
+[1, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.00027883205146562795	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), add(neg(protectedDiv(ARG16, ARG1)), sin(5)))	0.00029574425327279794	
+[1, 12]	add(cos(protectedDiv(5, 5)), add(neg(mul(add(add(neg(neg(mul(5, 5))), ARG1), ARG12), 5)), ARG12))	0.0002989351370166522	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(mul(5, 5), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002992768500812785	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(neg(cos(5)), 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003009623256211765	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), 5)	0.00029760112943074546	
+[16, 1, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(5, ARG1)), ARG16), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030022916127176656	
+[1, 3, 4, 6, 11, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, sub(ARG11, ARG1)))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002998932348451613	
+[1, 11, 12, 4]	protectedDiv(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG12), neg(cos(5)))	0.0003001000076611278	
+[1, 11, 12, 4]	protectedDiv(add(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG1), ARG12), neg(cos(5)))	0.00030071666473928616	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(ARG1)))	0.0002173074172064053	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030092369377824284	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG1))), ARG1), ARG12), neg(cos(5)))	0.00030068355244864336	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG4), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002987420588140743	
+[1, 4, 11, 12, 14]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG14)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003012428637499648	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(mul(5, 5), ARG12))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002997183578860701	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(ARG1), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029853642601329757	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, ARG1)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002734398426843158	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, 5)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000299183063343942	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030069705861957355	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(neg(cos(5)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000299439309617152	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), sin(add(ARG12, ARG1)))	9.154529168567746e-05	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), ARG11), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003009543838106811	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(sub(ARG11, ARG1), ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.00030053085214938667	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), ARG1), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029882533154483397	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, sub(ARG11, ARG1))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029889258995544375	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1))), sub(ARG11, add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030036776629622337	
+[1, 12]	protectedDiv(add(ARG1, ARG12), neg(cos(5)))	0.00029958185774156033	
+[1, 3, 4, 6, 9, 12, 16, 17]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(add(protectedDiv(ARG17, ARG9), mul(5, ARG3)), ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG16), ARG1)), 5), ARG1)), ARG1)))	0.00029554111838185886	
+[1, 11, 4, 12]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG4, ARG1), 5), ARG1)))	0.0003001802891340905	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003010305146196897	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(neg(mul(5, 5)), 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(cos(neg(5)), ARG12), 5)), ARG12))	0.00029947318065809213	
+[1, 3, 4, 6, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003010432931497108	
+[1, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), ARG1))	0.0002997533058451009	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))	0.0002979065035928664	
+[]	protectedDiv(neg(cos(5)), neg(cos(5)))	0.0002979065035928664	
+[1, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG12, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	0.00029058197092876	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG3, ARG1)), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002989687668731872	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sin(ARG16))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300678770455793	
+[1, 3, 4, 6, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, add(neg(mul(5, 5)), ARG1)))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002991398590369845	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), 5))), ARG1), ARG12), neg(cos(5)))	0.00030106204262918057	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003005561504380637	
+[1, 4, 11, 12, 16]	add(neg(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), sin(sin(5))), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029947711172590325	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(neg(neg(5)))))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG4)	0.000297953223754065	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(cos(5))))), ARG1), ARG12), neg(cos(5)))	0.00030093411932877016	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(add(neg(neg(add(mul(sin(cos(sin(5))), sub(ARG11, ARG1)), ARG4))), ARG1), 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), add(neg(mul(5, 5)), ARG1))))	0.0002608503464233861	
+[12]	protectedDiv(add(5, ARG12), neg(cos(5)))	0.0002985852839752686	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG12))), ARG1), ARG12), neg(cos(5)))	0.00030066967253212796	
+[16, 1, 11, 4]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG4), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002988750756005748	
+[1, 12]	protectedDiv(add(add(neg(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5))), ARG1), ARG12), neg(cos(5)))	0.0002760655923724741	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002979927433953667	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002983113653687096	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(sub(ARG11, ARG1)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.00029988565706074485	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), neg(mul(add(add(neg(mul(5, 5)), ARG1), protectedDiv(5, 5)), 5)))), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	2.8692359659612835e-05	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(5, ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029744604888464615	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030044581571873284	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 2, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), sub(add(ARG12, ARG2), neg(ARG1))), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000298359773634826	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(ARG12), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029805873637435366	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5), ARG1)), sub(ARG11, ARG12)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002984184577284979	
+[1, 3, 4, 12, 16, 19]	add(neg(add(mul(sin(ARG3), sub(ARG12, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(protectedDiv(ARG12, ARG19)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029648613462441903	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG11, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992488524646289	
+[1, 12]	protectedDiv(add(add(5, ARG1), ARG12), neg(cos(5)))	0.0002995056741815894	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029962328941647234	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), neg(cos(5))))), ARG1), ARG12), neg(cos(5)))	0.0003011367917138046	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG4)	0.000297944138056968	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))))))	0.00024666425098727866	
+[1, 12, 17]	protectedDiv(add(add(5, ARG1), ARG12), neg(cos(ARG17)))	0.00020193463780352605	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(sub(ARG11, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002974323929813126	
+[1, 18, 12]	protectedDiv(add(add(neg(sub(sin(ARG18), sin(5))), ARG1), ARG12), neg(cos(5)))	0.0002996006166139421	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003006771163817876	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 10, 11, 12]	add(neg(neg(mul(5, ARG10))), add(neg(mul(add(add(neg(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1))), ARG1), ARG12), 5)), sin(5)))	0.00029456675918708094	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(5, 5), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991902935478941	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), protectedDiv(ARG4, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029960606279146816	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(sub(ARG11, ARG1), ARG1)))	0.0003002486394759864	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), ARG1), ARG1)), ARG1)))	0.00029965441890459076	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), 5), ARG12), neg(cos(5)))	0.00030022557933978675	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(add(add(neg(mul(5, 5)), ARG1), ARG12), ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029915242261395735	
+[1, 4, 12]	add(neg(add(5, ARG4)), add(neg(mul(ARG1, 5)), ARG12))	0.0002985253403036	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030095581966204423	
+[4, 12]	protectedDiv(add(ARG4, ARG12), neg(cos(5)))	0.0002987515994040272	
+[1, 3, 8, 11, 12]	protectedDiv(mul(sin(add(ARG12, sub(ARG3, ARG8))), sub(ARG11, ARG1)), neg(cos(5)))	0.0002981953392395771	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994322814430702	
+[1, 11, 4, 12]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(5, ARG1)))	0.0003002586278693219	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003005236330106092	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, add(mul(sin(ARG3), sub(5, ARG1)), ARG4))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG12, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002998931067054766	
+[1, 4, 12, 14, 16]	add(neg(add(ARG1, cos(5))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), add(ARG12, ARG14)), add(5, ARG4))), 5), ARG1)), ARG1)))	0.0002998647455449138	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG4))	0.0002978232222987138	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG4, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002997096824939102	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG11))), ARG1), ARG12), neg(cos(5)))	0.00030107589442942764	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, neg(sin(5)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030094882301669835	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), add(ARG12, ARG1))	0.0002978804313752279	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(neg(cos(5))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002995058200693494	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(5, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029899326045268	
+[1, 4, 6, 10, 11, 12, 19]	protectedDiv(add(add(neg(neg(add(mul(sin(add(sub(ARG19, ARG6), sin(ARG10))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(ARG12)))	7.4035147080170126e-06	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG11)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029953232965600375	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG12, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029958441255178796	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991498247936659	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(add(neg(mul(5, 5)), ARG1)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029798097339457885	
+[1, 3, 4, 6, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), protectedDiv(sin(ARG6), sub(5, ARG3))), neg(cos(5)))	0.0003001137800511154	
+[12]	protectedDiv(add(protectedDiv(5, 5), ARG12), neg(cos(5)))	0.00029864753402177036	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003011571699777341	
+[]	protectedDiv(neg(mul(5, 5)), neg(cos(5)))	0.00029817216371405824	
+[1, 12]	protectedDiv(add(add(protectedDiv(5, 5), ARG1), ARG12), sin(add(ARG12, ARG1)))	0.00010068018932963981	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(neg(cos(5)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029950282609694594	
+[16, 1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), protectedDiv(ARG16, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002824599728214416	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG1), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(sub(ARG11, sub(cos(cos(ARG16)), sin(ARG3))), 5), ARG1)))	0.00030022863073900696	
+[1, 3, 4, 11, 12, 15, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, 5)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG16), add(protectedDiv(protectedDiv(ARG16, neg(ARG15)), 5), ARG1)))	0.00030018034125833126	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(ARG4)))	0.000204642601718428	
+[1, 12]	protectedDiv(add(add(5, ARG1), ARG12), neg(cos(5)))	0.0002995056741815894	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), 5)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))))), sin(5)))	0.000120565960712541	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 12]	protectedDiv(add(add(neg(5), ARG1), ARG12), neg(cos(5)))	0.0002996497287744682	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003006973827353143	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 11, 12, 17]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, protectedDiv(mul(ARG17, 5), mul(ARG11, 5)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030117801711680795	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1), ARG1)))	0.00030067394513551884	
+[1, 12]	protectedDiv(add(add(neg(mul(5, 5)), ARG1), ARG12), neg(cos(5)))	0.0002998377786021063	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029962328941647234	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003003470750654403	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), 5), neg(cos(5)))	0.0003000431304195261	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, 5)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4))), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003004789023605526	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(ARG1)))	0.0002173074172064053	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG1), ARG12), neg(cos(5)))	0.0002958065580797472	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)))), ARG1), ARG12), neg(cos(5)))	0.0002958065580797472	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(sin(ARG1), sub(ARG11, ARG1))), ARG1), ARG12), 5)), ARG12), add(protectedDiv(ARG4, 5), ARG1)))	0.0002976540942694797	
+[16, 1, 4, 12]	add(neg(add(mul(5, 5), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003001513493962811	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG4, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002990642457767959	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG12)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), 5), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003002764635167968	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 12]	protectedDiv(add(add(neg(sin(add(add(neg(mul(5, 5)), ARG1), ARG12))), ARG1), ARG12), neg(cos(5)))	0.00029957421150407683	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	3.203967748811058e-05	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), cos(5))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG16), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00030030433996711093	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(ARG4))	0.0002978232222987138	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003004216422790957	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, mul(5, 5))), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), ARG12)	0.00029874199243333255	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000298941042178242	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(5, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000299846002617942	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, ARG11)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029840580160689936	
+[1, 12]	protectedDiv(add(add(neg(5), ARG1), ARG12), neg(cos(5)))	0.0002996497287744682	
+[1, 4, 5, 12, 14]	protectedDiv(add(add(neg(neg(add(mul(protectedDiv(5, ARG5), neg(ARG14)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029633263454677104	
+[1, 11, 12]	protectedDiv(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), neg(cos(5)))	0.0002993587759032797	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994322814430702	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG1)), ARG4)), add(neg(mul(add(add(neg(ARG12), ARG1), ARG12), 5)), ARG12))	0.00029894690013836285	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(mul(5, 5), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030002893802002866	
+[12]	protectedDiv(add(neg(5), ARG12), neg(cos(5)))	0.0002987310293421649	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(ARG1, ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00030051762247474496	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(5), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002984686237953718	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), add(ARG12, ARG1)), ARG1)))	0.00030014953720821784	
+[1, 3, 4, 6, 12, 16]	add(neg(neg(mul(5, 5))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003006589152613935	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(add(ARG1, ARG4), ARG1), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.000297540494969986	
+[1, 12, 7]	protectedDiv(add(add(mul(protectedDiv(ARG7, 5), sin(ARG12)), ARG1), ARG12), neg(cos(5)))	0.0002996879085545215	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003003375131429325	
+[1, 3, 4, 6, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sub(neg(ARG6), sub(ARG3, ARG16)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	3.4759021400907844e-05	
+[1, 3, 4, 5, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(add(protectedDiv(sub(5, ARG5), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1), ARG1)))	0.00030005170011371	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(5, 5))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030075905810563895	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), neg(neg(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), ARG4)))))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003189492782788	
+[1, 12]	protectedDiv(add(add(neg(mul(5, 5)), ARG1), ARG12), neg(cos(5)))	0.0002998377786021063	
+[19]	protectedDiv(mul(5, ARG19), neg(cos(5)))	0.0002833650196682048	
+[1, 3, 4, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG1, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003004265998340789	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG11), ARG12), neg(cos(5)))	0.00030028205370919824	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), sin(ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003009245224000381	
+[13]	protectedDiv(ARG13, neg(cos(5)))	0.00029692251725140455	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG12))), ARG1), ARG12), neg(cos(5)))	0.00030086995369552717	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030092369377824284	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(cos(sub(5, 5)), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029861311758897245	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030089864793509763	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, sin(add(ARG12, ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030095850831118485	
+[1, 3, 4, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(protectedDiv(sin(5), add(5, ARG3)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029839240778403085	
+[16, 1, 12]	add(neg(neg(cos(5))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG12)))	0.0003000823207215393	
+[1, 3, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4))	0.00029790834556244996	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG16)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003001173267163822	
+[1, 2, 4, 12]	add(neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(sin(cos(ARG2)), ARG1)), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), add(protectedDiv(protectedDiv(ARG1, ARG1), 5), ARG1)))	0.0003001915098833972	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG12, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002989937650133334	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, 5)), ARG4))), ARG1), ARG11), neg(cos(5)))	0.00029984396255956753	
+[1, 11, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(ARG11, ARG1)), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029591062245974513	
+[1, 3, 4, 6, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(neg(ARG6), sub(ARG3, ARG16))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029918791467227924	
+[1, 11, 12]	protectedDiv(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), neg(cos(5)))	0.0002993587759032797	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994322814430702	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(neg(mul(5, 5)), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002998285737305919	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG12)), add(add(neg(mul(add(add(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00023991522383861306	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), sub(ARG11, ARG1)))), ARG1), ARG12), neg(cos(5)))	0.0003001697395041316	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), ARG4), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992441504904035	
+[]	protectedDiv(5, neg(cos(5)))	0.000297823748088437	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))))	6.080011545330012e-05	
+[]	protectedDiv(cos(5), neg(cos(5)))	0.0002978980546711804	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12)))	0.0002980181800467498	
+[1, 11, 12, 4]	protectedDiv(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), neg(cos(5)))	0.00030011249307926655	
+[1, 11, 12]	protectedDiv(add(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), ARG12), neg(cos(5)))	0.0003008848569066345	
+[1, 12]	protectedDiv(add(add(neg(neg(neg(mul(5, 5)))), ARG1), ARG12), neg(cos(5)))	0.0002998377786021063	
+[1, 4, 11, 12, 16]	add(neg(add(mul(sin(add(add(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0003003052934098075	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(sub(ARG11, ARG1))))	0.0002796463641781797	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), 5), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996634240558666	
+[1, 11, 4, 12]	add(neg(add(ARG4, ARG4)), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(cos(5), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.00029740574993333585	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(add(neg(mul(5, 5)), ARG1)))	0.0002978811417232449	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(ARG4, 5), ARG1)), ARG1)))	0.00030060516027644827	
+[]	sin(5)	0.0002978982292517206	
+[1, 12]	protectedDiv(add(add(neg(ARG12), ARG1), ARG12), neg(cos(5)))	0.0002988104366379391	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), neg(add(mul(sin(neg(add(add(neg(add(5, ARG4)), ARG4), ARG4))), sub(ARG11, ARG1)), ARG4))))	0.00030075157276002705	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG1, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029963946273199566	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG11), ARG12), neg(cos(5)))	0.0002999917026769497	
+[1, 12]	protectedDiv(add(add(cos(5), ARG1), ARG12), neg(cos(5)))	0.0002995777579099792	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG12)), ARG4)))))	0.0002978137591485762	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003003015335736591	
+[1, 11, 4, 12]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), 5))	0.00030030437092080155	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), neg(mul(5, 5))), ARG12), ARG4), ARG1)), 5), ARG1)), add(add(neg(mul(5, 5)), ARG1), ARG12))))	0.00029981468257263386	
+[]	protectedDiv(neg(5), neg(cos(5)))	0.0002979726677301858	
+[1, 3, 4, 6, 12, 16]	add(ARG12, add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003002451769831509	
+[1, 3, 4, 6, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, neg(add(ARG1, ARG4))), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002975328971382281	
+[1, 3, 4, 6, 11, 15, 16]	add(neg(add(ARG1, ARG4)), add(ARG11, add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), cos(ARG15)), ARG1)), ARG1)))	0.0002977753546781276	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(neg(mul(add(ARG1, ARG12), 5)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00028703623444373044	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), neg(cos(5))), neg(cos(sin(sin(ARG16)))))	0.00029921947880239057	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12)	0.0002979440922151647	
+[1, 11, 12]	protectedDiv(add(sub(ARG11, ARG1), ARG12), neg(cos(5)))	0.0002965900189239374	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG12)), ARG4))), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029810957596903924	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), mul(5, 5)), ARG12), neg(cos(5)))	0.0002998663799504369	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(ARG1), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029858189420762794	
+[1, 4, 8, 9, 11, 12]	add(neg(add(mul(sin(add(neg(mul(5, 5)), add(add(neg(mul(5, 5)), ARG1), ARG12))), sub(ARG11, ARG12)), ARG4)), add(neg(mul(add(add(neg(mul(sub(ARG8, ARG9), 5)), ARG1), ARG12), 5)), ARG12))	0.000254107681406896	
+[1, 10, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG10))), ARG1), ARG1), neg(cos(5)))	0.00029929616264909087	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, mul(5, 5))), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.000300466268246916	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG4), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00030056442372018504	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030092369377824284	
+[1, 3, 4, 11, 12, 14, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, add(add(neg(mul(ARG14, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))), ARG4)), add(add(neg(mul(add(mul(mul(5, 5), mul(5, 5)), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.000213480685259787	
+[1, 12]	add(neg(add(5, add(add(neg(neg(ARG1)), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00029963334961994605	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)), ARG12), neg(cos(5)))	0.0002994981331389019	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(ARG12, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993511491568767	
+[0, 1, 11, 12, 13, 15, 16]	add(neg(protectedDiv(neg(ARG15), protectedDiv(ARG0, ARG13))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, 5))), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002686780064310316	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(sub(ARG11, ARG1)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002994914044543796	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), mul(5, 5)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002997451416291052	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029767314900507464	
+[12]	protectedDiv(add(neg(mul(5, 5)), ARG12), neg(cos(5)))	0.00029892339618405506	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(protectedDiv(protectedDiv(ARG16, ARG1), add(add(neg(mul(5, 5)), ARG1), ARG12))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030109005750813726	
+[1, 4, 7, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(5, 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), sub(ARG7, 5))))	0.0002979412761084839	
+[11, 1, 3, 4]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(sub(ARG11, 5), add(5, ARG1)))	0.0002977287902024002	
+[1, 19, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), add(neg(ARG19), ARG12)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00029869204953872434	
+[1, 3, 4, 6, 12, 16]	add(neg(add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.00029785130231133495	
+[1, 11, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4)))	0.0002989429678830793	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1), ARG1)))	0.00030123189324410965	
+[4]	protectedDiv(ARG4, neg(cos(5)))	0.00029795647432459777	
+[1, 4, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)), ARG12), neg(cos(5)))	0.0002995687346781817	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), ARG1))	0.0003004100437595506	
+[1, 4, 6, 12, 15]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(ARG6, ARG15), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0002323918688715425	
+[1, 3, 6, 12, 16]	protectedDiv(add(add(neg(neg(sub(neg(ARG6), sub(ARG3, ARG16)))), ARG1), ARG12), neg(cos(5)))	0.00029797462188156014	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, add(ARG1, ARG12))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000300696811867338	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[16, 1, 11, 4]	add(neg(add(mul(sin(sin(ARG1)), neg(add(mul(sin(add(neg(mul(5, mul(5, 5))), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG4)), ARG16)	0.00029787349474277847	
+[1, 3, 7, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG7)), add(add(neg(sub(ARG11, 5)), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.0002999107316374874	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(5), sub(mul(mul(5, 5), protectedDiv(5, ARG11)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991848284987083	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), add(ARG12, ARG1))), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	8.758374645681516e-05	
+[1, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sin(add(add(5, ARG1), ARG12))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002996415493872059	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sub(ARG11, ARG1), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	2.7654139203509393e-05	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(5, 5))))), ARG1), ARG12), neg(cos(5)))	0.0003011571699777341	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[]	5	0.00029792308586323635	
+[1, 4, 6, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG6), ARG12), neg(cos(5)))	0.00030020995601138975	
+[1, 11, 12, 4]	add(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))))), ARG4)), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), sin(5)))	0.000300358366527543	
+[1, 12]	protectedDiv(add(add(ARG1, ARG1), ARG12), neg(sin(5)))	0.0002964096593318161	
+[1, 4, 12]	add(neg(add(5, add(add(neg(neg(add(cos(5), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00029994081137525177	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))))	0.0002978760472227144	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG11, ARG4))), ARG1), ARG12), neg(cos(5)))	0.000299563302862155	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002992871242025898	
+[1, 3, 4, 11, 12, 16]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), add(add(neg(neg(add(mul(sin(add(neg(mul(5, mul(5, 5))), ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), ARG1)))	0.000300466268246916	
+[12]	protectedDiv(add(5, ARG12), neg(cos(5)))	0.0002985852839752686	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 12]	protectedDiv(add(add(sub(neg(5), cos(ARG3)), ARG1), ARG12), neg(cos(5)))	0.0002996440586010935	
+[1, 4, 12]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), cos(cos(5)))), add(protectedDiv(protectedDiv(mul(5, add(ARG12, ARG1)), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.000295782921265028	
+[1, 3, 4, 6, 11, 12, 16]	protectedDiv(add(add(neg(neg(add(mul(sin(sub(neg(ARG6), sub(ARG3, ARG16))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.000298521537761545	
+[1, 4, 9, 11, 12]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, protectedDiv(cos(5), neg(ARG9)))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.0003004326349460697	
+[1, 12]	add(neg(add(5, add(5, ARG12))), add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12))	0.00029990428722901844	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 3, 4, 6, 9, 12, 16]	add(neg(add(ARG1, protectedDiv(neg(ARG16), mul(ARG4, ARG9)))), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.0003005354381522683	
+[16, 1, 12]	protectedDiv(add(add(neg(ARG16), ARG1), ARG12), neg(cos(5)))	0.0002988957648536837	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), sin(add(add(neg(mul(5, 5)), ARG1), ARG12))), ARG12), neg(cos(5)))	0.0003000781155735737	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(5, ARG1), ARG12)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0003006771163817876	
+[1, 4, 11, 12, 14, 16, 17, 18]	protectedDiv(add(add(neg(neg(add(mul(add(add(neg(mul(5, protectedDiv(sub(ARG14, ARG17), sub(ARG16, ARG18)))), ARG1), ARG12), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	2.862045441982223e-05	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(sin(add(ARG12, ARG1))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030105486265187434	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(5, 5), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991902935478941	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)))))), ARG1), ARG12), neg(cos(5)))	0.00029958185774156033	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[11, 12]	protectedDiv(add(ARG11, ARG12), neg(cos(5)))	0.00029860589889137807	
+[1, 4, 12]	protectedDiv(add(add(neg(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5)), ARG1), ARG12), neg(cos(5)))	0.00029918854054704813	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), ARG1)), ARG1)))	0.00029982341571912363	
+[18, 11, 12]	protectedDiv(add(sin(protectedDiv(ARG18, ARG11)), ARG12), neg(cos(5)))	0.0002986507015675387	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)), ARG4))), ARG1), add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), neg(cos(5)))	0.00030005111507167405	
+[1, 12]	protectedDiv(add(add(neg(neg(ARG12)), ARG1), ARG12), neg(cos(5)))	0.0002992587932055941	
+[1, 3, 4, 6, 12, 16]	add(neg(add(ARG1, ARG4)), add(add(ARG12, ARG1), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), ARG1)), 5), ARG1)), ARG1)))	0.00029780565441758994	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(neg(mul(add(ARG1, ARG12), 5))), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002998869552698098	
+[1, 3, 4, 6, 11, 12, 16]	add(neg(add(ARG1, ARG4)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(mul(5, sub(neg(ARG6), sub(ARG3, ARG16))), ARG1), add(protectedDiv(add(5, add(add(neg(5), ARG4), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)))), 5), ARG1)), ARG1)))	0.00029924101949555703	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG1, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002993667502850489	
+[1, 12]	protectedDiv(add(add(neg(mul(5, 5)), ARG1), ARG12), neg(cos(5)))	0.0002998377786021063	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), 5))), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002991350354884169	
+[1, 3, 4, 11, 12, 17]	add(neg(add(mul(sin(ARG3), sub(ARG11, neg(add(ARG4, ARG4)))), ARG4)), add(add(mul(5, 5), ARG12), add(sub(ARG17, 5), ARG1)))	0.0002974629117420557	
+[1, 11, 12]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), neg(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)))))), ARG1), ARG12), neg(cos(5)))	0.0002772408192829079	
+[1, 4, 12]	protectedDiv(add(add(neg(neg(add(ARG4, ARG4))), ARG1), ARG12), neg(cos(5)))	0.0002985743518372075	
+[1, 11, 4, 12]	add(neg(add(ARG4, mul(sin(add(neg(mul(5, 5)), ARG1)), sub(ARG11, 5)))), add(neg(mul(add(add(add(neg(5), neg(mul(5, 5))), ARG1), mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1))), 5)), ARG1))	0.00030098006359299454	
+[1, 11, 4, 12]	protectedDiv(add(add(neg(neg(add(mul(ARG4, sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	6.0290817264406066e-05	
+[1, 11, 12, 13]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, mul(ARG13, 5))), sin(add(add(neg(mul(5, 5)), ARG1), ARG12))))), ARG1), ARG12), neg(cos(5)))	0.0002973961721483172	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030120082480195216	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4)), sub(ARG11, sin(add(neg(mul(5, 5)), ARG1)))), ARG4))), ARG1), ARG12), neg(cos(5)))	5.48768432564589e-05	
+[1, 12]	protectedDiv(add(add(neg(sin(add(add(5, ARG1), ARG12))), ARG1), ARG12), neg(cos(5)))	0.000299588051737474	
+[16, 1, 12, 4]	add(neg(add(neg(mul(5, 5)), ARG1)), add(neg(mul(add(ARG1, ARG12), 5)), add(protectedDiv(protectedDiv(ARG16, ARG1), add(protectedDiv(add(ARG1, add(add(neg(5), ARG4), add(5, ARG4))), 5), ARG1)), ARG1)))	0.0003002735738195528	
+[1, 11, 12, 4]	add(neg(add(5, add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12))), add(neg(mul(add(add(ARG1, ARG4), ARG12), 5)), ARG12))	0.00029943264246640676	
+[12]	protectedDiv(add(5, ARG12), neg(cos(5)))	0.0002985852839752686	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1))))	5.109911041252254e-05	
+[1, 12]	protectedDiv(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), neg(cos(5)))	0.00026009672245887785	
+[1, 3, 4, 11, 12]	add(neg(add(mul(sin(ARG3), sub(ARG11, ARG1)), ARG4)), add(add(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG12), add(protectedDiv(protectedDiv(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), 5), ARG1)))	0.00029567324185013447	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(ARG12, ARG1)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), ARG11)	0.00029795849722993824	
+[16, 1, 4, 12]	add(neg(add(mul(sin(sin(ARG1)), sub(neg(cos(5)), 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), neg(mul(add(ARG1, ARG12), 5))), ARG1)))	0.0003000647055364375	
+[1, 11, 12, 4]	protectedDiv(add(add(neg(neg(add(mul(sin(add(add(neg(mul(5, 5)), ARG1), ARG12)), sub(ARG11, ARG1)), ARG4))), ARG1), ARG12), neg(cos(5)))	0.00030099653581506836	
+[1, 4, 7, 11, 12, 16]	add(neg(add(mul(sin(sin(ARG1)), sub(ARG11, 5)), ARG4)), add(add(neg(mul(add(add(neg(mul(5, 5)), ARG1), ARG12), 5)), ARG12), add(protectedDiv(protectedDiv(ARG16, ARG1), 5), sub(ARG7, 5))))	0.0003005156622916827	

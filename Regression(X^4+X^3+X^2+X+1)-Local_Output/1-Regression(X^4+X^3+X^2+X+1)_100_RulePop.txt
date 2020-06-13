@@ -1,0 +1,301 @@
+Specified	Tree	Fitness	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(sin(5), ARG0))	0.4	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, protectedDiv(cos(5), protectedDiv(5, 5)))	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	5	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	5	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, ARG0)	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(protectedDiv(5, neg(neg(protectedDiv(5, 5)))), 5)	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	sin(sin(5))	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, neg(sin(5))), protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	ARG0	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, neg(sin(5))), protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, add(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(protectedDiv(5, 5), ARG0))	0.5714285714285714	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, ARG0), 5)	1.0	
+[]	protectedDiv(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, ARG0), cos(5))	0.8	
+[0]	sin(sub(ARG0, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, 5)	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	sub(cos(5), cos(5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(mul(sin(5), protectedDiv(ARG0, 5)), ARG0)	0.8	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, sub(neg(5), neg(5)))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[]	cos(5)	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	add(neg(neg(5)), 5)	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, ARG0)	0.5	
+[0]	add(protectedDiv(5, ARG0), cos(sin(ARG0)))	0.8	
+[]	add(sin(5), 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	protectedDiv(cos(5), mul(5, 5))	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, add(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[]	add(protectedDiv(neg(5), add(5, 5)), protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, 5)	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, 5), protectedDiv(5, protectedDiv(5, ARG0)))	0.3	
+[0]	add(5, ARG0)	0.5	
+[]	5	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, ARG0)	0.5	
+[]	add(5, protectedDiv(5, neg(protectedDiv(5, 5))))	0.5	
+[0]	add(5, protectedDiv(ARG0, sin(mul(5, 5))))	0.5	
+[0]	add(protectedDiv(5, ARG0), ARG0)	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(cos(5), ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, 5)	0.5	
+[0]	add(5, add(mul(5, ARG0), protectedDiv(5, 5)))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(ARG0, neg(cos(5))))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, ARG0)	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	neg(cos(5))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(ARG0, protectedDiv(sin(5), ARG0))	0.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(ARG0, 5))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(protectedDiv(5, neg(sin(5))), protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(protectedDiv(mul(5, 5), ARG0), protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	sub(add(5, 5), protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, ARG0)	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[]	mul(add(5, 5), cos(5))	0.5	
+[]	add(neg(5), protectedDiv(5, 5))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, ARG0)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(neg(protectedDiv(5, 5)), ARG0))	0.4	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, ARG0), protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[]	add(neg(add(5, 5)), protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	5	0.5	
+[]	add(5, protectedDiv(5, mul(sin(5), add(5, 5))))	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(neg(mul(5, 5)), ARG0)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	5	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[]	protectedDiv(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	5	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(protectedDiv(5, neg(sin(5))), protectedDiv(5, ARG0))	1.0	
+[0]	add(5, ARG0)	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(5, protectedDiv(ARG0, ARG0))	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, ARG0)	0.5	
+[0]	add(5, protectedDiv(5, protectedDiv(5, ARG0)))	0.5	
+[0]	add(5, protectedDiv(protectedDiv(5, ARG0), ARG0))	0.5	
+[]	add(5, 5)	0.5	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(5, ARG0))	1.0	
+[0]	add(5, protectedDiv(protectedDiv(ARG0, 5), ARG0))	0.5	
+[]	add(5, protectedDiv(5, 5))	0.5	
+[0]	add(ARG0, protectedDiv(5, ARG0))	0.8	

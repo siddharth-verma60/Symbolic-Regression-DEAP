@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[19]	sin(sub(sub(sub(5, cos(cos(ARG19))), 5), neg(sin(5))))	0.41362056259967206	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(ARG19, 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[0, 19]	sin(sub(sub(sub(sub(sub(sin(cos(ARG0)), cos(cos(5))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.46543812138955265	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(ARG19))))	0.7640125129111872	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))))	0.4509768908291793	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 13]	sin(sub(sub(sub(sub(cos(5), sub(5, ARG13)), cos(cos(5))), 5), cos(cos(ARG19))))	0.45080777084826607	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(cos(ARG19))))))	0.7885394052000958	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG19))	0.41455940418497206	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)))), 5), cos(cos(ARG19))))	0.7394429446727407	
+[3, 6]	sin(sub(5, protectedDiv(mul(ARG6, 5), ARG3)))	0.44474187610907967	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(ARG19)), cos(cos(5))), 5), cos(cos(ARG19))))	0.48589223720581626	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(5)))	0.6553236447506261	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[16, 3, 10, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(add(ARG10, ARG16)))), 5), protectedDiv(ARG3, ARG3)))	0.7558845918794993	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(ARG19, cos(cos(5))), 5), cos(cos(ARG19))))	0.5114031125123659	
+[19]	sin(sub(sub(sub(sub(sub(ARG19, 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.49834807551786425	
+[19]	sin(ARG19)	0.5817728880880526	
+[3, 19]	sin(sub(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), protectedDiv(cos(protectedDiv(5, ARG3)), ARG3)), 5), cos(cos(ARG19))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4287855106796814	
+[]	sin(5)	0.4156724723105484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))), cos(cos(ARG19))))	0.41712343003624747	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.6968418205025771	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(ARG19, 5)))), 5), neg(sin(5))))	0.7196479957327324	
+[3, 19]	sin(sub(sub(sub(ARG19, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5039542489179805	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(ARG19)))	0.5240048239316513	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(protectedDiv(ARG3, ARG3))))	0.7285996923347091	
+[3, 19, 6]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(cos(protectedDiv(5, ARG6)))), 5), protectedDiv(ARG3, ARG3)))	0.5890552699220066	
+[19]	sin(sub(sub(sub(ARG19, 5), 5), cos(cos(ARG19))))	0.5616568809998468	
+[0, 2, 19]	sin(sub(protectedDiv(ARG2, ARG0), cos(cos(ARG19))))	0.45274257143032826	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(ARG19, 5))))	0.5359950850792699	
+[8]	ARG8	0.01719268198629052	
+[19, 6]	sin(sub(sub(sub(sub(neg(5), sin(ARG6)), cos(cos(ARG19))), 5), sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)))	0.40050125873703274	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))), 5), protectedDiv(ARG3, ARG3)))	0.45407935017483964	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(ARG19, 5), cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.5514128956576696	
+[3]	sin(sub(sub(cos(5), 5), protectedDiv(ARG3, ARG3)))	0.46747918010853934	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG19))	0.41455940418497206	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), protectedDiv(ARG3, ARG3)))	0.7910086851962445	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(ARG19, 5)))	0.48619762710133707	
+[19]	sin(sub(sub(sub(cos(cos(ARG19)), cos(cos(5))), 5), cos(cos(ARG19))))	0.48619762710133707	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.42690872893743737	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(cos(5), 5), cos(ARG19)))	0.4405727639854829	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(ARG19)))))	0.7279466883445186	
+[9]	sin(ARG9)	0.445200625778187	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(ARG19, 5)))	0.48619762710133707	
+[3, 19]	sin(sub(sub(sub(cos(cos(ARG19)), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.488637490390618	
+[0]	sin(neg(protectedDiv(5, ARG0)))	0.48817644444991415	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42875893069702153	
+[8, 19, 15]	sin(sub(ARG19, protectedDiv(ARG8, ARG15)))	0.4845282986700895	
+[3, 10, 19]	sin(sub(sub(sub(sub(add(5, ARG10), 5), cos(cos(5))), 5), sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))))	0.444507696253786	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)))	0.4968231904461827	
+[3]	sin(sub(protectedDiv(ARG3, ARG3), 5))	0.44342497033493544	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(ARG19)	0.5817728880880526	
+[9, 19, 4, 15]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(sub(mul(mul(ARG4, ARG9), sub(5, ARG15)), cos(cos(5))), 5), cos(cos(ARG19)))))))	0.7530272696914191	
+[19]	sin(sub(ARG19, 5))	0.6666374127815446	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), cos(cos(5))), 5), cos(cos(ARG19))))	0.751886813250277	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[]	sin(add(5, 5))	0.4635776243382413	
+[]	sin(cos(5))	0.48860988118455967	
+[19]	sin(sub(sub(sub(cos(ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.5494465477615467	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(ARG19, 5))), 5), protectedDiv(ARG3, ARG3)))	0.5396367220283083	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(5))), 5), cos(cos(ARG19))))	0.40738992299413457	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG19))))	0.5240048239316513	
+[19]	sin(sub(sub(sub(sub(cos(5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42702874797209484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[19]	sin(sub(ARG19, 5))	0.6666374127815446	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))), cos(cos(5))), 5), cos(cos(ARG19))))	0.7521968314565393	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), 5), protectedDiv(ARG3, ARG3)))	0.5053563652167171	
+[3, 19]	sin(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), protectedDiv(ARG3, ARG3)))	0.5039542489179804	
+[19, 6]	sin(sub(sub(sub(mul(ARG6, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.44477975910094525	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[]	sin(5)	0.4156724723105484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))), cos(cos(5))))	0.41712343003624747	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[2, 7]	sin(sub(sub(sub(sub(ARG7, ARG2), cos(cos(5))), 5), cos(cos(5))))	0.448626331012768	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), neg(sin(5))), 5), protectedDiv(ARG3, ARG3)))	0.7487437280946565	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[19, 4]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(sub(ARG19, 5), mul(5, ARG4)), 5), cos(cos(ARG19)))))	0.4517791491923566	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[3, 19, 12]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sin(protectedDiv(ARG12, 5)), ARG3)))	0.5601403783856065	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3]	sin(sub(sub(5, 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19, 3]	sin(sub(sub(protectedDiv(ARG3, ARG3), 5), cos(cos(ARG19))))	0.4161982075537285	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sub(sub(ARG19, 5), cos(cos(5)))))	0.4165064646781454	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(5)), cos(cos(ARG19))))	0.46355142665077137	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG19))))	0.5240048239316513	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(5, 5), neg(5)))), 5), protectedDiv(ARG3, ARG3)))	0.6667749707639086	
+[19]	sin(ARG19)	0.5817728880880526	
+[19, 4]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(protectedDiv(neg(5), cos(ARG4)))))))))	0.7493156564909473	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))), 5), cos(cos(5))))	0.5232479445626903	
+[19]	sin(sub(cos(ARG19), cos(cos(ARG19))))	0.5144890847011729	
+[10, 19, 5, 15]	sin(sub(sub(sub(sub(ARG19, 5), mul(protectedDiv(5, ARG5), add(ARG15, ARG10))), 5), 5))	0.45189852034677686	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(5))), 5), cos(cos(ARG19))))	0.40738992299413457	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sin(5)))	0.4132175203130097	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(ARG19, 5), cos(cos(ARG19)))))), 5), protectedDiv(ARG3, ARG3)))	0.7781822686693733	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(ARG19))))	0.5127718898283892	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(cos(ARG19), 5), cos(cos(ARG19))))	0.5541007187401831	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(sub(ARG19, 5), cos(cos(5))))))	0.551900083244299	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(cos(ARG19))), cos(cos(ARG19))))	0.40738992299413457	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[]	add(5, 5)	0.0905746685017952	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), protectedDiv(ARG3, ARG3)))	0.42690872893743737	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))), 5), protectedDiv(ARG3, ARG3)))	0.45407935017483964	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))), 5), protectedDiv(ARG3, ARG3)))	0.5272699533703343	
+[9]	sin(ARG9)	0.445200625778187	
+[19]	sin(sub(cos(ARG19), cos(cos(ARG19))))	0.5144890847011729	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))), 5), protectedDiv(ARG3, ARG3)))	0.5272699533703343	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), ARG19), cos(cos(ARG19))))	0.47418267340493686	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), neg(sin(5))))	0.7568475681649082	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(ARG19)))), 5), neg(sin(5))))	0.7278245306295	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19, 3]	sin(sub(sub(sub(sub(ARG3, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4476571826938317	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG19)))	0.473452256408709	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.7335028041009535	
+[19, 4]	sin(sub(protectedDiv(ARG4, 5), cos(cos(ARG19))))	0.45124614185328255	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19, 12]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG12))))	0.7526819608669149	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(ARG19, 5), sin(mul(5, 5))))), 5), cos(cos(ARG19))))	0.5200382334105055	
+[19]	sin(sub(sub(cos(5), 5), cos(cos(ARG19))))	0.44747925414061057	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), protectedDiv(ARG3, ARG3)))	0.7484988340395254	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[2, 19]	sin(sub(sub(sub(sub(ARG19, 5), sin(mul(ARG2, 5))), 5), cos(cos(cos(cos(5))))))	0.5176551879148842	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)), cos(cos(ARG19))))	0.6472756593759842	
+[19]	sin(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))	0.5811977703962974	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[3]	sin(sub(5, protectedDiv(ARG3, ARG3)))	0.43978466256046933	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(protectedDiv(ARG3, ARG3)))))	0.769795348602084	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), ARG19))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(5)))), 5), cos(cos(ARG19))))	0.7144027140060454	
+[2, 19, 4]	sin(sub(sub(sub(sub(ARG4, ARG2), cos(5)), 5), cos(cos(ARG19))))	0.4457593931681267	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[16, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(neg(ARG16))), 5), cos(cos(ARG19))))	0.5201395981544025	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), protectedDiv(ARG3, ARG3)))	0.7484988340395254	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), protectedDiv(ARG3, ARG3)))	0.7391168561821125	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG3))))	0.7535857585696552	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG19, ARG3)))	0.4779444394228937	
+[3, 19]	sin(sub(sub(sub(ARG19, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5039542489179805	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(ARG19, 5)))), 5), protectedDiv(ARG3, ARG3)))	0.7213573829391148	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[3]	sin(sub(5, protectedDiv(ARG3, ARG3)))	0.43978466256046933	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.4367797857536978	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[2, 3]	sin(sub(sub(protectedDiv(add(ARG3, 5), add(ARG2, ARG2)), 5), protectedDiv(ARG3, ARG3)))	0.4577804565191445	
+[19, 3]	sin(sub(sub(ARG3, 5), cos(cos(ARG19))))	0.4456499089973573	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(ARG19, 5), cos(cos(5))), ARG3)))	0.482934882717217	
+[3, 19]	sin(sub(cos(cos(ARG19)), protectedDiv(ARG3, ARG3)))	0.48601118904454216	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)), 5), protectedDiv(ARG3, ARG3)))	0.48601118904454216	
+[3, 19]	sin(sub(sub(sub(ARG19, 5), 5), protectedDiv(ARG3, ARG3)))	0.5907475560318365	
+[17, 19]	sin(sub(sub(protectedDiv(ARG17, 5), 5), cos(cos(ARG19))))	0.4495136208796664	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG3))	0.43798033660074287	
+[1, 3, 10, 12, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(neg(ARG1), mul(ARG12, ARG10))), 5), protectedDiv(ARG3, cos(cos(ARG19)))))	0.44751545307982116	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(5, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4143912357671038	
+[16, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(neg(ARG16)))), 5), cos(cos(ARG19))))	0.7545372561055034	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(ARG19, 5), cos(cos(ARG19)))))))	0.7772490059656383	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)))	0.4968231904461827	
+[19]	sin(sub(cos(cos(ARG19)), cos(cos(ARG19))))	0.4968231904461827	
+[3, 19]	sin(sub(sub(sub(5, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4143912357671038	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(ARG19, 5)))), 5), cos(cos(ARG19))))	0.7347159397092707	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(cos(ARG19)))))	0.47766585555605484	
+[3, 19, 15]	sin(sub(sub(sub(sub(protectedDiv(5, ARG15), 5), cos(ARG19)), 5), protectedDiv(ARG3, ARG3)))	0.441479451473288	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG19))	0.41455940418497206	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(cos(ARG19))))))	0.7885394052000958	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)))), 5), protectedDiv(ARG3, ARG3)))	0.72089104004824	
+[3, 19]	sin(sub(ARG19, protectedDiv(ARG3, ARG3)))	0.4220174773628859	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[17, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sin(cos(ARG17)))), 5), cos(cos(5))))	0.7603527315114365	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[8, 4, 6]	add(sub(5, ARG8), sub(ARG6, ARG4))	0.009612435021608976	
+[19, 13]	sin(sub(sub(mul(ARG13, 5), 5), cos(cos(ARG19))))	0.44788238723236745	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[]	sin(sin(5))	0.4324787438135357	
+[19, 3, 14]	sin(sub(sub(sub(sub(protectedDiv(ARG3, sin(ARG14)), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4447271070018828	
+[]	sin(5)	0.4156724723105484	
+[19, 14]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(ARG14, cos(cos(5))), 5), cos(cos(ARG19)))), cos(cos(ARG19))))	0.4484363462826321	
+[19]	sin(sub(ARG19, cos(cos(ARG19))))	0.4577690937735048	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4492594975298667	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[0]	sin(neg(ARG0))	0.44758690247686267	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), cos(cos(ARG19)))))), 5), cos(cos(ARG19))))	0.7580212497332921	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), protectedDiv(ARG3, ARG3)))	0.6667749707639086	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(ARG19)))), 5), cos(cos(ARG19))))	0.7342156570372883	
+[1]	sin(ARG1)	0.4501290643176083	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[8, 19]	sin(sub(sub(add(cos(5), sin(ARG8)), 5), cos(cos(ARG19))))	0.4461237859277623	
+[16, 0, 3]	sin(sub(sub(mul(add(5, ARG16), neg(ARG0)), 5), protectedDiv(5, ARG3)))	0.4482980754477385	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG3))), 5), cos(cos(ARG19))))	0.7570847764864423	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(ARG19, 5)))	0.48619762710133707	
+[19]	sin(sub(sub(sub(cos(cos(ARG19)), cos(cos(5))), 5), cos(cos(ARG19))))	0.48619762710133707	
+[17, 19, 15]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(protectedDiv(ARG17, ARG15), 5), cos(cos(ARG19)))))))	0.7527762179487547	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))), protectedDiv(ARG3, ARG3)))	0.5715491257777487	
+[1, 19, 17, 15]	sin(sub(sub(sub(add(sub(ARG1, 5), sub(ARG17, ARG15)), 5), cos(cos(ARG19))), 5))	0.4462271747770478	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[6]	sin(cos(ARG6))	0.4554364207291048	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(cos(5)))))	0.4108366818150809	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG19))))	0.5240048239316513	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.40313347712418296	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), protectedDiv(ARG3, ARG3)))	0.40534246952885444	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(cos(cos(5)), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sub(ARG19, 5)))	0.4698705158435483	
+[19]	sin(sub(sub(sub(neg(sin(5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.46995734603066497	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))), cos(cos(5))))	0.41712343003624747	
+[]	sin(5)	0.4156724723105484	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[2, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), ARG19), add(mul(5, 5), neg(ARG2))))	0.4514653539603554	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[3, 19]	sin(sub(sub(sub(sub(5, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG3))	0.43798033660074287	
+[3, 0, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, cos(cos(ARG19)))), 5), mul(ARG0, 5)))	0.4464145408965886	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.5514362743644163	
+[]	sin(cos(5))	0.48860988118455967	
+[3]	sin(sub(sub(5, 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, sub(sub(ARG19, 5), cos(cos(ARG19)))), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(5)))), 5), cos(cos(ARG19))))	0.7144027140060454	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))))	0.5232479445626904	
+[18]	sin(ARG18)	0.45038815039766383	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[8, 19]	sin(sub(sub(sub(sub(ARG19, 5), neg(ARG8)), 5), cos(cos(ARG19))))	0.450819628963244	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(5))))), 5), cos(cos(ARG19))))	0.788512654995731	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))), 5), cos(cos(ARG19))))	0.6965316359185282	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG19))))	0.5240048239316513	
+[19]	sin(sub(sub(sub(sub(cos(5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42702874797209484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(ARG19)))), 5), protectedDiv(ARG3, ARG3)))	0.7314625366506091	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG19)))	0.5413580396681291	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.7335028041009535	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(ARG19))))	0.7640125129111872	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.424768260401012	
+[19]	sin(sub(ARG19, cos(cos(ARG19))))	0.4577690937735048	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4492594975298667	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(ARG19, 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[1, 19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(ARG1))), 5), cos(cos(ARG19))))	0.43090414552134815	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 6]	sin(sub(ARG19, cos(cos(ARG6))))	0.44699125213023894	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4492594975298667	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), 5))	0.3860704790917862	
+[10, 19, 7]	sin(sub(sub(sub(sub(mul(neg(ARG10), sub(5, ARG7)), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.44572612566172315	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(ARG19, 5))))	0.5359950850792699	
+[19]	sin(sub(sub(sub(cos(ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.5494465477615467	
+[3, 19]	sin(sub(sub(sub(sub(cos(cos(ARG19)), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4144849117946922	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(5))))	0.41455940418497206	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[5]	neg(ARG5)	0.016851993753904154	
+[3, 19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.7453789150825008	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[8, 2, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(mul(ARG2, ARG8))))	0.452453080477579	
+[19]	sin(sub(sub(sub(5, cos(cos(ARG19))), 5), neg(sin(5))))	0.41362056259967206	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(ARG19, 5)), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(ARG19, 5), cos(cos(ARG19)))), 5), cos(cos(ARG19))))	0.41941022393380495	
+[3]	sin(sub(sub(cos(cos(5)), 5), protectedDiv(ARG3, ARG3)))	0.4208619581608183	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))), protectedDiv(ARG3, ARG3)))	0.4156724723105484	
+[]	sin(5)	0.4156724723105484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), protectedDiv(ARG3, ARG3)))	0.7484988340395254	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(ARG19))), 5), cos(cos(5))))	0.4741826734049371	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), protectedDiv(ARG3, ARG3)))	0.7484988340395254	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(ARG19, 5), cos(cos(5)))))), 5), cos(cos(ARG19))))	0.7719290749518718	
+[19]	sin(sub(sub(5, 5), cos(cos(ARG19))))	0.44804769953894097	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(ARG19, 5), cos(cos(ARG19)))), cos(cos(5))), 5), cos(cos(ARG19))))	0.43240273802793805	
+[3]	sin(sub(sub(5, 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(ARG19, 5)), neg(sin(5))))	0.41362056259967206	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, sub(ARG19, 5))))	0.4727872342920314	
+[19, 3]	sin(sub(sub(sub(ARG3, cos(cos(5))), 5), cos(cos(ARG19))))	0.4420458500747913	
+[19]	sin(sub(sub(cos(ARG19), 5), cos(cos(ARG19))))	0.5541007187401831	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(sub(ARG19, 5), cos(cos(5))))))	0.551900083244299	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[]	sin(5)	0.4156724723105484	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.6102444017432007	
+[19]	sin(ARG19)	0.5817728880880526	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), cos(cos(ARG19))))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[]	sin(5)	0.4156724723105484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5)))), protectedDiv(ARG3, ARG3)), 5), cos(cos(ARG19))))	0.4144057805076879	
+[3, 19]	sin(sub(sub(sub(sub(5, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[3]	sin(sub(sub(5, 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(ARG19, 5), cos(cos(ARG19)))), cos(cos(5))), 5), cos(cos(ARG19))))	0.43240273802793805	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), ARG19), protectedDiv(ARG3, ARG3)))	0.47108265384160786	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[17, 19]	sin(sub(sub(sub(ARG19, cos(cos(5))), 5), sin(protectedDiv(ARG17, 5))))	0.5752389504030296	
+[19, 14]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(add(ARG14, 5)))), 5), neg(sin(5))))	0.7520252279026285	
+[1, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG1)))	0.5349294992283102	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.6968418205025771	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG3), 5), protectedDiv(ARG3, ARG3)))	0.43809666973208816	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, cos(cos(ARG19)))))	0.4467053833702359	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(cos(ARG19), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.5134566553066778	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG19)))	0.5413580396681291	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(ARG19, 5), cos(cos(ARG19)))), cos(cos(5))), 5), cos(cos(ARG19))))	0.43240273802793805	
+[3]	sin(sub(sub(5, 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))), 5), cos(cos(5))))	0.4509768908291791	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[3, 19]	sin(sub(sub(sub(ARG19, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5039542489179805	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5053563652167171	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.424768260401012	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3]	sin(sub(sub(ARG3, 5), protectedDiv(ARG3, ARG3)))	0.44406212396422023	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, sub(sub(ARG19, 5), cos(cos(ARG19))))))	0.4725098016188707	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19, 4]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG4))	0.4436435522191186	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[12, 15]	sin(sub(sub(ARG15, ARG12), cos(cos(5))))	0.44720445060306296	
+[19, 3]	sin(sub(protectedDiv(ARG3, ARG3), cos(cos(ARG19))))	0.48847874708852523	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)))	0.49021695940269416	
+[19]	sin(sub(cos(cos(5)), cos(cos(ARG19))))	0.49021695940269416	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), 5), cos(cos(ARG19))))	0.49021695940269416	
+[19, 3]	sin(sub(sub(sub(protectedDiv(ARG3, ARG3), cos(cos(5))), 5), cos(cos(ARG19))))	0.4667208971709794	
+[19, 4]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG4))), 5), sub(ARG19, 5)))	0.4708140475389745	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), protectedDiv(ARG3, ARG3)))	0.7910086851962445	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG19))	0.41455940418497206	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(cos(5))))))	0.7707119789648103	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))))))	0.750479050613213	
+[]	sin(5)	0.4156724723105484	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 3]	sin(sub(sub(sub(sub(ARG3, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4476571826938317	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG19)))	0.473452256408709	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG19))))	0.5240048239316513	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(5)))))	0.7371507755949915	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19, 6]	sin(sub(sub(sub(sub(ARG19, sub(protectedDiv(ARG6, ARG3), neg(5))), sub(ARG19, 5)), 5), cos(cos(ARG19))))	0.4514734383579417	
+[19]	sin(sub(sub(sub(cos(cos(5)), cos(cos(ARG19))), 5), cos(cos(5))))	0.4698705158435483	
+[3, 9, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), protectedDiv(ARG3, sin(ARG9))))	0.45240087865940065	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[19]	sin(sub(sub(5, 5), cos(cos(ARG19))))	0.44804769953894097	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(ARG19, 5), cos(cos(5)))), cos(cos(5))), 5), cos(cos(ARG19))))	0.44804769953894097	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))), 5), protectedDiv(ARG3, ARG3)))	0.5662821624968521	
+[2, 12]	mul(ARG2, ARG12)	0.0003018783633042744	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(5)))	0.6553236447506261	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(ARG19)), cos(cos(5))), 5), cos(cos(ARG19))))	0.48589223720581626	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), protectedDiv(ARG3, ARG3)))	0.4144849117946922	
+[19, 13]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), ARG13))	0.446476799737746	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, sin(add(5, 5))), cos(cos(5))), 5), cos(cos(ARG19))))	0.6392376949248193	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[10, 3]	sin(sub(protectedDiv(ARG10, 5), protectedDiv(ARG3, ARG3)))	0.44937776812863917	
+[19, 4]	sin(sub(sub(sub(sub(sub(neg(sub(ARG4, 5)), 5), cos(cos(ARG19))), 5), 5), cos(cos(ARG19))))	0.4515067477699358	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(ARG19, cos(cos(ARG19))))	0.4577690937735048	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(sub(ARG19, 5), cos(cos(5))), 5)))), 5), protectedDiv(ARG3, ARG3)))	0.7149275156147968	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))))	0.4509768908291793	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(cos(5), ARG3)))	0.5609530761268333	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG3)), 5), cos(cos(ARG19))))	0.51604445942506	
+[3, 11, 19, 12]	sin(sub(sub(sub(sub(ARG19, 5), ARG3), 5), neg(sin(protectedDiv(sub(ARG12, ARG11), sub(5, 5))))))	0.44873193552349133	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(cos(cos(ARG19)), ARG3)))	0.5582694630237214	
+[3, 1, 19, 14]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), protectedDiv(ARG14, ARG1)))	0.4878035777921823	
+[19, 12]	sin(sub(sub(sub(5, 5), neg(ARG12)), cos(cos(ARG19))))	0.45218696468134617	
+[17]	sin(sin(ARG17))	0.4550607755253767	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(5)))	0.6553236447506261	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(ARG19)), cos(cos(ARG19))))	0.48589223720581626	
+[3, 19]	sin(sub(sub(sub(sub(cos(ARG19), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5186818026328052	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG19)))	0.5413580396681291	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19, 7]	sin(sub(sub(sub(sub(ARG19, neg(ARG7)), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.45044507732539635	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3]	sin(ARG3)	0.44280598008909505	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)), ARG3)))	0.48408136859075407	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 10, 3]	sin(sub(sub(sub(sub(ARG3, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, cos(sin(ARG10)))))	0.44009963487195736	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG19)))	0.473452256408709	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 14]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), mul(sub(ARG14, 5), cos(5))), cos(cos(ARG19))))	0.44583800242030197	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)))), 5), protectedDiv(ARG3, ARG3)))	0.72089104004824	
+[19]	sin(sub(ARG19, cos(cos(5))))	0.42585926730208573	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.46355142665077126	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[]	sin(cos(cos(5)))	0.43610096188015685	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))), 5), cos(cos(ARG19))))	0.43610096188015685	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(ARG19, 5), cos(cos(ARG19)))))	0.4294419137130899	
+[0, 3]	sin(sub(sub(cos(cos(neg(ARG0))), 5), protectedDiv(ARG3, ARG3)))	0.43114022086445136	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(5)), cos(cos(ARG19))))	0.46355142665077137	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(cos(ARG19), ARG3)))	0.5591693873757687	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG3)))	0.5326607626042218	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(ARG19, 5))), 5), protectedDiv(ARG3, ARG3)))	0.5396367220283083	
+[19]	sin(sub(sub(sub(cos(ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.5494465477615467	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(cos(5))))))	0.7707119789648103	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG19))))	0.5240048239316513	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(5)))), 5), protectedDiv(ARG3, ARG3)))	0.74665229335971	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG3), 5), cos(cos(ARG19))))	0.4374213194231511	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(cos(cos(5)), ARG3)))	0.5574281743582465	
+[19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), neg(sin(5))))	0.5814066643841339	
+[19]	sin(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5))	0.5616568809998468	
+[19]	sin(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), cos(cos(ARG19))))	0.5731787396054506	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5), protectedDiv(ARG3, ARG3)))	0.522054685898574	
+[3, 13]	sin(sub(sub(sub(cos(5), cos(cos(protectedDiv(ARG13, ARG3)))), 5), protectedDiv(ARG3, ARG3)))	0.4900844617316118	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(ARG19, 5))), 5), cos(cos(ARG19))))	0.5263309585073903	
+[0, 19, 18, 3]	sin(sub(sub(sub(protectedDiv(protectedDiv(mul(ARG18, 5), sub(5, ARG0)), ARG3), cos(cos(5))), 5), cos(cos(ARG19))))	0.46557528410079985	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sub(ARG19, 5)))	0.4698705158435483	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG3)), 5), cos(cos(ARG19))))	0.51604445942506	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, cos(5))))	0.44962888588811883	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[10, 7]	sin(add(ARG10, ARG7))	0.4414153074176905	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.775360138260212	
+[9, 3, 5]	sin(sub(protectedDiv(ARG9, ARG5), protectedDiv(ARG3, ARG3)))	0.4469601208919358	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.6968418205025771	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(5))))	0.6698787619596052	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(ARG19, 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(cos(ARG19)))))	0.5382442580171132	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(5)))	0.6553236447506261	
+[19]	sin(ARG19)	0.5817728880880526	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))))))	0.750479050613213	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 9, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), protectedDiv(mul(ARG9, ARG9), ARG3)))	0.44694066229528884	
+[3, 19, 6]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(cos(5), cos(ARG6))))), 5), protectedDiv(ARG3, ARG3)))	0.7566669873410731	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG3)), 5), cos(cos(ARG19))))	0.51604445942506	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(cos(5), ARG3)))	0.5609530761268333	
+[3, 19]	sin(sub(sub(sub(cos(cos(5)), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4729507951590782	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(ARG19, 5)), 5), cos(cos(ARG19))))	0.4698705158435483	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG19))	0.41455940418497206	
+[19]	sin(sub(sub(sub(sub(cos(cos(ARG19)), 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.41455940418497206	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG3)), 5), cos(cos(ARG19))))	0.51604445942506	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, cos(5))))	0.44962888588811883	
+[18, 4, 5]	sin(add(mul(ARG4, ARG18), cos(ARG5)))	0.45117659693945583	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(cos(5))), cos(cos(ARG19))))	0.3894441969626677	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[19]	sin(cos(ARG19))	0.5872800085623407	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))))	0.5626620665290758	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.7453789150825008	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(ARG19))))	0.7640125129111872	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(neg(5)))), 5), cos(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5))))	0.5152569515210957	
+[3, 19]	sin(sub(cos(ARG19), protectedDiv(ARG3, ARG3)))	0.4891303644920729	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(5))), 5), cos(cos(ARG19))))	0.40738992299413457	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), protectedDiv(ARG3, ARG3)))	0.40534246952885444	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(cos(ARG19))), cos(cos(ARG19))))	0.40738992299413457	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(ARG19, 5), cos(cos(5)))), 5), protectedDiv(ARG3, ARG3)))	0.42086195816081823	
+[19, 6]	sin(sub(sub(cos(ARG6), 5), cos(cos(ARG19))))	0.4514129652899191	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[13, 6]	sin(sub(sub(sub(sub(mul(protectedDiv(ARG6, 5), add(5, ARG13)), 5), cos(cos(5))), 5), cos(cos(5))))	0.4513576814097767	
+[]	sin(sin(add(5, 5)))	0.4662938061246256	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))), cos(cos(5))), 5), cos(cos(ARG19))))	0.41712343003624747	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, ARG3), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.45117146157450516	
+[3, 0, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG0)))	0.482671602401716	
+[19, 13]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(add(sin(5), sub(ARG13, 5))))))	0.7584447846640361	
+[2, 3]	sin(sub(sub(sin(ARG2), 5), protectedDiv(ARG3, ARG3)))	0.45836553278915587	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(5))), 5), cos(cos(ARG19))))	0.40738992299413457	
+[0, 3, 19]	sin(sub(sub(sub(sub(ARG19, 5), neg(ARG0)), 5), protectedDiv(ARG3, ARG3)))	0.4442965832509262	
+[8, 18]	add(ARG18, ARG8)	0.011912379501656335	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(5))), 5), cos(cos(ARG19))))	0.40738992299413457	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(ARG19)))), 5), cos(cos(ARG19))))	0.7342156570372883	
+[7]	sin(sub(sub(add(sin(5), protectedDiv(ARG7, ARG7)), 5), cos(5)))	0.43093308973108746	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.775360138260212	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), protectedDiv(ARG3, ARG3)))	0.40534246952885444	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(5, 5), cos(cos(ARG19))))	0.44804769953894097	
+[3, 17, 19]	sin(sub(sub(sub(sub(ARG19, sub(sub(ARG19, 5), cos(cos(5)))), cos(ARG17)), 5), protectedDiv(ARG3, ARG3)))	0.453553516068641	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(5)))), 5), protectedDiv(ARG3, ARG3)))	0.74665229335971	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG19)))	0.5413580396681291	
+[18, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), add(5, ARG18)), cos(cos(ARG19))))	0.44399117566520685	
+[19, 15]	sin(sin(add(ARG19, ARG15)))	0.45911325652391516	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(ARG19, 5)), protectedDiv(ARG3, ARG3)))	0.4143912357671038	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[0, 15]	neg(add(ARG15, ARG0))	0.011702042011862987	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 18, 11]	sin(sub(add(mul(5, ARG18), add(ARG11, 5)), cos(cos(ARG19))))	0.4468035675221023	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[19, 3, 10, 2]	sin(sub(sub(sub(sub(sub(sub(sub(ARG10, 5), add(5, ARG2)), 5), cos(cos(ARG19))), 5), 5), protectedDiv(ARG3, ARG3)))	0.44561602130728667	
+[3, 19]	sin(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), protectedDiv(ARG3, ARG3)))	0.5039542489179804	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(sub(sub(ARG19, 5), cos(cos(5))), ARG3)), 5), cos(cos(ARG19))))	0.482934882717217	
+[19, 3]	sin(sub(sub(ARG3, 5), cos(cos(ARG19))))	0.4456499089973573	
+[19, 18, 3]	sin(sub(sub(cos(sub(ARG18, 5)), 5), protectedDiv(ARG3, cos(cos(ARG19)))))	0.45173489368470504	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG3), 5), protectedDiv(ARG3, ARG3)))	0.43809666973208816	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), cos(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))))	0.5272699533703343	
+[0, 19]	sin(sub(cos(sin(ARG0)), cos(cos(ARG19))))	0.49197975764720353	
+[19]	sin(sub(cos(cos(5)), cos(cos(ARG19))))	0.49021695940269416	
+[19, 4]	sin(sub(sub(protectedDiv(5, ARG4), 5), cos(cos(ARG19))))	0.4669604412504907	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42875893069702153	
+[3, 19]	sin(sub(ARG19, protectedDiv(ARG3, ARG3)))	0.4220174773628859	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(ARG19))))	0.5127718898283892	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[3]	sin(sub(ARG3, neg(sin(5))))	0.4421654409210041	
+[3, 18, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(sub(ARG19, 5), cos(cos(ARG18))), 5), ARG3)))	0.4839957012597968	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(ARG19, 5), cos(cos(5)))), 5), cos(cos(ARG19))))	0.4165064646781454	
+[19]	sin(sub(sub(cos(cos(5)), 5), cos(cos(ARG19))))	0.4165064646781454	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.7335028041009535	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(ARG19))))	0.7640125129111872	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(cos(5))))))	0.7707119789648103	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))))	0.4509768908291793	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), protectedDiv(ARG3, ARG3)))	0.6667749707639086	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(ARG19)), cos(cos(ARG19))))	0.48589223720581626	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG3))), 5), cos(cos(ARG19))))	0.7570847764864423	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), protectedDiv(ARG3, ARG3)))	0.7484988340395254	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), cos(cos(ARG19))), 5), cos(cos(5))))	0.751886813250277	
+[19]	sin(sub(ARG19, 5))	0.6666374127815446	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG19)))	0.5413580396681291	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(ARG19)))))	0.7279466883445186	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.40313347712418296	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(5, 5), cos(cos(ARG19))))	0.44804769953894097	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(5, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), ARG19), cos(cos(ARG19))))	0.47418267340493686	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(ARG19, 5), cos(cos(ARG19))), ARG3)))	0.4825824636130596	
+[3]	sin(sub(sub(ARG3, 5), protectedDiv(ARG3, 5)))	0.4481150755031055	
+[7]	sin(ARG7)	0.44355753483207633	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[9]	ARG9	0.017178185576997376	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[3, 19]	sin(sub(sub(sub(cos(protectedDiv(5, ARG19)), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4731766419479591	
+[19, 3]	sin(sub(sub(sub(sub(5, 5), protectedDiv(ARG3, ARG3)), 5), cos(cos(ARG19))))	0.47108265384160775	
+[19, 15]	sin(sub(sub(sub(sub(sin(ARG15), neg(5)), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.44082086558685074	
+[3]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(protectedDiv(ARG3, ARG3))))	0.4110503281516267	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(ARG19)))	0.5240048239316513	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, cos(cos(5))), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.386543919964056	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[16, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(neg(add(ARG16, 5)))), cos(cos(ARG19))))	0.4945276113064374	
+[]	sin(sub(5, 5))	0.4968231904461827	
+[19, 3]	sin(sub(ARG3, cos(cos(ARG19))))	0.44218792469235585	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG3)))	0.48399826055883205	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), protectedDiv(ARG3, ARG3)))	0.40534246952885444	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, cos(cos(ARG19))), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.40313347712418296	
+[19]	ARG19	0.017230663727900206	
+[19, 3]	sin(sub(ARG3, cos(cos(ARG19))))	0.44218792469235585	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(5)))	0.6308710803067269	
+[19]	sin(sub(sub(5, 5), cos(cos(ARG19))))	0.44804769953894097	
+[3]	sin(ARG3)	0.44280598008909505	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), ARG3)))	0.484098689598467	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(ARG19, 5), 5), cos(cos(ARG19))))	0.5616568809998468	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), cos(cos(5))), 5), cos(cos(ARG19))))	0.5715491257777487	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), protectedDiv(ARG3, ARG3)))	0.6667749707639086	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(ARG19)), cos(cos(ARG19))))	0.48589223720581626	
+[]	sin(cos(cos(5)))	0.43610096188015685	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))), 5), cos(cos(ARG19))))	0.43346134632354866	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(sub(ARG19, 5)))))	0.515389457280918	
+[7]	sin(sub(sub(cos(5), 5), cos(cos(ARG7))))	0.4473654155501246	
+[3]	neg(ARG3)	0.016968855365049735	
+[19]	sin(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))	0.5811977703962974	
+[19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), cos(cos(ARG19))))	0.658527126370509	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(ARG19, 5)), cos(cos(ARG19))))	0.413638916742804	
+[3, 19]	sin(sub(sub(sub(5, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4143912357671038	
+[3, 19, 14]	sin(sub(sub(sub(sub(neg(ARG14), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.44632143056181817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(cos(cos(ARG19)), cos(cos(ARG19))))	0.4968231904461827	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(sin(protectedDiv(5, 5)), 5), cos(cos(5))), 5)))	0.4382451827504311	
+[]	sin(5)	0.4156724723105484	
+[19, 14]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(sub(sub(5, ARG14), 5), cos(cos(5))), 5), cos(cos(ARG19)))), cos(cos(ARG19))))	0.44786820549833795	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[10]	mul(neg(5), protectedDiv(5, ARG10))	0.0287325004267408	
+[18, 19]	sin(sub(sub(sub(sub(cos(cos(ARG19)), 5), cos(cos(5))), 5), cos(cos(ARG18))))	0.4175269219998884	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.5514362743644163	
+[]	sin(cos(5))	0.48860988118455967	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5))))	0.47629372166257444	
+[3]	sin(sub(ARG3, protectedDiv(5, ARG3)))	0.4409218326478636	
+[19]	sin(sub(sub(sub(cos(cos(5)), cos(cos(ARG19))), 5), neg(sin(5))))	0.46978363199850626	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(ARG19, 5)), 5), cos(cos(ARG19))))	0.4698705158435483	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[19, 17, 3]	sin(sub(protectedDiv(protectedDiv(5, ARG3), sin(ARG17)), cos(cos(ARG19))))	0.4495859898543043	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(protectedDiv(cos(5), ARG3)))), 5), cos(cos(ARG19))))	0.7048435827273152	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), 5))	0.3860704790917862	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[17, 10, 19]	sin(sub(sub(sub(sub(sub(sub(sub(protectedDiv(ARG17, ARG10), 5), cos(cos(5))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4476479404068354	
+[19]	sin(sub(ARG19, cos(cos(ARG19))))	0.4577690937735048	
+[19]	sin(sub(cos(cos(5)), cos(cos(ARG19))))	0.49021695940269416	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), 5), cos(cos(ARG19))))	0.49021695940269416	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.46355142665077126	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), protectedDiv(ARG3, ARG3)))	0.5476860581515463	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(ARG19)))), 5), neg(sin(5))))	0.7278245306295	
+[3, 19]	sin(sub(sub(sub(5, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.4143912357671038	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(ARG19, 5)), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.775360138260212	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[19, 3]	sin(sub(sub(ARG3, 5), cos(cos(ARG19))))	0.4456499089973573	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(ARG19, 5), cos(cos(5))), ARG3)))	0.482934882717217	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3))))))	0.7536792256228316	
+[17]	sin(ARG17)	0.4454873669853173	
+[3]	sin(sub(ARG3, protectedDiv(ARG3, ARG3)))	0.44227492921644196	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), ARG3)))	0.48426039316462305	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[3, 19]	sin(sub(sub(sub(sub(5, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.47108265384160775	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), ARG19), cos(cos(ARG19))))	0.47418267340493686	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(sub(sub(ARG19, 5), cos(cos(5))), ARG3)))	0.482934882717217	
+[19, 3]	sin(sub(sub(ARG3, 5), cos(cos(ARG19))))	0.4456499089973573	
+[3, 19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)), 5), protectedDiv(ARG3, ARG3)))	0.7569570410572372	
+[19, 12]	sin(sub(sub(ARG19, 5), cos(cos(neg(sin(ARG12))))))	0.7323335663560475	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(5))), cos(cos(5))), 5), cos(cos(ARG19))))	0.3894441969626677	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[8, 18]	sin(sub(sub(mul(5, 5), add(ARG8, ARG18)), 5))	0.44286685194449843	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.775360138260212	
+[1, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG1), ARG19), cos(cos(ARG19))))	0.44705929492147284	
+[]	sin(sub(sub(sin(5), 5), neg(sin(5))))	0.45838409599268337	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[10, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sin(cos(ARG10)))), 5), cos(cos(ARG19))))	0.7756795222894066	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[16, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(sub(sub(sub(ARG19, 5), cos(cos(neg(ARG16)))), 5), cos(cos(ARG19))))))	0.552115039482283	
+[19]	sin(cos(ARG19))	0.5872800085623407	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(5)), 5), cos(cos(ARG19))))	0.630871080306727	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.46355142665077126	
+[]	sin(cos(cos(5)))	0.43610096188015685	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))), 5), cos(cos(ARG19))))	0.43610096188015685	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), mul(5, ARG3)), 5), cos(cos(ARG19))))	0.44787312589066536	
+[19]	sin(sub(sub(cos(cos(5)), 5), cos(cos(ARG19))))	0.4165064646781454	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(ARG19, 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), cos(cos(5))))	0.7484988340395254	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), ARG19), cos(cos(ARG19))))	0.47418267340493686	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(cos(cos(5)), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sub(sub(sub(ARG19, 5), cos(cos(5))), 5))))	0.45080680929127714	
+[19]	sin(sub(sin(5), cos(cos(ARG19))))	0.41362056259967206	
+[8, 10]	protectedDiv(sin(ARG10), cos(ARG8))	0.09360291035553596	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), cos(cos(ARG19))))	0.4192544013571817	
+[0, 19, 6, 7]	sin(sub(sub(sub(sub(ARG19, mul(mul(5, ARG6), mul(ARG0, ARG7))), cos(sub(sub(ARG19, 5), cos(cos(5))))), 5), cos(cos(ARG19))))	0.4412108782641693	
+[19]	sin(sub(sub(cos(5), 5), cos(cos(ARG19))))	0.44747925414061057	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(ARG19))))	0.7640125129111872	
+[17, 2, 19, 9]	sin(sub(sub(add(sub(ARG17, 5), sub(ARG9, ARG2)), 5), cos(cos(ARG19))))	0.4461400809617797	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sin(5)))), 5), protectedDiv(ARG3, ARG3)))	0.768064465420592	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[19]	sin(sub(sub(sub(sub(cos(sin(5)), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.41735484280272966	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG19)))	0.5413580396681291	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(ARG19, 5), cos(cos(ARG19)))))))	0.7772490059656383	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[3, 19]	sin(sub(sub(sub(ARG19, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5039542489179805	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5053563652167171	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))), 5), protectedDiv(ARG3, ARG3)))	0.45407935017483964	
+[19]	sin(cos(cos(ARG19)))	0.4509768908291793	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), ARG19))	0.4192544013571817	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(neg(sin(5))))), 5), protectedDiv(ARG3, ARG3)))	0.768064465420592	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), cos(cos(ARG19))))	0.775360138260212	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), ARG3), cos(cos(ARG19))))	0.450875696190688	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, 5)))	0.4553793551753447	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(sub(sub(ARG19, ARG19), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(5, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4741826734049371	
+[19]	sin(sub(sub(cos(cos(5)), 5), cos(cos(ARG19))))	0.4165064646781454	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3))), 5), cos(cos(ARG19))))	0.4161982075537285	
+[19, 12, 14]	sin(sub(sub(sin(ARG14), sub(5, ARG12)), cos(cos(ARG19))))	0.4499630777181068	
+[3, 19, 12]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), protectedDiv(protectedDiv(cos(5), neg(ARG12)), ARG3)))	0.4260517288042259	
+[19]	sin(sub(sub(sub(sub(cos(ARG19), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.5134566553066778	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), protectedDiv(ARG3, ARG3)))	0.5476860581515463	
+[19]	sin(sub(5, cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(ARG19))))	0.4247682604010122	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.6968418205025771	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))))	0.8068659094427092	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.7335028041009535	
+[19]	sin(sub(sub(ARG19, 5), cos(cos(sin(neg(5))))))	0.7055000076293072	
+[19]	sin(sub(ARG19, cos(cos(ARG19))))	0.4577690937735048	
+[19, 6]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(sin(neg(ARG6))))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42015073494128996	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), ARG19))	0.41455940418497206	
+[1, 18, 3]	sin(sub(sub(sin(protectedDiv(ARG18, ARG1)), 5), protectedDiv(ARG3, ARG3)))	0.4588031670961908	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(ARG19))))), 5), protectedDiv(ARG3, ARG3)))	0.7910086851962445	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), neg(sin(5))))	0.41456421603614535	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(sub(sub(ARG19, 5), cos(cos(ARG19))))))	0.5645358488176956	
+[3, 19]	sin(sub(sub(cos(ARG19), 5), protectedDiv(ARG3, ARG3)))	0.5772036566834082	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(5)))	0.6553236447506261	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), cos(ARG19)), protectedDiv(ARG3, ARG3)))	0.48229336211553275	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.806954655702721	
+[19]	sin(sub(sub(sub(cos(5), cos(cos(5))), 5), cos(cos(ARG19))))	0.49097025303604025	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(ARG19, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5039542489179805	
+[19, 12]	sin(sub(sub(sub(sub(ARG19, 5), cos(sin(mul(ARG12, 5)))), 5), neg(sin(5))))	0.7533644367345317	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))))	0.7832513681876757	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), protectedDiv(ARG3, ARG3)))	0.4144849117946922	
+[19]	sin(sub(sub(sub(sub(cos(cos(ARG19)), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.41455940418497206	
+[19]	sin(sub(sub(cos(cos(ARG19)), 5), cos(cos(ARG19))))	0.41941022393380495	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(ARG19, 5), cos(cos(5)))))	0.41941022393380495	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(ARG19, 5), cos(cos(5))))), 5), cos(cos(ARG19))))	0.5365780854591352	
+[19]	sin(sub(sub(cos(5), 5), cos(cos(ARG19))))	0.44747925414061057	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(5)))	0.6553236447506261	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(ARG19)))), 5), cos(cos(ARG19))))	0.7342156570372883	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), ARG19))	0.4192544013571817	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(protectedDiv(ARG3, ARG3)))), 5), protectedDiv(ARG3, ARG3)))	0.7661715548816372	
+[0, 3, 6, 8, 19]	sin(sub(sub(sub(sub(ARG19, add(protectedDiv(ARG8, ARG0), add(5, ARG6))), cos(cos(ARG19))), sub(ARG19, 5)), protectedDiv(ARG3, ARG3)))	0.44362018932137887	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), cos(cos(ARG19))))	0.5731787396054506	
+[3, 19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5), protectedDiv(ARG3, ARG3)))	0.522054685898574	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(5))))	0.7566415537633548	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), ARG19), neg(sin(5))))	0.4742674028382094	
+[]	sin(5)	0.4156724723105484	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), cos(ARG19)), protectedDiv(ARG3, ARG3)))	0.48229336211553275	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), protectedDiv(ARG3, ARG3)))	0.4144849117946922	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(cos(cos(ARG19))))))	0.7885394052000958	
+[18]	sin(cos(mul(5, ARG18)))	0.45474223505657224	
+[19]	sin(sub(sub(sub(sub(ARG19, sub(sub(sub(ARG19, 5), cos(cos(5))), 5)), cos(cos(5))), 5), cos(cos(ARG19))))	0.424768260401012	
+[19]	sin(sub(ARG19, 5))	0.6666374127815446	
+[3, 19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.7406014947588385	
+[16, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(ARG19)), 5), cos(cos(ARG16))))	0.5061654417579047	
+[19]	sin(sub(sub(sub(sub(cos(5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42702874797209484	
+[19]	sin(sub(sub(sub(sub(ARG19, cos(cos(5))), cos(cos(5))), 5), cos(cos(ARG19))))	0.3894441969626677	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG19)))	0.473452256408709	
+[19, 3]	sin(sub(sub(sub(sub(ARG3, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.4476571826938317	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), sub(ARG19, 5)), cos(cos(ARG19))))	0.4143912357671038	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[3]	sin(ARG3)	0.44280598008909505	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))))	0.47737605719128245	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19, 14]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(ARG14)))), 5), neg(sin(5))))	0.5339152726557936	
+[19]	sin(cos(ARG19))	0.5872800085623407	
+[19]	sin(sub(sub(sub(cos(cos(ARG19)), cos(cos(5))), 5), cos(cos(ARG19))))	0.48619762710133707	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), sub(ARG19, 5)), 5), protectedDiv(ARG3, ARG3)))	0.488637490390618	
+[3, 19]	sin(sub(sub(sub(sub(cos(cos(5)), 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.41827083988879976	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG19), 5), protectedDiv(ARG3, ARG3)))	0.4144849117946922	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[13]	mul(ARG13, 5)	0.0034696908661536814	
+[19]	sin(sub(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.42875893069702153	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(ARG19))), 5), cos(cos(5))))	0.6968418205025771	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.6968418205025771	
+[3, 19]	sin(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)))	0.6581366222118384	
+[19, 7]	sin(sub(sub(cos(protectedDiv(ARG7, ARG19)), cos(cos(ARG19))), neg(sin(5))))	0.43497362390606903	
+[19]	sin(sub(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(5))), cos(cos(ARG19))), 5))	0.6965316359185281	
+[19, 3]	sin(sub(sub(protectedDiv(ARG3, ARG3), 5), cos(cos(ARG19))))	0.4161982075537285	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), sub(sub(ARG19, 5), cos(cos(5)))))	0.4165064646781454	
+[19]	sin(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(cos(ARG19))))	0.5114031125123658	
+[19]	sin(sub(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5), cos(cos(ARG19))))	0.49834807551786425	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(cos(cos(5)), ARG3)))	0.5574281743582465	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG3), 5), cos(cos(ARG19))))	0.4374213194231511	
+[3, 19]	sin(sub(sub(sub(ARG19, cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.5039542489179805	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(sub(ARG19, 5)))), 5), protectedDiv(ARG3, ARG3)))	0.7213573829391148	
+[10, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG10))))	0.7531157807592351	
+[0, 19, 12]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(sin(ARG12), add(5, ARG0))), 5), cos(cos(ARG19))))	0.5598530880478506	
+[1, 19, 7]	sin(sub(sub(sub(sub(ARG19, 5), sub(sub(ARG1, ARG7), protectedDiv(5, 5))), 5), cos(cos(ARG19))))	0.44592581147285604	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(ARG19, 5)), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(cos(cos(5))))), 5), cos(cos(ARG19))))	0.788512654995731	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), 5), 5), cos(cos(ARG19))))	0.3860704790917862	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(sub(ARG19, 5))), 5), cos(cos(ARG19))))	0.5263309585073903	
+[3, 4, 15]	sin(sub(cos(mul(ARG15, ARG4)), protectedDiv(ARG3, ARG3)))	0.4397785996812752	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), neg(sin(sub(sub(ARG19, 5), cos(cos(5)))))))	0.500999331397274	
+[0]	sub(ARG0, 5)	0.01687176877326303	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), cos(cos(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19)))))))	0.7565709463635544	
+[]	sin(5)	0.4156724723105484	
+[19, 3, 11, 14]	sin(sub(sub(sub(sub(protectedDiv(ARG14, ARG11), 5), cos(cos(cos(cos(ARG19))))), 5), protectedDiv(ARG3, ARG3)))	0.45186809733082295	
+[3]	sin(sub(sub(cos(5), 5), protectedDiv(ARG3, ARG3)))	0.46747918010853934	
+[17, 19, 4]	sin(sub(sub(sub(sub(ARG19, 5), cos(add(ARG17, ARG4))), 5), cos(cos(ARG19))))	0.523603746816834	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))	0.8089561753956225	
+[19]	sin(sub(cos(cos(ARG19)), cos(cos(ARG19))))	0.4968231904461827	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(sub(sub(ARG19, 5), cos(cos(5))), 5)))	0.4968231904461827	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5)))))	0.7196623549907871	
+[19]	sin(sub(ARG19, neg(sin(5))))	0.42596856399796285	
+[19]	sin(sub(sub(sub(5, cos(cos(5))), 5), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), sub(ARG19, 5)), cos(cos(ARG19))))	0.413638916742804	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[8, 19]	sin(sub(sub(sub(sub(ARG19, 5), ARG8), 5), cos(cos(ARG19))))	0.44361868058123705	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, sub(sub(sub(sub(ARG19, 5), cos(cos(ARG19))), 5), protectedDiv(ARG3, ARG3)))))	0.4766874376245204	
+[6, 15]	sin(add(sub(ARG15, 5), add(5, ARG6)))	0.4463404754343742	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), cos(cos(ARG19))))	0.8089561753956225	
+[6]	sin(sub(ARG6, neg(sin(5))))	0.44713520662549716	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), sub(ARG19, 5)))	0.48619762710133707	
+[3]	sin(sub(sub(5, 5), protectedDiv(ARG3, ARG3)))	0.4297490445627999	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), cos(cos(ARG19))))	0.806954655702721	
+[3, 19]	sin(sub(sub(sub(sub(ARG19, 5), protectedDiv(ARG3, ARG3)), 5), cos(cos(ARG19))))	0.8089561753956225	
+[10, 19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), cos(cos(ARG10))), cos(cos(ARG19))))	0.40605545242009045	
+[19]	sin(sub(sub(sub(sub(ARG19, 5), cos(cos(5))), 5), 5))	0.402491858357786	

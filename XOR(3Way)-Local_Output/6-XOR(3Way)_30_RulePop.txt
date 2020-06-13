@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[5, 12, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, add(ARG5, ARG12)), ARG18)), ARG18)))	0.715625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG19, ARG18)))	0.625625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.63375	
+[17]	cos(add(ARG17, ARG17))	0.50875	
+[17, 18, 19]	cos(add(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.483125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[17, 18, 19]	cos(add(mul(ARG18, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.815625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))	0.60875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(mul(ARG19, ARG17), ARG18)), ARG18)))	0.643125	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.549375	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.64375	
+[10, 17, 18, 19]	cos(add(mul(mul(ARG19, ARG17), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), protectedDiv(5, ARG10))), ARG18)))	0.546875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 12]	cos(add(mul(ARG17, cos(mul(ARG12, 5))), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.80375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG19), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.438125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(ARG19, ARG18)), ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.56375	
+[17, 18, 19]	cos(add(mul(ARG19, sub(add(mul(5, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63625	
+[17]	cos(add(mul(ARG17, ARG17), ARG17))	0.51	
+[17, 18, 19, 4]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sin(ARG4)), ARG18)))	0.48125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG17, ARG18)))	0.60875	
+[1]	cos(cos(ARG1))	0.5	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG18, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.685625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5037499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG17), ARG18)))	0.385625	
+[17, 18]	cos(add(ARG17, sub(5, ARG18)))	0.48687499999999995	
+[17, 18, 19]	cos(add(mul(ARG19, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.651875	
+[1, 6, 17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, add(5, ARG6)), sub(sub(ARG19, mul(ARG19, ARG17)), ARG18)), ARG18)))	0.478125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.539375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, ARG19), ARG18)))	0.57375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60875	
+[19]	cos(ARG19)	0.49624999999999997	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG19, ARG18)))	0.625625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.63125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 6]	cos(add(sub(sub(ARG19, ARG18), neg(ARG6)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60625	
+[3, 11, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(5, ARG11), neg(ARG3))), ARG18)))	0.489375	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18, 17, 2, 19]	cos(add(mul(add(5, ARG2), ARG17), sub(add(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.4975	
+[17, 19]	cos(add(mul(ARG19, ARG17), mul(ARG19, ARG17)))	0.505625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.69875	
+[17, 18, 19]	cos(add(ARG17, sub(ARG19, ARG18)))	0.675625	
+[17, 18, 19, 9]	cos(add(ARG17, sub(add(mul(ARG19, ARG9), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.690625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG17, ARG18)))	0.60875	
+[17, 18, 19]	cos(add(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[18, 17, 2, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG19), sub(ARG2, ARG18)), ARG18)))	0.550625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.6475	
+[2, 17, 18, 19]	cos(add(mul(sub(add(ARG17, sub(sub(ARG19, ARG18), neg(sin(ARG2)))), ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6793750000000001	
+[17, 19, 1]	cos(add(mul(ARG19, ARG17), protectedDiv(ARG17, ARG1)))	0.499375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, mul(ARG19, ARG17)), ARG18)), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.538125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[4]	cos(protectedDiv(5, ARG4))	0.496875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)), ARG18)))	0.5599999999999999	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.563125	
+[17, 4]	cos(add(ARG17, sub(ARG17, ARG4)))	0.489375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6799999999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[19, 17, 18, 3]	cos(add(mul(protectedDiv(sin(ARG3), ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18), ARG18)), ARG18)))	0.49187500000000006	
+[17, 10]	cos(add(ARG17, sin(ARG10)))	0.515625	
+[10, 12]	add(ARG10, ARG12)	0.488125	
+[17, 18, 19, 5]	cos(add(mul(ARG19, ARG17), sub(add(sub(sub(ARG19, ARG18), ARG18), sub(sub(ARG19, ARG18), ARG18)), protectedDiv(5, ARG5))))	0.44875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)))	0.578125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.365625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), ARG18))	0.420625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG1, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.696875	
+[17, 18, 3, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(ARG17, sub(sub(neg(sub(ARG17, ARG3)), ARG18), ARG18)), ARG18)))	0.50875	
+[17, 18]	cos(add(ARG17, sub(add(5, 5), ARG18)))	0.49812500000000004	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG17), ARG18)))	0.385625	
+[17, 18, 19, 12]	cos(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(protectedDiv(ARG12, 5), ARG18), ARG18)), ARG18)))	0.43562500000000004	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))))	0.64125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)))	0.61125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.50875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), neg(5)), ARG18)))	0.42874999999999996	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, mul(ARG19, ARG17)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG17, ARG18)))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.56375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(ARG19, ARG18))))	0.60875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))))	0.64125	
+[17, 18]	cos(add(ARG17, sub(5, ARG18)))	0.48687499999999995	
+[17, 18, 19]	cos(add(mul(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60875	
+[19]	cos(ARG19)	0.49624999999999997	
+[9, 5]	sin(protectedDiv(ARG5, ARG9))	0.5125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, mul(ARG19, ARG17)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(ARG19, ARG18)))	0.674375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.741875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))), ARG18)))	0.49875	
+[17, 18]	cos(add(mul(ARG17, ARG17), sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, mul(ARG19, ARG17)), sub(sub(ARG19, ARG18), ARG18)), 5)))	0.354375	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.559375	
+[17, 18, 19]	cos(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))	0.563125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18))))	0.498125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.50875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 14]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), protectedDiv(neg(5), sub(ARG14, 5))), ARG18)))	0.45	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[2, 15, 17, 18, 19]	cos(add(mul(ARG18, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG2, ARG15)), ARG18)))	0.521875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[1, 18, 19, 17]	cos(add(ARG1, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))))	0.606875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)))	0.7050000000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(mul(ARG19, ARG19), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, mul(ARG19, ARG17)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG19), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.6475	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))), ARG18)))	0.49875	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[]	5	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.694375	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[16]	neg(ARG16)	0.5	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18), ARG18)), ARG18)))	0.47812499999999997	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18]	cos(add(mul(ARG17, ARG17), sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))), ARG18), mul(5, 5))))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.6475	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))	0.701875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[6, 11, 17, 18, 19]	cos(add(mul(mul(mul(5, ARG6), sub(ARG11, ARG6)), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6637500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[14, 15, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, add(protectedDiv(ARG14, ARG15), neg(5))), ARG18)), ARG18)))	0.5675	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), mul(ARG19, ARG17))), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.48875	
+[18]	cos(ARG18)	0.48875	
+[0, 17, 18, 19]	cos(add(mul(ARG19, ARG0), sub(add(ARG17, sub(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.483125	
+[17, 2, 18, 7]	cos(add(ARG17, sub(add(mul(add(ARG2, ARG7), ARG17), ARG18), ARG18)))	0.5137499999999999	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 18, 19, 14]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG14), ARG18)), ARG18)))	0.71625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))	0.701875	
+[1, 11, 17, 18, 19]	cos(add(mul(protectedDiv(ARG17, add(sin(ARG11), protectedDiv(5, ARG1))), ARG17), sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.815	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(mul(ARG19, ARG17), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8043750000000001	
+[17, 18, 19]	cos(add(ARG19, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 13, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, protectedDiv(protectedDiv(5, ARG19), protectedDiv(ARG13, ARG8))), ARG18)), ARG18)))	0.374375	
+[12, 14, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(sub(ARG14, ARG12), ARG18)))	0.513125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(neg(cos(ARG19)), ARG18)), ARG18)))	0.508125	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), sin(mul(5, 5)))))	0.675625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG18, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, neg(protectedDiv(5, 5))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.51	
+[17, 18, 19, 14]	cos(add(ARG17, sub(sub(add(mul(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG14), ARG18)), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.60625	
+[18]	cos(ARG18)	0.48875	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)), ARG18)))	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6856249999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.60625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6487499999999999	
+[14]	cos(neg(mul(ARG14, 5)))	0.496875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.548125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, ARG19), ARG18)))	0.57375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), mul(ARG19, ARG17))))	0.538125	
+[17, 18, 1, 7]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(ARG7, ARG18)))	0.481875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))), ARG18)))	0.48875	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(mul(ARG19, ARG17), ARG18), ARG18)), ARG18)))	0.88875	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63125	
+[17, 18, 19, 4]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, cos(ARG4)), ARG18)), ARG18)))	0.65625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18, 17, 2, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(add(protectedDiv(ARG2, 5), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.81	
+[18, 19]	cos(sub(sub(ARG19, ARG18), ARG18))	0.49750000000000005	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.420625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), ARG18))	0.420625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(sub(ARG19, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6781250000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(cos(ARG19), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.465	
+[17, 18, 19]	cos(add(ARG17, sub(add(neg(5), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.39	
+[17, 18]	cos(add(ARG17, sub(protectedDiv(ARG17, ARG18), ARG18)))	0.485	
+[3, 17, 18, 19]	cos(add(mul(add(mul(ARG19, ARG17), sub(sub(ARG19, cos(neg(ARG3))), ARG18)), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.765625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(ARG19, ARG18))))	0.60875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(sub(sub(ARG19, ARG18), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47125000000000006	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), mul(ARG19, ARG17)), ARG18)))	0.43374999999999997	
+[4]	cos(sin(ARG4))	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[17, 18, 19]	cos(add(cos(5), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.701875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG19)), ARG18)))	0.5975	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(5, sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.2525	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[0, 13, 17, 18, 19]	cos(add(ARG17, sub(add(ARG19, sub(sub(ARG19, sub(ARG13, ARG0)), ARG18)), ARG18)))	0.536875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(mul(ARG19, ARG17), ARG18), ARG18)), ARG18)))	0.88875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), sub(sub(cos(sin(5)), ARG18), ARG18))), ARG18)))	0.5	
+[9, 14, 17, 18, 19]	cos(add(mul(ARG17, protectedDiv(sub(ARG14, 5), add(5, ARG9))), sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.500625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.5975	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.6012500000000001	
+[17, 19]	cos(add(mul(ARG19, ARG17), ARG17))	0.498125	
+[17, 18, 19]	cos(add(ARG18, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.60625	
+[8, 17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG18, ARG8), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.76	
+[16, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG16, ARG18), ARG18)), ARG18)))	0.596875	
+[17, 18, 19]	cos(add(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.5975	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6799999999999999	
+[]	5	0.5	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG19, ARG18)))	0.625625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.63375	
+[17, 18, 19]	cos(add(ARG17, sub(ARG19, ARG18)))	0.675625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG18, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.69875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), ARG18)))	0.575	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.815625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), ARG18)))	0.575	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[0, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(neg(neg(ARG0)), ARG18)), ARG18)))	0.61625	
+[17, 18, 19, 13]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), protectedDiv(protectedDiv(5, ARG13), add(5, 5)))), ARG18)), ARG18)), ARG18)))	0.6875	
+[18, 19]	cos(sub(ARG19, ARG18))	0.505625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.75875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[2, 3, 17, 18, 19]	cos(add(add(ARG17, sub(add(mul(sub(protectedDiv(5, ARG2), neg(ARG3)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.476875	
+[17]	cos(ARG17)	0.49875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.815625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[1, 7, 17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), sub(ARG7, ARG1))))	0.5587500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.514375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(sub(ARG19, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.67125	
+[17, 4]	cos(add(ARG17, sub(5, ARG4)))	0.499375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(sin(ARG17), ARG18), ARG18)), ARG18)))	0.588125	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.6475	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(5, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.31437499999999996	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG19)), ARG18)))	0.5975	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18))))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(sub(ARG19, ARG18), ARG18)))	0.539375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[9, 18, 19, 17]	cos(add(sin(ARG9), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5662499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18]	cos(add(ARG17, ARG18))	0.48187500000000005	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.48187500000000005	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[16]	sin(ARG16)	0.50125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 10, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(mul(ARG19, sub(ARG10, ARG8)), ARG18)), ARG18)))	0.6231249999999999	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.549375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), neg(cos(5)))))	0.514375	
+[8, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), neg(sub(ARG8, 5)))), ARG18)))	0.430625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[3, 4, 12, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(protectedDiv(mul(ARG12, ARG3), sub(ARG12, ARG4)), ARG18)), ARG18)))	0.61375	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))))	0.49875	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19, 12]	cos(add(sin(ARG12), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.5137499999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), ARG18))	0.420625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(5, ARG18)), ARG18)))	0.4925	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19, 14]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(protectedDiv(protectedDiv(5, ARG14), add(5, 5)), ARG18), ARG18)), ARG18)), ARG18)))	0.69375	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19, 1]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, neg(ARG1)), ARG17)), ARG18)))	0.608125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18, 19, 7]	cos(add(ARG7, sub(add(mul(ARG19, ARG17), ARG17), ARG18)))	0.5393749999999999	
+[17, 18, 19]	cos(add(mul(ARG19, sub(sub(ARG19, ARG18), ARG18)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5037499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18]	cos(protectedDiv(mul(5, 5), sin(ARG18)))	0.49	
+[17, 18, 19, 13]	cos(add(mul(ARG19, ARG17), sub(ARG13, ARG18)))	0.46312499999999995	
+[18, 19]	cos(sub(ARG19, ARG18))	0.505625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[19, 17, 18, 11]	cos(add(neg(ARG11), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.479375	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19, 12]	cos(add(mul(ARG17, ARG17), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(5, ARG12), ARG18)), ARG18))))	0.530625	
+[18, 19]	cos(sub(add(neg(neg(5)), sub(sub(ARG19, ARG18), ARG18)), ARG18))	0.50125	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, mul(ARG19, ARG17)), ARG18)), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(ARG19, ARG18)), ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(ARG18, ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 3, 12]	cos(add(ARG17, sub(sin(sub(ARG12, ARG3)), ARG18)))	0.48625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)))	0.56	
+[0, 17, 18, 19]	cos(add(ARG17, sub(add(mul(neg(cos(ARG0)), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.4275	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 17, 18, 19]	cos(add(mul(mul(ARG8, ARG19), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5825	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))))	0.49875	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(sub(ARG19, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.67125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 9]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG9), ARG18)))	0.52625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(ARG19, ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.65375	
+[11, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG11), sub(ARG17, ARG18)), ARG18)))	0.495625	
+[19, 17, 18, 3]	cos(add(neg(add(5, ARG3)), sub(add(mul(ARG19, add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.465	
+[17]	cos(ARG17)	0.49875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[10, 15, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(mul(sub(ARG15, 5), sin(ARG10)), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.640625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG19)), ARG18)))	0.60625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6825	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.63625	
+[18, 19]	cos(sub(sub(ARG19, ARG18), ARG18))	0.49750000000000005	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.8043750000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6856249999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(ARG17, sub(sub(ARG19, ARG18), ARG18)))), ARG18), mul(5, 5))))	0.499375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG18, ARG18)))	0.499375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.420625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), ARG18))	0.420625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), mul(ARG17, ARG17))))	0.60875	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.47875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.60625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.6074999999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 13]	cos(add(ARG17, sub(add(sub(ARG13, 5), ARG17), ARG18)))	0.509375	
+[17, 18, 19]	cos(add(sub(sub(ARG19, ARG18), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.38875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), neg(neg(5)))))	0.330625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))), ARG18)))	0.48875	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.796875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.6012500000000001	
+[]	sin(add(5, 5))	0.5	
+[3, 17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(ARG17, sub(sub(ARG19, add(mul(5, ARG3), cos(5))), ARG18)), ARG18)))	0.499375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), ARG18))	0.420625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)), ARG18)))	0.420625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[]	5	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(add(ARG17, sub(sub(add(protectedDiv(neg(5), cos(5)), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))), ARG18), ARG18)), ARG18)))	0.44375	
+[17, 18, 19]	cos(add(sub(sub(ARG19, ARG18), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.38875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), mul(ARG17, ARG17)), ARG18)))	0.43062500000000004	
+[17, 18, 19]	cos(add(ARG18, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.538125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, mul(ARG19, ARG17)), ARG18)), ARG18)))	0.539375	
+[17, 18, 19]	cos(add(mul(ARG19, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6331249999999999	
+[17]	cos(add(ARG17, ARG17))	0.50875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG18, ARG18), ARG17), sub(add(sin(sin(5)), sub(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.5	
+[17, 18, 19]	cos(add(mul(ARG17, 5), sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60875	
+[10]	cos(add(5, ARG10))	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(sub(ARG19, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.735625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.63375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(ARG19, ARG18))))	0.60875	
+[1, 5, 6, 17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(ARG18, sub(add(5, ARG1), protectedDiv(ARG6, ARG5)))), ARG18)))	0.500625	
+[17, 19]	cos(mul(ARG19, ARG17))	0.499375	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47500000000000003	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.60625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.6074999999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), mul(ARG19, ARG17))))	0.538125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.538125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6212500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6799999999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18]	cos(add(ARG17, sub(sub(ARG18, ARG18), mul(5, 5))))	0.49875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))), ARG18)))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG19, mul(ARG17, ARG17)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(mul(ARG19, ARG17), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8043750000000001	
+[17, 19]	cos(add(ARG17, ARG19))	0.495625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6275	
+[13]	cos(ARG13)	0.50125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.483125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.621875	
+[12]	cos(cos(neg(ARG12)))	0.5	
+[17, 18]	cos(add(ARG17, ARG18))	0.48187500000000005	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.48187500000000005	
+[17, 18, 19]	cos(add(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(add(cos(sin(5)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47750000000000004	
+[17]	cos(add(ARG17, ARG17))	0.50875	
+[17, 19]	cos(mul(ARG19, ARG17))	0.499375	
+[3]	cos(cos(sub(ARG3, ARG3)))	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)))	0.56	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), 5)))	0.443125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), ARG17), ARG18)))	0.42937499999999995	
+[17, 18, 19]	cos(add(sub(sub(ARG19, ARG18), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.38875	
+[17, 18]	cos(add(ARG17, sub(ARG17, ARG18)))	0.491875	
+[17, 18, 19]	cos(add(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.558125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), mul(5, ARG17)), ARG18)))	0.42937499999999995	
+[17, 18, 19]	cos(add(ARG17, sub(add(sub(sub(ARG19, ARG18), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47125000000000006	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), mul(ARG19, ARG17)), ARG18)))	0.43374999999999997	
+[17, 18, 19, 12]	cos(add(ARG17, sub(add(sub(sub(ARG19, ARG18), ARG18), sub(sub(sub(ARG19, ARG12), ARG18), ARG18)), ARG18)))	0.46624999999999994	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), mul(ARG19, ARG17))))	0.538125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG18, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.578125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.694375	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, mul(5, 5)), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.515	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[5, 10, 17, 18, 19]	cos(add(ARG17, sub(add(add(ARG10, ARG5), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.55375	
+[17, 18, 19, 6]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(add(mul(ARG19, sub(cos(ARG19), cos(ARG6))), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)), ARG18)))	0.47624999999999995	
+[17, 18, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), ARG18))	0.48812500000000003	
+[1, 2, 17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG2), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.575625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG18, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[9, 2]	sub(sub(5, ARG2), add(5, ARG9))	0.5	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[16, 1, 19, 14]	mul(sub(ARG19, ARG16), add(ARG1, ARG14))	0.50875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(ARG19, ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.65375	
+[17, 18, 19]	cos(add(mul(mul(5, 5), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.701875	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG19)))	0.580625	
+[17, 18, 19]	cos(add(ARG17, sub(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.549375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(mul(ARG19, ARG17), ARG18)), ARG18)))	0.643125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, add(ARG17, sub(sub(ARG19, ARG18), ARG18))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6625000000000001	
+[17, 19]	cos(add(mul(ARG19, ARG17), sub(ARG17, 5)))	0.5081249999999999	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.4825	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, ARG19), ARG18)))	0.57375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), 5)))	0.14125	
+[18, 19]	cos(sub(sub(ARG19, ARG18), ARG18))	0.49750000000000005	
+[]	cos(neg(sin(5)))	0.5	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.616875	
+[0, 17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG18, sub(sub(ARG19, ARG18), cos(cos(ARG0)))), ARG18)))	0.41375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, mul(ARG19, ARG17)), ARG18)), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.558125	
+[17, 18, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(mul(protectedDiv(ARG17, ARG17), ARG17), ARG18)))	0.4975	
+[2, 7, 17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, add(ARG7, ARG2)), sub(ARG18, ARG18)), ARG18)))	0.566875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(ARG19, ARG18))))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.50875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.5975	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(cos(ARG18), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.505	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6331249999999999	
+[17]	cos(add(mul(ARG17, ARG17), ARG17))	0.51	
+[6]	ARG6	0.499375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(ARG17, sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))	0.701875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(mul(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.576875	
+[17, 19]	cos(add(ARG17, ARG19))	0.495625	
+[1]	cos(ARG1)	0.49874999999999997	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.7306250000000001	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.654375	
+[14]	ARG14	0.5025000000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.8043750000000001	
+[17, 18, 19]	cos(add(mul(ARG18, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.815625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, sub(ARG19, ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.765	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)))	0.64625	
+[17, 18, 19]	cos(add(ARG17, add(ARG17, sub(sub(ARG19, ARG18), ARG18))))	0.549375	
+[16]	cos(neg(ARG16))	0.5075	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18), mul(5, 5))))	0.81625	
+[17, 12]	cos(add(ARG17, cos(add(ARG12, 5))))	0.504375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18, 17, 10, 19]	cos(add(ARG17, sub(add(mul(ARG19, cos(add(5, ARG10))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.645	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19, 12]	cos(add(ARG17, sub(add(mul(ARG19, mul(ARG12, ARG12)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.676875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18, 19]	cos(sub(sub(ARG19, ARG18), ARG18))	0.49750000000000005	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.7075	
+[2, 17, 10, 11]	cos(add(ARG17, add(protectedDiv(ARG10, ARG11), cos(ARG2))))	0.5	
+[17, 18, 19]	cos(add(mul(protectedDiv(5, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), 5)))	0.443125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.69875	
+[17, 18, 19]	cos(add(ARG17, sub(ARG19, ARG18)))	0.675625	
+[17, 18, 19]	cos(add(ARG17, sub(add(neg(5), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.39	
+[18, 17, 2, 19]	cos(add(ARG17, sub(add(mul(ARG2, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6868749999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG18, ARG18)))	0.499375	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(ARG17, sub(sub(ARG19, ARG18), ARG18)))), ARG18)))	0.499375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG19), ARG18)))	0.57375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), ARG18)), ARG18)))	0.569375	
+[17, 18, 19, 7]	cos(add(ARG7, sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6725000000000001	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG19), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.771875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.6074999999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)), ARG18)))	0.56375	
+[18, 19]	cos(sub(ARG19, ARG18))	0.505625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6856249999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG17)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[6, 10, 17, 18, 19]	cos(add(ARG17, sub(add(neg(add(ARG6, ARG10)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47875	
+[17, 18, 7]	cos(add(sin(ARG7), sub(add(ARG17, sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.518125	
+[17, 18, 19]	cos(add(sub(sub(ARG19, ARG18), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.38875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), mul(ARG17, ARG17)), ARG18)))	0.39375	
+[3, 7, 8, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(mul(sub(5, ARG8), sub(ARG7, ARG3)), ARG18), ARG18)), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[]	neg(5)	0.5	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG1), ARG18)), ARG18)))	0.711875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18, 19]	cos(add(ARG17, add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.828125	
+[17, 18, 19]	cos(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))	0.563125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)), ARG18)))	0.49875	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[9]	cos(mul(ARG9, 5))	0.49625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18), ARG18)), ARG18)))	0.5025000000000001	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.81625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.6475	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.863125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)), ARG18)))	0.5599999999999999	
+[18, 19]	cos(sub(cos(ARG19), ARG18))	0.495625	
+[8, 17, 18, 19]	cos(add(mul(ARG19, ARG8), sub(add(ARG17, sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.52875	
+[17, 18, 19, 1]	cos(add(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), neg(ARG1))))	0.551875	
+[17, 18]	cos(add(mul(ARG17, ARG17), sub(ARG17, ARG18)))	0.5	
+[17, 18, 19]	cos(add(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.558125	
+[17, 1]	cos(add(ARG17, mul(protectedDiv(ARG17, ARG1), ARG17)))	0.515625	
+[17, 18, 19]	cos(add(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.483125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.579375	
+[17, 18, 19]	cos(add(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 11]	protectedDiv(sub(ARG17, 5), protectedDiv(5, ARG11))	0.5	
+[1, 18, 19, 17]	cos(add(mul(protectedDiv(ARG18, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.9393750000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 6]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(mul(sub(5, ARG6), sin(ARG17)), ARG18), ARG18)), ARG18)))	0.44375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19, 5]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG5, ARG18), ARG18)), ARG18)))	0.58125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG18, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), mul(ARG19, ARG17))), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, mul(ARG19, ARG17)), ARG18)), ARG18)))	0.538125	
+[17, 18, 19, 4]	cos(add(mul(ARG17, ARG17), sub(add(ARG18, sub(sub(ARG19, ARG18), protectedDiv(5, ARG4))), ARG18)))	0.3675	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), sub(neg(5), protectedDiv(5, 5)))))	0.51	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.459375	
+[17]	cos(ARG17)	0.49875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(mul(ARG19, ARG17), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(protectedDiv(ARG18, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 9, 17, 18, 19]	cos(add(mul(protectedDiv(ARG9, ARG8), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.651875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), mul(ARG19, ARG17)), ARG18)))	0.4525	
+[17, 18, 19]	cos(add(ARG17, sub(add(sub(sub(ARG19, ARG18), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47125000000000006	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), ARG19), ARG18)))	0.509375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18), ARG18)), ARG18)))	0.49624999999999997	
+[17, 19]	cos(add(ARG17, sub(ARG19, mul(5, 5))))	0.495625	
+[17, 19, 1]	cos(add(mul(ARG19, ARG17), sin(sin(ARG1))))	0.490625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 17, 18]	cos(add(ARG17, sub(add(mul(ARG17, ARG17), ARG8), ARG18)))	0.495625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.8043750000000001	
+[17, 18, 19]	cos(add(ARG17, sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))	0.701875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6799999999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG19)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[16, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, protectedDiv(ARG16, 5)), ARG18)), ARG18)))	0.69875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(5, ARG18)), ARG18)))	0.635	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)), ARG18)))	0.49875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.549375	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(mul(ARG19, ARG17), ARG18)), ARG18), mul(5, 5))))	0.643125	
+[17, 18, 19, 14]	cos(add(mul(ARG17, neg(sin(ARG14))), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5237499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.60875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(ARG19, ARG18)), ARG18)), ARG18)))	0.60875	
+[19]	cos(ARG19)	0.49624999999999997	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18), ARG18)), ARG18)))	0.47812499999999997	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(mul(protectedDiv(ARG17, ARG17), ARG17), ARG18)), ARG18)))	0.42625	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18]	cos(add(ARG17, sub(sub(ARG18, ARG18), mul(5, 5))))	0.49875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.7106250000000001	
+[17, 18, 19, 13]	cos(add(mul(sub(5, 5), protectedDiv(ARG13, 5)), sub(add(mul(ARG19, ARG17), sub(mul(ARG19, ARG17), ARG18)), ARG18)))	0.7124999999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.579375	
+[17, 18, 19]	cos(add(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)), ARG18)))	0.49875	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.488125	
+[17, 19]	cos(add(mul(protectedDiv(ARG17, 5), ARG17), mul(ARG19, ARG17)))	0.49375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(ARG19, ARG18)))	0.674375	
+[17, 18]	cos(add(mul(ARG17, ARG17), sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19, 1]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, mul(protectedDiv(ARG17, ARG1), ARG17)), ARG18)), ARG18)))	0.60375	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.48	
+[8, 18, 19]	cos(add(protectedDiv(add(ARG19, 5), sin(ARG8)), ARG18))	0.490625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.6287499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(sub(sub(neg(sin(5)), ARG18), ARG18), ARG18), ARG18)), ARG18)))	0.37625	
+[8, 17, 19]	cos(add(mul(ARG19, ARG17), ARG8))	0.500625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.514375	
+[7, 11, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(sub(mul(ARG11, ARG7), ARG18), ARG18), ARG18)), ARG18)))	0.37124999999999997	
+[17, 18, 19]	cos(add(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.6475	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(ARG17, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))))	0.71	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(protectedDiv(5, 5), ARG18), ARG18)), ARG18), ARG18)))	0.51125	
+[17, 18, 19, 1]	cos(add(ARG17, sub(add(ARG19, sub(sub(ARG1, ARG18), ARG18)), ARG18)))	0.6775	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(mul(ARG19, ARG17), ARG18), ARG18)), ARG18)))	0.799375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), ARG18)))	0.575	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(mul(mul(ARG19, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.855	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), 5), ARG18)))	0.44000000000000006	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG19), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19, 5]	cos(add(mul(ARG18, ARG5), sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.7618750000000001	
+[17, 18, 19, 13]	cos(add(ARG13, sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.46312499999999995	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(ARG19, ARG18)), ARG18)), ARG18), mul(5, 5))))	0.60875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 4]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG4)))	0.711875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG17, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG19), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6287499999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(mul(ARG19, ARG17), ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.9437500000000001	
+[17, 18]	cos(add(mul(ARG17, ARG17), sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))))	0.49875	
+[17, 19]	cos(add(ARG17, ARG19))	0.495625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.576875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG19)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), ARG18)))	0.575	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG19, ARG18)), ARG18)))	0.71	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 9]	cos(add(mul(ARG17, ARG17), sub(mul(5, ARG9), ARG18)))	0.48375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.69875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[9, 16, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), add(cos(ARG9), sin(ARG16)))), ARG18)))	0.34750000000000003	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG19), ARG18)))	0.57375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)))	0.63625	
+[18, 19]	cos(sub(sub(ARG19, ARG18), ARG18))	0.49750000000000005	
+[17, 18, 19]	cos(add(mul(ARG19, sub(ARG19, ARG18)), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.65375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.42625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG17), ARG18)))	0.385625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5037499999999999	
+[17, 18, 11, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG11, ARG17), ARG18), ARG18)))	0.488125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18))))	0.498125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.48187500000000005	
+[17, 18]	cos(add(ARG17, ARG18))	0.48187500000000005	
+[17, 18]	cos(add(ARG17, sub(ARG17, ARG18)))	0.491875	
+[17, 18, 19, 9]	cos(add(ARG17, sub(add(mul(ARG9, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.675625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.489375	
+[]	cos(5)	0.5	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 12]	cos(add(mul(ARG17, ARG17), sub(add(ARG17, sub(protectedDiv(mul(5, 5), add(ARG17, ARG12)), ARG18)), ARG18)))	0.503125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.8912500000000001	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))	0.704375	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.48062499999999997	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6856249999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG17), ARG18)), ARG18)))	0.8043750000000001	
+[16, 17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG19), ARG17), sub(add(mul(ARG19, ARG17), add(5, ARG16)), ARG18)))	0.48624999999999996	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG1, ARG18), ARG18)), ARG18)))	0.58125	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47500000000000003	
+[17, 19]	cos(mul(ARG19, ARG17))	0.499375	
+[17, 18, 19]	cos(add(mul(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60875	
+[4]	cos(sin(ARG4))	0.5	
+[17, 18, 19]	cos(add(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.558125	
+[17, 18]	cos(add(mul(ARG17, ARG17), sub(ARG17, ARG18)))	0.5	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))), ARG18)))	0.48875	
+[18]	cos(ARG18)	0.48875	
+[17, 18]	cos(add(ARG17, sub(sin(5), ARG18)))	0.48687499999999995	
+[17, 18, 19]	cos(add(mul(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.743125	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.483125	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17)))	0.6012500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.796875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))), ARG18)), ARG18)))	0.48875	
+[17, 18, 19]	cos(add(mul(5, ARG17), sub(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.41125	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(mul(sub(sub(ARG19, ARG18), ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.489375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG17), ARG18)))	0.385625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6499999999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6112500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG17, ARG18), ARG18)), ARG18)))	0.438125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.50875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.42625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(sin(neg(5)), ARG17), sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.48875	
+[17, 18, 19]	cos(add(mul(ARG18, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), neg(protectedDiv(5, ARG8))), ARG18)))	0.44375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG18, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18))	0.701875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))))	0.8912500000000001	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, ARG17), ARG18)))	0.385625	
+[17, 18, 19]	cos(add(mul(ARG17, sub(sub(ARG19, ARG18), ARG18)), sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))	0.551875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 5]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(cos(add(ARG5, ARG19)), ARG18), ARG18)), ARG18)))	0.48750000000000004	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))))	0.48875	
+[18]	cos(ARG18)	0.48875	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))), ARG18), mul(5, 5))))	0.47875	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), ARG19), ARG18)))	0.509375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), ARG18)), ARG18)))	0.505	
+[17, 18, 19, 9]	cos(add(ARG17, sub(add(protectedDiv(ARG9, 5), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.690625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[19]	cos(ARG19)	0.49624999999999997	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(add(ARG17, sub(add(mul(neg(sub(ARG19, 5)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.586875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG19, ARG18)))	0.625625	
+[17, 18, 19, 5]	cos(add(ARG17, sub(add(mul(add(ARG17, sub(sub(neg(sin(ARG5)), ARG18), ARG18)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5325	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[0, 14, 17, 18, 19]	cos(add(ARG17, sub(sub(sub(ARG19, ARG18), add(ARG14, ARG0)), ARG18)))	0.515625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.888125	
+[17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5775	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(ARG17, ARG18)), ARG18)))	0.56875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[8, 17, 18, 19]	cos(add(neg(protectedDiv(5, ARG8)), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.27312499999999995	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 19]	cos(mul(ARG19, ARG17))	0.499375	
+[17, 18, 19]	cos(add(ARG17, sub(add(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.47500000000000003	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[1, 10, 16, 17, 18, 19]	cos(add(mul(protectedDiv(sub(add(ARG17, sub(sub(ARG19, sub(ARG16, ARG10)), ARG18)), ARG18), ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.9256249999999999	
+[17, 19]	cos(add(mul(ARG19, ARG17), ARG17))	0.498125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)))	0.8912500000000001	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(sub(sub(ARG19, ARG18), ARG19), ARG18)))	0.47875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG19)), ARG18)))	0.60625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[6, 8, 17, 18, 19]	cos(add(mul(sub(cos(ARG6), cos(ARG8)), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.544375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG17), add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18))), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.459375	
+[7]	ARG7	0.495	
+[9, 10, 11, 17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(sub(mul(ARG10, ARG11), mul(5, ARG9)), ARG18), ARG18)), ARG18)))	0.598125	
+[16, 17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, sin(cos(ARG16))), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.71625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[11, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sin(sin(ARG11)), ARG18)), ARG18)))	0.60625	
+[18, 19, 5]	cos(add(ARG5, sub(ARG19, ARG18)))	0.51	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.729375	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[2, 17, 18, 19]	cos(add(ARG17, sub(add(mul(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG2), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6675	
+[17, 18, 19]	cos(add(ARG17, sub(ARG19, ARG18)))	0.675625	
+[15]	sin(sin(ARG15))	0.50125	
+[17, 18, 19]	cos(add(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.483125	
+[17, 18, 19]	cos(add(ARG17, sub(add(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(mul(ARG19, ARG17), ARG18), ARG18)), ARG18)))	0.88875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG18, ARG18), ARG18)), ARG18)))	0.60625	
+[3, 17, 19, 7]	cos(add(mul(ARG19, ARG17), protectedDiv(sub(ARG7, 5), sub(ARG3, 5))))	0.501875	
+[17, 18, 19, 1]	cos(add(ARG17, sub(add(ARG1, sub(sub(ARG19, ARG18), ARG18)), neg(5))))	0.506875	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, mul(ARG19, ARG17)), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.8025	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.60625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19, 12]	cos(add(ARG17, sub(add(ARG12, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.60375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, mul(ARG19, ARG17)), ARG18)))	0.4525	
+[17, 18, 19]	cos(add(mul(protectedDiv(ARG17, ARG18), ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[]	5	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), ARG18)))	0.575	
+[3, 14]	protectedDiv(add(5, 5), protectedDiv(ARG3, ARG14))	0.5	
+[17, 18, 19]	cos(add(ARG18, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6012500000000001	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[13]	cos(mul(ARG13, 5))	0.50125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.87125	
+[17, 18, 19, 1]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(protectedDiv(ARG17, ARG1), ARG18), ARG18)), ARG18)))	0.593125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG18, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG19), ARG18)), ARG18)))	0.5975	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18))), ARG18)), ARG18)))	0.49875	
+[17, 18]	cos(add(ARG17, sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19, 9]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), protectedDiv(ARG17, ARG9))), ARG18)))	0.755	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[14]	sub(5, ARG14)	0.5	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(mul(ARG19, ARG17), ARG18)), ARG18)))	0.643125	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG19)))	0.60625	
+[17, 18, 19]	cos(add(mul(ARG18, ARG17), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.6812499999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG17, ARG18)))	0.60875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.63	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.76	
+[17, 18, 19]	cos(add(ARG17, sub(sub(ARG19, ARG18), ARG18)))	0.538125	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, sub(sub(ARG19, ARG18), ARG18)), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.5037499999999999	
+[17, 18, 19, 9]	cos(add(mul(ARG19, ARG17), sub(add(sub(cos(ARG9), sin(5)), ARG17), ARG18)))	0.4975	
+[17, 18, 19]	cos(add(ARG17, sub(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.549375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(mul(ARG19, ARG17), ARG18)), ARG18)))	0.481875	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG18), ARG18)), ARG18)))	0.63375	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(ARG19, ARG18)))	0.625625	
+[17, 18, 19]	cos(add(ARG17, sub(sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18), mul(5, 5))))	0.950625	
+[17, 19, 1]	cos(add(mul(ARG19, ARG17), add(ARG1, 5)))	0.501875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, ARG18), ARG18)))	0.498125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18)), ARG18)))	0.50875	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)))	0.950625	
+[10, 17, 18, 19]	cos(add(sub(ARG19, ARG18), sub(add(ARG17, sub(sub(ARG19, ARG18), ARG18)), ARG10)))	0.5862499999999999	
+[17, 18, 19]	cos(add(mul(ARG19, ARG17), sub(add(ARG17, sub(mul(ARG19, ARG17), ARG18)), ARG18)))	0.643125	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), ARG18)), sub(sub(ARG19, ARG18), sub(5, ARG19))), ARG18)))	0.37875000000000003	
+[1, 17]	cos(add(neg(neg(ARG1)), ARG17))	0.489375	
+[17, 18, 19]	cos(add(mul(ARG17, ARG17), sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)), add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), ARG18)))))	0.49875	
+[17, 18, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(ARG18, ARG18)))	0.49875	
+[17, 18, 19, 1]	cos(add(mul(protectedDiv(ARG17, ARG1), ARG17), sub(add(mul(ARG19, ARG17), sub(ARG18, ARG18)), ARG18)))	0.60625	
+[16, 17, 18, 19]	cos(add(ARG17, sub(add(mul(ARG19, ARG17), sub(sub(ARG19, ARG18), sub(ARG16, ARG18))), ARG18)))	0.5425	

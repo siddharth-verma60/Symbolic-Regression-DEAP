@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[1, 19]	neg(sub(protectedDiv(ARG1, 5), sub(mul(5, ARG19), neg(5))))	0.00030053484416255234	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[10, 18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, add(neg(ARG10), mul(5, 5))), neg(5))))	0.00028771988412506637	
+[]	neg(5)	0.00030263546448741434	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[1]	neg(sub(5, ARG1))	0.0003026418590784599	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(neg(5))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(mul(ARG18, ARG19), ARG19), neg(5))))	3.888550387136448e-06	
+[18]	neg(sub(5, sub(ARG18, neg(5))))	0.00030262058568671253	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[17]	neg(neg(ARG17))	0.0003024572838399195	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(cos(ARG19))))))	0.00030263736875516195	
+[9]	sub(ARG9, 5)	0.00030264451578008425	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), 5)))	0.0003013645254131079	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[7]	neg(sub(5, sub(sub(5, ARG7), neg(5))))	0.00030287252310391997	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19, 17, 2, 18]	neg(sub(add(cos(ARG17), add(5, ARG2)), sub(mul(ARG18, ARG19), neg(5))))	0.016878094664835572	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG18)))	0.017135598261776668	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[1, 19]	neg(sub(5, sub(mul(ARG1, ARG19), neg(5))))	0.00022113766065369906	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(neg(cos(5)))	0.00030263700105419907	
+[]	neg(neg(5))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[11]	neg(ARG11)	0.0003025594113699825	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[19, 7]	neg(sub(5, sub(mul(mul(protectedDiv(5, 5), protectedDiv(ARG7, 5)), ARG19), 5)))	0.0002987314751540707	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[7]	add(sin(ARG7), add(5, 5))	0.0003026371620369764	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[12, 7]	neg(add(ARG12, ARG7))	0.00030277597156409277	
+[2, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, ARG2)))))	0.01687795897988182	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 13]	neg(sub(cos(ARG13), sub(mul(ARG18, ARG19), neg(5))))	0.16531661078474172	
+[16, 18]	neg(sub(5, sub(mul(ARG16, ARG18), neg(5))))	0.00021531935136063297	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG18)))	0.017135598261776668	
+[19, 12]	neg(sub(5, sub(sub(mul(neg(5), ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.0003024605254860979	
+[2]	neg(sub(ARG2, 5))	0.0003025642892062067	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[0, 18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(ARG0))))	0.012170080219480841	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[]	neg(neg(5))	0.0003026377181517697	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18, 19, 7]	neg(sub(cos(sin(ARG7)), mul(ARG18, ARG19)))	0.5629979599758456	
+[16]	neg(ARG16)	0.0003026736190930875	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[17, 5]	protectedDiv(add(ARG17, ARG5), neg(5))	0.0003026083709753483	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[15]	neg(add(5, ARG15))	0.00030255830868435886	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), neg(5)))))))	0.00030263546448741434	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, ARG19)), neg(5))))	0.011958957457119066	
+[12, 5, 7]	neg(sub(5, sub(mul(sub(add(5, ARG7), neg(ARG5)), neg(ARG12)), neg(5))))	0.00017264171645253268	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19, 7]	neg(sub(ARG7, sub(ARG19, neg(5))))	0.00030263059985897165	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(cos(5), sub(mul(ARG18, ARG19), neg(5))))	0.17486498554324614	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[12]	neg(sub(5, sin(ARG12)))	0.00030263747935473746	
+[16]	ARG16	0.0003025106821089161	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(mul(ARG18, ARG19), ARG19), neg(5))))	3.888550387136448e-06	
+[18]	neg(sub(5, sub(ARG18, neg(5))))	0.00030262058568671253	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[5, 14]	neg(protectedDiv(ARG14, ARG5))	0.00030131747590386883	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[19, 12]	neg(sub(5, sub(sub(mul(ARG19, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.0001809889737635147	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(ARG18, ARG19)))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[19, 2, 18]	neg(sub(neg(ARG2), sub(mul(ARG18, ARG19), neg(5))))	0.016782505116587746	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[8, 17, 18, 3]	neg(mul(ARG18, add(sub(ARG17, ARG3), cos(ARG8))))	0.0001780483650044485	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[7]	neg(sub(5, ARG7))	0.0003023097335076098	
+[4, 5]	protectedDiv(sub(ARG4, ARG5), protectedDiv(5, 5))	0.00030237166847004045	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 5]	neg(sub(5, sub(mul(ARG18, sub(sin(5), cos(ARG5))), neg(5))))	0.00030238777950148136	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[]	neg(neg(5))	0.0003026377181517697	
+[]	neg(neg(5))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(ARG18, ARG19)))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[18]	neg(ARG18)	0.0003025627209197338	
+[9]	neg(mul(5, ARG9))	0.000301186698139808	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[4]	neg(sub(ARG4, 5))	0.00030250348427585496	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(ARG18, ARG19)))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[]	neg(neg(5))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[16, 11]	neg(sub(5, sub(protectedDiv(ARG16, ARG11), neg(5))))	0.0003023928294518623	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[3]	ARG3	0.00030266440667617783	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[1, 14]	neg(sub(add(ARG14, 5), add(ARG1, 5)))	0.0003025737819150098	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	5	0.0003026377181517697	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), ARG19), neg(5))))	0.017116409237196865	
+[18, 12]	neg(sub(5, sub(mul(ARG18, add(ARG12, neg(ARG12))), neg(5))))	0.0003026369382426421	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[19, 4]	neg(sub(ARG19, sub(add(5, ARG4), neg(5))))	0.0003028248648625907	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(neg(5))))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[9]	mul(neg(ARG9), neg(5))	0.0003017395579347966	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[4, 8, 13, 18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(protectedDiv(sub(ARG8, ARG13), neg(ARG4))))))	0.016069815777479946	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 7]	neg(sub(5, sub(mul(ARG18, ARG19), ARG7)))	0.01730816037480447	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[]	neg(sub(5, sub(sin(5), neg(5))))	0.0003026367093722332	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[19, 12]	neg(sub(5, sub(mul(sin(ARG12), ARG19), neg(5))))	0.00030260325369576527	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19, 12]	neg(sub(5, sub(sub(sub(mul(ARG18, ARG19), neg(5)), add(ARG12, neg(ARG12))), neg(5))))	0.1665971990620101	
+[9, 3]	neg(sub(5, protectedDiv(ARG9, ARG3)))	0.0003026037569899049	
+[17, 18, 19]	neg(sub(neg(neg(mul(ARG17, 5))), sub(mul(ARG18, ARG19), neg(5))))	0.0034959869128242914	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[18, 19, 13]	neg(sub(5, sub(mul(sub(mul(5, 5), cos(ARG13)), sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	1.1647973409362411e-05	
+[19]	neg(ARG19)	0.0003027845874942503	
+[1, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(add(5, ARG1), cos(5)))))	0.05480100879996604	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[2, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG2))))	0.016851909593692732	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[1]	neg(ARG1)	0.00030253970496746765	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 7]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG7, 5))))	0.003499461396102241	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[16, 11]	neg(sub(5, sub(5, sub(mul(ARG16, ARG11), neg(5)))))	0.00022157926330844722	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[]	5	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[10]	ARG10	0.0003024493552571447	
+[14]	add(neg(ARG14), sin(5))	0.00030256474446882704	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[1]	neg(ARG1)	0.00030253970496746765	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[2, 13, 14]	neg(sub(5, protectedDiv(protectedDiv(ARG13, ARG14), add(5, ARG2))))	0.0003026335402408554	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[19]	neg(ARG19)	0.0003027845874942503	
+[19]	neg(ARG19)	0.0003027845874942503	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[16, 18, 19, 12]	neg(sub(cos(sin(ARG16)), sub(sub(mul(ARG18, ARG19), add(ARG12, neg(neg(5)))), neg(5))))	0.01682751811109797	
+[18, 19, 12]	neg(sub(5, sub(mul(ARG18, ARG19), ARG12)))	0.016805656923515152	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 13, 6]	neg(sub(5, sub(mul(ARG18, ARG19), mul(protectedDiv(5, ARG6), add(5, ARG13)))))	0.010733038121206625	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[8]	neg(ARG8)	0.00030287561822515545	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), neg(5)))))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19, 4, 12]	neg(sub(5, sub(mul(add(ARG4, ARG12), ARG19), neg(5))))	0.000175331640351559	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[9, 3]	protectedDiv(ARG3, ARG9)	0.00030257834108059537	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(sub(5, 5), sub(mul(ARG19, ARG19), neg(5))))	0.00018089145434418687	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), cos(mul(5, 5)))))	0.14297559483177746	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19, 12]	neg(sub(5, sub(mul(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[19]	neg(protectedDiv(neg(5), sin(ARG19)))	0.0003026096437218439	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(mul(ARG18, ARG19), ARG19), neg(5))))	3.888550387136448e-06	
+[18, 6]	neg(sub(5, sub(ARG18, neg(protectedDiv(ARG6, 5)))))	0.00030259301487983275	
+[6]	neg(sub(5, neg(neg(ARG6))))	0.00030247345399086404	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[18, 19, 4, 7]	neg(sub(sin(sub(ARG7, ARG4)), sub(mul(ARG18, ARG19), neg(5))))	0.1647753247822027	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[2]	neg(sub(5, sub(5, sub(ARG2, neg(5)))))	0.00030256163968148754	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(ARG19, 5))	0.00030278544102549355	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[19]	neg(ARG19)	0.0003027845874942503	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[3]	cos(ARG3)	0.00030263834254007707	
+[17, 18, 19]	neg(sub(add(ARG19, ARG17), sub(mul(ARG18, ARG19), neg(5))))	0.012454390957989206	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[16, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG16)))	0.017190767040182048	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[16, 18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(ARG16))), sub(mul(ARG18, ARG19), neg(5))))	0.0003026736190930875	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[8, 9, 18, 12]	neg(sub(5, sub(mul(ARG18, protectedDiv(mul(ARG12, ARG8), sin(ARG9))), neg(5))))	4.784269169349372e-07	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[16, 18]	neg(sub(ARG18, ARG16))	0.00030244112320852647	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[11]	neg(sub(5, protectedDiv(ARG11, ARG11)))	0.00030263581474489426	
+[9]	neg(sub(ARG9, sub(5, neg(5))))	0.0003025353963944767	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[]	cos(sub(5, 5))	0.00030263714973287684	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[19]	neg(sin(ARG19))	0.0003026395974446207	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG18)))	0.017135598261776668	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[9, 7]	mul(ARG9, ARG7)	0.00022087037247094535	
+[18, 19]	neg(sub(5, sub(mul(mul(ARG18, ARG19), ARG19), neg(5))))	3.888550387136448e-06	
+[18]	neg(sub(5, sub(ARG18, neg(5))))	0.00030262058568671253	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, 5)), neg(5))))	0.016805656923515152	
+[18, 19, 12]	neg(sub(neg(ARG12), sub(mul(ARG18, ARG19), neg(5))))	0.016805656923515152	
+[18, 19]	neg(sub(5, sub(mul(mul(ARG18, ARG19), ARG19), neg(5))))	3.888550387136448e-06	
+[18]	neg(sub(5, sub(ARG18, neg(5))))	0.00030262058568671253	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[18, 19]	neg(sub(5, sub(mul(ARG18, 5), ARG19)))	0.00030179961075883023	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[]	5	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(ARG18, ARG19)))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, sub(5, 5)), neg(5))))	0.0003026369382426421	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[14]	neg(sub(5, protectedDiv(5, ARG14)))	0.00030263834269526153	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18, 19, 12]	neg(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[11, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(neg(ARG19), cos(ARG11)))))))))	0.0003024834540462686	
+[0, 13]	neg(add(ARG0, ARG13))	0.000302641585141391	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[14]	neg(ARG14)	0.00030256499495842214	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[5]	neg(sub(5, sin(ARG5)))	0.000302636980763118	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[9, 18, 19, 4]	neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(cos(5), protectedDiv(ARG4, ARG9))))))	0.14593545557544257	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[19]	neg(ARG19)	0.0003027845874942503	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[19]	neg(sub(5, sub(5, sub(mul(5, ARG19), neg(5)))))	0.0003024586930784504	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[16, 0, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), protectedDiv(add(5, ARG16), mul(ARG18, ARG0)))))	0.13438799855075684	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[]	protectedDiv(5, 5)	0.00030263714973287684	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[6]	neg(cos(ARG6))	0.00030263793050884985	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[4]	neg(sub(neg(sin(ARG4)), 5))	0.0003026390221749196	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[8]	neg(sub(5, cos(ARG8)))	0.0003026346558843361	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(5)	0.00030263546448741434	
+[18, 19, 4]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), sin(ARG4)))))))	0.00030263824443861034	
+[19, 3]	neg(sub(5, sub(mul(ARG3, ARG19), neg(5))))	0.00020882275290115725	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[]	5	0.0003026377181517697	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG18)))	0.017135598261776668	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[0, 18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(sin(ARG0))))))	0.00015134183784074276	
+[6]	neg(sub(5, sub(ARG6, 5)))	0.00030247137418892416	
+[1, 18, 19]	neg(sub(ARG1, sub(mul(ARG18, ARG19), neg(5))))	0.017078863596223095	
+[5, 10, 12, 13, 19]	neg(sub(5, sub(5, sub(mul(protectedDiv(mul(ARG10, ARG12), add(ARG5, ARG13)), ARG19), neg(5)))))	1.1193089580317035e-05	
+[13, 6]	mul(ARG13, ARG6)	0.00021592538969378625	
+[3, 18, 19, 13]	neg(sub(5, sub(mul(ARG18, ARG19), neg(add(cos(ARG3), mul(5, ARG13))))))	0.0034082414740526363	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[2]	neg(sub(5, sub(sub(add(5, ARG2), neg(5)), neg(5))))	0.0003026169878070196	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.999999999999998	
+[0, 18, 19]	neg(sub(neg(mul(ARG0, ARG18)), sub(mul(ARG18, ARG19), neg(5))))	0.0003079816798508002	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[13, 14]	neg(sub(5, sin(protectedDiv(ARG13, ARG14))))	0.00030263686942463494	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[3]	neg(sub(neg(ARG3), neg(5)))	0.0003026626388904523	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[2, 18, 19, 5]	neg(sub(5, sub(mul(ARG18, ARG19), protectedDiv(ARG5, ARG2))))	0.018343617839643805	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[19]	neg(ARG19)	0.0003027845874942503	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), neg(5)))))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19, 12]	neg(mul(protectedDiv(neg(ARG12), mul(ARG19, 5)), ARG19))	0.0003026452417365966	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(sub(5, 5))), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[19]	neg(sub(5, sub(ARG19, neg(5))))	0.000302398252338054	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[]	neg(sub(5, sub(sin(5), neg(5))))	0.0003026367093722332	
+[19, 18, 11]	neg(sub(sub(mul(ARG18, cos(neg(ARG11))), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.024436451848806055	
+[0]	neg(ARG0)	0.0003026222085183731	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[16, 6]	neg(add(ARG16, ARG6))	0.000302747555717268	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(neg(5)))))	0.0908677563799821	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), 5)))	0.0908677563799821	
+[8, 12]	neg(sub(5, protectedDiv(ARG12, ARG8)))	0.0003026497641992528	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 6]	neg(sub(5, sub(mul(ARG18, cos(ARG6)), neg(5))))	0.0003024573181263233	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[5]	neg(sub(5, sub(sub(ARG5, 5), neg(5))))	0.00030284645627925175	
+[18, 19, 12]	neg(sub(5, sub(mul(ARG18, ARG19), neg(add(ARG12, neg(ARG12))))))	0.1665971990620101	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18]	neg(sub(ARG18, sub(mul(ARG18, neg(5)), neg(5))))	0.0003008490241040794	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 15]	neg(sub(cos(ARG15), sub(mul(ARG18, ARG19), neg(5))))	0.16526891619472828	
+[]	neg(sin(sin(5)))	0.0003026371134239604	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[19, 13, 7]	neg(sub(5, sub(mul(sub(mul(mul(ARG13, ARG7), ARG19), neg(5)), ARG19), neg(5))))	6.414793915696948e-08	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[]	5	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[1, 18, 19]	neg(sub(cos(ARG1), sub(mul(ARG18, ARG19), neg(5))))	0.16518987074609046	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[2]	ARG2	0.0003026165197449863	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19, 12]	neg(sub(neg(5), sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[0]	neg(sub(5, sub(sin(protectedDiv(ARG0, ARG0)), neg(5))))	0.0003026371180566963	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[18]	neg(ARG18)	0.0003025627209197338	
+[18, 19]	neg(sub(5, sub(mul(sub(5, sub(mul(ARG18, ARG19), neg(5))), ARG19), neg(5))))	3.891021056913793e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[19, 11, 12]	neg(sub(ARG11, sub(sub(mul(5, ARG19), add(ARG12, neg(ARG12))), neg(5))))	0.0003004829878174974	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[12]	neg(sub(5, neg(ARG12)))	0.0003025374249819337	
+[18, 10]	neg(sub(5, sub(sin(sub(ARG18, ARG10)), neg(5))))	0.0003026403717032319	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[6]	neg(sub(5, sin(cos(ARG6))))	0.00030263452901391875	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), neg(5)))))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[7]	neg(cos(ARG7))	0.0003026367133232689	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19, 12]	neg(sub(5, sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[17]	neg(neg(ARG17))	0.0003024572838399195	
+[]	neg(neg(neg(5)))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[16]	neg(sub(5, sub(neg(ARG16), neg(5))))	0.0003026736190930875	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[19]	neg(ARG19)	0.0003027845874942503	
+[18, 19]	neg(sub(5, sub(mul(mul(ARG18, ARG19), ARG19), neg(5))))	3.888550387136448e-06	
+[0, 9, 6]	neg(sub(5, sub(protectedDiv(protectedDiv(ARG9, ARG6), mul(ARG0, ARG0)), neg(5))))	0.0002927230782955935	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[10]	cos(ARG10)	0.0003026369705721457	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[8]	neg(add(ARG8, 5))	0.0003028738936972424	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19, 14]	neg(sub(5, sub(mul(mul(sub(ARG18, 5), neg(ARG14)), ARG19), neg(5))))	5.289977911112688e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, ARG18))	0.00030261907555324266	
+[0]	neg(sub(5, ARG0))	0.00030255762551449964	
+[10, 19]	neg(sub(5, sub(mul(ARG10, ARG19), neg(5))))	0.0002224391790868508	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[17, 6]	sub(ARG17, ARG6)	0.0003025449028482752	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[4]	neg(cos(sub(5, ARG4)))	0.00030263933948834255	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), neg(5)), neg(5))))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[18]	neg(sin(add(ARG18, 5)))	0.0003026352310036877	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[0]	neg(sub(ARG0, 5))	0.000302622904154103	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[17]	protectedDiv(mul(5, 5), add(5, ARG17))	0.0003026363298305088	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG18))))	0.017122090556875486	
+[18, 11]	sub(ARG18, ARG11)	0.0003025481666468958	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[18, 19]	neg(sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5))))	0.0003026377181517697	
+[2, 7]	neg(mul(ARG7, ARG2))	0.0002124798332517856	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(5, sub(mul(ARG18, ARG19), neg(5)))))))	0.00030263546448741434	
+[17, 19]	neg(sub(5, protectedDiv(sub(ARG19, ARG17), cos(5))))	0.00030126323762589364	
+[18, 19]	neg(sub(5, sub(mul(ARG18, mul(ARG18, ARG19)), neg(5))))	3.893140816151243e-06	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG18)))	0.017135598261776668	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(mul(ARG18, ARG19), neg(5)))))	0.0003026332969164988	
+[]	neg(sub(5, neg(5)))	0.0003026332969164988	
+[]	add(protectedDiv(5, 5), add(5, 5))	0.00030263773814421765	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[19]	neg(sub(5, sub(mul(5, ARG19), neg(5))))	0.0003005496190060317	
+[18, 19]	neg(sub(ARG18, sub(mul(ARG18, ARG19), neg(5))))	0.017122090556875486	
+[18]	neg(sub(5, sub(mul(ARG18, ARG18), neg(5))))	0.00018234345076542782	
+[19]	neg(sub(5, sub(mul(ARG19, ARG19), neg(5))))	0.0001809889737635147	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 5]	neg(sub(5, sub(mul(ARG18, ARG19), sin(ARG5))))	0.1649649964828	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[5]	ARG5	0.0003028481375733108	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(mul(ARG18, ARG19)))))	0.0003026377181517697	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19, 5]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(protectedDiv(ARG5, 5), sub(mul(ARG18, ARG19), neg(5)))))))	0.0003026830835163015	
+[11]	neg(ARG11)	0.0003025594113699825	
+[9, 14]	neg(sub(5, add(neg(ARG9), mul(ARG14, 5))))	0.00030157338559981854	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[19]	neg(sub(5, sub(mul(5, ARG19), 5)))	0.0003005467613493353	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[0, 18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sin(neg(ARG0)))))	0.1652314733290274	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, sin(sin(5))), neg(5))))	0.02079804622685593	
+[]	neg(5)	0.00030263546448741434	
+[12]	neg(sub(5, ARG12))	0.00030263885405631356	
+[18, 19]	neg(sub(5, sub(mul(sub(mul(ARG18, ARG19), neg(5)), ARG19), neg(5))))	3.888505567944627e-06	
+[17, 5]	sub(ARG17, ARG5)	0.000302152346402306	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), sub(5, sub(mul(ARG18, ARG19), neg(5))))))	0.0003026377181517697	
+[]	neg(neg(5))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 2, 14, 15]	neg(sub(5, sub(mul(ARG18, mul(mul(ARG15, ARG14), sub(ARG2, 5))), neg(5))))	9.268477802564698e-08	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(mul(ARG18, ARG19), neg(5)))	0.00015134104469311386	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), 5), neg(5))))	0.1665971990620101	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[15]	sin(ARG15)	0.00030263777612534354	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[0, 19]	neg(sub(5, sub(mul(ARG0, ARG19), neg(5))))	0.00021676209681576147	
+[19, 18, 11]	neg(sub(ARG11, sub(mul(ARG18, ARG19), neg(5))))	0.01696066838175722	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[6]	mul(ARG6, 5)	0.000300969249541874	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19, 4]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), ARG4)))	0.0003025013953176975	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[18, 19]	neg(sub(ARG19, sub(mul(ARG18, ARG19), neg(5))))	0.017066112270279526	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(mul(ARG18, ARG19), protectedDiv(5, 5)))	0.00015134142448943626	
+[18, 19]	neg(sub(5, sub(5, sub(mul(ARG18, ARG19), neg(5)))))	0.00015134104469311386	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[11, 15]	mul(ARG11, ARG15)	0.0002165889614793435	
+[18, 19, 12]	neg(sub(5, sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12)))))	0.1665971990620101	
+[2, 18, 19]	neg(sub(5, sub(sub(mul(ARG18, ARG19), sin(sin(ARG2))), neg(5))))	0.6143157975460326	
+[18, 19]	neg(sub(sub(mul(ARG18, ARG19), neg(5)), sub(mul(ARG18, ARG19), neg(5))))	0.0003026369382426421	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(sub(mul(ARG18, ARG19), neg(5))))))	0.0003026369382426421	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), cos(cos(5)))))	0.14361586164556964	
+[6]	neg(sub(5, sub(cos(ARG6), neg(5))))	0.00030263593227110124	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[17]	ARG17	0.0003024572838399195	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, mul(ARG18, ARG19)))	0.1665971990620101	
+[18, 19, 12]	neg(sub(5, sub(sub(sub(mul(ARG18, ARG19), neg(5)), add(ARG12, neg(ARG12))), neg(5))))	0.1665971990620101	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19, 12]	neg(sub(5, sub(sub(mul(ARG18, ARG19), add(ARG12, neg(ARG12))), mul(ARG18, ARG19))))	0.00030263546448741434	
+[6]	ARG6	0.000302474841087892	
+[]	neg(sub(5, 5))	0.0003026369382426421	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[0, 18, 19]	neg(sub(ARG0, sub(mul(ARG18, ARG19), neg(5))))	0.016939642325152965	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19]	neg(sub(5, ARG19))	0.00030239685426862434	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[10, 19, 12]	neg(sub(5, sub(sub(add(cos(ARG10), sub(5, 5)), add(ARG12, neg(ARG12))), neg(ARG19))))	0.00030239689616315445	
+[18, 19]	neg(sub(neg(5), sub(mul(ARG18, ARG19), neg(5))))	0.09086775637998211	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), 5)))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG19)))	0.017039774505347462	
+[18]	neg(sub(5, sub(mul(ARG18, neg(5)), neg(5))))	0.00030136775947970225	
+[19]	neg(ARG19)	0.0003027845874942503	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(5, sub(mul(ARG18, ARG19), neg(5)))), neg(5))))	3.89377946437761e-06	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	neg(sub(5, sub(neg(5), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), ARG18)))	0.017135598261776668	
+[19]	neg(sub(5, sub(mul(neg(5), ARG19), neg(5))))	0.0003024605254860979	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 14]	sub(add(ARG14, 5), neg(ARG18))	0.00030260254912174185	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[]	neg(5)	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), mul(ARG18, ARG19))))	0.00030263546448741434	
+[7]	neg(sub(5, sub(neg(5), neg(cos(ARG7)))))	0.00030263350972153745	
+[]	neg(sub(5, sub(5, neg(5))))	0.0003026377181517697	
+[18, 19]	neg(sub(5, sub(5, neg(mul(ARG18, ARG19)))))	0.999999999999998	
+[18]	neg(sub(5, sub(mul(ARG18, 5), neg(5))))	0.00030165399377845355	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(ARG19))))	0.017066112270279526	
+[5]	sin(cos(ARG5))	0.000302639691501078	
+[18]	neg(sub(5, sub(ARG18, neg(5))))	0.00030262058568671253	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	3.893099781027449e-06	
+[19, 14]	neg(sub(cos(sub(5, ARG14)), ARG19))	0.00030239511971792606	
+[18, 19]	neg(sub(5, sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), neg(5))))	0.00015134136986572384	
+[18, 19]	neg(mul(ARG18, ARG19))	0.00015134136986572384	
+[10, 19]	neg(sub(5, sub(mul(ARG10, ARG19), 5)))	0.00022244800572605958	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(neg(5)))))	0.0908677563799821	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[]	sin(5)	0.0003026367093722332	
+[18, 19]	neg(sub(sub(5, sub(mul(ARG18, ARG19), neg(5))), sub(mul(ARG18, ARG19), neg(5))))	0.00030263546448741434	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	
+[18, 19]	neg(sub(5, sub(mul(ARG18, ARG19), neg(5))))	0.999999999999998	

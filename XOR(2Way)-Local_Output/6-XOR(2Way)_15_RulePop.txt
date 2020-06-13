@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[3, 4]	mul(sin(ARG4), add(ARG3, 5))	0.5025000000000001	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 5]	sub(mul(ARG5, 5), ARG18)	0.51375	
+[19, 12]	sub(neg(ARG12), ARG19)	0.5	
+[18]	sub(ARG18, mul(neg(5), mul(5, 5)))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[12]	sin(ARG12)	0.48875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[9, 18, 11]	sub(ARG18, add(ARG11, ARG9))	0.518125	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(5, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 13, 15]	protectedDiv(protectedDiv(ARG15, ARG18), neg(ARG13))	0.49249999999999994	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, neg(5))	0.5	
+[10, 5]	sub(sub(5, 5), sub(ARG5, ARG10))	0.495	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[]	sin(protectedDiv(5, 5))	0.5	
+[1, 18, 13]	sub(ARG18, sub(add(ARG13, 5), mul(5, ARG1)))	0.49250000000000005	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	neg(cos(5))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[1, 19]	sub(sin(cos(ARG1)), ARG19)	0.514375	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[9]	ARG9	0.5062500000000001	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 11]	sub(ARG18, mul(neg(ARG11), cos(ARG11)))	0.51875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[2]	cos(protectedDiv(5, ARG2))	0.5081249999999999	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[17, 19, 12]	sub(ARG19, sub(sin(ARG12), sin(ARG17)))	0.49124999999999996	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[8, 19]	sub(ARG8, ARG19)	0.493125	
+[19]	sub(add(5, ARG19), ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 5]	sub(sub(sin(ARG5), cos(5)), ARG18)	0.501875	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(cos(neg(5)), ARG19)	0.51	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[11]	cos(ARG11)	0.505625	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(5, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	ARG19	0.49	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16, 19]	sub(neg(ARG16), ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	add(5, 5)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(add(5, 5), ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[16, 18]	sub(ARG18, ARG16)	0.5075000000000001	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[10]	sin(neg(ARG10))	0.5	
+[0, 19, 14]	sub(sub(sin(5), add(ARG0, ARG14)), ARG19)	0.5	
+[18]	sub(ARG18, cos(sub(5, 5)))	0.5025000000000001	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(cos(cos(5)), ARG19)	0.51	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[1, 18]	sub(ARG18, protectedDiv(ARG1, 5))	0.526875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	sin(5)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 6]	sub(ARG18, ARG6)	0.5137499999999999	
+[18, 5]	sub(ARG18, mul(ARG5, 5))	0.515	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(sub(5, ARG19), ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[]	mul(sub(5, 5), cos(5))	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 10]	sub(ARG18, sub(sin(ARG10), sin(5)))	0.5275	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	ARG18	0.526875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[1, 5, 7]	protectedDiv(mul(ARG7, ARG1), sub(ARG5, 5))	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 15]	sub(ARG18, neg(ARG15))	0.5193749999999999	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, 5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[0]	cos(ARG0)	0.51	
+[18, 19]	sub(neg(ARG18), ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 12]	sub(ARG18, sin(ARG12))	0.526875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[13]	add(ARG13, ARG13)	0.5075	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16]	ARG16	0.500625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[1, 19, 7]	sub(protectedDiv(sub(5, ARG7), protectedDiv(ARG1, 5)), ARG19)	0.48624999999999996	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[14]	ARG14	0.521875	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, cos(5))	0.526875	
+[19]	sub(ARG19, mul(ARG19, ARG19))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 11]	sub(sin(ARG11), ARG19)	0.50375	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, mul(ARG19, ARG18))	0.579375	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[]	sin(5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 11, 13]	sub(protectedDiv(mul(ARG11, ARG13), cos(5)), mul(ARG19, ARG19))	0.500625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[2, 19, 6]	sub(add(ARG6, ARG2), ARG19)	0.51625	
+[18]	sub(ARG18, 5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[11, 19, 4]	sub(protectedDiv(mul(5, ARG4), protectedDiv(ARG19, ARG11)), ARG19)	0.510625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[17, 18]	sub(ARG18, ARG17)	0.521875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16, 18]	sub(ARG18, mul(5, ARG16))	0.50375	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[6]	sub(ARG6, 5)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 5]	sub(ARG5, ARG19)	0.50625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16]	protectedDiv(ARG16, 5)	0.500625	
+[19, 15]	sub(ARG15, ARG19)	0.504375	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16, 1]	add(ARG1, ARG16)	0.486875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[8, 12, 15, 17, 19]	sub(mul(add(ARG8, ARG15), add(ARG17, ARG12)), ARG19)	0.486875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[13]	neg(cos(ARG13))	0.50875	
+[18]	sub(ARG18, ARG18)	0.5	
+[19, 11]	sub(mul(sub(5, 5), sin(ARG11)), ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(cos(ARG18), ARG19)	0.5625	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[8]	ARG8	0.506875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(sub(5, 5), ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, mul(ARG18, ARG19))	0.579375	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16, 18, 10]	sub(ARG18, sub(ARG10, ARG16))	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[]	5	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[9, 19, 6, 7]	protectedDiv(mul(ARG9, ARG7), mul(ARG19, ARG6))	0.5025	
+[13]	ARG13	0.5075	
+[19]	sub(5, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 5]	sub(add(mul(5, 5), neg(ARG5)), ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[11]	ARG11	0.495	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 12]	sub(ARG18, neg(sin(ARG12)))	0.51875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[17, 18, 11]	sub(ARG18, add(ARG17, ARG11))	0.52125	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(sub(5, ARG18), ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, mul(5, 5))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[2, 14]	add(ARG14, ARG2)	0.515625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(neg(5), ARG19)	0.5	
+[18]	sub(sub(5, 5), ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 4]	sub(ARG18, add(5, ARG4))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[9]	sub(ARG9, 5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 5]	sub(ARG18, ARG5)	0.515625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[17, 10, 19]	sub(add(neg(ARG17), cos(ARG10)), ARG19)	0.509375	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	5	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[9, 18]	sub(ARG18, cos(ARG9))	0.510625	
+[19, 14]	sub(ARG14, mul(ARG19, ARG19))	0.5125	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[]	protectedDiv(5, 5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	cos(5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 15]	sub(ARG18, protectedDiv(sub(ARG15, 5), neg(5)))	0.500625	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[8, 19]	sub(ARG8, ARG19)	0.493125	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[19, 7]	sub(ARG7, ARG19)	0.48875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(cos(cos(5)), ARG19)	0.51	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, mul(ARG18, ARG19))	0.579375	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 7]	sub(ARG18, add(add(ARG18, ARG7), mul(ARG18, 5)))	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16]	ARG16	0.500625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[11]	ARG11	0.495	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[8, 5]	protectedDiv(ARG8, ARG5)	0.490625	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[17, 18, 6]	sub(ARG18, add(cos(ARG17), mul(5, ARG6)))	0.505625	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[1, 18]	sub(ARG18, cos(protectedDiv(5, ARG1)))	0.52875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[1, 7]	sub(cos(ARG7), sub(5, ARG1))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 13]	sub(ARG18, sin(mul(ARG13, 5)))	0.504375	
+[12]	cos(sin(ARG12))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[17, 4]	protectedDiv(sin(ARG17), protectedDiv(5, ARG4))	0.5025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	5	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 14]	sub(ARG18, ARG14)	0.503125	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[9]	add(5, ARG9)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	mul(5, 5)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[]	sub(cos(5), sin(5))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(mul(ARG19, ARG19), ARG19)	0.495625	
+[10]	ARG10	0.495	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[2, 19]	sub(ARG19, cos(sin(ARG2)))	0.50125	
+[19, 3]	sub(ARG3, ARG19)	0.49750000000000005	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, neg(sin(5)))	0.526875	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, sin(sin(5)))	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	5	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 14]	sub(ARG18, sin(cos(ARG14)))	0.525625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[2, 18, 11]	sub(ARG18, add(ARG11, ARG2))	0.52	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 3]	sub(ARG18, mul(ARG3, 5))	0.506875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[17, 10, 11]	mul(protectedDiv(ARG17, 5), sub(ARG11, ARG10))	0.49562500000000004	
+[]	sin(5)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[3]	cos(cos(ARG3))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[4]	ARG4	0.5025000000000001	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[1]	sin(ARG1)	0.476875	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[2, 19]	sub(ARG19, ARG2)	0.4825	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[17, 19]	sub(protectedDiv(ARG17, 5), ARG19)	0.501875	
+[17, 18]	sub(ARG17, ARG18)	0.501875	
+[0, 2, 7]	mul(sub(ARG7, ARG2), add(ARG0, 5))	0.488125	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[0, 18, 12]	sub(ARG18, protectedDiv(ARG12, ARG0))	0.528125	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 6]	sub(mul(ARG6, 5), ARG19)	0.50375	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	cos(neg(ARG19))	0.504375	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[17, 19]	cos(sub(ARG17, ARG19))	0.498125	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 7]	mul(mul(ARG7, ARG7), add(ARG19, ARG19))	0.50125	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 5]	sub(ARG18, add(ARG5, 5))	0.5	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[3, 19]	sub(ARG19, ARG3)	0.483125	
+[18]	sub(ARG18, ARG18)	0.5	
+[1, 19, 4, 14]	sub(add(sub(ARG4, ARG14), cos(ARG1)), ARG19)	0.50125	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[10, 18, 11]	sub(ARG18, protectedDiv(cos(ARG11), mul(5, ARG10)))	0.501875	
+[19]	sub(5, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 7]	sub(ARG7, ARG19)	0.48875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[8]	sub(ARG8, 5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[0, 6]	neg(add(ARG0, ARG6))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 5]	sub(ARG18, ARG5)	0.515625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, mul(ARG19, ARG19))	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[8, 15]	protectedDiv(ARG15, ARG8)	0.49375	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[0, 19]	sub(ARG0, ARG19)	0.50125	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[5]	cos(add(5, ARG5))	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19, 15]	sub(ARG19, cos(ARG15))	0.48750000000000004	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(neg(5), ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[11]	ARG11	0.495	
+[19, 6]	sub(protectedDiv(ARG6, 5), ARG19)	0.506875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 14]	sub(mul(ARG14, 5), ARG19)	0.521875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(5, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[16, 10, 18]	sub(mul(neg(ARG16), cos(ARG10)), ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16]	ARG16	0.500625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19, 6]	sub(ARG19, sin(ARG6))	0.49	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(cos(ARG19), ARG18)	0.5425	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[5]	sin(ARG5)	0.51375	
+[16]	cos(mul(ARG16, 5))	0.505625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(5, ARG19)	0.5	
+[18, 3]	sub(ARG18, ARG3)	0.506875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[16, 18, 4, 6]	sub(mul(neg(ARG4), add(ARG16, ARG6)), ARG18)	0.5	
+[19]	sub(ARG19, mul(ARG19, ARG19))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(5, ARG18)	0.5	
+[9, 19]	sub(ARG19, protectedDiv(protectedDiv(ARG9, 5), neg(5)))	0.498125	
+[9, 19]	sub(ARG9, ARG19)	0.50625	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, sin(5))	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[17, 19]	sub(add(ARG17, 5), ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 11]	sub(ARG18, ARG11)	0.519375	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, cos(5))	0.526875	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(neg(5), ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[]	5	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[11]	add(ARG11, 5)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[17, 18]	sub(sub(5, ARG17), ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[19, 4, 5]	sub(mul(ARG4, ARG5), ARG19)	0.5025000000000001	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18, 19]	sub(ARG18, ARG19)	0.7025	
+[18]	neg(cos(ARG18))	0.5025000000000001	
+[19]	sub(ARG19, ARG19)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[18]	sub(ARG18, ARG18)	0.5	
+[19]	sub(ARG19, ARG19)	0.5	

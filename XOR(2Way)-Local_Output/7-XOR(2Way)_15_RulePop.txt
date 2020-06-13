@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), ARG18)))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(ARG18, cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(mul(ARG18, 5), ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), ARG18), cos(5)))	0.510625	
+[0, 1, 14, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), sub(neg(ARG19), mul(ARG14, ARG14))))), sin(sub(sub(mul(mul(ARG1, ARG0), sub(5, 5)), ARG18), ARG18))))	0.8875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))), ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.421875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG19))	1.0	
+[3, 18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(add(sub(ARG3, ARG18), cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, sin(protectedDiv(ARG7, ARG19))), sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.86625	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.810625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), cos(5)))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(5)))	0.810625	
+[17, 18, 19, 9]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(sub(ARG19, sin(protectedDiv(add(sub(cos(add(5, ARG17)), ARG18), sub(ARG19, ARG18)), ARG9))))))	0.373125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, 5), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG19), cos(sub(sub(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))), ARG18), cos(ARG18)))	0.06	
+[18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, add(sin(ARG4), neg(ARG19))))), add(sub(sub(ARG19, 5), ARG18), cos(add(ARG18, cos(sub(ARG19, ARG18))))))	0.54125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(5, cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(ARG19, ARG18), cos(add(ARG19, cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18))))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG19)))))	0.50625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG19, cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[11, 0, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(cos(add(sub(add(ARG11, ARG0), ARG18), ARG18)))))	0.690625	
+[0, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, sub(protectedDiv(ARG0, ARG17), sub(5, 5))), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), cos(5)))	0.651875	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, mul(sin(5), add(ARG6, 5)))))))	0.99875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, ARG18), cos(sub(sin(sub(ARG19, ARG18)), ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(cos(add(sub(sub(ARG19, ARG18), ARG18), ARG19)), cos(sub(ARG19, sub(ARG19, ARG18)))))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(add(sub(ARG19, ARG18), sub(cos(5), ARG18))))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(cos(cos(5))), add(add(sub(ARG19, sub(5, 5)), cos(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), ARG18))), sin(sub(ARG19, ARG18))))	0.301875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(ARG18)))	0.630625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(ARG18), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.499375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(add(sub(ARG19, ARG18), ARG19))))	0.384375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), ARG18), ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(ARG19)), sin(sub(ARG19, cos(cos(5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sin(add(sub(ARG19, ARG18), protectedDiv(neg(5), cos(5))))), cos(add(sub(ARG19, sub(add(sub(ARG19, ARG18), cos(5)), ARG18)), cos(ARG18)))))	1.0	
+[19, 18, 11]	protectedDiv(ARG18, add(add(ARG11, ARG18), cos(add(sub(sub(ARG19, ARG19), ARG18), cos(5)))))	0.499375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, cos(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18)), cos(ARG18)))))), add(sub(ARG19, ARG18), cos(add(ARG19, cos(sub(ARG19, ARG18))))))	0.944375	
+[17, 18, 19]	protectedDiv(ARG17, add(sub(ARG19, ARG18), ARG18))	0.516875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(ARG19, cos(sin(sub(sin(add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sin(sub(ARG19, ARG18)), ARG18), ARG18), cos(5)))	0.88	
+[18, 19]	protectedDiv(ARG19, add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG19), cos(ARG18))))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18), cos(ARG19)), sin(sub(ARG19, ARG18))))	0.94	
+[18, 19, 12, 7]	protectedDiv(sin(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), sub(ARG19, ARG18))), add(sub(add(add(ARG12, ARG7), cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(5)))	0.534375	
+[18, 19]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(cos(mul(ARG19, 5)))))	0.30125	
+[18, 19]	protectedDiv(ARG19, add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.565625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG19, cos(sub(sub(ARG18, ARG18), ARG18))))	0.74625	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG15)	0.581875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG19), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[11, 0, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(ARG11, ARG0), add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))))	1.0	
+[18, 15]	protectedDiv(sin(ARG18), add(sub(add(sub(ARG15, ARG18), cos(cos(sub(ARG18, ARG18)))), ARG18), cos(5)))	0.49624999999999997	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG18))	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, cos(cos(add(sub(add(sub(cos(5), ARG18), cos(cos(5))), ARG18), ARG18)))), cos(5)))	0.86625	
+[3, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, protectedDiv(sin(5), mul(ARG18, 5)))), ARG3))	0.909375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(add(sub(ARG19, ARG18), cos(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), ARG18))), sin(sub(ARG19, ARG18)))), ARG10))	0.419375	
+[0, 18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, mul(cos(ARG7), cos(ARG0))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18))))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(sub(ARG18, ARG19)))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(ARG18, cos(sub(ARG19, ARG18))))))	0.81875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sin(add(sub(ARG19, cos(ARG18)), sub(ARG19, ARG18))), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG18))	0.745	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.3675	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sub(mul(5, ARG15), ARG18)), cos(add(sub(ARG19, ARG18), ARG18))))	0.6937500000000001	
+[10, 11, 14, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), sub(add(mul(ARG10, 5), protectedDiv(ARG11, ARG14)), ARG18)), ARG19))	0.80125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(cos(sin(ARG18)), cos(sub(ARG19, ARG18))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[3, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG19), cos(sub(ARG19, neg(ARG3)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18)), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(sub(5, 5)), add(sub(sub(ARG19, ARG18), ARG18), cos(cos(5))))	0.5	
+[19, 2, 18, 14]	protectedDiv(sin(add(sub(mul(ARG2, ARG14), ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), 5), sin(sub(ARG19, ARG18))))	0.51625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))), add(sub(ARG19, ARG18), cos(5)))	0.491875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(sin(ARG18), ARG18), cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(sub(ARG19, sub(add(sub(ARG19, ARG18), cos(5)), ARG18)), cos(ARG18))))))), add(sub(ARG19, ARG18), cos(5)))	0.43875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, 5), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.124375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sin(5), cos(5)))))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG6, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(5)))))	0.57125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(ARG18))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), cos(5)))	0.690625	
+[18, 19]	protectedDiv(5, add(sub(sub(ARG19, sub(ARG18, ARG18)), ARG18), cos(5)))	0.301875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG14, ARG18), cos(ARG18)))	0.880625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG19)))	0.7418750000000001	
+[18, 19]	protectedDiv(ARG19, add(sub(ARG19, ARG18), cos(cos(5))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG19), sub(ARG19, ARG18))), add(5, add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), cos(5))))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(add(sub(ARG19, ARG18), cos(cos(ARG18))), ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5)))))	0.801875	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG19, cos(sin(ARG10))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(ARG18, ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(add(sub(ARG19, ARG18), cos(5)))))	0.504375	
+[1, 18, 19]	protectedDiv(sin(ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG1), cos(cos(ARG18))))))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(5))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(5, mul(5, 5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG6, cos(add(sub(ARG18, ARG18), cos(sub(ARG19, ARG18))))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	0.810625	
+[18, 19, 6]	protectedDiv(ARG18, add(sub(sub(ARG19, ARG18), cos(ARG6)), cos(5)))	0.6131249999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(5)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG18))))	0.62125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(sub(ARG19, ARG18), sub(ARG18, ARG18))))), add(sub(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), cos(5)))	0.68625	
+[18, 19]	protectedDiv(sin(cos(5)), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.620625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18))))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(ARG18, ARG18), ARG18)))), ARG18), cos(cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18)))))))))))	1.0	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(ARG18)), sin(sub(ARG19, ARG18))))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG18, sub(ARG19, ARG18)), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(add(sub(ARG19, ARG18), ARG19))))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(add(protectedDiv(ARG18, 5), cos(5)), sin(sub(ARG19, ARG18))))	0.3675	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG6, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(5))), sub(ARG19, ARG18)), cos(5)))	0.54	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19)))))	1.0	
+[17, 18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), cos(mul(5, ARG17))))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(neg(5), ARG18), sub(ARG19, ARG18))), ARG18)	0.36624999999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19))))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.435625	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG9)), add(ARG18, cos(5)))	0.5081249999999999	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, sub(ARG19, ARG18)), cos(cos(sub(sub(sub(ARG19, cos(add(sub(ARG19, ARG18), cos(5)))), ARG9), ARG18)))), ARG18), cos(5)))	0.690625	
+[11, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(add(sin(5), sin(ARG11)), cos(5)), sin(cos(add(sub(ARG19, ARG18), cos(5))))))	0.469375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), cos(ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sin(sub(ARG19, ARG18)), ARG18), ARG18), cos(5)))	0.88	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, 5), ARG9), ARG18)))), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5))))), ARG19))	0.74625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG18, cos(5)))	0.690625	
+[1, 18, 19]	protectedDiv(sin(neg(ARG1)), add(sub(ARG19, ARG18), cos(sin(sin(sub(ARG19, sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18)))))))	0.54875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG18, ARG18), ARG18))), ARG18), cos(ARG19)))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG19), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.8200000000000001	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG18, ARG18), ARG18), cos(5)))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG19))), ARG18), cos(5)))	1.0	
+[18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), neg(5))), add(sub(ARG19, ARG18), cos(mul(5, ARG4))))	0.49624999999999997	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))), sin(sin(sub(ARG19, ARG18)))), cos(5)))	0.74625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[3, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG19), cos(sub(ARG19, neg(ARG3)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[17, 18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), cos(mul(5, ARG17))))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.690625	
+[18, 19, 6]	protectedDiv(5, add(add(protectedDiv(ARG6, 5), cos(5)), sin(sub(ARG19, ARG18))))	0.301875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(add(ARG19, sub(ARG19, ARG18)))))	0.44	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 2, 19]	protectedDiv(sin(add(add(ARG2, 5), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(ARG18)))))	0.6468750000000001	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), ARG19))))	0.3675	
+[4, 14, 15, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(cos(protectedDiv(protectedDiv(ARG15, ARG4), mul(ARG14, 5))), cos(sub(ARG19, cos(ARG18)))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, cos(ARG18))))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	0.754375	
+[17, 18, 19, 13]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sub(ARG13, ARG17)), cos(ARG18)))	0.7106250000000001	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(cos(cos(5)), ARG18), cos(ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sub(ARG19, ARG19), ARG18), ARG18), cos(5)))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG19, add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG19), cos(ARG18))))))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(5), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), ARG18))))))	0.499375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), cos(ARG18)))	0.88	
+[11, 18, 19]	protectedDiv(sin(sub(ARG19, ARG11)), add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))))	0.416875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(5, mul(5, 5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(cos(ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, protectedDiv(sin(5), mul(ARG18, 5)))), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(add(ARG19, ARG19))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[8, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(sub(5, ARG8)), ARG18))), add(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), sin(sub(ARG19, ARG18))))	0.840625	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(add(sub(sub(ARG19, ARG18), ARG1), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, cos(ARG19)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.505625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG18, cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.504375	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, mul(ARG19, 5)))), add(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))), cos(5)))	0.495	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), ARG19), ARG18), 5))	0.50125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(ARG18), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	0.74625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(ARG18)), ARG18), cos(5)))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(add(sub(sub(ARG19, ARG18), ARG18), ARG18), cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, cos(5)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	0.69	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), cos(5)), ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), mul(5, 5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), ARG18)))))	1.0	
+[17, 18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), ARG19), ARG18), cos(add(add(sub(sub(ARG19, ARG18), ARG18), ARG17), ARG19))))	0.884375	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(ARG19, ARG18))))))	1.0	
+[16, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, protectedDiv(sin(ARG16), cos(5))))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), add(sub(ARG19, sub(ARG19, ARG18)), cos(ARG18))), ARG18)))), ARG18), ARG18))	0.5675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18)))))))), add(sub(ARG19, ARG18), cos(5)))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, add(sub(ARG18, ARG18), cos(sub(ARG19, ARG18)))), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18), ARG18))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(ARG18, ARG18)))), ARG18), cos(5)))	1.0	
+[16, 10, 18, 19]	protectedDiv(sin(add(ARG16, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(ARG10))))	0.573125	
+[18, 19]	protectedDiv(sin(5), add(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), cos(5)))	0.63375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19, 13]	protectedDiv(sin(add(ARG13, sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, sub(ARG19, ARG18)))))))	0.865625	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(5)))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG19, ARG18)), cos(ARG18)))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sin(sub(ARG19, ARG18)), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, ARG18), cos(add(ARG18, cos(ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), cos(5)))	0.88	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG19, cos(sin(ARG10))))	0.690625	
+[8, 18, 19]	protectedDiv(sin(ARG8), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.6231249999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[8, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(neg(cos(ARG8)), cos(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))), ARG19))	0.78375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(cos(cos(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18))), ARG18), cos(cos(sub(cos(ARG19), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), ARG18))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(5, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(cos(ARG19), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19, 4, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), mul(add(ARG19, ARG4), add(ARG14, 5)))	0.72375	
+[18, 19]	protectedDiv(add(sub(ARG19, ARG18), cos(5)), add(add(sub(ARG19, ARG18), cos(5)), cos(5)))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG19)), add(sub(ARG19, ARG18), cos(add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(ARG18)))))	0.491875	
+[17, 18, 19]	protectedDiv(sin(sin(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18)))), sub(neg(5), protectedDiv(5, ARG17)))	0.24125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	1.0	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, cos(ARG18)), sub(ARG19, ARG18)), cos(sin(ARG15))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), ARG18), sin(sub(ARG19, ARG18))))	0.800625	
+[3, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG3)))	1.0	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, neg(ARG2))))), ARG18), cos(ARG18)))	0.879375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, cos(5)), cos(cos(add(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG19), ARG18)))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG18, ARG18), ARG18))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG19), cos(add(sub(ARG19, ARG18), ARG19))))	0.44	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sin(5), cos(5)))))	0.884375	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(cos(cos(ARG18)), cos(protectedDiv(cos(5), mul(ARG14, 5)))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), ARG18), sub(ARG19, ARG18)))	0.745625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[0, 18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, mul(cos(ARG7), cos(ARG0))), ARG18), cos(5)))	1.0	
+[8, 18, 19, 5]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG18, mul(neg(5), sub(ARG5, ARG8))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(protectedDiv(ARG18, 5), sub(ARG19, ARG18))), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(5, cos(cos(ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG19)), 5)	0.4275	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19, 7]	protectedDiv(sin(add(sub(ARG19, protectedDiv(protectedDiv(5, ARG18), neg(ARG7))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.815	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG6)))))	1.0	
+[18, 19, 4, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), cos(cos(ARG19))), cos(mul(mul(ARG19, ARG4), sub(ARG6, 5)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(5)), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(5, sub(ARG18, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG18))))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, cos(ARG2)), cos(ARG18)))))	1.0	
+[17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), cos(mul(5, ARG17))))))	1.0	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, sin(protectedDiv(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG9))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(ARG19)), add(sub(ARG19, ARG18), ARG19)))	1.0	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(5, mul(5, 5))))))	1.0	
+[9, 18, 19, 6]	protectedDiv(add(ARG6, ARG9), add(sub(sub(ARG19, ARG18), sub(ARG18, ARG18)), cos(5)))	0.360625	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(cos(ARG10), ARG18), cos(cos(5))))	0.8825000000000001	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), ARG18), ARG18)))), ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.50125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG18, cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(add(sub(ARG19, ARG18), cos(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18))), ARG18))), add(sub(add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19), ARG18), cos(5)))	0.61625	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sin(sub(sub(ARG19, ARG18), ARG18))))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(mul(ARG19, 5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(ARG19)), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19, 15]	protectedDiv(sin(add(ARG15, sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG18, ARG18), cos(sub(ARG19, ARG18))))))	0.736875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG19, ARG19))))	1.0	
+[18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(add(sub(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)), ARG18), cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, sin(protectedDiv(ARG7, ARG19))), sub(ARG19, ARG18))))	1.0	
+[0, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG0)	0.56875	
+[18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(mul(5, ARG4))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18), ARG18))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG19, sub(ARG18, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), ARG18))), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(cos(ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(sub(add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19), ARG18), cos(5)))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), add(sub(ARG19, ARG18), cos(5))))	1.0	
+[17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(add(5, ARG17), sin(ARG17)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), ARG18), ARG18)))), ARG18), cos(5)))	0.884375	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), neg(ARG10)), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))))	0.89375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(sub(ARG19, ARG18), sin(ARG18)), cos(cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG18, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), ARG19), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.7	
+[10, 12, 14, 18, 19]	protectedDiv(sin(add(mul(sub(ARG12, ARG14), mul(ARG10, 5)), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), sub(ARG18, ARG18)), cos(5)))	0.85625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), cos(5))))	1.0	
+[17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), neg(ARG17)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[7, 8, 15, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(sub(protectedDiv(add(ARG15, ARG8), cos(ARG7)), ARG18), ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG19))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(5), ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.81	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sin(ARG10), ARG18), ARG18)))), ARG18), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(cos(cos(5)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.565625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(add(sub(sin(sub(cos(5), ARG18)), ARG18), cos(sin(sub(ARG19, ARG19)))), ARG19))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	1.0	
+[18, 19]	protectedDiv(sin(ARG18), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18), ARG18))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), cos(sin(5))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(add(sub(sin(sub(ARG19, ARG18)), ARG19), cos(sin(sub(ARG19, ARG18)))), ARG19), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(neg(5), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.624375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG18, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG14)), add(sub(ARG19, ARG18), cos(5)))	0.4525	
+[18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(add(sub(ARG19, ARG18), cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, sin(protectedDiv(ARG7, ARG19))), sub(ARG19, ARG18))))	1.0	
+[3, 18, 19, 4]	protectedDiv(add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19), add(sub(add(add(ARG3, ARG4), cos(5)), ARG18), cos(sub(ARG18, ARG18))))	0.39625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))), ARG19))	1.0	
+[]	sin(sin(5))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(add(sub(sub(ARG19, ARG19), cos(sub(ARG19, ARG18))), cos(5)), sub(ARG18, ARG18)), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG19), cos(sub(5, mul(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), 5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	0.625625	
+[18, 19]	protectedDiv(sin(add(cos(sub(ARG19, sub(ARG19, ARG18))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.564375	
+[2, 19, 5]	protectedDiv(ARG19, protectedDiv(sin(ARG5), neg(ARG2)))	0.49375	
+[18, 19]	protectedDiv(sin(add(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))	0.7418750000000001	
+[18, 19]	protectedDiv(sin(add(cos(5), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.564375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sin(sub(ARG19, ARG18)), ARG18), sub(ARG19, ARG18)))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), ARG18), ARG18), sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), sub(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG18)))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(ARG18), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.30125	
+[18, 19]	protectedDiv(sin(ARG18), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	0.365625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG18)))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(cos(5))))))	0.444375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)))), neg(ARG7)), ARG18))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), cos(ARG19)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, sub(ARG19, ARG18)))))	0.56	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG14)), add(sub(ARG19, ARG18), cos(5)))	0.4525	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(protectedDiv(cos(5), mul(sub(ARG19, ARG18), 5)))))	1.0	
+[16, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(sub(ARG19, ARG18), sin(ARG16)), cos(add(sin(5), cos(sub(sub(ARG19, ARG18), ARG18))))))), add(sub(ARG19, ARG18), cos(5)))	0.564375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(cos(sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(ARG18, ARG18)), ARG18), cos(5)))	1.0	
+[18, 19, 4, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), cos(cos(ARG19))), cos(mul(mul(ARG19, ARG4), sub(ARG6, 5)))))))	1.0	
+[18, 19, 4]	protectedDiv(sin(cos(mul(ARG4, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.343125	
+[4, 14, 16, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), protectedDiv(sub(ARG16, 5), sub(ARG14, ARG4)))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), 5))))	0.32875	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[5, 14, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sub(ARG14, ARG5), sub(ARG17, 5)), ARG18), cos(sub(5, mul(5, 5))))))	0.6956249999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(sub(ARG19, ARG18), sin(neg(ARG10))), cos(cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19, 13]	protectedDiv(neg(cos(ARG13)), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))), ARG19))	0.6975	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(5, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(5)), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(ARG19)), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), neg(mul(5, ARG6))))	0.923125	
+[18, 19]	protectedDiv(ARG19, add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(sin(add(neg(5), sub(ARG19, ARG18))), ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sin(5), cos(5)))))	0.555625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sin(add(sub(ARG19, 5), sub(ARG19, ARG18))))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	0.5	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.884375	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)))), ARG19))	1.0	
+[11, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG19), cos(cos(sub(sub(sub(sub(ARG19, ARG18), ARG18), neg(sin(ARG11))), ARG18)))), ARG18), cos(5)))	0.9612499999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG18, ARG18), cos(ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(add(sub(ARG18, add(sub(ARG19, ARG18), sin(sub(ARG19, ARG18)))), add(sub(add(sub(ARG19, ARG18), cos(cos(cos(ARG18)))), ARG18), cos(5))), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19, 13]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(cos(ARG13)))), add(add(protectedDiv(ARG18, 5), cos(5)), add(sub(add(sub(ARG19, ARG18), cos(cos(cos(ARG18)))), ARG18), sub(ARG19, ARG18))))	0.564375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sin(sub(ARG19, ARG18)))	0.615625	
+[18, 19]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(5)))))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), ARG18), ARG18))	1.0	
+[16, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), mul(mul(5, 5), neg(ARG16)))), add(sub(ARG19, ARG18), cos(ARG18)))	0.661875	
+[18, 19]	protectedDiv(sin(5), add(sub(sub(ARG19, ARG18), cos(mul(5, 5))), cos(ARG18)))	0.37937499999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19)))), add(sub(ARG19, ARG18), cos(add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), ARG19))))	0.495625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[15]	ARG15	0.505625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG19), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sub(ARG18, sub(ARG19, ARG18))), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG19), cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, ARG18), cos(sub(sin(sub(ARG19, ARG18)), ARG18))))))	0.94	
+[11, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, cos(sub(ARG11, 5))), sub(ARG19, ARG18)), cos(5)))	0.6375	
+[18, 19]	protectedDiv(sin(add(ARG18, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, 5), cos(sub(sin(sub(ARG19, ARG18)), ARG18))))))	1.0	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(sub(ARG19, ARG18), sin(neg(ARG10))), cos(cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(cos(5), add(sub(ARG19, sub(ARG19, sub(ARG19, ARG18))), cos(5)))	0.301875	
+[18, 19, 14]	protectedDiv(sin(sub(ARG19, ARG14)), add(sub(sub(ARG19, ARG18), ARG18), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	0.525625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(add(cos(add(sub(ARG19, ARG18), ARG19)), cos(ARG18)))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG19), ARG19), cos(5)))))	1.0	
+[18, 19, 6]	protectedDiv(cos(ARG18), add(add(protectedDiv(ARG6, 5), cos(5)), sin(sub(cos(sub(ARG19, ARG18)), ARG18))))	0.360625	
+[18, 19]	protectedDiv(ARG18, add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.62	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.74625	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(5, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG19), cos(sub(sub(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), sub(ARG19, ARG18)))), ARG18), cos(ARG19)))	0.76	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG19), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(5, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, cos(ARG18))))), ARG18), cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)), ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(add(sub(ARG18, add(sub(ARG19, ARG18), sin(sub(ARG19, ARG18)))), cos(5)), ARG18), ARG18)))), ARG18), cos(5)))	0.75875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(ARG18)), ARG19))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG18)))), cos(5)))	0.758125	
+[19, 18, 11, 14]	protectedDiv(sin(mul(cos(5), add(ARG11, ARG14))), add(sub(ARG19, ARG18), cos(add(add(sub(sin(sub(ARG19, ARG18)), ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(ARG19)))))	0.39125	
+[4]	sin(add(5, ARG4))	0.495	
+[0, 7, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), mul(ARG7, mul(ARG17, ARG0))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, protectedDiv(sin(5), mul(ARG18, 5)))), cos(5)))	0.37187499999999996	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(sub(ARG19, sub(ARG18, ARG18)), ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	1.0	
+[18, 19, 4]	protectedDiv(sin(add(mul(5, ARG4), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	0.81125	
+[18, 19, 4]	protectedDiv(sin(add(sub(ARG19, protectedDiv(5, ARG4)), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)), cos(5)))	0.5375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(ARG18)))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19, 13]	protectedDiv(sin(add(add(sub(ARG19, ARG18), ARG13), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.973125	
+[18, 19]	protectedDiv(ARG18, add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.62	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(protectedDiv(cos(5), mul(ARG14, 5)))))	1.0	
+[0, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG19)), add(sub(sub(ARG19, ARG18), ARG18), cos(add(cos(ARG0), cos(sub(ARG19, ARG18))))))	0.810625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sin(add(sub(ARG19, 5), sub(ARG19, ARG18))), ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, ARG18)), cos(5)))	0.754375	
+[18, 19]	protectedDiv(ARG19, add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(ARG19, cos(sin(sub(ARG19, ARG18)))), ARG19))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(sin(sub(ARG18, ARG18)), ARG18), ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.621875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))), ARG18), ARG18))), add(sub(add(sub(ARG19, ARG18), ARG18), ARG18), cos(5)))	0.680625	
+[18, 19, 6]	protectedDiv(sin(add(ARG6, sub(ARG19, ARG18))), add(ARG19, cos(5)))	0.605	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(protectedDiv(ARG6, 5), cos(ARG19)), sin(sub(ARG19, ARG18))))	0.821875	
+[5, 9, 14, 18, 19]	protectedDiv(sin(add(sub(5, ARG18), protectedDiv(mul(ARG14, ARG5), cos(ARG9)))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.393125	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, cos(add(sub(ARG19, ARG18), cos(5)))), ARG9), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sin(5), cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(ARG18, ARG18), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG19)), ARG18), ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(ARG19))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(ARG19, sub(ARG19, ARG18)))))), add(sub(add(sub(ARG19, ARG18), cos(cos(add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), ARG19)))))), ARG18), ARG18))	0.6799999999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(add(sub(ARG19, ARG18), cos(sub(ARG18, ARG18))), ARG18))))	1.0	
+[18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)), add(ARG19, ARG7)))	0.65125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(5)), sin(sub(add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))), ARG18))))	0.86625	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, cos(5)))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.56125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(sub(ARG19, ARG18))))	0.745625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), 5)), add(sub(ARG19, ARG18), cos(5)))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(5, mul(5, 5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(sin(sub(add(sub(ARG19, ARG18), sin(5)), ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(cos(5))))))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(protectedDiv(ARG6, 5), cos(ARG18)), sin(sub(ARG19, ARG18))))	0.999375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, 5), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), ARG18)))))	0.124375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(add(sub(ARG19, ARG18), ARG19), ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG18, sub(ARG19, ARG18)))	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, sub(add(sub(ARG19, ARG18), cos(cos(cos(ARG18)))), ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG19), ARG18), cos(5)))), ARG18), sub(ARG19, sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(cos(5))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(ARG19, ARG19))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(neg(5), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(ARG18)))))	0.624375	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), sub(sin(ARG1), sub(ARG1, 5))), cos(sin(sub(ARG19, add(5, ARG19))))), ARG19))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG19), cos(sub(5, mul(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), 5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG18, ARG18), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG19)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(ARG18, add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, sub(ARG19, ARG18))))), ARG19))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))), add(sub(sub(ARG19, ARG18), ARG18), cos(cos(5))))	0.810625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(5, 5), sin(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), sub(ARG18, ARG18)), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG18))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), sin(5)), ARG18))))))	0.884375	
+[0, 18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(sub(ARG19, mul(cos(ARG7), cos(ARG0))), ARG18), cos(5)))	0.621875	
+[]	5	0.5	
+[1, 14, 15, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG19), sub(ARG19, ARG18))), add(add(protectedDiv(protectedDiv(5, ARG14), mul(ARG1, ARG15)), cos(sin(ARG18))), ARG19))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, sub(5, 5)), cos(cos(5))), ARG18), ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(ARG18, cos(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))))))	0.88	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(add(sub(sub(ARG19, ARG18), ARG18), cos(cos(ARG18))), ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18), ARG18), ARG18))	0.934375	
+[15, 7]	mul(sub(ARG7, 5), sin(ARG15))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(add(sub(ARG19, ARG18), cos(5)), ARG18))), add(sub(add(sub(ARG19, ARG18), ARG18), ARG18), cos(5)))	0.800625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sub(ARG18, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(5, ARG18))))	0.810625	
+[18, 19, 12]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(neg(protectedDiv(ARG12, 5)))))))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.86625	
+[19]	protectedDiv(sin(5), add(ARG19, cos(5)))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5)))	0.884375	
+[18, 19, 15]	add(add(ARG18, ARG19), neg(ARG15))	0.48250000000000004	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sub(ARG19, sub(ARG19, ARG18))), cos(5)))	1.0	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), add(ARG14, 5))), add(sub(ARG19, ARG18), cos(5)))	0.75125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(ARG18)))))	0.8243750000000001	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(add(sub(ARG19, ARG18), cos(add(sub(ARG19, sub(ARG19, ARG18)), cos(ARG18)))), ARG19))	0.884375	
+[14]	add(5, ARG14)	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), 5))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sin(sub(ARG19, ARG18)), ARG19))	0.800625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	1.0	
+[5, 11, 12, 18, 19]	protectedDiv(sin(add(sub(add(neg(ARG5), add(ARG12, ARG11)), ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	0.708125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(add(sub(ARG19, ARG18), ARG18), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, cos(sub(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), ARG18))))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	0.69	
+[16, 18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(mul(ARG4, ARG16)))), add(add(sub(ARG19, ARG18), cos(ARG19)), sin(sub(ARG19, ARG18))))	0.37937499999999996	
+[18, 19, 12]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(add(sub(sub(ARG19, sub(mul(ARG12, 5), cos(5))), ARG18), cos(5)), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sin(sub(sub(ARG19, ARG18), ARG18)))))), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG19), cos(sin(sub(ARG19, sub(ARG19, ARG18))))), ARG19))	0.491875	
+[18, 19]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(5)))	0.30125	
+[11, 13, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(sin(add(sub(5, ARG18), sub(ARG19, ARG18))), ARG18), ARG18))), add(sub(ARG19, ARG18), cos(mul(protectedDiv(ARG13, ARG11), protectedDiv(ARG17, sin(5))))))	0.6331249999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(ARG19))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG18), cos(ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, 5), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(cos(add(sub(ARG19, ARG18), ARG19)), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, cos(5)), cos(5)))	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18), ARG18))	1.0	
+[0, 2, 14, 18, 19]	protectedDiv(sin(add(sub(add(sub(sub(cos(add(ARG14, ARG2)), ARG18), ARG18), cos(sub(sin(cos(ARG0)), sub(ARG19, ARG18)))), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(ARG18))))	0.505	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG19)	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), 5)), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))	0.30937499999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(5))), add(sub(ARG19, ARG18), cos(5)))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG19)))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG19)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(add(sub(sub(ARG19, ARG18), ARG18), cos(cos(ARG18))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), sin(5)), ARG18))))))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(add(sub(sub(cos(sub(ARG19, ARG18)), ARG18), ARG1), cos(cos(ARG19))))), cos(add(sub(ARG19, ARG18), ARG19))))	0.778125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), 5)), sub(ARG19, ARG18))	0.30937499999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(add(5, sub(ARG19, ARG18)), ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.44625000000000004	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, 5))), add(sub(ARG19, ARG18), cos(protectedDiv(cos(5), mul(ARG14, 5)))))	0.124375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(cos(ARG19), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, sin(sin(ARG15))), sub(ARG19, ARG18))), add(sub(add(sub(ARG18, ARG18), ARG18), ARG18), cos(5)))	0.4275	
+[0, 19, 18, 11]	protectedDiv(sin(add(add(sub(mul(mul(5, ARG11), sub(ARG0, ARG11)), ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG19), cos(sub(ARG19, ARG18))))	0.74875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(5, sub(ARG19, ARG18)), ARG18), cos(cos(5))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	0.37187499999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG19, cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG19)))))))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	0.68625	
+[18, 19, 6, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18))), add(sub(ARG19, ARG18), cos(neg(protectedDiv(ARG6, ARG15)))))	0.786875	
+[0, 19, 18, 11]	protectedDiv(sin(add(sub(add(ARG11, ARG0), ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), cos(5)))	0.65875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(ARG19, ARG18), ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19)))))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), add(sub(ARG19, sub(ARG19, ARG18)), cos(ARG18))), ARG18)))), ARG18), ARG18))	0.48750000000000004	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(ARG19)), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sin(sub(ARG19, ARG18)), ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, sub(ARG19, sub(ARG19, ARG18))), cos(5)))), add(sub(cos(5), ARG18), cos(5)))	0.8143750000000001	
+[8, 18, 19]	protectedDiv(sin(sin(add(sub(ARG8, 5), sub(ARG19, ARG18)))), sub(ARG19, ARG18))	0.27249999999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[2, 18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, protectedDiv(add(5, 5), sin(ARG2))))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG6)))))	0.791875	
+[18, 19]	protectedDiv(sin(ARG18), add(sub(ARG19, sub(ARG19, sub(ARG19, ARG18))), cos(5)))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG19), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.125625	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sin(ARG1), sub(ARG19, ARG18)))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))), ARG19))	0.88375	
+[0, 17]	protectedDiv(protectedDiv(5, ARG0), mul(ARG17, ARG17))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(sub(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18), ARG18)), ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.874375	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG1)))	1.0	
+[18, 19]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(5)))	0.30125	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG19), sin(add(sub(ARG19, ARG18), sin(protectedDiv(5, ARG9))))), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(ARG19)))))	1.0	
+[1, 18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sin(protectedDiv(ARG1, ARG7)))), add(sub(ARG19, ARG18), cos(5)))	0.678125	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), sin(sub(ARG19, ARG18))), ARG18))))))	0.491875	
+[18, 19]	protectedDiv(sin(add(neg(5), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	0.30625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), add(neg(ARG1), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5))))))	0.8775	
+[18, 19]	protectedDiv(sin(add(sub(neg(sin(5)), ARG18), sub(cos(sin(ARG18)), ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(ARG18, ARG18)))), ARG18), cos(5)))	0.38	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(sub(ARG19, ARG18))))	0.745625	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	0.431875	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.565625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[7, 10, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), protectedDiv(mul(ARG17, ARG17), mul(ARG7, ARG10))))	0.955625	
+[16, 18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG4, ARG16))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(add(sub(ARG19, ARG18), cos(ARG18)), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sin(sub(ARG19, ARG18))))	0.615625	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, neg(sin(ARG14))))), add(sub(ARG19, ARG18), cos(ARG18)))	0.425	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG18, ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), ARG18), cos(5))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.555625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, sub(ARG19, ARG18)), ARG19))))	1.0	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), ARG1), cos(cos(ARG19))))))	1.0	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, add(sub(ARG19, ARG18), cos(ARG19))), ARG1), cos(cos(ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(5, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(5, mul(5, 5))))))	0.375625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG19)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(sub(ARG19, ARG18), add(sub(ARG19, sub(ARG19, ARG18)), cos(ARG18)))))), add(sub(sub(ARG19, ARG18), ARG18), add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), cos(5))))	0.43625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(ARG18, ARG18)))), ARG18), ARG18))	1.0	
+[9, 18, 19, 13]	protectedDiv(sin(add(sub(sub(protectedDiv(ARG19, ARG9), protectedDiv(ARG13, 5)), ARG18), sub(ARG19, ARG18))), cos(sub(ARG19, ARG18)))	0.66375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5)))))), cos(5)))	0.384375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19))))))	0.88	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG1), cos(cos(ARG18))))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, add(sub(ARG19, ARG18), cos(ARG18))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.36124999999999996	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(ARG18, cos(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))))))))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(5))))	1.0	
+[18, 19, 4, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, mul(5, ARG4)), cos(neg(sin(ARG15)))))	0.694375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(add(sub(add(sub(ARG19, ARG18), sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18)), ARG18), ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(add(sub(ARG19, ARG18), cos(5)), sin(sub(ARG19, ARG18))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5))))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), add(sub(ARG19, sub(ARG19, ARG18)), cos(ARG18))), ARG18)))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(ARG19, ARG19), cos(add(sub(ARG18, add(sub(ARG19, ARG18), sin(sub(ARG19, ARG18)))), cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(cos(ARG19), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18)))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(cos(5), cos(sin(sin(sub(ARG19, ARG18))))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), 5)	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(neg(sin(ARG15)))))	1.0	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(neg(ARG10)))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5))))), ARG19))	0.371875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG19), ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(ARG19)), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), mul(ARG7, 5)))))	1.0	
+[17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG17)), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))	0.42125	
+[18, 19]	protectedDiv(add(add(sub(sin(sub(ARG19, ARG18)), ARG19), cos(sin(sub(ARG19, sub(ARG19, ARG18))))), ARG19), add(sub(ARG19, ARG18), cos(5)))	0.5	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), cos(mul(5, 5))), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG19), cos(sub(5, mul(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), 5))))))	1.0	
+[18, 19]	protectedDiv(sin(ARG18), add(add(sub(sub(ARG19, ARG18), ARG18), cos(sin(ARG18))), ARG19))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), sub(ARG18, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(sub(5, ARG18))))	0.384375	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(ARG10))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, 5), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(5)))))	0.314375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG19, sub(ARG19, ARG18)))))	1.0	
+[18, 19, 7]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(sub(sub(5, 5), neg(ARG7)))))	0.44625000000000004	
+[8, 11, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), protectedDiv(ARG8, ARG11)))	0.7793749999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG19), cos(sub(5, mul(sin(add(sub(ARG19, ARG18), sub(ARG19, cos(5)))), 5))))))	1.0	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), mul(ARG9, 5))	0.6025	
+[11, 0, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18)))), cos(cos(add(sub(add(ARG11, ARG0), ARG18), ARG18)))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(ARG18)))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	0.6799999999999999	
+[18, 19]	protectedDiv(sin(add(sub(cos(ARG18), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, sub(ARG19, ARG18)))))	0.67625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), cos(add(sub(ARG19, ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, sub(ARG19, ARG18))), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG18, ARG18), ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	0.755625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(ARG19), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(mul(ARG19, 5))))	1.0	
+[18, 19, 4]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG4, ARG4))))	0.625625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.86625	
+[0, 18, 19, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, mul(cos(ARG7), cos(ARG0))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(cos(add(sub(ARG19, ARG18), ARG19)), cos(ARG18)))))	1.0	
+[18, 5]	protectedDiv(sin(mul(add(5, ARG18), neg(ARG5))), add(ARG18, cos(5)))	0.499375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sub(sub(ARG19, ARG18), ARG18)), cos(5)))	0.690625	
+[8, 18, 19]	protectedDiv(add(sub(ARG19, add(5, ARG8)), cos(add(sub(ARG19, ARG18), ARG19))), add(sub(ARG19, ARG18), cos(sin(sin(sub(ARG19, ARG18))))))	0.698125	
+[18, 19, 6]	protectedDiv(sin(neg(ARG6)), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))	0.155625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), cos(sin(ARG18))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG19), sin(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(mul(mul(5, 5), sub(5, 5)))), ARG19))	1.0	
+[18, 19, 12]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(mul(ARG12, 5))))	1.0	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG14, 5))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.42625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, cos(5)), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.944375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), cos(5)))	1.0	
+[0, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), protectedDiv(ARG0, 5)), ARG18), cos(5)))	1.0	
+[18]	sub(mul(ARG18, 5), neg(5))	0.5	
+[18, 19]	protectedDiv(sin(add(5, sub(ARG19, ARG18))), ARG19)	0.43875	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), cos(5)), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, ARG18), cos(sub(sin(sub(ARG19, ARG18)), ARG18))))))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, cos(cos(5))), cos(ARG18)))	0.491875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18)))), add(sub(ARG19, ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(add(sub(ARG19, sub(ARG19, ARG18)), ARG19)), ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.301875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG18, ARG18), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), 5))	0.690625	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), sub(ARG19, ARG18))), ARG14)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(protectedDiv(cos(5), mul(ARG18, 5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(add(sub(sub(ARG19, ARG19), ARG18), cos(5)))))	1.0	
+[2]	ARG2	0.50375	
+[18, 19]	protectedDiv(ARG18, add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), cos(5)))	0.30125	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(sub(ARG19, sin(protectedDiv(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG9))))))	0.74625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(sub(ARG19, sub(ARG18, ARG18)), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG19), ARG18)))), ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19, 4, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(sub(ARG19, ARG18), cos(cos(ARG19))), cos(mul(mul(ARG19, ARG4), sub(ARG6, 5)))))))	1.0	
+[11, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(sub(sub(neg(ARG17), neg(ARG11)), ARG18))))	0.90125	
+[18, 19]	protectedDiv(sin(add(5, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG19), ARG18), cos(sub(ARG19, ARG18))))))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sin(sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG19)))))	0.884375	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))))))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, sub(ARG19, neg(neg(5))))))), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG18))))	0.55625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))))), add(sub(ARG19, ARG18), cos(cos(5))))	0.62	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, cos(cos(5))), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.5	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.565625	
+[2, 18, 19, 5]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(neg(ARG2), add(ARG5, 5)), ARG18))), add(sub(ARG19, ARG18), cos(add(sub(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18)), cos(ARG18)))))	0.663125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(cos(ARG19), ARG18)))), ARG18), cos(cos(5))))	1.0	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(neg(ARG2), protectedDiv(5, ARG18))), cos(add(sub(ARG19, ARG18), cos(5)))))	0.861875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), cos(ARG19)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), 5))))	1.0	
+[9, 18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG18, protectedDiv(sin(5), mul(sub(sub(ARG9, ARG19), sub(5, ARG14)), 5)))), cos(5)))	1.0	
+[3, 18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG3), ARG18), cos(ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(ARG18)), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sin(add(ARG19, sub(ARG19, ARG18)))))), ARG19))	1.0	
+[]	neg(5)	0.5	
+[18, 19]	protectedDiv(sin(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.37187499999999996	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(ARG19)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sin(5), ARG18), cos(5)))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(sin(sub(ARG19, ARG18)), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.875625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(add(sub(ARG19, ARG18), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), 5)), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(ARG18, ARG18)))), ARG18), cos(5)))	0.375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5)))	0.504375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(neg(sub(ARG18, 5)), ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.065625	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(ARG19, ARG18), cos(neg(sin(ARG15)))))	0.49812500000000004	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), ARG19))), add(sub(ARG19, ARG18), cos(5)))	0.56125	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.86625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19)), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(5))	0.690625	
+[3, 18, 19]	protectedDiv(sin(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG19), cos(sub(ARG19, neg(ARG3)))))))	1.0	
+[18, 19]	protectedDiv(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(ARG18)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(5, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(cos(5))))))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(ARG18, neg(ARG6)))))	0.943125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, 5), sub(ARG19, ARG18)))))	1.0	
+[2, 4, 17, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(protectedDiv(protectedDiv(ARG2, ARG17), add(5, ARG4)), ARG18)))), add(sub(ARG19, ARG18), cos(5)))	0.843125	
+[8, 18, 19]	protectedDiv(sin(add(sub(cos(ARG8), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(ARG18, cos(ARG18)))))	0.7625	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18))), add(sub(add(ARG15, cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sub(ARG19, ARG18), ARG18), cos(ARG19)), ARG19))	1.0	
+[8, 18, 19]	protectedDiv(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(mul(5, ARG8))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18))), ARG18), add(neg(5), neg(ARG2))))	0.69375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG6)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG19))), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sin(sub(sub(ARG19, ARG18), ARG18))))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(sub(ARG19, ARG18), ARG18), cos(cos(ARG18))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, cos(5)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	0.625625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.48187500000000005	
+[8, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), neg(ARG8))	0.519375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))	0.884375	
+[18, 19, 5, 7]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(add(sub(add(5, ARG5), ARG18), ARG18), ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, sin(protectedDiv(ARG7, ARG19))), sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(add(sub(ARG19, ARG18), sub(ARG19, cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18)))), ARG18), ARG18))	1.0	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG2, ARG18), cos(sub(ARG19, cos(ARG19)))))	0.816875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG18, cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sub(add(sub(ARG19, ARG18), ARG18), ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	0.431875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(ARG18)), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	1.0	
+[11, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG11))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	0.565625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))), cos(5)))	1.0	
+[18, 19]	protectedDiv(ARG18, add(sub(add(sub(ARG19, ARG18), cos(cos(sub(ARG19, ARG18)))), ARG18), cos(5)))	0.62	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), add(sub(ARG19, sub(ARG19, ARG18)), cos(ARG18))), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))))), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG18, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[1, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG18, ARG1), cos(cos(ARG19))))))	1.0	
+[17, 18, 19, 4]	protectedDiv(sin(add(mul(add(ARG4, 5), sub(ARG17, 5)), sub(ARG19, sub(cos(sub(ARG19, ARG18)), ARG18)))), add(sub(ARG19, ARG18), cos(sin(ARG18))))	0.485	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sub(ARG19, 5)), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), cos(ARG18)))	0.44	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.491875	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sin(ARG10), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(sub(ARG19, ARG18), ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.88	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sin(add(ARG19, sub(ARG19, ARG18))), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(sub(ARG19, ARG18), ARG18)), cos(ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(ARG19, cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(sub(sub(ARG19, ARG18), ARG19))))	0.88	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sin(add(sub(ARG19, ARG19), sub(ARG19, ARG18))), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(sub(add(sub(ARG19, ARG18), cos(sub(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18), ARG18))), ARG18))))	0.758125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG19), cos(5)))	0.88	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG19), sub(ARG19, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sin(add(sub(add(sub(ARG19, ARG18), ARG19), ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, cos(5)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG19), cos(ARG18))))))	0.625625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, cos(add(sub(ARG19, ARG18), ARG19))))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18)))))	0.5700000000000001	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG18))	0.745	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), cos(ARG19)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[11, 18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG18), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG11, ARG18))))	0.8225	
+[19, 2, 18]	protectedDiv(sin(add(sub(ARG2, ARG18), ARG19)), add(sub(ARG19, sub(ARG19, sub(ARG19, ARG18))), cos(5)))	0.8206249999999999	
+[18, 19]	protectedDiv(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(ARG19, sub(ARG19, ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))))), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(add(sub(sub(ARG19, ARG18), ARG18), cos(5)), cos(ARG18)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))), cos(mul(5, ARG4))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG18, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, 5), sub(ARG19, ARG18)))))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(ARG18, ARG19), ARG18)))), ARG18), cos(cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18))))))))))	1.0	
+[18, 19, 4]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(ARG4)))	0.8087500000000001	
+[8, 18, 19]	protectedDiv(sin(add(cos(ARG8), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(mul(5, add(sub(ARG19, ARG18), ARG19)))))	0.464375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))	0.615625	
+[18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), cos(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))), add(sub(ARG19, ARG18), cos(neg(sin(ARG15)))))	0.564375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, add(sub(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), ARG18), ARG18)))), add(sub(ARG19, ARG18), cos(5)))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19))))	0.499375	
+[18, 19]	protectedDiv(sin(ARG18), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.62	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), 5))), ARG18), cos(5)))	0.74625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	1.0	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(sub(ARG19, sub(sin(5), neg(ARG9))), cos(sin(ARG19))))	0.50125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(cos(5))))	0.690625	
+[18, 19, 4, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), cos(cos(ARG19))), cos(mul(mul(ARG19, ARG4), sub(ARG6, 5)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, add(sub(ARG19, ARG18), cos(cos(cos(ARG18))))), ARG19))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), sub(ARG19, ARG18)))	0.615625	
+[18, 19]	protectedDiv(ARG18, add(sub(add(sub(sub(ARG19, ARG18), ARG18), cos(cos(ARG18))), ARG18), cos(5)))	0.62	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(5)))	0.74625	
+[18, 2, 19]	protectedDiv(sin(ARG2), add(sub(add(sub(ARG19, ARG18), cos(ARG19)), ARG18), cos(5)))	0.491875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(cos(sub(ARG19, ARG18)), ARG18), cos(sub(ARG18, ARG18))))	0.815625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG19), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(cos(ARG19), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(sub(ARG19, ARG18), ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), sin(5)), ARG18))))))	0.86625	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, 5), sub(ARG19, ARG18)))))	0.810625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(protectedDiv(ARG18, 5), cos(5)), sin(ARG18)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), sub(ARG19, ARG18)), cos(sin(sub(ARG19, sub(ARG19, ARG18))))), ARG19))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(add(ARG19, cos(ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(sub(ARG19, ARG19), ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(5)))	0.50125	
+[18, 19]	protectedDiv(ARG18, add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG18))))	0.485625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(cos(5))))))	0.491875	
+[18, 19]	protectedDiv(sin(add(sub(cos(5), ARG18), sub(ARG19, ARG18))), add(add(sub(ARG19, ARG18), cos(5)), sin(sub(ARG19, ARG18))))	0.874375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	
+[11, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(neg(5), protectedDiv(5, ARG11)), cos(5)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(add(sub(ARG19, ARG18), cos(cos(5))), ARG18), ARG18), ARG18))	1.0	
+[18, 19]	protectedDiv(sin(add(add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.3	
+[18, 19]	protectedDiv(5, sub(ARG19, ARG18))	0.301875	
+[10, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sin(ARG10), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(add(sub(sin(5), ARG18), cos(5)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(sub(ARG19, ARG18), ARG18)))), ARG19))	1.0	
+[18, 19]	protectedDiv(ARG18, add(sub(sub(ARG19, ARG18), ARG18), cos(cos(sub(sub(sub(ARG19, ARG18), ARG18), ARG18)))))	0.62	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sub(sin(add(sub(ARG19, sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), sub(ARG19, ARG18))), ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), ARG19)))))	1.0	
+[18, 19]	protectedDiv(sin(ARG19), add(sub(ARG19, ARG18), cos(add(ARG19, ARG19))))	0.80625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19, 14]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(neg(sin(ARG14)), ARG19))))	1.0	
+[10, 18, 19, 15]	protectedDiv(sin(add(sub(ARG19, ARG18), sin(add(sub(ARG19, ARG18), mul(ARG15, ARG10))))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.870625	
+[18, 19, 12]	protectedDiv(sub(ARG12, 5), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, ARG18)))), ARG19))	0.698125	
+[18, 19]	protectedDiv(sin(add(sub(ARG18, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, ARG18)), cos(5)))	0.884375	
+[3, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG19), add(ARG3, 5)), ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(cos(ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(add(sub(ARG19, ARG18), cos(add(sub(sub(ARG19, ARG18), ARG18), ARG19)))))), ARG18), ARG18))	0.564375	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(ARG6)))))	0.909375	
+[18, 19]	protectedDiv(sin(add(ARG19, sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.491875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(sub(ARG19, sub(ARG19, ARG18))), ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(add(sub(ARG19, ARG18), ARG19))))	0.421875	
+[18, 19]	protectedDiv(sin(add(add(sub(ARG19, ARG18), cos(add(ARG18, cos(ARG18)))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), cos(sub(ARG19, ARG19)))))	0.6799999999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))	0.615625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(add(sub(ARG19, ARG18), cos(sub(sub(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG18), ARG18))), ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, add(sub(ARG19, ARG18), sub(ARG19, ARG18))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(add(sub(sub(ARG19, ARG18), ARG18), cos(5)))))))	0.30125	
+[18, 19]	protectedDiv(sin(ARG18), add(sub(ARG19, ARG18), cos(5)))	0.30125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, sub(ARG19, ARG18)))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, add(5, ARG19))))), ARG19))	0.3675	
+[3, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(mul(sin(ARG19), sin(ARG3)), ARG18), cos(sub(ARG19, sub(ARG19, ARG18)))))	0.53	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG2, ARG18), cos(5)))	0.8775	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(cos(ARG19), cos(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), cos(add(sub(ARG19, ARG18), cos(ARG19)))))))	1.0	
+[18, 19]	protectedDiv(sin(sub(ARG19, ARG18)), add(sub(ARG19, ARG18), cos(5)))	0.884375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(ARG18, cos(sub(sub(ARG19, ARG18), ARG18))), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.630625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), add(sub(ARG19, ARG18), cos(5))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), add(sub(cos(cos(5)), ARG18), cos(sub(ARG19, ARG19)))))	1.0	
+[9, 18, 19]	protectedDiv(sin(add(sub(ARG19, add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), 5)))), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(5, ARG9))))	0.51	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)	0.565	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG19), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, ARG18))))))	0.68625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG18, ARG18), cos(sub(sub(ARG19, ARG18), ARG18))))	0.94	
+[18, 19, 15]	protectedDiv(sin(add(sub(sub(sub(sub(sub(ARG19, neg(ARG15)), ARG18), ARG18), ARG18), ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG18, ARG18), cos(ARG18)))))	0.6325000000000001	
+[18, 19, 7]	protectedDiv(sin(add(neg(ARG7), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(ARG19))), ARG18), cos(5)))	0.7012499999999999	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))))	1.0	
+[2, 18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), sub(ARG2, 5)))	0.69375	
+[18, 19, 6]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG6)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), ARG18), cos(add(sub(ARG19, ARG18), cos(sub(ARG19, sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(cos(ARG19)), add(sub(ARG19, ARG18), cos(sub(sub(ARG19, ARG18), ARG19))))	0.241875	
+[18, 19, 5]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(protectedDiv(ARG5, 5), ARG18)))), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG19, cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(add(sub(ARG19, ARG18), sub(ARG19, ARG18)), ARG19))))	1.0	
+[18, 19, 4]	protectedDiv(sin(ARG4), add(sub(ARG19, ARG18), cos(5)))	0.453125	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG18, ARG18), cos(ARG18)))))	1.0	
+[16, 18, 19, 4]	protectedDiv(sin(add(cos(sub(5, ARG18)), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sub(ARG4, ARG16))))	0.786875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(protectedDiv(ARG18, 5), cos(5)), sin(sub(ARG19, ARG18))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), add(add(sub(sin(sub(ARG19, ARG18)), sub(ARG19, ARG18)), cos(sin(sub(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), ARG18)))), ARG19))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), ARG18)), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), cos(ARG18)))))	0.3675	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(add(sub(sin(sub(ARG19, ARG18)), ARG18), cos(sin(sub(ARG19, add(ARG18, ARG19))))), ARG19))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, 5))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(sub(sub(ARG19, sub(ARG19, ARG18)), ARG18), sub(sub(ARG19, ARG18), ARG18)), ARG18)))), ARG18), ARG18))	0.124375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(ARG19, cos(sub(sub(ARG19, ARG18), ARG18))), ARG18), cos(ARG19)))	1.0	
+[18, 10, 19]	protectedDiv(sin(add(cos(ARG10), sub(ARG19, ARG18))), add(sub(sub(ARG19, ARG18), sub(ARG18, add(sub(ARG19, ARG18), sub(ARG19, ARG18)))), cos(5)))	0.659375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(add(sub(ARG19, ARG18), cos(cos(sub(sub(add(sub(ARG18, add(sub(ARG19, ARG18), sin(sub(ARG19, ARG18)))), cos(5)), ARG18), ARG18)))), ARG18), cos(5)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(ARG19, ARG18))))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(5, ARG18), cos(5)))	0.690625	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), cos(add(sub(ARG19, ARG18), sub(ARG19, ARG18)))))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), add(sub(ARG19, ARG18), sub(ARG19, 5)))), add(sub(sub(ARG19, ARG18), ARG18), cos(ARG18)))	0.374375	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(sub(ARG19, sub(ARG18, ARG18)), ARG18), cos(ARG18)))	1.0	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(cos(add(sub(ARG18, ARG18), cos(ARG18))), ARG18))), add(sub(ARG19, ARG18), cos(sin(sin(sub(add(sub(ARG19, ARG18), sin(5)), ARG18))))))	0.81875	
+[18, 19]	protectedDiv(sin(add(sub(ARG19, ARG18), sub(ARG19, ARG18))), add(sub(ARG19, ARG18), ARG19))	0.934375	

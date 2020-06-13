@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[10, 18, 19, 7]	sin(mul(sub(ARG18, ARG19), add(sin(protectedDiv(neg(ARG10), sin(ARG7))), ARG18)))	0.7424999999999999	
+[11, 18, 19, 12]	sin(mul(sub(ARG18, ARG19), sub(add(ARG11, ARG12), ARG19)))	0.69875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.8674999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sin(ARG18)))	0.68375	
+[18, 19, 13, 14]	sin(mul(sub(sub(ARG18, ARG19), sin(mul(ARG13, ARG14))), sub(ARG18, ARG19)))	0.99125	
+[16, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), cos(neg(ARG16)))))	0.6799999999999999	
+[19]	sin(ARG19)	0.49	
+[0, 18, 19]	sin(mul(sub(neg(cos(ARG0)), ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.50125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[0, 1, 15, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(ARG17, protectedDiv(ARG0, 5)), ARG19)), sub(add(sub(ARG18, ARG19), sin(sub(ARG18, protectedDiv(ARG1, ARG15)))), ARG19))))	0.64125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[16, 1]	sin(protectedDiv(ARG1, ARG16))	0.500625	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[10, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(ARG10, 5), ARG19)))	0.618125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[1, 18, 19, 15]	sin(mul(sub(add(sub(ARG18, ARG19), sin(sub(ARG18, protectedDiv(ARG1, ARG15)))), ARG19), sub(ARG18, ARG19)))	0.98875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[12, 5]	mul(add(5, ARG12), sin(ARG5))	0.489375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[]	add(5, 5)	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG19))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(sub(ARG19, ARG19), ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.66375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG19), sub(ARG18, ARG19))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG19, ARG19))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sin(sub(ARG19, ARG19)))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, sub(ARG18, ARG19)), sin(sub(ARG19, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[9]	sub(5, ARG9)	0.5	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG19))))	0.9275	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[]	sin(5)	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[8, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(cos(sin(ARG8)), ARG19)))	0.684375	
+[18, 19, 12]	sin(mul(sub(ARG18, add(sub(5, ARG12), protectedDiv(5, 5))), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.663125	
+[18, 19, 12]	sin(mul(cos(mul(ARG12, 5)), sub(ARG18, ARG19)))	0.683125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG18))))	0.5	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.67125	
+[1, 18, 15]	sin(sin(sub(ARG18, protectedDiv(ARG1, ARG15))))	0.474375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG18), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[1, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG1)))	0.6793750000000001	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[3, 11, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG3, ARG11), ARG19)))	0.701875	
+[0, 18, 19]	sin(mul(sub(sin(neg(ARG0)), ARG19), sub(ARG18, ARG19)))	0.75625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, sub(ARG18, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(ARG18, add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18]	sin(sub(ARG18, cos(5)))	0.49375	
+[2, 18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG2, ARG19)))	0.513125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19, 5]	sin(mul(add(ARG19, ARG5), sub(ARG18, ARG19)))	0.626875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG18))))	1.0	
+[18, 19]	sin(mul(add(ARG18, cos(sin(5))), sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[]	sin(protectedDiv(5, 5))	0.5	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(sub(ARG18, ARG19), ARG19))))	0.88	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG18), ARG18)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[7]	sin(ARG7)	0.495625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[19, 13]	sin(mul(sin(ARG13), ARG19))	0.48750000000000004	
+[18, 19]	sin(mul(ARG18, add(sin(ARG18), sub(ARG18, ARG19))))	0.3175	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[10, 19]	sin(sub(sin(sub(ARG10, 5)), ARG19))	0.50625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19))))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[0, 9]	add(ARG0, ARG9)	0.505625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 3]	mul(ARG18, ARG3)	0.49750000000000005	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19)), ARG19), add(sub(ARG18, ARG19), sin(ARG18))))	0.81125	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[5, 18, 19, 13]	sin(mul(sub(ARG18, ARG19), sub(sub(sin(ARG13), neg(ARG5)), ARG19)))	0.71375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[0, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(ARG17, protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	1.0	
+[18]	sin(mul(ARG18, sub(ARG18, add(5, 5))))	0.48125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(5, sub(ARG18, ARG19))))	0.75625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(neg(5), neg(ARG18)), ARG19)))	0.6925	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 15]	sin(mul(ARG15, sub(ARG18, ARG19)))	0.5225	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, add(sin(ARG18), 5))))	0.74375	
+[0, 18, 19]	sin(mul(ARG19, sub(ARG18, sub(cos(5), protectedDiv(ARG0, ARG0)))))	0.445	
+[19, 18, 11]	sin(mul(protectedDiv(5, ARG11), sub(ARG18, ARG19)))	0.6856249999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[19]	sin(ARG19)	0.49	
+[19]	sin(ARG19)	0.49	
+[1, 18, 19, 15]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sin(sub(ARG18, protectedDiv(ARG1, ARG15))))))	0.75875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[3, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sub(protectedDiv(5, 5), add(5, ARG3)))))	0.55625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[19, 18, 3]	sin(mul(sub(ARG18, cos(neg(ARG3))), sub(ARG18, ARG19)))	0.678125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[19]	ARG19	0.49	
+[18, 19, 4, 5]	sin(mul(sub(add(ARG4, 5), add(ARG5, 5)), sub(ARG18, ARG19)))	0.62625	
+[16, 18, 19, 15]	sin(mul(sub(ARG18, ARG19), mul(mul(ARG15, ARG16), sub(5, ARG18))))	0.50375	
+[18, 19]	sin(mul(ARG19, add(sin(ARG18), sub(ARG18, ARG19))))	0.23375	
+[14]	sin(ARG14)	0.5125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG18), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.5	
+[10, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, neg(protectedDiv(ARG10, ARG18))), sin(ARG19))))	0.6125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG19, ARG19))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[0, 7]	sin(protectedDiv(sin(ARG0), sin(ARG7)))	0.501875	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19, 13]	sin(mul(sub(ARG18, ARG19), add(ARG19, sin(sub(sub(sin(ARG13), sub(5, 5)), ARG19)))))	0.64125	
+[13]	ARG13	0.49125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[0, 18, 19, 4]	sin(mul(sub(sub(ARG18, ARG19), ARG19), add(sin(sub(mul(add(ARG4, sub(ARG18, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	0.3175	
+[18, 19]	sin(mul(sub(5, ARG19), sub(ARG18, ARG19)))	0.56375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[]	5	0.5	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 6]	sin(mul(ARG18, sin(neg(ARG6))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[2]	sin(ARG2)	0.4925	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[3]	ARG3	0.49750000000000005	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG19, ARG19))))	0.8674999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[17, 18, 19]	sin(mul(add(sin(ARG18), sin(ARG17)), sub(ARG18, ARG19)))	0.688125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[16, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sin(ARG16)), sub(ARG18, ARG19))))	0.981875	
+[0, 18, 19, 4]	sin(mul(sub(sub(mul(add(ARG4, sub(ARG18, ARG19)), protectedDiv(ARG0, 5)), ARG19), ARG19), add(sin(sub(neg(neg(5)), ARG18)), sub(ARG18, ARG19))))	0.3975	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, sub(ARG18, ARG19))))))	0.94	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[8, 18]	sin(mul(sub(ARG18, ARG18), ARG8))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(5, sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[5, 14]	sin(add(sub(5, ARG5), sin(ARG14)))	0.4975	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[1, 18, 19]	sin(mul(sub(ARG1, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG19, ARG19))))	0.6575	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[19, 15]	sin(mul(ARG19, sub(ARG15, ARG19)))	0.47062499999999996	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[9, 18, 19]	sin(mul(sub(ARG18, ARG19), mul(ARG9, sub(ARG18, ARG19))))	0.660625	
+[11, 18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, sub(ARG11, 5))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, 5)))	0.5675	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, 5)))	0.495	
+[17]	sin(ARG17)	0.495	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(sub(sin(sub(ARG18, ARG19)), ARG19), neg(5)))	0.8674999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), ARG18)))	0.8200000000000001	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), add(sub(ARG18, ARG19), sin(ARG18))))	0.23375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 14]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG14)))	0.7075	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[]	sin(neg(cos(5)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[16, 18, 19, 15]	sin(mul(sub(mul(ARG16, ARG15), ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[0, 2, 11, 18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, add(neg(ARG2), protectedDiv(ARG11, ARG0)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG19))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))))	0.8725	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, mul(sub(ARG18, ARG19), sub(neg(5), ARG19))), sin(sub(ARG19, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[2, 0, 18, 19]	sin(mul(add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19)), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG19, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	0.66	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, cos(ARG19))))	0.6925	
+[9, 18, 19]	sin(mul(sub(mul(5, ARG9), ARG19), sub(ARG18, ARG19)))	0.69375	
+[19, 5]	sin(sub(cos(ARG5), ARG19))	0.51	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), add(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sin(sub(ARG18, ARG19))))))	0.68375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, sin(sub(ARG19, ARG19))), sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18]	sin(ARG18)	0.49375	
+[1, 18, 19, 14]	sin(mul(sub(ARG18, ARG19), add(sin(sub(add(ARG14, ARG1), mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))), sub(ARG18, ARG19))))	0.968125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[2, 18, 19, 5]	sin(mul(sub(ARG18, mul(protectedDiv(ARG19, ARG5), mul(ARG2, 5))), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.73	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG19), sub(ARG18, ARG19))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(sub(ARG18, ARG19), ARG19)))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19))))	1.0	
+[18]	sin(ARG18)	0.49375	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), add(sin(ARG18), sub(ARG18, ARG19))))	0.675	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[2, 0, 18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG18, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	0.3175	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[0, 18, 19, 6]	sin(mul(sub(ARG18, ARG19), sub(ARG6, ARG0)))	0.58125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(cos(add(5, 5)), ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[16, 19]	cos(mul(ARG16, ARG19))	0.51125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(cos(sin(ARG18)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19, 5]	sin(mul(neg(ARG5), sub(ARG18, ARG19)))	0.6174999999999999	
+[9, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(sin(ARG9), ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[4, 12]	protectedDiv(ARG4, ARG12)	0.499375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.8674999999999999	
+[18, 14]	sin(mul(protectedDiv(5, ARG14), cos(ARG18)))	0.511875	
+[]	sin(add(neg(5), add(5, 5)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18]	sin(ARG18)	0.49375	
+[18, 19, 14]	sin(mul(sub(mul(sub(ARG18, ARG19), mul(sin(5), neg(ARG14))), ARG19), sub(ARG18, ARG19)))	0.775	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG18), ARG19))	0.5	
+[4, 6, 14, 18, 19]	sin(mul(sub(ARG18, sub(sub(add(5, ARG4), protectedDiv(ARG6, ARG14)), ARG19)), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.68625	
+[0, 18, 19]	sin(mul(sub(ARG18, sin(ARG0)), sub(ARG18, ARG19)))	0.7575000000000001	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[14]	sin(ARG14)	0.5125	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19, 7]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, sub(ARG18, ARG19)), sin(cos(ARG7)))))	0.61125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[8, 18, 19, 7]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, add(ARG7, ARG8)))))	0.604375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19, 7]	sin(mul(sub(ARG18, ARG19), sub(sub(mul(ARG7, 5), ARG19), ARG19)))	0.570625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[8, 12, 17, 18, 19]	sin(mul(sub(ARG18, sub(protectedDiv(ARG8, ARG12), protectedDiv(5, ARG17))), sub(ARG18, ARG19)))	0.738125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(neg(5), neg(5)), ARG19)))	0.75625	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[19, 7]	sin(mul(ARG19, add(sin(sub(ARG19, ARG19)), ARG7)))	0.5025	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19))))))	0.68375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 4]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(add(ARG4, sub(ARG18, ARG19)), ARG18), ARG19)), sub(ARG18, ARG19))))	0.971875	
+[0, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(protectedDiv(ARG0, 5), ARG19)))	0.776875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(add(sin(sub(5, ARG19)), sub(ARG18, ARG19)), ARG19)))	0.75125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[1]	cos(mul(ARG1, 5))	0.49375	
+[18, 19, 14]	sin(mul(sub(ARG18, ARG19), add(ARG14, sin(sub(ARG19, ARG19)))))	0.55	
+[19]	sin(mul(sub(sub(neg(5), sin(5)), ARG19), ARG19))	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 15]	sin(mul(sub(ARG18, ARG19), cos(add(ARG15, 5))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[16, 18, 19]	sin(mul(sub(ARG16, ARG19), sub(ARG18, ARG19)))	0.7275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, 5)), sub(ARG18, ARG19))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.81125	
+[3, 17, 19, 6]	sin(mul(ARG19, protectedDiv(protectedDiv(ARG17, ARG3), sub(5, ARG6))))	0.484375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[14]	cos(sin(ARG14))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[17, 18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), add(sub(ARG18, mul(5, ARG17)), sin(ARG18))))	0.8668750000000001	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[8, 10, 17, 18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, protectedDiv(mul(ARG10, ARG8), add(ARG17, 5))))), sub(ARG18, ARG19)))	0.555625	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.67125	
+[16, 18]	sin(sin(sub(ARG18, protectedDiv(add(ARG16, 5), add(5, 5)))))	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, sub(ARG18, 5)))))	0.68375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[17, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(sub(ARG18, ARG19), ARG19), sin(sub(add(protectedDiv(5, ARG17), neg(5)), ARG19)))))	0.916875	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(5, sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[]	sin(sin(neg(5)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(5, ARG19)))	0.56375	
+[]	sin(neg(5))	0.5	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19, 5]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, cos(add(ARG5, 5))), sin(sub(ARG19, ARG19)))))	0.765	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[19, 0, 18, 2]	sin(mul(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG19, ARG19)), protectedDiv(ARG0, 5)), ARG19), sub(ARG18, ARG19)))	0.770625	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[1, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(neg(ARG1), ARG19)))	0.696875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[11, 18, 19]	sin(mul(sub(ARG18, ARG19), neg(sin(ARG11))))	0.516875	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), 5))	0.68375	
+[2, 0, 18, 19]	sin(mul(sub(ARG19, sub(5, 5)), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG19, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	0.66375	
+[1, 18, 19, 6]	sin(mul(sub(sub(ARG6, ARG1), ARG19), sub(ARG18, ARG18)))	0.5	
+[8, 12, 14]	protectedDiv(protectedDiv(ARG8, ARG14), protectedDiv(ARG12, 5))	0.5018750000000001	
+[8, 18, 19]	sin(mul(sub(ARG18, add(neg(5), protectedDiv(5, ARG8))), sub(sub(ARG18, ARG19), ARG19)))	0.311875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG18), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[10, 8, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, mul(ARG10, ARG8)))))	0.560625	
+[17, 18, 19]	sin(mul(ARG19, sub(ARG18, protectedDiv(add(5, ARG17), add(5, 5)))))	0.42625	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[17, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(sin(protectedDiv(ARG17, 5)), ARG19)))	0.764375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[]	sin(5)	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG18))))	0.8674999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG18))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), 5))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[19, 18, 10]	sin(mul(sub(ARG18, mul(5, ARG10)), sub(ARG18, ARG19)))	0.604375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, 5)))	0.25375000000000003	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, sub(ARG18, ARG19)))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[19, 15]	sin(mul(sub(sin(protectedDiv(ARG15, 5)), ARG19), ARG19))	0.4725	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	0.5	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[19]	sin(ARG19)	0.49	
+[19, 18, 2]	sin(mul(sub(ARG18, sin(ARG2)), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.33499999999999996	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(mul(ARG18, 5), sin(5))))	0.8	
+[19, 13]	sin(mul(sub(ARG19, ARG19), add(ARG13, 5)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[19]	sin(add(mul(5, 5), sin(ARG19)))	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19, 6, 15]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(add(ARG6, 5), add(ARG15, 5)))))	0.646875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG18), neg(5))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 6]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, mul(add(ARG6, 5), sin(5)))), ARG19)))	0.7224999999999999	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(add(sin(ARG18), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	1.0	
+[18, 19, 12]	sin(mul(neg(ARG12), sub(ARG18, ARG19)))	0.57625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(5, ARG18)))	0.56	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(5, sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 14]	sin(mul(sub(ARG18, sin(neg(ARG14))), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG19, ARG19))))	0.8674999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[2, 0, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG18, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG18))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[19, 4]	sin(mul(add(5, ARG4), ARG19))	0.491875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[0, 18, 19]	sin(add(sin(sub(ARG18, add(ARG0, 5))), sub(ARG18, ARG19)))	0.37375	
+[18, 19]	sin(mul(sub(5, ARG19), sub(ARG18, ARG19)))	0.56375	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, 5), sub(ARG18, ARG19)))	0.5675	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sin(sub(ARG18, ARG19)))))	0.67125	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(5, sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[0, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, cos(ARG0))))	0.65125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, mul(sub(ARG18, ARG19), sub(5, ARG19))), sin(sub(ARG18, ARG19)))))	0.81125	
+[18, 19, 14, 6]	sin(mul(add(sub(ARG18, ARG19), sin(protectedDiv(sub(ARG19, ARG14), add(ARG6, ARG14)))), sub(ARG18, ARG19)))	0.9143749999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, sub(ARG18, ARG19)))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 7]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG7, ARG7))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sin(sin(5)), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(mul(5, sub(ARG18, ARG19)), ARG18)))))	0.9275	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(ARG19, add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[]	5	0.5	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG18))))	1.0	
+[4, 5, 12, 18, 19]	sin(mul(protectedDiv(add(ARG12, ARG4), sub(5, ARG5)), sub(ARG18, ARG19)))	0.63	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[17, 19]	sin(mul(neg(cos(ARG17)), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[4, 13, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(protectedDiv(mul(ARG13, ARG17), neg(ARG4)), ARG19)))	0.68125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), 5))	0.68375	
+[2, 0, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG18, ARG19)), protectedDiv(ARG0, sub(ARG18, ARG19))), ARG19)), sub(ARG18, ARG19))))	1.0	
+[3, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(add(ARG17, ARG3), ARG18)))	0.536875	
+[18, 19]	sin(mul(sub(ARG19, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.66375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.66375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG18), add(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sin(sub(ARG18, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19))))	0.68375	
+[1, 19, 7]	sin(mul(ARG19, protectedDiv(ARG7, ARG1)))	0.51	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[9, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(ARG9, 5), sin(5))))	0.703125	
+[18, 19]	sin(mul(cos(5), sub(ARG18, ARG19)))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG19, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19, 12]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, sub(neg(5), neg(ARG12))), sub(ARG18, ARG19))))	0.508125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG18), sub(ARG19, ARG19))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[5]	sin(neg(ARG5))	0.5	
+[19, 2, 18]	sin(mul(sub(ARG2, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.65	
+[18, 19]	sin(mul(sub(ARG18, add(5, 5)), sub(ARG18, ARG19)))	0.4875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[]	sin(5)	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19, 4]	sin(mul(sub(ARG18, ARG19), sub(sin(ARG4), ARG19)))	0.753125	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(ARG18, sub(ARG18, ARG19))))	0.8200000000000001	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sin(sub(ARG19, ARG19)), ARG19)))	0.75625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 5, 19, 13]	sin(mul(sub(add(ARG13, ARG5), ARG19), sub(ARG18, ARG19)))	0.686875	
+[18, 19]	sin(mul(sub(ARG18, 5), add(sin(sub(ARG18, ARG19)), sub(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)), ARG19))))	0.61625	
+[18, 19]	sin(mul(ARG18, sub(5, ARG19)))	0.73625	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[10, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(ARG18, ARG10))))	0.585625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[5]	sin(ARG5)	0.489375	
+[18, 19]	sin(mul(sub(ARG18, sin(5)), add(sin(sub(ARG18, ARG18)), sub(ARG19, ARG19))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, sub(ARG18, ARG19)), sin(sub(ARG18, ARG19)))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[6, 15, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG17, 5), protectedDiv(ARG6, ARG15)), ARG19)))	0.7262500000000001	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[]	sin(5)	0.5	
+[19, 18, 3]	sin(mul(sub(protectedDiv(neg(5), cos(ARG3)), ARG18), sub(ARG18, ARG19)))	0.7025	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[17, 18, 19]	sin(mul(ARG17, sub(ARG18, ARG19)))	0.515	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[8, 18, 19, 15]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), add(ARG8, ARG15))))	0.8218749999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG18), sin(sub(ARG19, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[19, 2, 18]	sin(mul(mul(ARG2, 5), sub(ARG18, ARG19)))	0.528125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(add(sin(ARG18), sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG19, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG18), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[10, 14]	sin(neg(sub(ARG10, ARG14)))	0.495	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG18))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, cos(neg(5))), sub(ARG18, ARG19)))	0.8075	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(ARG19, sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(5, sub(ARG18, ARG19)))	0.68375	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[6]	cos(cos(ARG6))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))))	0.62	
+[15]	sin(ARG15)	0.499375	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.68375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(sub(ARG18, ARG19), ARG19)))))	0.9275	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sin(ARG18)))	0.68375	
+[18, 19]	sin(mul(add(add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19))), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.8674999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[2, 0, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG18, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	1.0	
+[17, 18, 19]	sin(mul(sub(sin(sin(ARG17)), ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.756875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[8, 7]	sub(mul(5, ARG8), add(5, ARG7))	0.5031249999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(ARG19, add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))), ARG19)))	0.615	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.8674999999999999	
+[18, 19]	sin(mul(sin(mul(cos(5), neg(5))), sub(ARG18, ARG19)))	0.68375	
+[19, 18, 11, 5]	sin(mul(sub(protectedDiv(ARG5, ARG11), ARG19), sub(ARG18, ARG19)))	0.62625	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(ARG18), sub(sub(ARG18, ARG19), ARG19))))	0.9275	
+[18, 10]	sin(mul(sub(ARG18, ARG10), ARG18))	0.474375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[9, 4]	sin(mul(ARG4, ARG9))	0.5	
+[18, 19]	sin(sub(ARG18, ARG19))	0.68375	
+[18, 19]	sin(mul(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.68375	
+[0, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sub(mul(ARG17, protectedDiv(ARG0, 5)), ARG19))))	0.811875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sin(ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(5, ARG19), sub(ARG18, ARG19)))	0.56375	
+[18, 19]	sin(mul(sub(ARG19, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG19, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG18), sin(sub(ARG19, ARG19)))))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[3, 17, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, mul(ARG3, ARG17)), sin(sub(ARG18, ARG19)))))	0.816875	
+[19, 18, 10]	sin(mul(sub(ARG18, sin(cos(ARG10))), sub(ARG18, ARG19)))	0.7537499999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[0, 18, 19, 14]	sin(mul(sub(ARG18, sub(protectedDiv(ARG0, 5), cos(ARG14))), mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))	0.973125	
+[1, 18]	sin(sub(ARG18, ARG1))	0.483125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG19, ARG19), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18]	sin(mul(sub(ARG18, sin(5)), sub(ARG18, ARG18)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[2, 18]	sin(protectedDiv(ARG2, ARG18))	0.50125	
+[16, 19]	sin(mul(sub(ARG19, ARG19), ARG16))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG19, ARG19), sin(sub(ARG19, ARG19)))))	0.5	
+[18]	sin(protectedDiv(5, ARG18))	0.4875	
+[18, 19]	sin(mul(sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19), sub(ARG18, ARG19)))	0.615	
+[17]	add(ARG17, 5)	0.5	
+[18, 19]	sin(mul(sub(5, ARG19), sub(ARG18, ARG19)))	0.56375	
+[8]	ARG8	0.514375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))))	0.67125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[16, 18, 19]	sin(mul(sub(mul(ARG16, 5), cos(5)), sub(ARG18, ARG19)))	0.6856249999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG19, ARG19)))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG18)))	0.5	
+[16, 18, 19, 15]	sin(mul(sub(ARG18, ARG19), sub(mul(ARG16, ARG15), ARG19)))	0.749375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))))))	0.62	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[19, 18, 11]	sin(mul(sub(protectedDiv(5, ARG11), ARG19), sub(ARG18, ARG19)))	0.618125	
+[9, 18, 19, 12]	sin(mul(ARG19, sub(ARG18, protectedDiv(protectedDiv(ARG9, ARG9), neg(ARG12)))))	0.50875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, sub(ARG18, ARG19))))	0.54375	
+[18, 19]	sin(mul(ARG19, add(sin(ARG18), sub(ARG18, ARG19))))	0.23375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[19, 18, 3]	sin(mul(sub(ARG18, neg(ARG3)), sub(ARG18, ARG19)))	0.721875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG19, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 9, 10, 19]	sin(mul(sub(protectedDiv(ARG10, ARG9), ARG19), sub(ARG18, ARG19)))	0.639375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(ARG18))))))	0.6799999999999999	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[19, 18, 3, 12]	sin(mul(mul(ARG12, ARG3), sub(ARG18, ARG19)))	0.5325	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)), ARG19)))	0.615	
+[18]	sin(ARG18)	0.49375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(ARG18, ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, sub(ARG18, ARG19)), 5))	0.5	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG19))	0.54375	
+[2]	sin(mul(ARG2, 5))	0.5	
+[17, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(add(protectedDiv(5, ARG17), neg(5)), ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(sub(ARG18, ARG19), ARG19), sub(ARG18, ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(ARG18, sin(sub(ARG19, ARG19)))))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), add(sub(ARG18, ARG19), sin(sub(ARG18, ARG19)))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[9, 18, 19]	sin(mul(neg(ARG9), sub(ARG18, ARG19)))	0.571875	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[2, 0, 18, 19]	sin(mul(sub(ARG18, ARG19), add(sin(sub(mul(add(sin(sub(ARG18, ARG2)), sub(ARG19, ARG19)), protectedDiv(ARG0, 5)), ARG19)), sub(ARG18, ARG19))))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(ARG18, sub(ARG18, ARG19)))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sin(sub(ARG18, ARG18)), sub(ARG18, ARG19)))	0.5	
+[18, 19]	sin(mul(add(sub(ARG18, ARG19), sub(ARG18, ARG19)), sub(ARG18, ARG19)))	0.8674999999999999	
+[19]	sin(ARG19)	0.49	
+[18, 19]	sin(mul(sub(ARG18, mul(sub(ARG18, ARG19), sub(ARG18, ARG19))), sub(ARG18, ARG19)))	0.62	
+[18, 19]	sin(mul(sub(ARG18, ARG19), ARG18))	0.74375	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(sub(ARG18, ARG19), ARG19)))	0.81125	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	
+[18, 19]	sin(mul(sub(ARG18, ARG19), sub(ARG18, ARG19)))	1.0	

@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(5, add(ARG5, 5))))))	0.011699873086966963	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(ARG8, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.0076547096926127016	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sub(ARG18, 5))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.000297473798186137	
+[0, 18, 19, 13]	sub(5, add(cos(ARG0), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.0002997434920674258	
+[2, 18]	sub(mul(5, 5), sub(add(ARG2, ARG18), ARG18))	0.00029946967218973266	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9)))))))	0.0002965320117717175	
+[2, 5, 9, 13, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13)))))), ARG18)))))	0.00029871001404346376	
+[8, 18, 5]	sub(sin(5), add(ARG18, neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002983514911357796	
+[9, 18, 19]	sub(mul(sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18))))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	5.991120255506328e-05	
+[9, 11]	sub(sin(5), add(add(ARG9, 5), neg(sin(sub(ARG11, 5)))))	0.00029966006378469724	
+[3]	mul(neg(ARG3), sin(5))	0.0002993554759692996	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(sin(sub(ARG8, ARG18))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002987792224537567	
+[5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(sub(ARG8, ARG5))))))	0.002983373298951487	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(ARG19, 5)), neg(ARG19))), sub(ARG18, 5)))	0.0014753168603030618	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.0032429651546197562	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(5, add(ARG5, 5))))))	0.011699873086966963	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.002541427304868578	
+[3, 9, 18, 19]	sub(sin(5), add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))))	0.01377054679421063	
+[]	neg(5)	0.0002995405879806643	
+[5, 8, 9, 13, 16, 18, 19]	sub(5, add(add(ARG9, sub(5, add(add(ARG16, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.00014956554926656948	
+[8, 9, 6]	sub(5, add(add(ARG9, sub(5, mul(ARG9, cos(cos(ARG6))))), neg(ARG8)))	0.00029988593512119256	
+[18, 19]	sub(mul(5, 5), add(add(neg(neg(ARG19)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.002847507904094577	
+[8, 3, 18, 19]	sub(mul(5, 5), add(add(ARG19, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), sub(ARG8, sin(ARG3))))	0.0028282506677020955	
+[9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG9)), sub(ARG18, 5)))), neg(neg(5))))	0.0002055942658463232	
+[8, 9, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG5))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00021069555007270397	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG18, 5))))))	0.009279457296446735	
+[16, 2]	sub(5, add(ARG16, neg(neg(sub(add(ARG2, 5), sin(5))))))	0.00029972163669649633	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))))))	0.0002968352902030999	
+[18, 19, 13, 15]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), ARG18), ARG13)), ARG18), sub(ARG15, ARG18)))	0.0030268319587568016	
+[5, 8, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(add(mul(5, ARG13), 5), sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	5.857456100154356e-05	
+[5, 8, 9, 18, 19]	sub(sin(neg(sub(ARG18, ARG18))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009179994245224369	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0033801123709530333	
+[5, 8, 9, 14, 18, 19]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(ARG9, sub(add(ARG5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00014990159236418638	
+[18, 19]	sub(sin(5), mul(neg(neg(ARG19)), sub(ARG18, 5)))	0.0001493850090442247	
+[16, 9, 8]	sub(mul(5, 5), add(add(ARG9, sub(5, ARG16)), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.00029896778963613797	
+[5, 7, 8, 9, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(ARG7, mul(neg(neg(ARG19)), ARG18)), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(ARG8, ARG18)))	0.0002991870170150004	
+[8, 9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(add(ARG5, 5)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00021033903846403361	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, neg(ARG19)))))))	0.010910172238669552	
+[8, 9, 16, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.009599529729464361	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG8))))	0.0033394598218940974	
+[2, 5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(sub(add(ARG2, 5), sin(5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009193664403913726	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), sub(ARG18, 5))), sub(ARG18, 5)))	0.0031762264806960263	
+[9, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), neg(ARG19)))), neg(5)))	0.00018263662513744348	
+[9, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, neg(ARG19))), neg(5)))	0.0002997343653316424	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), mul(neg(neg(ARG19)), sub(ARG18, 5))))	0.0002974081036022775	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG9, add(ARG5, 5))))))	0.003748972490419163	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(neg(ARG19), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.004000974297556719	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.009570212940861049	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.004166857376788364	
+[9, 18, 19]	sub(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.000299631449680469	
+[9, 5]	sub(5, add(add(ARG9, mul(5, 5)), ARG5))	0.0003000417348663113	
+[18, 19, 5]	sub(5, add(add(5, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG5))))	0.0033518977890145117	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), ARG9), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002071277849570292	
+[]	sub(sin(5), 5)	0.00029954304001088267	
+[5, 8, 9, 18, 19]	sub(add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG19)))	0.0003002496273958425	
+[7, 8, 9, 10, 16, 19]	sub(sin(ARG19), add(add(ARG9, sub(5, mul(cos(ARG7), protectedDiv(ARG10, ARG16)))), neg(neg(sub(ARG8, 5)))))	0.0002992187506914874	
+[18]	sub(mul(5, 5), sub(cos(cos(5)), mul(neg(neg(5)), sub(ARG18, 5))))	0.0002996971940094916	
+[8, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(sub(ARG8, neg(5))))))	0.010988757388469068	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.004098638573250406	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, mul(neg(neg(ARG19)), sub(ARG18, 5))))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	3.8369303099693185e-06	
+[9, 2]	sub(5, add(add(ARG9, sub(5, 5)), neg(neg(sub(add(ARG2, 5), 5)))))	0.00029965087964571867	
+[8, 9]	sub(5, add(add(ARG9, sub(5, 5)), neg(ARG8)))	0.00029997959706966934	
+[2, 5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(neg(sub(add(ARG2, 5), 5)), ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0020169025333082536	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19))))))))	0.003997829955511911	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	0.004989081523219688	
+[9, 2, 18]	sub(5, add(add(ARG9, 5), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00029966568664021	
+[5, 6, 8, 9, 18, 19]	sub(neg(neg(sub(ARG8, add(ARG5, 5)))), add(add(ARG9, sub(sub(add(ARG9, ARG6), mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029265630081253273	
+[6, 8, 13, 18, 19]	sub(mul(5, add(add(ARG13, ARG6), cos(ARG8))), sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5))))	0.002132908808656625	
+[1, 9, 15, 18, 19]	sub(protectedDiv(neg(ARG15), sub(ARG1, 5)), add(add(ARG9, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19))), 5))	0.0074853467342319785	
+[5, 8, 9, 11, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(ARG11, 5)), neg(ARG19))), sub(5, 5)))	0.001771552795833678	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(ARG18, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.00968814275090234	
+[5, 8, 9, 18, 19]	sub(sin(neg(5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, add(ARG5, 5)), neg(neg(ARG19))))))))	0.004053143614306654	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(ARG5))))	0.010732946710490776	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG19))))	0.002832380525057941	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(5)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002997767272020613	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(add(neg(ARG19), 5))))	0.011331614286939903	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(neg(sub(ARG8, add(ARG5, 5)))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003954336883124659	
+[1, 5, 9, 10, 18, 19]	sub(cos(add(ARG1, ARG10)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(neg(ARG19), add(ARG5, ARG5))))))	0.006647812916722397	
+[8, 9, 10, 6]	sub(mul(5, 5), add(add(ARG9, protectedDiv(add(ARG10, ARG6), neg(5))), ARG8))	0.0002990916176574796	
+[18, 19]	sub(sin(5), add(add(ARG18, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, 5)))))	0.0032192138707566632	
+[9, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG9), ARG9))	0.0029393523225648777	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG18)))))	0.00029253895929020804	
+[9, 18, 2]	sub(5, add(add(ARG9, ARG18), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.0002993505371957517	
+[8, 18, 19, 5]	sub(mul(5, 5), add(add(mul(neg(neg(ARG19)), sub(ARG18, 5)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029858219924004307	
+[9, 18, 5]	sub(5, add(add(ARG9, sub(5, add(ARG5, 5))), neg(neg(sub(protectedDiv(5, 5), ARG18)))))	0.00029940759386190276	
+[5, 8, 9, 13, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(ARG13, 5)), neg(ARG19))), sub(ARG18, 5)))	0.0017811234807577007	
+[5, 8, 13, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG18), sub(ARG8, ARG18)))	0.0017822865286401912	
+[9, 18, 19, 7]	sub(mul(5, mul(cos(ARG7), protectedDiv(5, ARG18))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033809470514111583	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[3, 5, 8, 9, 10, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(ARG3, protectedDiv(protectedDiv(ARG10, 5), sub(5, 5)))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.865889317434039e-06	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(ARG5, ARG18)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0003002417006994267	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(cos(ARG8))), sub(ARG18, 5)))), neg(ARG19)))	0.0002991593469742655	
+[9, 18, 19, 13]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))), ARG18))), neg(ARG19)))	0.0001895097256495221	
+[8, 9, 18, 19]	sub(mul(5, neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.0033239168473867087	
+[8, 9, 18, 16]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(5), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.00029651398405183393	
+[13]	sub(mul(5, 5), cos(ARG13))	0.00029945189591719303	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), mul(neg(neg(ARG19)), sub(ARG18, 5))))	0.0002974081036022775	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0033351426335599763	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[1, 5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), ARG1)), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(ARG19)))))	0.00020931725012354388	
+[9, 18, 19, 13]	sub(sin(ARG13), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.003932991940858306	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(neg(ARG19)), sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00017427615232029444	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(ARG18, neg(add(5, 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029208442763519474	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, 5), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))))	0.0003002554356737468	
+[8, 5]	sub(sin(5), neg(sub(ARG8, add(ARG5, 5))))	0.0003002395036716371	
+[8, 18, 19]	sub(sin(5), add(add(sub(ARG8, add(ARG19, 5)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.0048297934422100374	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG9))))	0.003211714948359711	
+[8, 9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, 5)), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.00029924797975858876	
+[8, 9, 16, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.0002966871031229089	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG9))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009026196283438603	
+[8, 18, 19, 5]	sub(sin(5), add(add(sub(ARG8, ARG18), sub(5, mul(neg(neg(ARG19)), sub(ARG18, cos(5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.007033843067752622	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(ARG18), ARG18))), neg(ARG19)))	0.00018602161327212696	
+[0, 1, 6, 9, 19]	sub(mul(5, 5), add(add(ARG9, mul(sub(ARG6, ARG1), neg(ARG0))), neg(ARG19)))	0.00017348717766225012	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0033351426335599763	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.0033351426335599763	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(ARG19, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG18), 5)))))	0.0027806571982483164	
+[18, 19]	sub(mul(ARG18, 5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))	0.00240525294555911	
+[0, 5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(ARG18, sub(ARG18, 5))), mul(sub(protectedDiv(add(ARG0, 5), mul(5, ARG18)), ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.00017632809085694535	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, neg(neg(ARG19)))), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003944624359170706	
+[18, 19]	sub(mul(5, 5), add(add(ARG18, sub(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.00029337484493960076	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(5, mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.000299085384848143	
+[5]	sub(mul(5, 5), add(ARG5, 5))	0.00029981512039230923	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))))))	0.0002977850064554844	
+[8, 9, 18, 19]	sub(neg(neg(ARG19)), add(add(ARG9, sub(5, mul(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), sub(ARG18, 5)))), 5))	3.882330172764938e-06	
+[8, 19, 5]	sub(sin(neg(ARG19)), add(neg(neg(ARG19)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002988121354275708	
+[4, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(protectedDiv(5, ARG4), sub(5, mul(neg(neg(ARG19)), sub(5, sin(add(ARG5, 5)))))), neg(neg(sub(ARG9, add(ARG5, 5))))))	0.00029836444834596676	
+[5, 8, 9, 16, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(ARG18, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, protectedDiv(sub(ARG16, 5), sin(ARG19))))))))	0.000245925165740354	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(sub(ARG8, add(neg(neg(ARG19)), 5))), 5), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009156739777245406	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003381106646689191	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.004074507443336319	
+[8, 9, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG9))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00021697104870603692	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, 5), ARG18))))))))), sin(5)))	3.858176357413188e-06	
+[3]	mul(ARG3, 5)	0.0002977143499721742	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), sub(ARG8, sub(ARG8, add(ARG5, 5)))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003931032286046501	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(ARG5))))	0.01073095845369988	
+[2, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG2, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.00020416580975159894	
+[10, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG10))	0.0033302797261974717	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(neg(ARG19))), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00014959639785232432	
+[5, 8, 9, 18, 19]	sub(sin(ARG19), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00918067961069609	
+[5, 8, 9, 10, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(ARG5, 5), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(ARG19)))))	0.003857809330318077	
+[5, 8, 9, 13, 15, 16, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))))))))	0.002756056413196002	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009178914974053683	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[9, 18, 19, 6]	sub(mul(5, sin(ARG6)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.00338065363222553	
+[9, 18, 19]	sub(mul(neg(ARG19), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(5))))	0.001712051388804995	
+[9, 18, 19, 15]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(mul(neg(neg(ARG19)), sub(ARG18, 5)))), sub(ARG18, 5)))), neg(neg(sub(sin(ARG15), cos(5))))))	3.8129953577367282e-06	
+[9, 19, 5]	sub(5, add(add(ARG9, sub(5, ARG19)), neg(neg(sub(5, add(ARG5, 5))))))	0.0002989532174443696	
+[8, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(neg(neg(ARG19)))), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG18), sub(ARG8, ARG18)))	0.004035034024835397	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(ARG19, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[8, 18, 12, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), ARG12)	0.00030037657755726345	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, neg(neg(5))))))))	0.003285333104870111	
+[8, 9, 3, 5]	sub(sin(5), add(add(ARG9, sub(protectedDiv(ARG3, 5), ARG5)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029826836892097187	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(mul(neg(neg(ARG19)), sub(ARG18, 5)), 5))))))	0.0002975919145067515	
+[]	sub(mul(5, 5), mul(5, 5))	0.00029952740278790856	
+[5, 8, 9, 18, 19]	sub(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)), add(add(add(ARG5, 5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029889795973885675	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG5, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	0.004981046826127454	
+[8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(5, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG8, 5))))))	0.0002998282224184143	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[0, 8, 9, 16, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, cos(sin(ARG0))))))))	0.009689948737794486	
+[8, 9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(sub(ARG8, add(sin(5), 5)), sub(ARG18, 5)))), 5))	0.00020955254873728966	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(neg(neg(ARG19))))))	0.002826965080909145	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(neg(neg(ARG19)))), ARG18))), neg(neg(ARG9))))	0.008375992851267805	
+[2, 5, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(ARG19, sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.010572388721399779	
+[18, 19]	sub(mul(5, 5), add(add(mul(neg(neg(ARG19)), sub(ARG18, 5)), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.00029661795091256657	
+[9]	sub(mul(5, 5), sub(5, ARG9))	0.0002992616917659401	
+[1, 4, 5, 8, 9, 15, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19)))))))), mul(sub(ARG1, ARG4), sub(5, ARG15))))	0.00017089607794097095	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), mul(neg(neg(ARG19)), ARG18)))	0.00029958236727403557	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(protectedDiv(5, 5), 5)))))	0.0033803753565010025	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, ARG18)))))), neg(neg(sub(ARG9, add(ARG5, 5))))))	0.003724597491053493	
+[8, 9, 16, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.009890747185432194	
+[8, 9, 16, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(mul(5, 5), mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.009890747185432194	
+[5, 8, 9, 18, 19]	sub(sin(neg(neg(ARG19))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19))))))))	0.003998679252675602	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(5, ARG18))), neg(ARG19)))	0.0002995259946689632	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.003314515918783089	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[8, 9, 19, 5]	sub(mul(5, 5), add(add(ARG9, neg(ARG19)), sub(ARG8, add(ARG5, 5))))	0.0002984223159212509	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.8939669724428055e-06	
+[5, 8, 10, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), sin(add(ARG5, ARG16))), mul(sin(add(protectedDiv(mul(sub(ARG8, ARG5), ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(ARG8, ARG18)))	0.0033393547576111497	
+[5, 8, 9, 18, 19]	sub(mul(ARG9, 5), add(add(ARG9, add(add(sub(5, mul(5, sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002922912034771904	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009360203250778156	
+[5, 8, 9, 18, 19]	sub(add(ARG5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.007024180726385784	
+[5, 8, 9, 14, 18, 19]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(ARG9, sub(mul(5, 5), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0032802917481967717	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG5, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002109236070889559	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG18, 5))))))	0.003269732167188955	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.008375992851267805	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), neg(mul(ARG18, 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	4.991591393302324e-05	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00014936586674500253	
+[18, 19]	sub(sin(5), mul(neg(neg(ARG19)), ARG18))	0.0001497867808360982	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, ARG9)))))	0.01342967328245908	
+[8, 18, 19, 5]	sub(sin(5), add(add(sub(ARG8, add(ARG5, 5)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, 5)))))	0.003281191673785311	
+[2, 18, 19]	sub(5, add(add(5, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0033772456744752986	
+[8, 9, 18, 19]	sub(mul(5, ARG9), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.004120727119586376	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, add(ARG5, 5)), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004075635314755591	
+[18, 9, 2, 3]	sub(5, add(add(ARG9, protectedDiv(neg(5), protectedDiv(5, ARG3))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00029946642162242753	
+[8, 9, 18]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(cos(protectedDiv(5, ARG18)))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG18, 5)))))	0.00029964807182507726	
+[8, 9, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG8, add(ARG5, 5))))), neg(neg(neg(ARG19)))))	0.00017044181208980961	
+[9, 18, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(5, add(ARG5, 5))))))	0.01105846337668513	
+[5, 8, 9, 18, 19]	sub(sin(ARG8), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, 5)))))), neg(neg(sub(ARG8, add(ARG5, sin(cos(5))))))))	0.009364726082894926	
+[1, 5, 8, 9, 14, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(sin(add(ARG14, ARG1))), sub(ARG18, sin(sub(ARG19, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029856483960315753	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG8)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.00021171506463903402	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(ARG19), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.00014943689208436712	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG19))	0.002826965080909145	
+[8, 9, 19]	sub(sin(5), add(add(ARG9, neg(neg(ARG19))), neg(neg(sub(ARG8, 5)))))	0.00029936684533679646	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	3.830937621119984e-06	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[8, 9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.00019777996046134303	
+[8, 9, 13, 16, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(ARG13, ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.00021816829840586133	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(neg(neg(ARG19))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00930418566100419	
+[5, 8, 9, 13, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13))))))))	0.0002937277480876763	
+[8, 18, 13]	sub(mul(ARG13, 5), add(add(5, ARG18), sub(ARG8, ARG18)))	0.00029648885479389503	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[8, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG19), sub(ARG8, ARG18)))	0.0032318000823421096	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(neg(ARG18), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003949736566533177	
+[8, 9, 19, 5]	sub(sin(5), add(add(ARG9, ARG19), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029893384751237954	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, 5))))))), sub(ARG18, 5)))), 5))	3.879459328722708e-06	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), neg(ARG19))), sub(ARG18, 5)))	0.0020683323701805863	
+[5, 8, 9, 13, 18, 19]	sub(5, add(add(ARG9, add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5))), ARG13))	0.0019892510242809055	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009935512438629258	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(ARG19)))	0.010624876191467618	
+[5, 8, 9, 16, 18, 19]	sub(sin(5), add(add(ARG9, sub(ARG18, mul(neg(neg(ARG19)), sub(add(protectedDiv(5, ARG19), sub(ARG16, 5)), sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002124250745179446	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002964865578219052	
+[2, 5, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18))))), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	3.864552028752691e-06	
+[19]	sub(5, neg(ARG19))	0.0002992596170513634	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, mul(sub(ARG8, ARG5), 5)), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0004383968360156852	
+[5, 8, 9, 18, 19]	sub(ARG5, add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.001970602427589791	
+[5, 9, 12, 18, 19]	sub(mul(sub(sin(sub(mul(neg(neg(ARG19)), ARG12), ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(neg(ARG19)))))	0.003246363266520698	
+[2, 5, 8, 9, 18]	sub(5, add(add(ARG9, sub(5, mul(neg(sub(ARG8, add(ARG5, 5))), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.000173658070134165	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009178914974053683	
+[8, 16, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), ARG16)	0.00030052803156465204	
+[5, 6, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(protectedDiv(ARG6, ARG9), add(ARG5, 5))))))	0.010974256985923796	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[18, 3, 13]	sub(mul(5, 5), sub(5, mul(neg(protectedDiv(ARG13, ARG3)), sub(ARG18, 5))))	0.0002718006517105009	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.008516479578004797	
+[5, 8, 9, 13, 18]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(sub(ARG8, add(ARG5, cos(ARG13))))), sub(ARG18, sin(sub(ARG8, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00017402836033939397	
+[8, 9, 18, 19]	sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG19))))	0.002779912111612341	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, ARG19), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002987361987004813	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(neg(mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029363135324141917	
+[]	neg(5)	0.0002995405879806643	
+[8, 9, 10, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), mul(ARG10, 5)))	0.0034477793776362107	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, 5)))))), neg(ARG9)))	0.0240259477784411	
+[8, 18, 19, 5]	sub(mul(sub(ARG8, ARG5), 5), add(add(neg(sub(ARG8, add(ARG5, 5))), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.003919079268919668	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[3, 4, 9, 10, 11, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(protectedDiv(add(ARG3, ARG4), sub(ARG11, ARG10))))))	0.008729348562167975	
+[8, 16, 18, 19]	sub(mul(5, 5), add(add(ARG18, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.009543531397405573	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, ARG9)))))	0.003378281039982582	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, ARG8), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.00029943813619532353	
+[2]	sub(sin(5), cos(ARG2))	0.00029953057612165033	
+[5, 8, 9, 18, 19]	sub(5, add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.002126959894694804	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, mul(sub(ARG8, ARG5), 5)))))))	0.0022312909301067598	
+[19, 8, 18, 11]	sub(mul(5, 5), add(add(add(cos(protectedDiv(5, ARG11)), 5), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.016633408538484825	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(add(ARG5, 5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, ARG9)))))	0.0032331838109217496	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), ARG18))	0.011477630953281656	
+[8, 9, 19, 3]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(neg(sub(ARG8, sub(sin(5), mul(5, 5))))), 5)))), neg(neg(add(cos(ARG3), sin(5))))))	0.00020169087766677658	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.003314515918783089	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(neg(5), mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, 5), ARG18)))))), 5))	0.013579134933836395	
+[5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, neg(neg(sub(ARG8, add(ARG5, 5)))))))), neg(neg(sub(ARG18, ARG18)))))	0.00020541901583406125	
+[7, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, ARG7)))))	0.0002931253667806548	
+[0]	sub(sin(5), ARG0)	0.00029931707856435707	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.008375992851267805	
+[5, 8, 9, 13, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, mul(ARG5, ARG13))))	0.00030242290743154825	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(mul(neg(neg(ARG19)), sub(ARG18, 5))))))	0.0002974081036022775	
+[8, 9, 19, 16]	sub(5, add(add(ARG9, sub(5, sub(ARG8, add(ARG16, 5)))), neg(ARG19)))	0.00029991989427578336	
+[5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(sub(ARG8, add(ARG5, 5)))))	0.003232200074046932	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), ARG18)))))), neg(neg(ARG19))))	0.010701997151607074	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), sub(sin(5), add(ARG18, 5))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG9, add(ARG5, 5))))))	0.003127847481884714	
+[5, 8, 9, 12, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sin(ARG12)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009249748502733357	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG13))	0.00330479460427446	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))), ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003945803143370816	
+[8]	sub(sin(5), ARG8)	0.0002990943410199776	
+[9, 19]	sub(5, add(add(ARG9, sub(5, mul(5, 5))), neg(ARG19)))	0.0002993102999109764	
+[18, 19, 14]	sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), sub(cos(ARG14), mul(neg(neg(ARG19)), sub(ARG18, 5))))	0.00029309529750802424	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(sin(mul(5, ARG5)), 5)))), neg(neg(sub(ARG8, add(ARG19, ARG18))))))	0.0002992399222943513	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(5, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.000299085384848143	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00399684964981573	
+[9, 18, 19]	sub(sub(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0033810396460549506	
+[8, 9, 19, 16]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.0002967039978515771	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG18), 5)))))	0.0032891986682551146	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG18, ARG18)), ARG5), 5), add(add(ARG9, sub(neg(neg(ARG19)), mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003852945391230348	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(5, ARG18))), neg(ARG19)))	0.0002995259946689632	
+[]	5	0.00029951354673845936	
+[5, 8, 9, 13, 18, 19]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))), ARG13)), ARG18), sub(ARG8, ARG18)))	0.003551968415809695	
+[19]	sub(mul(5, 5), neg(ARG19))	0.0002991975795104913	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(neg(ARG19), mul(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9)))), sub(ARG18, 5)))), 5))	3.865096252214026e-06	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), protectedDiv(sin(5), cos(5)))))))), neg(neg(sub(ARG8, add(ARG5, sin(5)))))))	0.009277575588100266	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG18)))	0.0033043708967977394	
+[5, 8, 9, 16, 18, 19]	sub(sin(5), add(add(ARG9, sub(add(ARG5, ARG16), mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00904419174452236	
+[5, 8, 9, 10, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), ARG16), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(5), mul(5, ARG16)))))), sub(5, ARG18)))	0.002930946372328297	
+[19]	sub(sin(neg(ARG19)), neg(ARG19))	0.0002992762089888648	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5)))))), ARG18))), neg(neg(ARG9))))	3.902569736641224e-06	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, neg(ARG19))))))	0.0031930499886593925	
+[8, 9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(add(ARG5, 5)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00021033903846403361	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0026199192085726982	
+[5, 8, 9, 18, 19]	sub(mul(5, sin(add(ARG5, 5))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009924727552712828	
+[8, 9, 5]	sub(sin(5), add(add(ARG9, sub(5, ARG9)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002986601354130324	
+[8, 18, 19, 5]	sub(sin(5), add(add(mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))), sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002986601354130324	
+[8, 9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(ARG8), sub(ARG18, 5)))), 5))	0.00021246399466163984	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(neg(ARG19), sub(ARG8, 5))))))	0.009452588307379505	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009099007854024703	
+[19]	sub(mul(5, cos(5)), add(neg(ARG19), neg(ARG19)))	0.00029892567998177446	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18)))), ARG18))), neg(ARG19)))	3.893388911332459e-06	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG9, add(ARG5, 5)))))), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	3.6374214300756207e-06	
+[8, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), 5)	0.0003003665461325533	
+[8, 9, 18]	sub(mul(5, sin(sub(ARG8, ARG18))), add(add(ARG9, sub(5, mul(neg(neg(sub(ARG8, 5))), sub(ARG18, 5)))), neg(5)))	0.00020944269908108572	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG19))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00930418566100419	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[8, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), sin(ARG13)), ARG13)), ARG18), sub(ARG8, ARG18)))	0.003054551251053034	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), ARG18)), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.00959195026489517	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, sub(ARG18, 5))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009139609490640117	
+[9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(5)), sub(ARG18, 5)))), 5))	0.00029985083076394754	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.003934820184615565	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(ARG18, neg(ARG19))), sub(ARG18, 5)))	0.000300362245755758	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)))), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(neg(ARG19), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003999192563058586	
+[5, 8, 9, 10, 13, 16, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(sin(ARG19), ARG13), neg(neg(ARG19))), ARG16), protectedDiv(protectedDiv(ARG10, 5), sub(5, 5))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00393190213919399	
+[8, 9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(sub(ARG8, ARG18))), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00016011167484558642	
+[8, 9, 13, 14, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(mul(sin(ARG14), sin(5)), cos(ARG13)))))))	0.003330660699637308	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(mul(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	5.985322915144859e-05	
+[8]	sub(mul(5, 5), add(5, neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.00029910729820213655	
+[8]	sub(mul(5, 5), ARG8)	0.0002990163395816321	
+[8]	sin(ARG8)	0.00029952770492822946	
+[2, 5, 8, 9, 18, 19]	sub(neg(neg(sub(ARG8, add(ARG5, 5)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0032024250561601434	
+[9, 18, 19, 13]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), 5))	0.014296727526980486	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))))	0.00029784524596279183	
+[8, 9, 5]	sub(mul(5, 5), add(add(ARG9, neg(neg(sub(ARG8, add(ARG5, 5))))), 5))	0.000298698718399782	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sub(ARG18, 5))))), neg(neg(sub(ARG8, add(ARG19, 5))))))	0.0002962532909211678	
+[18, 9, 2, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.000297473798186137	
+[8, 18]	sub(sin(5), sub(ARG8, ARG18))	0.00029930689006367147	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009253134085548896	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(neg(sub(ARG8, add(ARG5, 5))), add(neg(neg(ARG19)), 5))))))	0.003920473768591906	
+[8, 9, 18, 15]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(mul(neg(ARG15), add(5, ARG9)), ARG18))), neg(ARG8)))	5.015843255783339e-06	
+[4, 5, 6, 8, 18]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(mul(sub(5, ARG4), protectedDiv(ARG18, ARG6)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00023668441444199613	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, 5)))))	0.003334140524558376	
+[8, 9, 18, 19]	sub(neg(neg(sub(ARG8, neg(neg(ARG19))))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0027793697490576773	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG19))))	0.002826965080909145	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, sin(ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00030003640480259194	
+[18, 19]	sub(sin(5), add(add(mul(protectedDiv(ARG19, 5), add(5, 5)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, 5)))))	0.0024338992836893075	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, mul(5, 5))))))))	0.007519788276872505	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(5, ARG18)))))), 5))	0.013922232840562137	
+[3, 17, 19]	sub(mul(5, 5), sub(5, mul(neg(neg(ARG19)), sub(neg(protectedDiv(ARG3, ARG17)), 5))))	0.00021454713863381614	
+[8, 18, 19]	sub(sin(5), add(add(sin(5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, sub(5, 5))))), neg(neg(sub(ARG8, add(ARG18, 5))))))	0.012356182567799684	
+[8, 19, 7]	sub(sin(add(ARG7, 5)), add(ARG8, neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.0002982993410931023	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009357592471320715	
+[8, 9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(ARG9), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00021551588589846304	
+[9, 18, 19]	sub(mul(5, 5), add(add(neg(ARG19), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.011415455166446792	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[5, 8, 9, 10, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), ARG16), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(5, ARG18)))	0.0033410474532685475	
+[2, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.010778552632842752	
+[7]	protectedDiv(ARG7, ARG7)	0.00029952468523779984	
+[9, 19, 12]	sub(neg(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(neg(neg(ARG9)))), neg(add(5, ARG12))))), 5))	0.00020908586396400258	
+[19]	sub(mul(5, 5), add(sin(5), ARG19))	0.00029961140925282014	
+[5, 8, 9, 13, 14]	sub(mul(5, 5), add(add(ARG9, ARG5), neg(neg(sub(ARG8, add(mul(sin(ARG14), sin(5)), cos(ARG13)))))))	0.0002994722921781853	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG18, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003954905546324723	
+[5, 8, 9, 12, 18, 19]	sub(mul(sub(sin(sub(mul(neg(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5))))), ARG12), ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00394405097367137	
+[0, 19]	sub(protectedDiv(5, ARG0), add(neg(ARG19), 5))	0.0002992880996753011	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(ARG19)))	0.010602476322744378	
+[5, 6, 8, 9, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sin(sub(ARG16, ARG6)), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002990734057742723	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(sin(sub(ARG8, ARG18)), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sin(5), 5))))))	0.003321398037822371	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[17, 18, 19]	sub(mul(5, 5), add(add(add(5, ARG17), sub(5, mul(neg(neg(ARG19)), sub(5, mul(neg(neg(ARG19)), ARG18))))), neg(ARG19)))	3.858411010276445e-06	
+[5, 8, 9, 17, 18]	sub(mul(sin(ARG17), 5), add(add(ARG9, ARG18), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029846231185121796	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(ARG19))))	0.010896299157721221	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(sub(ARG8, add(ARG5, 5)))), sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009221997188084632	
+[9, 18]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(ARG18), sub(ARG18, sin(sub(mul(5, 5), ARG18)))))), 5))	0.00018547934998301775	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(ARG19), sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0001822193203871942	
+[16, 9, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, 5)))), ARG16))	0.0002998137643559983	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), ARG18), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.00021216149858373408	
+[8, 9, 18, 16]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(5)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.0002990738808685338	
+[14]	add(sub(ARG14, 5), cos(5))	0.00029955051691010157	
+[19]	sub(neg(neg(ARG19)), add(5, 5))	0.00029929912319798935	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))))), neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19))))))))	3.835246887372797e-06	
+[8, 18, 19]	sub(mul(5, 5), add(add(5, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.003369667922561552	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029647263415205074	
+[9, 18]	sub(5, add(add(ARG9, sub(5, 5)), neg(neg(sub(protectedDiv(5, 5), ARG18)))))	0.0002998477234506078	
+[5, 8, 9, 18, 19]	sub(sin(cos(add(5, 5))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, neg(neg(sub(ARG8, add(ARG5, 5)))))))))	0.010688184394016963	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), add(ARG5, 5)))	0.010693473558001374	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG9)))	0.0034223757025971186	
+[19, 18, 3]	sub(mul(5, 5), add(add(neg(add(cos(ARG3), sin(5))), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.00341223534252234	
+[18]	sub(sin(5), ARG18)	0.0002992321138985333	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))), ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003943646794303152	
+[5, 8, 9, 13, 18, 19]	sub(sin(ARG13), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009176604968890181	
+[9, 12, 13, 18, 19]	sub(sub(sub(ARG12, 5), sin(ARG13)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG19))))	0.0027866528758440567	
+[8, 18]	sub(mul(5, 5), add(sub(ARG18, 5), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.00029878072932672706	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18)))))	0.00029747757241226525	
+[8, 9, 18, 10]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(sub(ARG18, 5))), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), sub(5, ARG10)))))))	0.00017424984155157286	
+[9, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG19))), neg(ARG19)))	0.00017436858127206463	
+[8, 9, 17, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG19, sub(5, mul(neg(ARG17), sub(ARG18, 5)))))))))	0.0003119511902518485	
+[8, 5]	sub(mul(5, 5), add(add(add(ARG5, 5), 5), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029903276174786256	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.003323825884143285	
+[5, 8, 9, 10, 13, 16, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(sin(sub(ARG8, ARG18)), ARG13), neg(neg(ARG19))), ARG16), protectedDiv(protectedDiv(ARG10, 5), sub(5, 5))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946915050954018	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(mul(neg(neg(ARG19)), sub(ARG18, 5))), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.880668624653342e-06	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, neg(ARG19))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.00029943467110154717	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(ARG19))))	0.01087145853421544	
+[2, 5, 7, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(sub(add(ARG2, ARG18), add(5, ARG7)))), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.000137063537356541	
+[8, 18, 19]	sub(5, add(add(sub(ARG8, ARG18), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0033050800635352445	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG9))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009029661787649017	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00014957658779154876	
+[3, 5, 8, 18, 19]	sub(mul(5, 5), add(mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, mul(5, ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00014964830811402198	
+[5, 8, 9, 10, 13, 16, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(sin(sub(5, ARG18)), ARG13), neg(neg(ARG19))), ARG16), protectedDiv(protectedDiv(ARG10, 5), sub(5, 5))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003930363290971356	
+[2, 5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, ARG8)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.01068346845043883	
+[8, 9, 16, 18, 19]	sub(ARG9, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.012062565497856812	
+[18, 19]	sub(sin(5), add(add(mul(5, 5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(5))))	0.0033965839069046567	
+[19, 9, 2, 18]	sub(neg(neg(neg(neg(sub(add(ARG2, ARG18), ARG18))))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0032966838892538753	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG19))	0.0028324930453868832	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(add(neg(neg(ARG19)), 5), mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.008067250468346996	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(5)))	0.015345732747660126	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(neg(sub(ARG8, add(ARG5, 5))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0032198598357536536	
+[5, 8, 9, 10, 13, 15, 16, 17, 18, 19]	sub(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(ARG19)))))	0.0012765053068642931	
+[5, 7, 8, 13, 16, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(ARG7, ARG16), mul(sin(mul(sub(ARG8, ARG5), 5)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(ARG8, ARG18)))	0.003276940827447239	
+[]	sub(mul(5, 5), mul(5, 5))	0.00029952740278790856	
+[2, 5, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5)), ARG18)))))	0.00029698226174567965	
+[5, 8, 9, 14, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(sub(5, ARG9), sin(ARG14))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))))	0.0003002516843989493	
+[18, 19, 13]	sub(sin(5), neg(sub(add(ARG13, neg(ARG19)), ARG18)))	0.00029904985267711936	
+[1, 2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(sub(add(ARG2, ARG18), ARG18), 5)))), neg(neg(sub(sin(protectedDiv(5, ARG1)), sin(5))))))	0.00020428044891518016	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(ARG18))))	0.01069613313015103	
+[18]	sub(mul(5, 5), add(sin(sub(mul(5, 5), ARG18)), neg(5)))	0.0002994296556670009	
+[9, 12, 16, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))))), neg(cos(sub(ARG12, ARG16)))))	3.835199669584707e-06	
+[0, 8, 18, 19]	sub(mul(5, 5), add(add(ARG0, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG19, 5))))))	0.004032324125550102	
+[9, 18, 13, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG5)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, sub(5, ARG9)), ARG18)))))	0.0002095686026385383	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[2, 3, 5, 8, 9, 14]	sub(mul(5, 5), add(add(ARG9, sub(ARG8, add(ARG5, mul(mul(ARG3, 5), protectedDiv(ARG2, ARG14))))), neg(neg(sub(ARG8, ARG9)))))	0.0002054083705364643	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))))	0.0002972243513160778	
+[2, 5, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(sub(ARG2, add(ARG5, 5))))))	0.009094911621248794	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG8, ARG18), ARG18)))))	0.0033394598218940974	
+[8, 9, 18, 19]	sub(mul(sub(ARG8, ARG8), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, mul(5, 5)), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0025268646198736253	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG5, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009188647532603785	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.010685612102662596	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, 5), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009084926968681257	
+[5, 8, 9, 18, 19]	sub(ARG9, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0033221888045375345	
+[8, 16, 18, 19]	sub(mul(5, 5), add(add(sin(5), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.011599833697570346	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002979055762173296	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(ARG18, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003807884433822747	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.003314515918783089	
+[5, 8, 9, 10, 13, 16, 17, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(sin(sub(ARG8, ARG18)), ARG13), neg(neg(sub(protectedDiv(ARG8, 5), protectedDiv(ARG17, 5))))), ARG16), protectedDiv(protectedDiv(ARG10, 5), sub(5, 5))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003939868166200489	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009099007854024703	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.008375992851267805	
+[8, 9, 5]	sub(5, add(add(ARG9, neg(sub(ARG8, add(ARG5, 5)))), neg(5)))	0.0003003272642339727	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))))	0.00029735788201972586	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011830054087519307	
+[9, 18, 19, 14]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG14))	0.003342099345743715	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.842240445430009e-06	
+[8, 18, 11, 5]	sub(mul(neg(protectedDiv(ARG11, ARG5)), 5), sin(sub(ARG8, ARG18)))	0.0002993017897542411	
+[5, 8, 9, 18, 19]	sub(mul(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5)))))), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))	6.006814046987804e-05	
+[]	sub(5, 5)	0.00029952740278790856	
+[8, 18, 19, 5]	sub(mul(5, 5), add(add(ARG18, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009594950553313289	
+[18, 9, 2, 19]	sub(cos(sin(ARG2)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, ARG9)))))	0.0033780587847599512	
+[9, 2, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), neg(neg(sub(add(ARG2, 5), sin(5))))))	0.00029749030271898635	
+[5, 9, 12, 18, 19]	sub(mul(sub(ARG12, 5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.0023540828777233666	
+[9, 18, 19, 12]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG12))), ARG18))	0.0002063479012107168	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5)))), sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.00015444715253677276	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5)))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.9026101610215845e-06	
+[8, 19]	sub(cos(add(ARG8, 5)), neg(ARG19))	0.00029927423062089226	
+[3, 5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(sub(ARG3, add(ARG5, 5))), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009060403056481918	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, 5), ARG18)))))), neg(ARG8)))	0.010719465812032898	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(ARG18), sub(ARG18, 5)))), neg(ARG19)))	0.000185221160544476	
+[18, 9, 2, 19]	sub(5, add(add(ARG9, ARG9), neg(neg(sub(add(ARG2, neg(ARG19)), ARG18)))))	0.00029963162474705	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	0.004989081523219688	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG9), ARG18)))))	0.0031188657610103877	
+[5, 8, 13, 18, 19]	sub(ARG8, add(add(ARG18, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, cos(ARG13)))))))	0.0033237097489035626	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(ARG5, sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009247776915356132	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.004098638573250406	
+[0, 9, 18, 3]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(add(neg(ARG0), add(5, ARG3)))), sub(ARG18, 5)))), 5))	0.0001705654073894348	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(neg(5), mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009136810668421855	
+[8, 9, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG8))), 5))	0.00021148481800439982	
+[5, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(sub(sub(ARG18, 5), add(ARG5, 5))))))	0.00926444480983792	
+[5, 8, 9, 18, 19]	sub(neg(neg(sub(ARG8, ARG18))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0032839981220752334	
+[9, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(add(ARG5, 5), 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.00021084968223698258	
+[18]	sub(5, ARG18)	0.0002992154381615066	
+[9, 18, 19]	sub(mul(5, 5), sub(5, mul(neg(neg(ARG19)), sub(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG19)), 5))))	3.83925445301612e-06	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(ARG19)))))	0.0038571236890891096	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), sub(ARG18, 5)))	0.003228496160398599	
+[8, 9, 1]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(protectedDiv(ARG9, ARG1)), neg(5)))), neg(neg(sub(ARG8, 5)))))	0.0002990930798180888	
+[8, 9, 17, 18, 19]	sub(sin(5), add(add(ARG9, sub(sub(ARG18, sin(sub(ARG17, ARG18))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.003999371117351327	
+[8, 9, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(cos(ARG9)), 5))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002987996248321629	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, neg(ARG18))))), neg(neg(sub(ARG8, 5)))))	0.00029966287976469335	
+[18, 19]	sub(5, add(add(mul(5, ARG19), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0017144612321279042	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.009570212940861049	
+[9, 19]	sub(5, add(add(ARG9, 5), neg(ARG19)))	0.00029938822084281456	
+[9, 18, 19]	sub(mul(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), 5), add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	5.9589756952356706e-05	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009178914974053683	
+[9, 18, 19, 14]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG14))	0.003352737132685752	
+[19]	sub(sin(5), ARG19)	0.00029969326230760307	
+[5, 8, 9, 13, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(sub(ARG8, add(ARG5, 5))))))), ARG18))), neg(neg(ARG9))))	3.910514379252611e-06	
+[8, 18]	sub(mul(5, 5), add(add(ARG18, sub(5, mul(neg(sin(sub(ARG8, ARG18))), sub(ARG18, 5)))), neg(5)))	0.00029915142146197003	
+[5, 8, 9, 10, 13, 16, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(neg(ARG19), ARG13), neg(neg(ARG19))), ARG16), protectedDiv(protectedDiv(ARG10, 5), sub(5, 5))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003941149874241038	
+[8, 9, 10, 18, 19]	sub(sin(5), add(add(add(ARG9, mul(sin(sub(ARG8, ARG18)), ARG10)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003354115226270259	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.009570212940861049	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG8)))	0.0032969249844036746	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[9, 19]	sub(5, add(add(ARG9, ARG9), neg(ARG19)))	0.00029939861129028167	
+[2, 18, 19]	sub(5, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00029300597500432065	
+[13]	sub(sin(5), ARG13)	0.00029979646222857303	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)), neg(ARG19)), ARG18)))))	0.00029338737856211903	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.009570212940861049	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003285333104870111	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033809968026136243	
+[2, 5, 9, 18, 19]	sub(neg(add(ARG2, neg(ARG19))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG5, add(ARG5, 5))))))	0.004091536957399313	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))), mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.00029948376544479925	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, 5)), neg(neg(sub(ARG9, add(ARG5, 5))))))	0.0003004905054873445	
+[9, 19]	sub(neg(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), 5))	0.0002967980715407695	
+[5, 8, 9, 18, 19]	sub(sin(sub(ARG18, 5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.010702696416370424	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG18), neg(ARG19))))))	0.002783456892434889	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(ARG18), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.0001850942726274467	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, ARG18))))))	0.008157981211609575	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002965577228386437	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, ARG18), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002984667343001575	
+[8, 9, 13, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18))))))))))	0.00030011261446000865	
+[2, 5, 8, 9, 14, 18, 19]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(ARG9, sub(add(ARG5, 5), mul(neg(neg(ARG19)), sub(ARG18, sub(add(ARG2, ARG18), ARG18))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002927466175041096	
+[16, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG16, 5)))))), neg(neg(5))))	0.014176765282495757	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[8, 9, 10, 18, 19]	sub(sin(5), add(add(add(ARG9, mul(sin(sub(ARG8, ARG18)), ARG10)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003354115226270259	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(5), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029756952948357604	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0041470682646124616	
+[9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(sub(ARG18, sin(add(ARG5, 5)))), ARG18))), neg(neg(ARG9))))	0.0001859547929417349	
+[8, 9, 19, 5]	sub(mul(sub(sin(sub(ARG8, 5)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), neg(ARG19)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00018236048688626078	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(neg(ARG19))), sub(ARG18, 5)))), neg(ARG19)))	0.0001493029831921166	
+[4, 9, 13, 18, 19]	sub(ARG4, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, ARG19), ARG18)))))	0.0027029579081898915	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(neg(ARG19)))))	0.010602476322744378	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(sub(ARG8, add(ARG5, 5))), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.00017323849396197984	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(neg(ARG19), add(ARG5, 5)), ARG18)))))	0.003938110289608417	
+[8, 9, 18, 15]	sub(sin(5), add(add(ARG9, sub(5, mul(ARG15, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, ARG18)))))	0.00020978014399220603	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, ARG9)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029289572859404094	
+[8, 16, 18, 19]	sub(mul(5, 5), add(add(sin(sub(ARG8, ARG18)), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.011634052954893167	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))))))	0.0002968352902030999	
+[8, 5]	sub(sin(5), add(ARG5, neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002990807158358879	
+[5, 8, 9, 10, 13, 15, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, neg(neg(5))), ARG10)))), ARG16), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(5, sin(mul(ARG17, ARG15)))))	0.0034123699611354093	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG18))	0.0033342562779157176	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG5))), neg(neg(sub(ARG9, add(ARG5, 5))))))	0.00021115910165272748	
+[5, 7, 8, 9, 13, 18, 19]	sub(mul(sub(ARG8, sub(ARG18, sin(add(ARG5, 5)))), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(add(mul(ARG13, 5), neg(ARG7)), ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0006262243573845953	
+[9, 10, 11]	sub(sin(5), add(add(ARG9, add(neg(ARG10), neg(ARG11))), neg(neg(5))))	0.0002993264567467831	
+[8, 19, 5]	sub(sin(5), add(neg(neg(ARG19)), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.0003000534195624154	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), sub(ARG18, 5)))	0.003334140524558376	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), neg(neg(add(cos(ARG3), sin(5))))))	0.004185029557377121	
+[9, 18, 19, 5]	sub(mul(neg(neg(ARG19)), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.01216479653191177	
+[9, 18, 2]	sub(5, add(add(ARG9, sub(5, mul(5, sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.00029990050726682465	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(sin(neg(ARG2)), ARG18), ARG18)))))	0.003380999561984836	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.004185020978556348	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(neg(ARG19)))))	0.004166857376788364	
+[8, 5, 14]	sub(sin(5), add(ARG14, neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029854176926372026	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(5), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003944999813160484	
+[5, 8, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00928775357816173	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(neg(ARG19)))))	0.004166857376788364	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[9, 18, 19, 14]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG14))	0.003352737132685752	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.003934820184615565	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, ARG19), neg(neg(sub(add(ARG13, 5), ARG18)))))	0.0003002947930038271	
+[5, 8, 9, 14, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))), sub(protectedDiv(5, 5), sub(ARG14, ARG9))))), sub(ARG8, add(ARG5, 5))))	3.447617588545002e-06	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[2, 18, 19, 14]	sub(5, add(add(ARG14, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0033451931281063777	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.008514829488355805	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, sub(ARG8, ARG18)))))))	0.0032037455702107575	
+[19, 5]	sub(mul(5, 5), add(neg(sin(add(ARG5, ARG5))), neg(ARG19)))	0.00029919767093067686	
+[5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))))))	0.0002996751785273283	
+[8, 10, 5, 13]	sub(mul(ARG13, 5), add(ARG8, add(ARG10, ARG5)))	0.0002969403230682255	
+[9, 18, 19, 13]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG18), cos(sin(5)))))))	0.0002945939784868069	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0032721205050065066	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009360203250778156	
+[9, 18, 19]	sub(mul(5, 5), add(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5), neg(ARG19)))	0.00417411478484269	
+[9, 18, 19]	sub(mul(5, 5), add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))))	0.015835193402048912	
+[8, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG18), sub(ARG8, ARG18)))	0.004035034024835397	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(5))))	0.0033809968026136243	
+[9, 18, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG5, 5)))))	0.0033104437642340013	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG8, 5))))	0.015345732747660126	
+[5, 8, 9, 18, 19]	sub(sub(ARG18, sin(sub(ARG8, ARG18))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.008167084357408594	
+[8, 9, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sin(5)))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.00030018198352968153	
+[8, 9, 13, 18, 19]	sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG8, cos(ARG13)))))))	0.0032969787777316164	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG5, sub(ARG8, add(ARG5, 5)))))))	0.006719769944450753	
+[9, 18, 19]	sub(mul(neg(neg(sub(ARG18, ARG18))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0033810396460549506	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033809968026136243	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG18, add(ARG5, 5))))))	0.009370332396989778	
+[8, 9, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG8))), neg(ARG19)))	0.00021130332303041265	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.004185020978556348	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(5))))	0.003379679022543922	
+[5, 8, 9, 18, 19]	sub(sin(neg(add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180353297162616	
+[19]	sub(mul(5, 5), ARG19)	0.000299614659234943	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), 5), neg(ARG19))), sub(ARG18, 5)))	0.0020683906148647097	
+[5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(mul(sub(ARG8, ARG5), 5), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(protectedDiv(5, 5), ARG18)))))	0.0019934072926755943	
+[8, 9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(5), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.0002968578788549822	
+[8, 9, 16, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, neg(ARG19)))))))	0.008568012126310785	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(sub(ARG8, ARG18), ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003942524588717513	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG8))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009183714611050603	
+[3, 5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG18, sin(ARG3))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00930862231207614	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG8, ARG18)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00013475284124308016	
+[2, 5, 8, 9, 10, 18, 19]	sub(mul(sub(ARG8, ARG5), protectedDiv(ARG10, ARG2)), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002101300282315146	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[1, 5, 8, 9, 19]	sub(sin(neg(ARG19)), add(add(ARG9, cos(sub(5, ARG1))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029876578595400044	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(5, 5))))))	0.011203402944793885	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), ARG5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002213925866159972	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.008375992851267805	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[8, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), 5)), add(mul(5, ARG13), 5)), ARG13)), ARG18), sub(ARG8, ARG18)))	0.0002965280320405828	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, 5)))))	0.003334140524558376	
+[9, 19]	sub(5, add(add(ARG9, ARG19), neg(ARG19)))	0.000299631449680469	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))), sub(ARG18, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.883363065169956e-06	
+[8, 9, 18, 13]	sub(mul(ARG13, 5), add(add(ARG9, sub(ARG18, 5)), sub(ARG8, ARG18)))	0.00029656601581562193	
+[5, 8, 9, 13, 16, 18, 19]	sub(mul(5, ARG19), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(5, mul(sin(add(ARG5, ARG16)), mul(5, 5))))))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	3.8082321445833985e-06	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[8, 5]	sub(sin(5), add(cos(5), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002986473071101633	
+[8, 9, 15, 18, 19]	sub(mul(5, ARG15), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, ARG18)))	0.003322098998012775	
+[8, 18, 11]	sub(sin(5), add(5, neg(neg(sub(ARG8, add(neg(neg(mul(ARG11, ARG18))), 5))))))	0.0002089837191517119	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	3.835877621019461e-06	
+[16, 19]	sub(mul(5, 5), add(ARG16, neg(ARG19)))	0.0002993639369403874	
+[5, 8, 9, 10, 13, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(sin(sub(ARG8, ARG18)), ARG13), neg(neg(ARG19))), add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18)))), protectedDiv(protectedDiv(ARG10, 5), sub(5, 5))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0039350262585629734	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(mul(neg(neg(ARG19)), sub(ARG18, 5))), ARG18))), sub(ARG8, add(ARG5, 5))))	3.882550476467106e-06	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, neg(ARG19))), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.00029964571504080567	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, 5)))))))	0.00029914601635128765	
+[8, 9, 5]	sub(sin(5), add(add(ARG9, sub(5, neg(sub(ARG8, add(ARG5, 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029772615619712815	
+[9, 18, 19]	sub(neg(ARG19), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0028324930453868832	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(5), sub(ARG18, 5)))), neg(ARG19)))	0.0002969364406231573	
+[9, 18, 19, 1]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, cos(ARG1))))), neg(ARG9)))	0.023332372909746168	
+[5, 8, 13, 18, 19]	sub(mul(5, 5), add(add(neg(sub(add(ARG13, sub(ARG18, 5)), ARG18)), sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.009777232702973203	
+[1, 5, 8, 9, 18, 19]	sub(mul(ARG5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, sin(ARG1))))))	0.002406824444408566	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, 5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0025937984979518113	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[18, 19]	sub(mul(5, 5), add(add(cos(cos(5)), sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.004261982339624443	
+[5, 8, 9, 18, 19]	sub(sin(mul(5, 5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180156455358333	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.003332787938172188	
+[5, 8, 9, 16, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))))), neg(neg(sub(sin(ARG5), add(ARG16, 5))))))	3.86028614876215e-06	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, ARG18), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002984667343001575	
+[9, 18, 19, 17]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG17))	0.0033065053279379597	
+[9, 2, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(ARG2), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.0002132793824484725	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, neg(neg(5))))))))	0.009180859849586389	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG19)))	0.004185020978556348	
+[18, 19]	sub(5, add(ARG19, neg(neg(sub(protectedDiv(5, 5), ARG18)))))	0.0002998877234372416	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	3.82985996901702e-06	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00926534959764709	
+[8, 9, 13, 7]	sub(5, add(add(ARG9, sub(5, mul(neg(ARG8), sub(cos(ARG7), 5)))), ARG13))	0.0003008910867149756	
+[18, 9, 10, 19]	sub(cos(add(5, ARG10)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG19))))	0.002832540593564749	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(sub(ARG8, add(ARG5, 5)))), sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009221997188084632	
+[6, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG6), 5), add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))	0.001940864255095783	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)), neg(neg(5))))	0.002127396361848712	
+[5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), neg(neg(ARG19)))))), sub(ARG18, neg(neg(ARG19)))))	0.003834504754012511	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG18, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(mul(5, 5), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002811819659806764	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))))	0.000297510720505981	
+[9, 2, 18]	sub(5, add(add(ARG9, neg(sub(add(ARG2, ARG18), ARG18))), neg(neg(sub(add(ARG2, 5), 5)))))	0.000299631449680469	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(sub(ARG8, add(ARG5, 5)), neg(ARG19))), sub(ARG18, 5)))	0.00030076856046801773	
+[5, 8, 9, 18, 19]	sub(neg(neg(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00030134031271371884	
+[5, 8, 9, 18, 19]	sub(neg(5), add(add(ARG9, sub(5, mul(neg(neg(neg(ARG19))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.0001499489771857577	
+[3, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(ARG19), sub(ARG18, 5)))), neg(neg(add(cos(ARG3), sin(5))))))	0.00014941989573412416	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.004166857376788364	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, 5)), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.00029937397508973765	
+[15]	ARG15	0.000299436461603219	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(sub(ARG18, 5))))	0.003302386472394157	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), neg(sub(ARG8, add(sub(ARG8, ARG18), 5)))))), neg(neg(sub(ARG8, 5)))))	0.00014931316349281947	
+[8, 18, 19, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG18, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003932195471344146	
+[0, 9, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG9, 5)))), ARG0))	0.00021657199002885413	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19))))))))	0.003997829955511911	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, ARG5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029306964130670714	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, sin(sub(ARG8, 5))))))))	0.003946277420461868	
+[8, 9, 16]	sub(mul(5, 5), add(ARG9, neg(neg(sub(ARG8, add(ARG16, 5))))))	0.0002988590398524318	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18)))))))	0.0002990574213185555	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009178914974053683	
+[2, 5, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.010572388721399779	
+[]	sub(5, 5)	0.00029952740278790856	
+[9, 18, 19]	sub(neg(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(neg(ARG19), ARG18), ARG18))))))	0.0002945853958144136	
+[18, 19, 14]	sub(mul(mul(sin(ARG14), sin(5)), 5), mul(cos(ARG19), ARG18))	0.00029957896322877614	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, add(add(ARG9, sub(add(5, 5), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))), sub(ARG8, add(ARG5, 5))))	0.00014936268001762315	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(ARG8, 5)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.000299480737548843	
+[3, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))))))	0.00029727180352311127	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG5)))	0.003323825884143285	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[18, 9, 2, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(neg(ARG19)), 5)))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00017420593296925332	
+[7, 8, 9, 11, 18]	sub(sin(5), add(add(ARG9, sub(5, mul(ARG18, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(cos(mul(ARG7, ARG11)))))	0.00017775115580055835	
+[8, 18, 19, 5]	sub(mul(5, 5), add(add(sin(cos(5)), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.011568560100281799	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[8, 18, 19, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	0.0002960341467546435	
+[9, 18, 19]	sub(5, add(add(ARG9, ARG9), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.00029939861129028167	
+[2, 18, 19, 5]	sub(mul(5, 5), add(add(5, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG2, add(ARG5, 5))))))	0.011337930886422414	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(ARG9, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.003211714948359711	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.91393055377916e-06	
+[8, 19, 5]	sub(mul(sub(ARG8, ARG5), 5), ARG19)	0.0003013608722749455	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, neg(neg(ARG19)))))), 5))	0.000222657129654547	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(5, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002989547545182966	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(neg(sub(ARG8, add(ARG5, 5))), 5))))))	0.006687777605238021	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(neg(ARG19), 5)))))), neg(ARG5)))	0.004115349516609205	
+[5, 8, 9, 13, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(ARG13)))	0.0032381583989120363	
+[5, 8, 9, 13, 18, 19]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), neg(sub(ARG9, add(ARG5, 5))))), ARG18), sub(ARG8, ARG18)))	0.003914829637819076	
+[11, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, ARG11)))), 5))	0.00029736120929234767	
+[8, 9, 10, 18, 19]	sub(sin(5), add(add(add(ARG9, mul(sin(sub(ARG8, ARG18)), ARG10)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003354115226270259	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(5)))	0.015345732747660126	
+[5, 8, 9, 13, 16, 18, 19]	sub(mul(5, neg(sub(ARG8, add(ARG16, 5)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, cos(ARG13)))))))	0.001859266886209368	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(ARG5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033017692406751473	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033809968026136243	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(5)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.0003002166394084948	
+[2, 9, 15, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, mul(5, ARG15)), 5)))))	0.0024422544127223225	
+[5, 8, 9, 18, 19]	sub(mul(sin(sub(ARG8, ARG18)), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	0.006704755922709698	
+[8]	sub(sin(5), ARG8)	0.0002990943410199776	
+[9, 18, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), mul(cos(ARG18), mul(ARG5, 5))))	0.002777627348840811	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), sin(5))))))	0.0033358754443030695	
+[]	sub(mul(5, 5), 5)	0.0002994679563135711	
+[2, 5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	3.869644878927254e-06	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.004098638573250406	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG19)))	0.004185020978556348	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5)))))), ARG18))), neg(ARG19)))	3.898452401150553e-06	
+[18, 19, 5]	sub(mul(sub(sin(sub(ARG18, ARG18)), ARG5), 5), neg(ARG19))	0.00030009827000800646	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(sub(ARG8, 5)), sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002056421813627572	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG18)))	0.003303830839623702	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), sub(ARG18, sin(cos(5)))))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	3.867052994689611e-06	
+[8, 2, 4]	mul(add(ARG4, 5), sub(ARG8, ARG2))	0.00017334834787776008	
+[9, 18, 19]	sub(mul(ARG9, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0026332195620208743	
+[16, 19]	sub(sin(5), add(add(5, sub(5, mul(neg(neg(ARG19)), ARG16))), neg(5)))	0.00021379418992976935	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG9, 5))))))	0.0002968097324953339	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), ARG18), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.000296017467823674	
+[5, 8, 9, 16, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, sin(add(ARG5, ARG16)))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009243801120915015	
+[5, 8, 9, 10, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), ARG16), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(ARG18, mul(5, ARG16)))))), sub(5, ARG18)))	8.380599544846266e-05	
+[5, 8, 9, 13, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), neg(neg(sub(ARG8, add(ARG5, cos(ARG13)))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00017016391522223608	
+[8, 9, 13, 15, 18]	sub(ARG8, add(add(ARG9, sub(5, mul(neg(neg(protectedDiv(ARG8, ARG15))), sub(ARG18, 5)))), sub(ARG18, sin(ARG13))))	0.00029339563352533	
+[5, 8, 9, 18, 19]	sub(mul(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	5.9871689299129477e-05	
+[8, 5]	sub(sin(5), add(5, neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002986601354130324	
+[8, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(ARG13)))	3.883502148945613e-06	
+[5, 8, 13, 16, 18, 19]	sub(mul(ARG13, 5), add(add(sub(ARG18, 5), add(add(ARG19, add(mul(5, ARG13), ARG16)), add(5, mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG8, ARG18)))	0.00029944256316887316	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))), neg(neg(sub(sin(5), add(ARG5, 5))))))	0.0002915242201243202	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(5)))	0.014198853238062033	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.011415455166446792	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), 5))	0.016264413713630285	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(neg(neg(ARG19)))), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[5, 8, 9, 18, 19]	sub(sin(neg(ARG19)), add(add(ARG9, sub(5, mul(ARG19, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009178914974053683	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(5))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.009783456585653603	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sub(ARG8, ARG18))))), 5))	0.00021128245604952925	
+[8, 9, 18]	sub(mul(5, 5), add(ARG18, neg(neg(sub(ARG8, ARG9)))))	0.0002985144058794984	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009161706736054894	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, neg(sub(ARG8, add(ARG5, 5))))))))	0.0066920902961800045	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(add(ARG5, 5))))	0.011088963561413135	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0029798762701272663	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.002606900495902764	
+[]	sub(5, 5)	0.00029952740278790856	
+[5, 8, 9, 13, 18, 19]	sub(mul(sub(ARG8, ARG5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18))))), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	3.600663009947165e-06	
+[8, 16]	sub(mul(5, 5), add(5, neg(neg(sub(ARG8, add(ARG16, 5))))))	0.0002987599257226287	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5)))), sub(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029810910404918476	
+[18, 19, 14]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(5, sub(add(5, 5), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG19)))	0.004267761311062576	
+[8, 18, 5]	sub(mul(5, 5), sub(5, mul(neg(neg(neg(sub(ARG8, add(ARG5, 5))))), sub(ARG18, 5))))	0.000173038966713857	
+[9, 18, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG5))	0.00331015677120432	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), neg(neg(sub(ARG8, 5)))), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.002761119723907117	
+[8, 18, 19, 5]	sub(mul(5, 5), add(sub(add(ARG5, 5), mul(neg(neg(ARG19)), sub(ARG18, 5))), neg(neg(sub(ARG8, neg(neg(ARG19)))))))	0.004045536775764299	
+[5, 8, 9, 14, 18, 19]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(ARG9, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00314002956880499	
+[2, 5, 8, 18, 19]	sub(5, add(add(sub(ARG8, add(ARG5, 5)), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.003268220179216068	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(ARG9))))	0.008185113398718935	
+[9, 18]	sub(5, add(add(ARG9, sub(5, sub(ARG18, 5))), neg(neg(sub(ARG18, ARG18)))))	0.00029987229141609434	
+[]	sub(mul(5, 5), add(sub(5, 5), 5))	0.0002994679563135711	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(ARG9))))	0.008375992851267805	
+[]	sub(sin(5), add(5, sin(5)))	0.0002995405879806643	
+[5, 8, 9, 11, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(sin(ARG11), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))))))))	0.0031244945509936606	
+[8, 9, 18, 19]	sub(mul(5, neg(neg(ARG19))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.0032398243977652163	
+[9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(5, sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, 5))))))	0.00029938432161422384	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029766506921000303	
+[]	sub(mul(5, 5), sub(5, 5))	0.000299451419768197	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.0033351426335599763	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[0, 5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(sub(ARG18, ARG0), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00921761041112733	
+[8, 9, 16, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG8))), neg(neg(sub(mul(sin(sub(ARG8, ARG18)), add(ARG18, ARG16)), 5)))))	0.0002114859451191245	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033753595326118583	
+[8, 9]	sub(mul(5, 5), add(add(ARG9, sub(5, ARG8)), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.00029966183917784034	
+[9, 18, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), ARG18), ARG18)))))), neg(neg(sin(ARG5)))))	0.014458266448757466	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(neg(ARG19)))))	0.004185020978556348	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, mul(5, 5)))))	0.00896079847830616	
+[8, 19, 5]	sub(sin(5), add(ARG19, neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002988121926791541	
+[5, 8, 9, 18, 19]	sub(neg(neg(sub(ARG8, add(ARG5, 5)))), add(add(ARG9, sub(5, mul(neg(neg(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.829303111954915e-06	
+[9, 19, 13]	sub(mul(5, 5), add(add(ARG9, sub(5, add(ARG13, neg(ARG19)))), neg(neg(neg(ARG19)))))	0.0002992266645646492	
+[0, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(mul(5, ARG0), ARG18)))))	0.0023444552682746053	
+[2, 9, 13, 18, 19]	sub(mul(5, 5), add(add(add(mul(ARG2, ARG9), sub(ARG13, 5)), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.00029365625681965815	
+[9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), ARG18)))))), neg(neg(5))))	0.01386926814082618	
+[8, 19, 5]	sub(add(mul(5, 5), neg(5)), add(neg(sub(ARG8, add(ARG19, 5))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002991943226531016	
+[9, 18, 19, 13]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))))))	0.00029957360311406355	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[5, 8, 9, 18, 19]	sub(mul(protectedDiv(5, ARG8), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0032792360374598677	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG13))	0.00330479460427446	
+[9, 18, 19, 5]	sub(sin(add(ARG5, 5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG18, ARG18)))))	0.003380655483141443	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, ARG5))))))	0.0028691648555043366	
+[8, 18, 19, 5]	sub(sin(5), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002981213474338345	
+[9, 5]	sub(5, add(add(ARG9, ARG9), neg(neg(ARG5))))	0.0003000033674091104	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003326017607512442	
+[9, 19]	sub(neg(neg(ARG19)), add(add(ARG9, neg(5)), 5))	0.00029938822084281456	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(neg(ARG19), add(ARG5, 5))))))	0.009287160159398298	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG8))))	0.0033305467389351997	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, mul(5, 5)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0003000900998260862	
+[9, 18, 19, 5]	sub(sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5))))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, cos(add(5, 5))))))))	0.0002990318263791114	
+[8, 9, 5]	sub(sin(5), add(add(ARG9, sub(5, 5)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029876474382535274	
+[8, 5, 13]	sub(sin(5), add(protectedDiv(ARG13, 5), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029870576730265834	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, 5), add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.008907014223118952	
+[18, 2]	sub(5, add(ARG18, neg(neg(sub(add(ARG2, ARG18), 5)))))	0.0002988369849694717	
+[8, 9, 2, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(neg(neg(sub(add(ARG2, 5), 5))), 5)))), neg(neg(sub(ARG8, add(ARG19, 5))))))	0.0002043115292284597	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG18))	0.003334011978196709	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sub(ARG18, 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002966012973764257	
+[1, 8, 9, 12, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(cos(mul(ARG1, ARG12)), sin(sub(ARG8, ARG18))))), neg(5)))	0.0002995708223216872	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003946333043406213	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.012036693081275947	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.003339513019331774	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009570212940861049	
+[0, 5, 8, 9, 18]	sub(mul(protectedDiv(ARG0, 5), neg(5)), add(add(ARG9, sub(5, mul(neg(neg(sub(ARG18, 5))), ARG18))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00017657412022178138	
+[9, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG19))), neg(ARG19)))	0.00017436858127206463	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(sub(sin(sub(ARG8, ARG18)), ARG5), 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003978978810469147	
+[5, 8, 9, 18, 19]	sub(mul(ARG5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0027675876379851193	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), add(ARG5, 5))))	0.0002969624042704878	
+[8, 9, 19]	sub(5, add(add(ARG9, sub(5, ARG8)), neg(ARG19)))	0.0002997388017067209	
+[5, 8, 9, 18, 19]	sub(mul(5, sub(ARG8, add(ARG5, 5))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.002990164812970076	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(5))))	0.01407255841653076	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(sub(ARG18, 5))), sub(ARG18, sin(sub(neg(sub(5, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00017652567106800788	
+[8, 9, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG19))), neg(neg(sub(ARG8, neg(neg(ARG19)))))))	0.00017396262144399522	
+[5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(ARG19)))))	0.0038571236890891096	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180859849586389	
+[1, 2, 9, 10, 12, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, mul(sub(ARG9, ARG12), add(ARG10, ARG1)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	2.501109243517522e-06	
+[8, 18, 5]	sub(mul(sub(ARG8, ARG5), 5), add(ARG5, sub(ARG18, 5)))	0.0003007838178272628	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19)))), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	5.9803646852228034e-05	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), ARG13))	0.00404771337234808	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(5), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029644048918501896	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.003334140524558376	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[2, 5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.854876881329463e-06	
+[8, 18]	sub(5, sin(sub(ARG8, ARG18)))	0.0002995132781073929	
+[9, 18, 2, 1]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG18)), sub(ARG18, mul(sin(5), protectedDiv(ARG1, ARG18)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00017759368575385505	
+[16, 9, 19]	sub(mul(5, 5), add(add(ARG9, sub(sin(sin(ARG16)), mul(neg(neg(ARG19)), ARG19))), neg(ARG19)))	0.00017390594523140494	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))))))	0.00029267223288593065	
+[19, 2, 18]	sub(5, add(sub(add(ARG2, ARG18), ARG18), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.00029927714132888786	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG5)))	0.003323825884143285	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG19, 5))))))	0.009292284304101986	
+[5, 8, 9, 18, 19]	sub(neg(neg(sub(ARG8, add(ARG5, 5)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0033809968026136243	
+[3, 9, 14, 18, 19]	sub(sin(ARG14), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(add(cos(ARG3), sin(5))))))	0.0033808634758831398	
+[9, 18, 19, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(neg(neg(ARG19)), add(ARG5, 5))))))	0.009535483992648105	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(ARG8, sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00021096456559075458	
+[9, 18, 19, 5]	sub(mul(5, 5), add(add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), sub(neg(ARG19), mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.00029771141385662707	
+[8, 9, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(ARG9, neg(5)))	0.00030044950305671916	
+[8, 9, 4, 5]	sub(sin(5), add(add(ARG9, cos(ARG4)), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002987675114693272	
+[3, 8, 9, 10, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(add(neg(5), add(ARG3, ARG10)), ARG18)))))), neg(mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))))	0.0002992159669336228	
+[0, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, ARG0)))))	0.0033055354631682534	
+[5, 8, 13, 16, 18, 19]	sub(mul(ARG13, 5), add(add(sub(ARG18, 5), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(5, mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG8, ARG18)))	0.0033241086300847137	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(ARG18, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(ARG5))))	0.003260339374023065	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(5, 5)))), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.00029938822084281456	
+[2, 9, 13, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG13))))), neg(neg(sub(add(ARG2, 5), 5)))))	0.010869981431469939	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, neg(neg(ARG19)))))))	0.004081900907208152	
+[5, 7, 8, 9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(sin(ARG7))), ARG18))), sub(ARG8, add(ARG5, sub(ARG18, sin(sub(ARG8, ARG18)))))))	0.0002988376845733696	
+[4, 5, 8, 9, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), neg(neg(sub(ARG8, add(ARG5, mul(mul(5, 5), cos(ARG4))))))))	0.0002965408252981163	
+[8, 9, 5]	sub(sin(5), add(add(ARG9, 5), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002987787682627502	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))), neg(ARG19))), sub(ARG18, 5)))	3.58585255490817e-06	
+[2, 5, 8, 9, 18]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(neg(neg(sub(ARG8, add(ARG5, 5)))))), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.00017186571612066648	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), ARG19))	0.0032475356580798187	
+[8, 9, 18, 16]	sub(5, add(add(ARG9, sin(sub(ARG8, ARG18))), neg(neg(sub(mul(sin(sub(ARG8, ARG18)), add(ARG18, ARG16)), 5)))))	0.0002995529467199814	
+[5, 8, 9, 18, 19]	sub(mul(sub(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	5.953337117823962e-05	
+[2, 3, 5]	sub(neg(add(ARG2, 5)), add(5, neg(neg(sub(ARG5, add(ARG3, 5))))))	0.00029972935078791227	
+[9, 18, 19]	sub(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG19)))	0.0002992734550054861	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, neg(neg(sub(ARG18, ARG18))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002987787682627502	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18))))))	0.0002996715563553936	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(neg(neg(ARG19)), 5))))))	0.004096944418174511	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(sin(5), mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.0094107820508653	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sin(5), 5))))))	0.0033269564500416466	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004089814062003331	
+[8, 18, 19, 13]	sub(mul(ARG13, 5), add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG18), sub(ARG8, ARG18)))	0.004035034024835397	
+[16, 9, 18, 19]	sub(ARG16, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(protectedDiv(5, 5), ARG18)))))	0.0032387914506369487	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(5, 5))))))	0.011203402944793885	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(neg(ARG19), ARG18), ARG18)))))	0.004185020978556348	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0033351426335599763	
+[18, 19]	sub(mul(5, 5), add(add(ARG18, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.0033651302458928465	
+[18, 2, 19]	sub(5, add(mul(ARG19, 5), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00029945276838546926	
+[18, 19, 12, 5]	sub(mul(5, 5), sub(5, mul(mul(sub(sin(sub(mul(neg(neg(ARG19)), ARG12), ARG18)), ARG5), 5), sub(ARG18, 5))))	5.7878121330616944e-05	
+[5, 8, 9, 18, 19]	sub(neg(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.007850152063602707	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(5, add(ARG5, 5))))))	0.011078571405859076	
+[8, 9, 16, 18, 19]	sub(mul(ARG8, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.004068441746427545	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(5)))	0.003366787079602659	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), sin(protectedDiv(5, 5))))	0.0033722544376632753	
+[5, 8, 9, 10, 13, 15, 16, 18, 19]	sub(mul(ARG18, 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(add(ARG5, cos(neg(add(add(add(mul(5, ARG13), add(add(ARG9, mul(sin(add(ARG5, ARG16)), mul(5, ARG15))), add(sub(ARG8, ARG18), add(5, 5)))), ARG16), ARG10)))), ARG16), mul(sin(add(ARG5, ARG16)), mul(5, 5))))), sub(ARG18, neg(neg(ARG19)))))	0.002016207808455524	
+[8, 9, 12, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(cos(neg(ARG12))), sub(ARG8, ARG5)))), neg(neg(ARG9))))	0.0002994808651108662	
+[2, 5, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.010572388721399779	
+[5, 8, 9, 10, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), ARG16), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(5, ARG18)))	0.0033410474532685475	
+[5, 8, 9, 14, 18, 19]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(ARG9, sub(add(ARG5, 5), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(sin(5), 5))))))	0.003270979449750977	
+[8, 18, 19, 5]	sub(ARG5, add(add(sin(5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG18, 5))))))	0.003245440875820245	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(ARG19, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.015345732747660126	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(5)), sub(ARG18, 5)))), neg(ARG19)))	0.0002996374941410237	
+[]	sub(mul(5, 5), neg(neg(5)))	0.0002994679563135711	
+[19, 9, 3]	sub(5, add(add(ARG9, protectedDiv(ARG3, 5)), neg(ARG19)))	0.0002993999984488886	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00926534959764709	
+[8]	sub(mul(5, 5), protectedDiv(5, ARG8))	0.0002994295899061906	
+[8, 18, 19, 5]	sub(ARG8, add(add(5, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0033607552313479894	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, ARG9)))), neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19))))))))	0.00029257090318966214	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(ARG19, sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00926534959764709	
+[5, 8, 9, 10, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(neg(neg(5)))), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), ARG16), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(5, ARG18)))	0.0002995499700237496	
+[8, 9, 19, 5]	sub(sin(5), add(add(ARG9, neg(ARG19)), neg(neg(sub(ARG8, sub(ARG8, add(ARG5, 5)))))))	0.0002997497588382331	
+[8, 16, 18, 19]	sub(mul(5, 5), add(add(sin(5), sub(5, mul(neg(sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), ARG18))), neg(neg(sub(ARG8, add(ARG16, 5))))))	3.897464993486611e-06	
+[3, 5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(ARG3))))), add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18)))))	0.00029605280550096984	
+[8, 5]	sub(mul(5, 5), add(neg(neg(sub(ARG8, add(ARG5, 5)))), sub(ARG8, add(ARG5, 5))))	0.00029750975207640186	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(ARG19), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, neg(neg(ARG19))))))))	0.0001490994645217065	
+[8, 18, 5]	sub(mul(sub(sin(sub(ARG18, ARG18)), ARG5), 5), add(neg(5), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002998995220089716	
+[8, 16, 18]	sub(sub(ARG18, 5), add(sin(ARG8), neg(neg(sub(ARG8, add(ARG16, 5))))))	0.0002990446851843864	
+[19]	sub(mul(5, 5), sub(5, mul(neg(neg(ARG19)), mul(5, 5))))	0.00027058215076650074	
+[18, 19]	sub(mul(5, 5), add(add(protectedDiv(5, 5), sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG18, sub(sin(5), mul(5, 5)))))))	0.01708907798266077	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(mul(ARG18, ARG9), sub(5, mul(neg(neg(ARG19)), sub(ARG8, 5)))), neg(neg(neg(ARG19)))))	0.00017691413374127665	
+[2, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(add(ARG2, ARG18), ARG18))))))	0.009887080081626295	
+[9, 18, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(add(ARG5, 5)))))	0.010589007599272088	
+[5, 8, 9, 13, 16, 17, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(ARG8)), sin(add(ARG5, ARG16))), mul(sin(add(protectedDiv(mul(ARG9, ARG17), neg(5)), ARG16)), mul(sin(add(ARG5, ARG16)), mul(5, ARG16)))))), sub(ARG8, ARG18)))	0.0034648068924447105	
+[5, 8, 9, 10, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(add(sub(ARG8, ARG18), ARG10)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009409923857996647	
+[18, 2, 19, 5]	sub(neg(add(ARG2, 5)), add(add(neg(ARG19), sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG5, add(ARG5, 5))))))	0.004178971037534459	
+[8, 9, 18]	sub(sin(5), add(add(ARG9, 5), neg(neg(sub(ARG8, add(sub(ARG8, ARG18), 5))))))	0.00029934749440208773	
+[16, 9, 19]	sub(ARG16, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), neg(neg(ARG19))))), neg(5)))	0.00017441958158467228	
+[9, 18, 2, 5]	sub(5, add(add(ARG9, sub(5, mul(sub(ARG18, 5), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00017660822306721894	
+[18, 5]	sub(mul(5, 5), add(sub(ARG18, 5), neg(ARG5)))	0.00029870336812262206	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18)))))), neg(ARG19)))	3.855888246578834e-06	
+[9, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), neg(ARG19)))	0.0002967721110261133	
+[9, 18, 19, 13]	sub(sub(ARG18, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.003653131763021954	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.0033809968026136243	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, neg(ARG19))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00022158895605009832	
+[5, 8, 9, 18, 19]	sub(sin(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19)))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009180413484777755	
+[8, 18, 5]	sub(mul(sub(ARG8, ARG5), 5), add(5, sub(ARG18, 5)))	0.0003009091064693534	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(ARG19, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, sub(sin(5), mul(5, 5)))))))	0.01008418055069308	
+[8, 9, 18, 5]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(5)), sub(ARG18, sin(sub(ARG8, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.000298946664551762	
+[5, 8, 9, 13, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), neg(neg(sub(ARG8, add(ARG5, 5)))))))))	0.003814181267873185	
+[5, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG5, ARG13)))))), ARG18))	0.010738712006349342	
+[8, 18, 19, 5]	sub(mul(sub(ARG8, ARG5), 5), add(add(5, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.004180834660829446	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(ARG9, mul(neg(neg(ARG19)), ARG18))), neg(ARG19)))	0.007362047826572143	
+[2, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0033351426335599763	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(neg(neg(ARG19)), sub(ARG18, 5)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009099007854024703	
+[17, 10]	sub(sin(5), add(neg(protectedDiv(ARG10, ARG17)), 5))	0.0002996734480217156	
+[5, 8, 9, 18, 19]	sub(sin(neg(neg(sub(sin(5), add(ARG5, 5))))), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009264474713905062	
+[2, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(neg(sub(add(ARG2, ARG18), ARG18))))))	0.01178809976413837	
+[5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(sub(ARG8, sub(sin(5), mul(5, 5))))))	0.010263720041976267	
+[8, 9, 19, 5]	sub(sin(5), add(add(ARG9, sub(neg(ARG19), neg(neg(ARG19)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029815738375766346	
+[18, 19]	sub(mul(5, 5), sub(5, mul(mul(neg(neg(ARG19)), sub(ARG18, 5)), sub(ARG18, 5))))	3.81301964803502e-06	
+[2, 5, 8, 18, 19]	sub(mul(5, 5), add(add(add(ARG5, 5), sub(5, mul(neg(neg(ARG19)), sub(ARG18, add(ARG2, 5))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029294345200066394	
+[18, 19, 14]	sub(5, add(add(ARG14, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(5, 5)))))	0.003388864445738801	
+[8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, 5)))))	0.0033386255445376064	
+[5, 8, 9, 10, 13, 16, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, cos(neg(add(add(add(mul(sin(sub(ARG8, ARG18)), ARG13), neg(neg(ARG19))), ARG16), protectedDiv(protectedDiv(ARG10, 5), sub(5, sin(5)))))))))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003921962927905859	
+[5, 8, 9, 16, 18]	sub(sin(5), add(add(ARG9, sub(5, mul(mul(sin(add(ARG5, ARG16)), mul(5, ARG16)), sub(ARG18, sin(sub(ARG8, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	8.303245715814391e-05	
+[5, 8, 9, 10, 13, 14, 16, 18, 19]	sub(mul(ARG13, 5), add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), ARG16)), add(add(add(ARG5, cos(neg(add(sub(ARG8, ARG18), ARG10)))), sin(add(ARG5, ARG16))), mul(sin(add(protectedDiv(mul(ARG9, add(ARG5, ARG14)), neg(5)), ARG16)), neg(neg(ARG19)))))), sub(ARG8, ARG18)))	0.0037894657936661975	
+[19, 9, 11]	sub(sin(5), add(add(ARG9, sub(cos(ARG11), mul(neg(neg(ARG19)), ARG9))), neg(neg(5))))	0.00021731497965710666	
+[8, 18, 19, 5]	sub(mul(sub(ARG8, ARG5), 5), add(add(sub(ARG18, 5), add(add(sub(neg(5), mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0038748129466004886	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(mul(neg(neg(ARG19)), sub(ARG18, 5))), sub(ARG18, 5)))), 5))	3.83116071986948e-06	
+[2, 19, 14]	sub(5, add(add(ARG14, sub(5, neg(ARG19))), neg(neg(sub(add(ARG2, 5), 5)))))	0.0002996172502200983	
+[19]	sub(mul(5, 5), neg(ARG19))	0.0002991975795104913	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))), sub(ARG18, 5)))	0.0002978201886794743	
+[8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(ARG8, ARG18)))))), neg(neg(sub(ARG8, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))))))	0.0002969106159950819	
+[3]	sub(mul(5, 5), ARG3)	0.00029954117643603105	
+[5, 8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, add(ARG5, neg(ARG19)))))))	0.008592754870849624	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(sub(5, mul(neg(5), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0002962118848489257	
+[8, 18, 5]	sub(mul(sub(ARG8, ARG5), 5), add(mul(5, 5), sub(ARG18, 5)))	0.0003009592642371787	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(add(ARG9, add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009114207616572858	
+[9, 18, 5]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(protectedDiv(5, 5))), sub(ARG18, 5)))), neg(neg(sub(5, add(ARG5, ARG18))))))	0.0002995111272406608	
+[8, 19, 5, 14]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(5, sub(add(5, 5), mul(neg(neg(ARG19)), sub(5, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.00029867267005153963	
+[19]	sub(mul(5, 5), ARG19)	0.000299614659234943	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(5)))	0.01686142506949856	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG18, ARG18)), ARG5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.003943558980204776	
+[5, 8, 9, 14, 18, 19]	sub(mul(mul(sin(ARG14), sin(5)), 5), add(add(ARG9, sub(add(5, 5), mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0032856275971474545	
+[5, 8, 9, 17, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(sub(mul(5, sin(ARG17)), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.009166715650512702	
+[9, 18, 19, 13]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(add(ARG13, neg(ARG19)), ARG18)))))	0.003934820184615565	
+[8, 5]	sub(5, add(mul(sub(ARG8, ARG5), 5), neg(5)))	0.0002935196209239024	
+[5, 8, 9, 11, 18, 19]	sub(mul(sub(ARG8, ARG5), 5), add(add(ARG9, add(add(cos(ARG11), add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))))), neg(ARG19))), sub(ARG18, 5)))	0.002026413732665015	
+[2, 5, 8, 9, 18, 19]	sub(neg(add(ARG2, 5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0032334434583550778	
+[5, 8, 9, 18, 19]	sub(mul(sub(ARG5, ARG5), 5), add(add(ARG9, add(add(sub(ARG19, mul(neg(neg(ARG19)), sub(ARG18, 5))), mul(sub(ARG8, ARG5), 5)), neg(ARG19))), sub(ARG18, 5)))	0.0020010459446630534	
+[8, 1, 18, 5]	sub(mul(sub(sin(sub(ARG8, ARG18)), ARG5), 5), sin(ARG1))	0.00030035126245821843	
+[9, 18, 19]	sub(neg(neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), 5))	0.004183111662187402	
+[9, 19, 5]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), 5))), neg(neg(sub(5, add(ARG5, 5))))))	0.0002970390997190418	
+[8, 9, 18, 19]	sub(sub(ARG18, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG8)))	0.0032202653783911556	
+[5, 8, 9, 13, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(add(add(add(neg(ARG19), add(add(sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5))), add(mul(5, ARG13), 5)), ARG13)), ARG18), sub(ARG8, ARG18)))), sub(ARG18, sin(sub(neg(ARG19), ARG18)))))), neg(neg(sub(ARG8, add(ARG5, 5))))))	3.854989254157805e-06	
+[19, 13]	sub(mul(ARG13, 5), ARG19)	0.00029706082212210377	
+[9, 18, 5]	sub(5, add(add(ARG9, ARG18), neg(neg(sub(5, add(ARG5, 5))))))	0.0002988998189178176	
+[8, 9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), neg(neg(sub(ARG8, neg(ARG19))))))	0.009833242571179367	
+[2, 5, 9, 13, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(sin(ARG13), sin(add(ARG5, 5)))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.00029995199591847677	
+[5, 8, 9, 18, 19]	sub(sin(5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, ARG18)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0002987787682627502	
+[2, 5, 8, 9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(neg(sub(ARG8, add(ARG5, 5)))))))), neg(neg(sub(add(ARG2, ARG18), ARG18)))))	0.010772494139909834	
+[5, 8, 9, 18, 19]	sub(neg(add(ARG5, 5)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(neg(sub(ARG8, add(ARG5, 5))))))	0.0033393593214714697	
+[9, 18, 19]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, neg(neg(5)))))), 5))	0.0033753595326118583	
+[9, 18]	sub(mul(5, 5), add(add(ARG9, sub(5, mul(5, sub(ARG18, 5)))), 5))	0.00029985083076394754	
+[5, 8, 9, 18, 19]	sub(mul(5, neg(ARG19)), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), ARG18))), sub(ARG8, add(ARG5, 5))))	0.0032852689396105374	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(5), sub(ARG18, 5)))), neg(ARG19)))	0.0002969364406231573	
+[8, 18, 19]	sub(5, add(add(ARG19, sub(5, mul(neg(neg(ARG19)), sub(ARG18, 5)))), neg(ARG8)))	0.0028000886499313657	
+[9, 18, 19]	sub(5, add(add(ARG9, sub(5, mul(neg(neg(ARG9)), sub(ARG18, 5)))), neg(ARG19)))	0.00020558780453190865	
+[5, 8, 9, 18, 19]	sub(mul(sub(sin(sub(ARG8, ARG18)), 5), 5), add(add(ARG9, sub(5, mul(neg(neg(ARG19)), sub(ARG18, sin(add(ARG5, 5)))))), neg(5)))	0.013178745328538022	
+[18, 19, 5]	sub(mul(5, 5), sub(ARG5, mul(neg(neg(ARG19)), sub(ARG18, 5))))	0.0033417698647394685	

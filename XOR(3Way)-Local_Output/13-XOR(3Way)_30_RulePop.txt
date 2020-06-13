@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[7, 12, 17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), sin(add(ARG7, ARG12)))	0.491875	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(neg(5)))))	0.525	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG18, ARG18))))	0.5193749999999999	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG17))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[9, 18, 19, 17]	sub(sub(ARG19, cos(mul(mul(5, ARG9), cos(5)))), cos(cos(sub(ARG17, ARG18))))	0.56	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG19))))	0.5075000000000001	
+[3, 18, 19, 7]	sub(sub(ARG18, cos(neg(neg(5)))), cos(cos(cos(cos(sub(mul(add(ARG19, ARG3), mul(ARG7, 5)), ARG18))))))	0.500625	
+[17, 18, 11]	sub(sub(ARG11, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 12]	sub(cos(sub(ARG12, 5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, neg(5)))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG18))), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19, 6]	sub(sub(ARG19, cos(5)), cos(cos(sin(sin(ARG6)))))	0.531875	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(ARG18)))	0.516875	
+[16, 17, 18]	sub(cos(sub(ARG16, 5)), cos(cos(sub(ARG17, sub(ARG17, ARG18)))))	0.5	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(neg(neg(5)))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18]	sub(sub(sub(ARG17, ARG18), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG19)))	0.525	
+[19]	sub(sub(ARG19, cos(5)), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(sub(ARG17, ARG18))))	0.498125	
+[11, 19, 4, 6]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG19, cos(neg(protectedDiv(sub(ARG4, ARG6), neg(ARG11))))))))	0.52	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), sub(ARG17, ARG18))	0.675	
+[17, 18, 19]	sub(sub(ARG19, 5), sub(ARG17, ARG18))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))))	0.525	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, neg(5)))))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.5225	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG19, cos(neg(5)))))	0.525	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG19, cos(neg(neg(neg(5))))))))	0.525	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(sub(ARG17, ARG18))))	0.498125	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(neg(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(ARG19))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[19, 12]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG12, ARG19)))	0.516875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(protectedDiv(5, ARG18)))	0.51625	
+[19, 6]	sub(sub(ARG19, cos(neg(5))), cos(add(ARG6, ARG6)))	0.5081249999999999	
+[17, 18, 19, 7]	sub(sub(ARG19, cos(neg(ARG18))), cos(cos(cos(cos(sub(ARG17, ARG7))))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, neg(5)))))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, ARG18), cos(cos(sub(ARG17, ARG18))))	0.5181250000000001	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(ARG18))	0.524375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(cos(cos(sub(ARG17, cos(sub(ARG17, ARG18))))))))	0.47875	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG17))))))	0.5193749999999999	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG18, ARG18))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG19))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(5)))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 4]	sub(sub(cos(sub(ARG4, 5)), cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(ARG19))	0.5193749999999999	
+[]	5	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18]	sub(cos(cos(cos(sub(ARG17, ARG18)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[19, 14]	sub(sub(neg(ARG14), cos(neg(5))), cos(cos(cos(sub(ARG19, cos(neg(5)))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, neg(5)))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sub(ARG17, ARG18)))))	0.516875	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(ARG18)))	0.516875	
+[18, 17, 10, 19]	sub(sub(ARG19, ARG10), cos(cos(sub(ARG17, ARG18))))	0.48687500000000006	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG18, ARG18))))))	0.5193749999999999	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG17))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(ARG19))	0.5193749999999999	
+[17, 18]	sub(sub(cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))), cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19, 4]	sub(sub(ARG19, cos(ARG4)), cos(cos(sub(ARG17, ARG18))))	0.52625	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG19))))	0.5075000000000001	
+[17, 18]	sub(sub(ARG18, cos(neg(neg(5)))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.499375	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(cos(cos(sub(ARG17, ARG18))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.4975	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG19, cos(neg(5))))))))	0.525	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.51	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG19, ARG18))))	0.53	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, ARG17), cos(cos(sub(ARG17, ARG18))))	0.52125	
+[17, 18, 19, 5]	sub(sub(ARG19, cos(sub(ARG5, ARG17))), cos(cos(sub(cos(neg(5)), ARG18))))	0.52875	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(5, ARG18))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG17))), cos(cos(sub(ARG17, ARG18))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG19, cos(neg(5)))))))	0.525	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(5)), cos(ARG19))	0.5193749999999999	
+[1, 12, 17, 18, 19]	sub(sub(ARG19, sub(add(5, ARG12), cos(ARG1))), cos(sub(ARG17, ARG18)))	0.5	
+[19, 4, 7]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(neg(ARG7), sin(ARG4))))))	0.5081249999999999	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(ARG18))	0.524375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(cos(cos(sub(ARG17, ARG18))))))))	0.47875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[]	5	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(sub(neg(cos(5)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(ARG18)))	0.516875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sub(ARG17, ARG18)))))	0.516875	
+[18, 13]	sub(sub(neg(ARG13), cos(5)), cos(ARG18))	0.498125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(sub(ARG17, ARG18))))))	0.47875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(5, ARG18))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG17))), cos(cos(sub(ARG17, ARG18))))	0.531875	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(5))))	0.525	
+[17, 18, 4]	sub(mul(cos(ARG4), sub(5, 5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19, 12]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(add(ARG17, ARG12), ARG18))))))	0.6699999999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19, 15]	sub(sub(ARG19, cos(neg(neg(5)))), cos(add(5, ARG15)))	0.52125	
+[9, 18, 17, 15]	sub(protectedDiv(sub(ARG15, ARG9), mul(5, ARG9)), cos(cos(cos(sub(ARG17, ARG18)))))	0.51875	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG19, cos(neg(5)))))	0.525	
+[17, 18, 15]	sub(ARG15, cos(cos(sub(ARG17, ARG18))))	0.500625	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(sub(ARG19, cos(5)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18]	sub(sub(neg(sub(ARG17, 5)), neg(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(neg(5)))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG17, ARG18)), cos(cos(sub(ARG17, ARG18))))	0.675	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(5)))	0.525	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19, 4]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(cos(cos(cos(ARG4))))))))	0.52625	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(cos(sub(ARG17, ARG18)))))))	0.54125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(ARG18)))))	0.516875	
+[17, 18]	sub(cos(cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), sub(ARG19, cos(neg(neg(5)))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG17)))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), ARG18))))	0.56375	
+[17, 18]	sub(sub(add(5, 5), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[2, 5, 8, 9, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(protectedDiv(mul(ARG8, ARG2), sub(ARG5, ARG9))))))	0.5218750000000001	
+[2, 17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sin(ARG2))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[5]	mul(ARG5, 5)	0.49250000000000005	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18]	sub(ARG18, cos(cos(sub(ARG17, ARG18))))	0.51	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sub(ARG19, cos(neg(neg(5))))))))	0.5075000000000001	
+[11, 19, 12]	sub(sub(ARG19, cos(neg(neg(neg(add(cos(ARG11), sub(ARG12, ARG11))))))), cos(cos(5)))	0.5231250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[17, 18]	sub(ARG17, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.4925	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(sub(ARG19, cos(neg(5))), ARG18))))	0.53	
+[19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), sub(ARG19, sub(cos(5), sub(ARG19, 5))))	0.5	
+[17, 18]	sub(cos(cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.4975	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(cos(cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(5)), sub(ARG19, cos(neg(5))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(cos(sub(ARG17, ARG18)))))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[10, 17, 18, 11]	sub(sub(sub(ARG17, ARG18), cos(neg(5))), cos(cos(sub(mul(ARG11, ARG10), ARG18))))	0.490625	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(5))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(5))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19]	sub(sub(ARG19, cos(5)), cos(sub(ARG19, cos(neg(5)))))	0.525	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sub(ARG17, ARG18)))))	0.516875	
+[17]	ARG17	0.4925	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[19, 6]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(neg(sub(ARG6, 5))))))	0.52125	
+[11, 17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, mul(ARG11, ARG19)))))	0.525	
+[]	sin(5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG17))))	0.5193749999999999	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG18, ARG18))))	0.5193749999999999	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(ARG19))))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[9, 19, 12, 5]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(protectedDiv(protectedDiv(ARG12, 5), mul(ARG9, ARG5))))))	0.53125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(sub(ARG17, ARG18)), ARG18))))	0.48812500000000003	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), ARG18))))	0.56375	
+[17, 19]	sub(sub(ARG19, cos(5)), ARG17)	0.52125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(sub(ARG17, ARG18)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(neg(neg(neg(5)))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(cos(sub(ARG17, ARG18)))))))	0.54125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), ARG18)	0.5181250000000001	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[1, 5, 17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(protectedDiv(ARG1, ARG5))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))	0.331875	
+[19]	sub(sub(ARG19, cos(neg(5))), sub(ARG19, cos(neg(5))))	0.5	
+[17, 18]	sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(ARG19, cos(neg(5))))))	0.525	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.498125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18]	sub(ARG17, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.4925	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(sub(ARG19, cos(neg(5))), ARG18))))	0.53	
+[6, 14, 17, 18, 19]	sub(sub(ARG19, mul(ARG6, ARG14)), cos(cos(cos(sub(ARG17, ARG18)))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(cos(cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG19, cos(5))))	0.525	
+[18, 17, 2, 19]	sub(sub(ARG19, cos(add(ARG2, 5))), cos(sub(ARG17, ARG18)))	0.388125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[10, 7, 12, 15]	protectedDiv(add(ARG15, ARG10), sub(ARG7, ARG12))	0.50875	
+[8, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sin(ARG8))))	0.5318750000000001	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(cos(sub(ARG17, ARG18)))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(sub(ARG19, cos(neg(5)))))	0.525	
+[17, 18]	sub(cos(cos(cos(sub(ARG17, 5)))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[17, 18]	sub(sub(5, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG19))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG19, ARG18))))	0.53	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.51	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19, 13]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sin(sub(5, ARG13))))))	0.53125	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(ARG19)))	0.525	
+[17, 18]	sub(sub(sub(ARG17, ARG18), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(cos(neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 19, 5]	sub(sub(ARG19, sub(ARG19, cos(neg(5)))), cos(cos(sub(ARG17, mul(5, ARG5)))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG19))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18]	sub(sub(neg(neg(5)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18]	sub(5, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[2, 15, 17, 18, 19]	sub(sub(ARG19, cos(neg(mul(ARG2, ARG15)))), cos(cos(sub(ARG17, ARG18))))	0.52375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG19, cos(neg(neg(5))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(5, cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(ARG17)))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(sub(ARG17, ARG18), ARG18))))	0.43625	
+[17, 18, 19]	sub(sub(sub(ARG19, cos(neg(5))), cos(neg(neg(5)))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.525	
+[17, 18, 19]	sub(ARG19, cos(cos(sub(ARG17, ARG18))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(neg(5), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(neg(5))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17]	sub(sub(ARG17, cos(neg(5))), cos(sub(5, 5)))	0.50375	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG19, ARG18))))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(neg(neg(5)))))	0.525	
+[17, 18, 19, 14]	sub(sub(ARG19, cos(ARG14)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(neg(5))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18, 19, 5]	sub(sub(ARG19, sub(ARG5, 5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(5, ARG18))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG19, cos(neg(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(cos(neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(5)))	0.525	
+[17, 18]	sub(ARG17, cos(cos(sub(ARG17, ARG18))))	0.4925	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(cos(cos(cos(sub(ARG17, ARG18)))))))))	0.54125	
+[18, 19]	sub(sub(ARG19, cos(5)), ARG18)	0.5181250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[10, 12, 17, 18, 19]	sub(sub(ARG19, cos(neg(neg(add(sub(ARG12, 5), add(5, ARG10)))))), cos(cos(sub(ARG17, ARG18))))	0.5337500000000001	
+[17, 18]	sub(cos(neg(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG19, cos(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG17))), cos(cos(sub(ARG17, ARG18))))	0.531875	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(5, ARG18))))	0.5225	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(ARG19))))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[17, 18]	sub(sub(5, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19, 12]	sub(sub(ARG19, protectedDiv(5, ARG12)), cos(cos(sub(ARG17, ARG18))))	0.525625	
+[8, 19]	sub(sub(ARG19, cos(sin(ARG8))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(cos(sub(ARG17, ARG18)))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(sub(ARG17, ARG18), ARG18))))	0.43625	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(ARG17)))	0.53	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(ARG17))	0.5025	
+[17, 18, 19, 14]	sub(sub(ARG19, cos(neg(ARG14))), cos(cos(cos(cos(sub(cos(sub(ARG17, ARG18)), ARG18))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(5)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(5, cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(cos(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), ARG18))))))))	0.53	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), ARG17)	0.52125	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(mul(cos(5), cos(ARG17)), sub(ARG19, cos(neg(neg(5))))))))))	0.5125	
+[17, 18]	sub(ARG18, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.51	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(5)))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG19, cos(neg(neg(5))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[12]	sub(neg(5), cos(cos(ARG12)))	0.5	
+[17, 18, 19]	sub(sub(ARG19, ARG17), cos(cos(sub(ARG17, ARG18))))	0.52125	
+[3, 18, 19, 6]	sub(sub(ARG19, mul(ARG3, ARG6)), cos(cos(sub(cos(neg(5)), ARG18))))	0.5237499999999999	
+[17, 2, 19]	sub(sub(ARG19, add(5, ARG2)), cos(cos(ARG17)))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(sub(ARG17, ARG18), ARG18))))	0.43625	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(5)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(ARG17, cos(cos(sub(ARG17, ARG18))))	0.4925	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(sub(ARG19, cos(neg(5))), ARG18))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), ARG18)	0.5181250000000001	
+[17, 18, 19, 15]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(mul(ARG15, ARG15), cos(cos(cos(cos(sub(ARG17, ARG18)))))))))))	0.5231250000000001	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(neg(neg(neg(5))))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(5)))	0.525	
+[5, 7, 9, 17, 19]	sub(sub(ARG19, cos(neg(5))), sub(mul(ARG9, ARG5), add(ARG7, ARG17)))	0.503125	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.51	
+[19]	sub(sub(ARG19, cos(neg(5))), ARG19)	0.5	
+[17, 18, 1]	sub(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), cos(ARG1)), cos(cos(sub(ARG17, ARG18))))	0.49374999999999997	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(sub(5, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG19))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(neg(5))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(neg(5)))))))	0.5193749999999999	
+[17, 18]	sub(sub(sub(5, 5), sub(ARG17, ARG18)), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(sub(neg(5), cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG17, ARG18)))	0.299375	
+[11, 19]	sub(sub(ARG19, cos(5)), cos(cos(ARG11)))	0.526875	
+[0, 17, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(ARG17, sub(5, ARG0)))))	0.525625	
+[17, 18]	sub(cos(5), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG19, cos(neg(sin(5))))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG19, ARG18))))	0.53	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.51	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(5))	0.5193749999999999	
+[8, 17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(sub(ARG17, ARG18)))))), ARG8)	0.529375	
+[17, 18]	sub(5, cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG19, cos(neg(neg(5))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, neg(5)))))	0.5075000000000001	
+[8, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG8, ARG18))))))	0.520625	
+[17, 18, 19, 15]	sub(sub(ARG19, cos(neg(add(5, ARG15)))), cos(cos(sub(ARG17, ARG18))))	0.621875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18]	sub(5, cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(ARG17, cos(cos(sub(ARG17, ARG18))))	0.4925	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(sub(ARG17, ARG18))))	0.498125	
+[19, 11, 6]	sub(sub(mul(sub(ARG6, 5), sub(ARG11, 5)), cos(neg(5))), cos(cos(sub(ARG19, cos(neg(5))))))	0.5	
+[16, 14]	protectedDiv(cos(5), mul(ARG14, ARG16))	0.5	
+[8]	ARG8	0.50125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[18]	ARG18	0.51	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(neg(ARG17)))	0.5025	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(ARG17))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(5)))	0.525	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(neg(5))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(ARG19, ARG18))))	0.53	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.51	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(5)), ARG19)	0.5	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 14]	sub(sub(ARG17, cos(5)), cos(ARG14))	0.5	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG19, ARG18))))))))	0.53	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.51	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG19, ARG18))))	0.53	
+[19, 7]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(ARG7)))))))	0.534375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG17, ARG18)))	0.299375	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(5))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(sub(ARG19, cos(neg(5))), ARG18))))	0.53	
+[17, 18]	sub(ARG17, cos(cos(sub(ARG17, ARG18))))	0.4925	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, sub(ARG17, ARG18)))))	0.516875	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG18)))	0.516875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 10, 19]	sub(sub(ARG19, sub(add(ARG10, 5), sub(5, ARG10))), cos(cos(sub(ARG17, sub(ARG19, cos(neg(5)))))))	0.496875	
+[1, 18, 19, 17]	sub(cos(protectedDiv(ARG19, ARG1)), cos(cos(sub(ARG17, ARG18))))	0.48375	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(sub(ARG19, cos(5))))	0.525	
+[19, 6]	sub(sub(ARG19, cos(ARG19)), cos(cos(ARG6)))	0.525	
+[8, 9, 18, 17]	sub(sub(cos(protectedDiv(ARG9, ARG8)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.503125	
+[19, 12]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(ARG12)))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(ARG19, cos(cos(sub(ARG17, ARG18))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(sub(ARG19, cos(neg(neg(5)))), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(ARG19))))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(neg(neg(5))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 10, 18]	sub(sub(ARG10, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG19, ARG18))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, neg(5)))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(ARG19))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(5))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[18, 10, 19, 15]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(sub(ARG10, ARG15), ARG18))))	0.513125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(5)), cos(ARG19))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(neg(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(sub(cos(neg(5)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, ARG19), cos(cos(sub(ARG17, ARG18))))	0.5	
+[18]	sub(ARG18, cos(cos(cos(neg(5)))))	0.51	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, sub(ARG19, cos(5))))))))	0.5075000000000001	
+[17, 19, 4]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG4))))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(sub(cos(5), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[8, 17, 19]	sub(sub(ARG19, ARG19), cos(cos(cos(cos(sub(ARG17, ARG8))))))	0.5	
+[17, 18]	sub(sub(cos(5), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG18, ARG19), cos(cos(sub(ARG17, ARG18))))	0.486875	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(5))))	0.525	
+[16, 17, 18, 19]	sub(sub(ARG19, cos(neg(ARG16))), cos(cos(sub(ARG17, ARG18))))	0.5293749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, cos(cos(sub(ARG17, ARG18)))))))))	0.54125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG18)))	0.516875	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(sub(neg(5), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG17))), cos(sub(ARG17, ARG18)))	0.5625	
+[15]	neg(add(ARG15, 5))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(neg(neg(5))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(sin(sin(5))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(neg(neg(neg(5)))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[8, 17, 18, 19]	sub(sub(ARG19, cos(neg(neg(ARG8)))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.536875	
+[11, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(mul(5, ARG11)))))	0.526875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(5)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.588125	
+[19, 4]	sub(sub(ARG19, cos(neg(5))), cos(sin(sin(ARG4))))	0.52625	
+[0, 17, 18]	sub(sub(sin(ARG0), cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), sub(ARG17, ARG18))	0.675	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG19, cos(5)))))	0.525	
+[17, 18, 1, 9]	sub(sub(ARG17, ARG18), cos(cos(cos(cos(sub(ARG17, mul(neg(5), sub(ARG1, ARG9))))))))	0.498125	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19, 12]	sub(sub(ARG19, cos(5)), cos(cos(cos(sub(ARG19, ARG12)))))	0.518125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG18)))	0.516875	
+[17, 18, 19, 15]	sub(sub(ARG19, ARG15), cos(cos(sub(ARG17, sub(ARG17, ARG18)))))	0.525	
+[11, 17, 18, 19]	sub(sub(ARG19, protectedDiv(ARG11, 5)), cos(cos(sub(ARG17, ARG18))))	0.585	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(cos(neg(5)), ARG18))))	0.516875	
+[17, 18]	sub(sub(5, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[18, 19, 12]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(neg(ARG12), ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[1, 19]	sub(sub(ARG19, cos(5)), cos(cos(ARG1)))	0.5293749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[19, 5, 14, 6]	sub(sub(ARG19, cos(protectedDiv(mul(5, ARG14), sub(ARG6, ARG5)))), cos(sub(ARG19, cos(5))))	0.525625	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(neg(5)))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG17, ARG18)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.675	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, 5))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5225	
+[18, 19]	sub(sub(ARG19, cos(5)), ARG18)	0.5181250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, cos(cos(sub(ARG17, ARG18)))))))))	0.54125	
+[17, 18]	sub(sub(ARG17, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.51	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG19, ARG18))))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), sub(ARG17, ARG18))	0.675	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(ARG18))	0.524375	
+[6, 13, 17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(mul(protectedDiv(ARG13, 5), neg(ARG6)), cos(sub(ARG17, ARG18))))))))	0.343125	
+[17, 18]	sub(sub(ARG18, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG19))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(sub(ARG17, ARG18), ARG18))))))	0.43625	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG17)))	0.53	
+[17, 18, 19]	sub(sub(sub(ARG19, cos(neg(5))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(ARG19, cos(cos(sub(ARG17, ARG18))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(cos(cos(sub(ARG17, cos(cos(cos(cos(sub(ARG17, ARG18)))))))))))))	0.5075000000000001	
+[19, 7]	mul(add(5, ARG7), mul(5, ARG19))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sin(mul(5, 5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[8, 17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(ARG8)))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.536875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(cos(cos(cos(sub(ARG17, ARG18))))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(cos(cos(5)))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19, 14]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, add(ARG18, ARG14)))))	0.705625	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(neg(5)))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(neg(5)))	0.5193749999999999	
+[19]	sub(sub(ARG19, cos(5)), ARG19)	0.5	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[9]	ARG9	0.48125	
+[17, 18, 12]	sub(sub(ARG12, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.49250000000000005	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.588125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(5)))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(neg(5)))	0.5193749999999999	
+[17, 18, 19, 1]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(cos(cos(neg(sin(ARG1)))))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), ARG19)	0.5	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG18, ARG18))))	0.5193749999999999	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG17))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17]	neg(ARG17)	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(5)))	0.525	
+[1]	sin(sub(5, ARG1))	0.49374999999999997	
+[19]	sub(sub(ARG19, cos(neg(5))), ARG19)	0.5	
+[17, 18]	sub(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[8, 17, 18, 19]	sub(sub(ARG19, cos(neg(protectedDiv(cos(5), sin(ARG8))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(sub(ARG19, cos(neg(5))), cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[17, 18, 19]	sub(ARG19, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5193749999999999	
+[17, 18]	sub(ARG18, cos(cos(sub(ARG17, ARG18))))	0.51	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sub(ARG19, 5)))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 15]	sub(sub(neg(5), protectedDiv(ARG15, 5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(sub(ARG18, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[]	5	0.5	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG19, cos(neg(5)))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[16]	neg(ARG16)	0.5	
+[4, 11, 15, 17, 18]	sub(sub(mul(sub(5, ARG15), mul(ARG4, ARG11)), cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.495	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(neg(5))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, sub(ARG19, cos(5))))))	0.5075000000000001	
+[17, 18]	sub(ARG18, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.51	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG17)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.531875	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(neg(5))))), cos(cos(sub(neg(5), ARG18))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG17, ARG18)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.675	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(neg(5)))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(5))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(5)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(ARG18)))), cos(cos(sub(ARG17, protectedDiv(5, 5)))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, neg(5)))))	0.5075000000000001	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), cos(cos(sub(ARG17, cos(neg(5))))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, ARG18), cos(cos(sub(ARG17, ARG18))))	0.5181250000000001	
+[5, 12, 17, 18, 19]	sub(sub(ARG19, cos(cos(add(mul(ARG12, ARG5), cos(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, neg(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(ARG19, cos(cos(sub(ARG17, ARG18))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(sub(ARG19, cos(neg(5))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(neg(5))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.588125	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), ARG18)	0.5181250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(cos(sub(ARG17, ARG18)))))))	0.54125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), ARG18)	0.5181250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, cos(cos(sub(ARG17, ARG18)))))))	0.54125	
+[19]	sub(sub(ARG19, cos(5)), cos(ARG19))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18]	sub(sub(cos(neg(5)), cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, ARG19), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19, 5]	sub(sub(ARG19, cos(5)), cos(add(cos(ARG5), cos(5))))	0.514375	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(sub(ARG17, ARG18)))	0.299375	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(cos(sub(ARG17, ARG18)))))	0.5	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), cos(cos(sub(ARG17, cos(neg(5))))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, ARG18), cos(cos(sub(ARG17, ARG18))))	0.5181250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.588125	
+[3]	add(ARG3, 5)	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, cos(sub(ARG17, ARG18))))))	0.47875	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(cos(ARG18))))))	0.5275	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[11, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sin(sin(ARG11)))))	0.526875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(neg(5))))))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(5))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(cos(sub(ARG17, ARG18)), ARG18))))))	0.48812500000000003	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(ARG17))	0.5025	
+[19, 14]	sub(sub(ARG19, cos(neg(neg(5)))), neg(neg(ARG14)))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19, 6]	sub(sub(ARG19, cos(5)), ARG6)	0.5337500000000001	
+[17, 18]	sub(cos(cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG17)), cos(cos(sub(ARG17, ARG18))))	0.531875	
+[3, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(mul(ARG3, ARG19)))))	0.5275	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18]	sub(protectedDiv(cos(5), sin(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, cos(5)))))	0.53	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(sub(ARG17, ARG18))))	0.498125	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, neg(neg(5))))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 18]	sub(cos(sub(sub(5, 5), ARG18)), cos(cos(sub(ARG17, ARG18))))	0.49	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(sub(ARG19, cos(neg(neg(5))))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[]	5	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[16, 19]	sub(sub(ARG19, cos(neg(5))), add(add(5, ARG16), add(5, 5)))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[1, 19, 5]	sub(sub(ARG19, cos(neg(5))), cos(cos(add(ARG5, ARG1))))	0.5275	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[17, 18]	sub(cos(neg(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG19, cos(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(ARG19))))))	0.5193749999999999	
+[7, 15, 17, 18, 19]	sub(sub(ARG19, cos(add(protectedDiv(5, ARG15), mul(ARG7, 5)))), cos(sub(ARG17, ARG18)))	0.516875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(sub(ARG17, ARG18), ARG18))))))	0.43625	
+[0, 17, 11]	sub(sub(sub(ARG0, ARG11), cos(5)), cos(cos(cos(cos(ARG17)))))	0.4975	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(neg(5)))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(sub(ARG17, ARG18)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))	0.331875	
+[17, 18, 19, 7]	sub(sub(ARG19, cos(neg(ARG7))), cos(cos(cos(sub(ARG17, ARG18)))))	0.513125	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), ARG19)	0.5	
+[17, 18, 11]	sub(sub(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))), cos(neg(5))), cos(add(5, ARG11)))	0.5081249999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(cos(sub(ARG17, ARG18)))), ARG18))))	0.48812500000000003	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(ARG17))	0.5025	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(neg(5)))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 19, 12]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, sub(ARG12, ARG17)))))	0.5225	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(neg(5), ARG18))))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG17)), cos(cos(sub(ARG17, ARG18))))	0.531875	
+[17, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG17))))	0.5193749999999999	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG18, ARG18))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19, 5]	sub(sub(ARG19, mul(sin(5), protectedDiv(ARG5, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.50125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(cos(cos(cos(sub(ARG17, ARG18)))), ARG18))))	0.48812500000000003	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(ARG17))	0.5025	
+[17, 18]	sub(5, cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG19, cos(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(sub(ARG17, ARG18))))))), cos(cos(cos(cos(ARG17)))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))))))	0.5075000000000001	
+[18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(ARG18))	0.524375	
+[17, 18]	sub(sub(5, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[]	5	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(sub(add(5, 5), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[16, 19]	sub(sub(ARG19, cos(neg(cos(5)))), cos(cos(cos(cos(sub(ARG16, ARG19))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(5))	0.5193749999999999	
+[9, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(mul(cos(5), protectedDiv(ARG9, 5))))))	0.525	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(sub(ARG17, ARG18))))	0.498125	
+[17, 18]	sub(ARG17, cos(cos(sub(ARG17, ARG18))))	0.4925	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(sub(ARG19, cos(neg(5))), ARG18))))))	0.53	
+[17, 18]	sub(cos(sub(ARG17, ARG18)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(sub(ARG19, cos(neg(5)))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(sub(ARG17, ARG18))), ARG18))))	0.56375	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), ARG17)	0.52125	
+[1, 18]	sub(sub(ARG18, cos(neg(5))), ARG1)	0.5018750000000001	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG19))))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(5)), cos(5))	0.5193749999999999	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(ARG19))))	0.5193749999999999	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5025	
+[19, 7]	sub(sub(ARG19, cos(cos(neg(neg(neg(5)))))), cos(cos(cos(cos(ARG7)))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, neg(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(neg(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[8, 18, 19]	sub(sub(ARG19, cos(neg(mul(ARG18, ARG8)))), cos(cos(sub(ARG18, ARG18))))	0.52875	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG17))))	0.5193749999999999	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG17))))	0.5193749999999999	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG18, ARG18))))	0.5193749999999999	
+[19]	sub(sub(ARG19, cos(5)), cos(sub(ARG19, cos(5))))	0.525	
+[17, 18, 6]	sub(cos(sub(ARG17, ARG18)), cos(ARG6))	0.491875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(sub(ARG17, ARG18)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), 5)	0.5	
+[19]	sub(sub(ARG19, cos(5)), cos(5))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(ARG18, cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.51	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, sub(ARG19, cos(neg(5)))))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(sub(neg(neg(neg(neg(5)))), cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[8, 19]	sub(sub(ARG19, cos(neg(5))), cos(sin(ARG8)))	0.5125	
+[16]	sub(cos(ARG16), cos(5))	0.490625	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), ARG18))))	0.56375	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), ARG17)	0.52125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[8]	add(ARG8, 5)	0.5	
+[19]	sub(sub(ARG19, cos(5)), neg(neg(5)))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[]	sub(sub(5, cos(neg(5))), cos(neg(5)))	0.5	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.498125	
+[19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG19, cos(neg(neg(5)))))))))	0.525	
+[17, 19]	sub(sub(ARG19, cos(neg(cos(sub(5, 5))))), ARG17)	0.52125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), ARG18))))	0.56375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(cos(cos(cos(sub(ARG17, ARG18)))))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(neg(neg(neg(neg(5))))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(neg(neg(5)))))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18]	sub(sub(neg(5), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18]	sub(sub(neg(5), cos(neg(5))), sub(ARG17, ARG18))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(neg(5)))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG18))), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, 5))))	0.531875	
+[17, 18]	sub(neg(5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG19, cos(neg(5))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), ARG19)	0.5	
+[17, 18, 6]	sub(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), cos(5)), cos(cos(cos(cos(sub(protectedDiv(mul(5, 5), sin(ARG6)), ARG18))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))), ARG18))))	0.53	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), ARG17)	0.52125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(sub(ARG17, ARG18), ARG18))))	0.43625	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG17)))	0.53	
+[17, 18, 19]	sub(ARG19, cos(cos(sub(ARG17, ARG18))))	0.5193749999999999	
+[10, 19]	sub(sub(sub(ARG19, cos(neg(5))), cos(5)), cos(cos(cos(cos(sub(ARG10, 5))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[1, 15, 17, 18, 19]	sub(sub(ARG19, sub(mul(ARG1, ARG17), mul(ARG18, ARG15))), cos(cos(sub(ARG17, ARG18))))	0.5506249999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG19, cos(neg(5)))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.5	
+[17, 18]	sub(cos(neg(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG18))), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, 5))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, 5))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, neg(5)))))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(neg(neg(neg(5))))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(neg(5))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(cos(sub(ARG17, ARG18)))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(neg(neg(5))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG17, ARG18)), cos(cos(sub(ARG17, sub(ARG19, cos(neg(5)))))))	0.675	
+[17, 18]	sub(ARG18, cos(cos(sub(ARG17, ARG18))))	0.51	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, cos(cos(cos(cos(sub(ARG17, ARG18)))))))))))	0.5075000000000001	
+[18, 19]	sub(sub(ARG19, cos(5)), ARG18)	0.5181250000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[8, 19, 15]	sub(sub(ARG19, cos(5)), cos(mul(ARG8, ARG15)))	0.52625	
+[8, 17, 18]	sub(sub(ARG8, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.514375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18]	sub(ARG18, cos(cos(sub(ARG17, ARG18))))	0.51	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, sub(ARG19, cos(neg(5)))))))	0.5075000000000001	
+[18, 17, 10, 19]	sub(sub(ARG19, cos(add(5, ARG10))), cos(cos(sub(ARG17, ARG18))))	0.57375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(neg(5), ARG18))))))	0.53	
+[17, 19, 4]	sub(sub(ARG19, cos(neg(ARG17))), ARG4)	0.510625	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG19, cos(neg(5))))))))))	0.525	
+[17, 18]	sub(sub(ARG17, ARG18), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.498125	
+[17, 18]	sub(sub(neg(5), cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG19)), cos(cos(sub(ARG17, ARG18))))	0.525	
+[6, 9, 17, 18, 19]	sub(sub(ARG19, cos(neg(neg(sub(cos(ARG18), mul(ARG9, ARG6)))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, cos(sub(ARG17, ARG18))))))	0.47875	
+[18, 19]	sub(sub(ARG19, cos(5)), cos(ARG18))	0.524375	
+[19]	sub(sub(ARG19, cos(neg(5))), neg(5))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(cos(neg(neg(5))))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[19]	sub(sub(ARG19, cos(5)), mul(sin(5), mul(5, ARG19)))	0.5193749999999999	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), ARG17)	0.52125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(cos(cos(cos(cos(sub(ARG17, ARG18))))), ARG18))))	0.56375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(sub(ARG17, sin(ARG17))))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.525	
+[16, 19]	sub(sub(ARG19, add(sub(5, 5), protectedDiv(ARG16, 5))), cos(cos(5)))	0.52	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 19, 4]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG4))))	0.5225	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 7]	sub(sub(add(ARG7, 5), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sin(cos(5)))))))	0.5193749999999999	
+[9, 18, 19, 17]	sub(sub(ARG19, cos(ARG9)), cos(cos(sub(ARG17, ARG18))))	0.521875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(neg(5)))))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(sub(ARG17, ARG18)))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, 5), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(cos(5))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG19)))	0.525	
+[17, 18]	sub(sub(sub(ARG17, ARG18), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(sub(ARG17, ARG18)))))))	0.331875	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(sub(ARG17, ARG18)))))	0.331875	
+[19, 12]	sub(sub(ARG19, sub(ARG19, cos(neg(neg(neg(5)))))), protectedDiv(neg(ARG12), mul(5, ARG19)))	0.5193749999999999	
+[17, 18]	sub(cos(neg(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, 5))))	0.531875	
+[17, 18, 19]	sub(sub(ARG19, cos(ARG18)), cos(cos(sub(ARG17, ARG18))))	0.5225	
+[17, 18]	sub(sub(cos(sub(ARG17, ARG18)), cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5025	
+[19]	sub(sub(ARG19, cos(5)), cos(ARG19))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, ARG19), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.5	
+[17, 18]	sub(sub(cos(5), cos(5)), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG19)))	0.525	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[]	5	0.5	
+[3, 17, 18, 19]	sub(sub(ARG19, cos(ARG3)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.524375	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[19]	sub(sub(ARG19, cos(5)), cos(cos(neg(neg(neg(5))))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(sub(ARG17, ARG18), ARG18))))))	0.43625	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG17)))	0.53	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG19))))	0.5075000000000001	
+[17, 18]	sub(sub(ARG18, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.499375	
+[17, 18]	sub(sub(5, cos(5)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.5	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(ARG19))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(sub(ARG17, ARG18))), cos(cos(sub(ARG17, ARG18))))	0.588125	
+[1, 2, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(neg(neg(mul(ARG1, ARG2))))))	0.51375	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[17, 18]	sub(sub(cos(cos(sub(ARG17, ARG18))), cos(neg(5))), cos(cos(sub(ARG17, ARG18))))	0.5	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(ARG19)))	0.525	
+[17, 18, 19]	sub(sub(ARG19, sub(ARG17, ARG18)), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.675	
+[18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(neg(neg(sin(ARG18)))))))	0.5275	
+[19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(5))))	0.5193749999999999	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(cos(sub(ARG17, ARG18))))), cos(cos(sub(ARG17, ARG18))))	0.525	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(sub(ARG17, ARG18))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(cos(cos(sub(ARG17, ARG18))))))))	0.7125	
+[18, 19, 6]	sub(sub(ARG19, cos(neg(5))), cos(protectedDiv(ARG6, ARG18)))	0.515	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 4, 15]	sub(sub(ARG18, protectedDiv(ARG4, ARG15)), cos(cos(sub(ARG17, ARG18))))	0.50125	
+[17, 19]	sub(sub(ARG19, cos(neg(5))), cos(cos(sub(ARG17, ARG19))))	0.5075000000000001	
+[17, 18, 19]	sub(sub(ARG19, cos(neg(neg(5)))), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	
+[17, 18, 19]	sub(sub(ARG19, cos(5)), cos(cos(cos(cos(sub(ARG17, ARG18))))))	0.7125	

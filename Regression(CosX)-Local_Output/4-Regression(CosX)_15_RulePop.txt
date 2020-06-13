@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[18, 19]	cos(add(protectedDiv(5, ARG18), protectedDiv(5, ARG19)))	0.46467247172406506	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9, 14]	cos(add(ARG9, ARG14))	0.5017476722438022	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(cos(sin(5)))	0.4791874095374714	
+[18, 19]	mul(mul(ARG19, 5), cos(ARG18))	0.004829643414815348	
+[18]	ARG18	0.01685017891590384	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[6]	ARG6	0.017141900342460395	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11]	ARG11	0.01690786425836905	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[14]	cos(mul(5, ARG14))	0.5006159434605203	
+[19]	cos(ARG19)	1.0	
+[17]	add(5, ARG17)	0.016536068495896908	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[9, 7]	protectedDiv(sub(ARG7, ARG9), mul(5, 5))	0.2333324836015338	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9, 5]	cos(sub(ARG9, ARG5))	0.4982830452623455	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16, 5]	protectedDiv(ARG5, ARG16)	0.01884160360758822	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9]	add(cos(ARG9), cos(5))	0.4921321808455756	
+[19]	cos(ARG19)	1.0	
+[8, 2]	cos(mul(ARG8, ARG2))	0.493418999288458	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[7]	ARG7	0.017009713620619222	
+[18]	cos(ARG18)	0.5007252376595066	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	cos(sub(5, ARG4))	0.5062730365389984	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[18]	ARG18	0.01685017891590384	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[0, 12]	sub(ARG0, ARG12)	0.012312744266571585	
+[7, 15]	cos(protectedDiv(ARG15, ARG7))	0.4944765081578602	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16, 12, 14]	cos(protectedDiv(sub(ARG12, 5), mul(ARG16, ARG14)))	0.45532981381836485	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[1, 3]	protectedDiv(sin(ARG1), sub(ARG3, 5))	0.58200385060981	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	cos(ARG17)	0.491341349776289	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[7]	cos(mul(cos(5), sin(ARG7)))	0.4552263131843594	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19, 15]	cos(protectedDiv(sin(5), add(ARG15, ARG19)))	0.4529239437089054	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	ARG4	0.01727539907561434	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(sin(5))	0.5258536686837153	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(sin(sin(5)))	0.5067802601588529	
+[]	cos(add(5, 5))	0.47469568081615743	
+[18, 13]	add(ARG13, ARG18)	0.011978438893149677	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[7]	cos(sin(mul(ARG7, 5)))	0.48865529383390677	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	cos(cos(ARG4))	0.48718069458189783	
+[]	5	0.16559013601682396	
+[1, 12]	sub(ARG12, ARG1)	0.012291672201446526	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[10, 5]	cos(mul(ARG10, ARG5))	0.49458291652787356	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	ARG4	0.01727539907561434	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9]	ARG9	0.017351764089753727	
+[18, 5]	add(add(ARG18, ARG5), neg(5))	0.01219948037140552	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16]	cos(mul(ARG16, 5))	0.5016024176867478	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4, 13]	neg(mul(ARG4, ARG13))	0.0002987895510524509	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 3]	cos(neg(sub(ARG17, ARG3)))	0.49574850258148484	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8, 2]	cos(sub(ARG8, ARG2))	0.5018498531780397	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11]	cos(sub(5, ARG11))	0.49806367252858397	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[6, 7]	sin(mul(ARG6, ARG7))	0.4933014084857761	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[15]	protectedDiv(sin(5), sub(ARG15, 5))	0.5633684329405981	
+[3]	cos(ARG3)	0.4995399003191754	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	cos(mul(ARG17, 5))	0.5057603594379652	
+[19]	cos(ARG19)	1.0	
+[5]	cos(neg(ARG5))	0.5032866490558993	
+[0, 19]	protectedDiv(add(5, ARG19), cos(ARG0))	0.0006386921300175624	
+[19]	cos(ARG19)	1.0	
+[8]	cos(ARG8)	0.4997030701689145	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[13]	protectedDiv(neg(ARG13), mul(5, ARG13))	0.5757184688856998	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[13]	add(ARG13, ARG13)	0.008519541968304737	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[4]	cos(sub(ARG4, 5))	0.5062730365389984	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16, 2, 6]	mul(add(ARG16, ARG2), cos(ARG6))	0.01616099734994813	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[13]	cos(ARG13)	0.5003162741994857	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4, 7]	mul(add(ARG7, ARG4), sub(5, 5))	0.5863164491446712	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9]	cos(ARG9)	0.49890280413374266	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(neg(5))	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	mul(cos(5), protectedDiv(5, 5))	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[2]	ARG2	0.017003301875074355	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9]	cos(sub(ARG9, 5))	0.5043202326465569	
+[19]	cos(ARG19)	1.0	
+[1, 13]	cos(add(ARG1, ARG13))	0.49964338480011383	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[15, 7]	cos(add(mul(5, 5), protectedDiv(ARG7, ARG15)))	0.5019907983960904	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[10]	protectedDiv(ARG10, 5)	0.07995728711111996	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19, 7]	cos(add(ARG7, ARG19))	0.5028487562743525	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[2]	ARG2	0.017003301875074355	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[5]	ARG5	0.016930894157986195	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1, 2, 13]	sub(add(ARG13, ARG2), protectedDiv(5, ARG1))	0.011981028379656054	
+[0, 17]	cos(protectedDiv(sin(5), sub(ARG17, ARG0)))	0.4520670666290825	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1]	ARG1	0.01691142466203393	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 2, 5]	cos(mul(neg(ARG5), sub(ARG2, ARG17)))	0.5040991996826092	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[10, 5]	sub(protectedDiv(ARG5, ARG10), cos(5))	0.019546767397687067	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8]	protectedDiv(5, ARG8)	0.15278692488515416	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 12, 15]	add(add(ARG17, ARG17), mul(ARG15, ARG12))	0.00031354998285178866	
+[18, 7]	sub(sin(ARG7), sin(ARG18))	0.44890890416583185	
+[19]	cos(neg(ARG19))	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	cos(sin(cos(ARG4)))	0.48052158416502494	
+[19]	cos(ARG19)	1.0	
+[]	mul(cos(5), sub(5, 5))	0.5863164491446712	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[18]	cos(ARG18)	0.5007252376595066	
+[19]	cos(ARG19)	1.0	
+[9, 3]	sub(ARG3, ARG9)	0.012104533478640003	
+[16]	sub(add(5, ARG16), neg(5))	0.01674497073487469	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	cos(sub(5, ARG4))	0.5062730365389984	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11]	cos(ARG11)	0.49953242672825565	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	mul(mul(5, ARG17), cos(5))	0.011755156850405976	
+[12]	cos(ARG12)	0.49499636855744567	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	mul(mul(5, 5), sin(5))	0.03998626497600707	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[12]	cos(add(5, ARG12))	0.5002251803877673	
+[0]	add(ARG0, 5)	0.01725222962600485	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[2, 15]	protectedDiv(ARG2, ARG15)	0.026769418517650814	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[10]	cos(sin(cos(ARG10)))	0.48063100824445876	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[14]	ARG14	0.017112908406558817	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[5]	cos(ARG5)	0.5032866490558993	
+[19]	cos(neg(neg(ARG19)))	1.0	
+[19]	cos(ARG19)	1.0	
+[15]	neg(ARG15)	0.01741625101952167	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(ARG19))	1.0	
+[6]	cos(cos(ARG6))	0.4898642132180766	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1, 6]	protectedDiv(ARG6, ARG1)	0.0564948122644885	
+[19]	cos(ARG19)	1.0	
+[14]	cos(sin(ARG14))	0.4900718705813324	
+[10, 15]	sub(ARG15, ARG10)	0.012314901766433023	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16]	cos(sin(cos(ARG16)))	0.48200448476044405	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[10]	cos(ARG10)	0.498922720757159	
+[19]	cos(ARG19)	1.0	
+[5, 15]	protectedDiv(protectedDiv(ARG15, ARG5), sub(5, ARG15))	0.3665974447327175	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(add(5, 5))	0.47469568081615743	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[9]	mul(protectedDiv(ARG9, 5), sin(ARG9))	0.11213163335881574	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[18, 4]	add(ARG18, ARG4)	0.012384446618174977	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(neg(cos(5)))	0.4584651405024745	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[2, 13]	add(ARG2, ARG13)	0.01197333448352761	
+[19]	cos(ARG19)	1.0	
+[1, 12]	mul(ARG1, ARG12)	0.0002970605321331111	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[18, 13]	cos(mul(mul(ARG13, ARG18), cos(5)))	0.4966384594157044	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[13]	cos(ARG13)	0.5003162741994857	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	cos(ARG4)	0.5043288893151475	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11]	sub(5, ARG11)	0.016729421434219148	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 11, 13]	cos(protectedDiv(add(ARG17, ARG13), sub(5, ARG11)))	0.49188232088887185	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9]	cos(add(add(5, 5), mul(5, ARG9)))	0.5004204453196782	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16, 1, 13]	sub(protectedDiv(ARG16, ARG1), sub(ARG13, 5))	0.015032583379417775	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11, 15]	add(ARG15, ARG11)	0.012406088473859348	
+[12, 6]	protectedDiv(sin(ARG12), cos(ARG6))	0.008462534384943725	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11, 14]	add(ARG11, ARG14)	0.012137816616111732	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(sin(ARG19))	0.4890171986531417	
+[19]	cos(ARG19)	1.0	
+[6]	cos(ARG6)	0.49534364769780287	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[6]	cos(neg(ARG6))	0.49534364769780287	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	cos(neg(sub(ARG17, 5)))	0.49920259333454303	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1, 10]	cos(add(add(ARG10, 5), cos(ARG1)))	0.4927189823816185	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[16, 12]	cos(mul(ARG12, ARG16))	0.5071541506667908	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9]	cos(ARG9)	0.49890280413374266	
+[19]	cos(ARG19)	1.0	
+[19, 6]	cos(mul(ARG19, ARG6))	0.5009638052956179	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1, 11]	add(neg(ARG1), sin(ARG11))	0.016902923728601107	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	cos(mul(5, ARG17))	0.5057603594379652	
+[7]	cos(ARG7)	0.5014956472574228	
+[19]	cos(ARG19)	1.0	
+[4]	sin(ARG4)	0.48974861988174256	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[7]	cos(ARG7)	0.5014956472574228	
+[3]	neg(ARG3)	0.016937586125344906	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8]	cos(sin(ARG8))	0.489614358559674	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	sin(5)	0.4542489463075548	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(cos(sin(5)))	0.4791874095374714	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8, 5, 6, 15]	cos(mul(sub(ARG5, ARG6), sub(ARG8, ARG15)))	0.5093583938563873	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1]	mul(neg(ARG1), add(ARG1, 5))	0.00022014872534601538	
+[12, 13]	cos(add(protectedDiv(ARG12, 5), sin(ARG13)))	0.48987837641105975	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8]	ARG8	0.017544773090828945	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	sin(ARG17)	0.50483687619346	
+[9, 17]	sub(ARG9, ARG17)	0.011826181534287513	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[15]	cos(neg(protectedDiv(5, ARG15)))	0.45785329075142156	
+[19]	cos(ARG19)	1.0	
+[3, 19]	sub(neg(ARG19), neg(ARG3))	0.012001006291903257	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[12]	cos(sub(ARG12, 5))	0.49830563971565983	
+[3, 19]	cos(protectedDiv(ARG19, ARG3))	0.49754696342505905	
+[19]	cos(ARG19)	1.0	
+[1]	ARG1	0.01691142466203393	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(neg(neg(5)))	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	neg(5)	0.16488080263875862	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 2, 3]	sub(sub(ARG2, 5), sub(ARG3, ARG17))	0.009790409973206939	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(cos(cos(5)))	0.5260106344780209	
+[13]	cos(ARG13)	0.5003162741994857	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[5]	ARG5	0.016930894157986195	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	cos(cos(5))	0.4584651405024745	
+[19]	cos(ARG19)	1.0	
+[]	mul(5, 5)	0.03844772408174064	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11]	ARG11	0.01690786425836905	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[19]	cos(ARG19)	1.0	
+[]	cos(5)	0.5696085956506258	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8]	cos(mul(neg(5), cos(ARG8)))	0.5140237020304793	
+[2]	sin(ARG2)	0.49968894420974547	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[]	5	0.16559013601682396	
+[8, 1, 11, 5]	cos(sub(sub(ARG11, ARG5), protectedDiv(ARG8, ARG1)))	0.4997864363002036	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[8]	ARG8	0.017544773090828945	
+[13]	cos(ARG13)	0.5003162741994857	
+[19]	cos(ARG19)	1.0	
+[10]	sin(cos(ARG10))	0.5136562972337682	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[7]	mul(sub(5, 5), cos(ARG7))	0.5863164491446712	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(neg(neg(ARG19)))	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17]	cos(neg(ARG17))	0.491341349776289	
+[19]	cos(ARG19)	1.0	
+[]	cos(cos(5))	0.4584651405024745	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[3]	cos(sin(ARG3))	0.48962308503457547	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[6]	cos(ARG6)	0.49534364769780287	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[0, 17, 14]	sub(sub(ARG0, ARG17), sin(ARG14))	0.011855751044956534	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11]	sub(sin(ARG11), mul(5, 5))	0.03842249310671781	
+[12]	cos(cos(ARG12))	0.48905684485791423	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[11, 3, 13]	cos(add(sin(ARG13), protectedDiv(ARG3, ARG11)))	0.5006529236443659	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 4]	add(sub(5, 5), mul(ARG17, ARG4))	0.00029078530929373505	
+[19]	cos(ARG19)	1.0	
+[16]	ARG16	0.01700863328175302	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[0, 2]	cos(add(protectedDiv(5, ARG0), neg(ARG2)))	0.5067093154917677	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[0]	ARG0	0.017269881529533133	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[17, 14]	cos(cos(sub(ARG14, ARG17)))	0.48841335278283476	
+[19]	cos(ARG19)	1.0	
+[5]	cos(protectedDiv(5, ARG5))	0.45854069739446157	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[1]	mul(mul(5, ARG1), cos(5))	0.011984476539448308	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[4]	cos(ARG4)	0.5043288893151475	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[9, 11]	cos(protectedDiv(protectedDiv(ARG11, ARG11), sin(ARG9)))	0.5279945331300417	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[15]	cos(ARG15)	0.4937309730086334	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[2, 13]	cos(mul(ARG2, ARG13))	0.4989847317778591	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	
+[19]	cos(ARG19)	1.0	

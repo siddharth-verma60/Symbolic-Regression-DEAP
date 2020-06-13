@@ -1,0 +1,1001 @@
+Specified	Tree	Fitness	
+[]	cos(sin(5))	0.4619041154756418	
+[19]	cos(add(sin(add(add(sin(add(sin(5), 5)), ARG19), 5)), ARG19))	0.5251592034426249	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[]	cos(5)	0.4898263929125612	
+[]	5	0.1629282557523985	
+[19]	cos(add(sin(add(sin(5), ARG19)), ARG19))	0.5599410233555288	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5))	0.4538779210146938	
+[19]	cos(add(sin(add(sin(5), 5)), add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)))	0.6160188413186816	
+[19]	cos(ARG19)	0.5842709279390633	
+[]	5	0.1629282557523985	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(5, sin(add(add(sin(5), 5), 5)))), ARG19))	0.7750348633668576	
+[19]	cos(add(sin(neg(ARG19)), ARG19))	0.5272440286064164	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19, 11, 4, 5]	cos(add(sin(add(sin(sin(add(sub(protectedDiv(ARG11, ARG5), protectedDiv(ARG5, ARG4)), ARG19))), 5)), ARG19))	0.7508821435918712	
+[]	cos(add(sin(add(5, sin(5))), 5))	0.4802239426427474	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), add(sin(add(sin(5), 5)), ARG19)))	0.6337188168119724	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[0, 19]	cos(add(sin(add(ARG0, 5)), ARG19))	0.5348903073251717	
+[19, 15]	cos(add(cos(sub(ARG15, ARG19)), ARG19))	0.540662333261618	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), ARG19))	0.7521956007778838	
+[7, 13, 17, 18, 19]	cos(add(sin(add(sub(protectedDiv(ARG13, ARG7), sub(ARG17, ARG18)), 5)), ARG19))	0.534622021435909	
+[19]	cos(add(sin(add(sin(5), sin(5))), ARG19))	0.759203155595585	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[]	cos(sin(5))	0.4619041154756418	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), ARG19))	0.7521956007778838	
+[19]	cos(add(sin(add(sin(neg(ARG19)), 5)), ARG19))	0.7048445163923571	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(neg(ARG19))), 5)), ARG19))	0.7233378150366491	
+[19]	cos(add(sin(add(sin(sin(add(add(neg(ARG19), 5), 5))), 5)), ARG19))	0.7378175233931415	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(sin(add(sin(5), 5)), ARG19)))), 5)), ARG19))	0.7601187050299554	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(add(sin(5), 5), 5)), ARG19))	0.5070913881601491	
+[19]	cos(add(sin(sin(5)), ARG19))	0.7743806446563731	
+[2, 12, 14, 18, 19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), add(mul(ARG12, ARG2), protectedDiv(ARG14, ARG18)))), add(sin(add(5, sin(5))), ARG19)))	0.6033662226528385	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(neg(ARG19), ARG19))	0.4105787677374944	
+[19]	cos(add(sin(add(5, sin(add(sin(add(5, sin(5))), 5)))), ARG19))	0.7738026484675333	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), add(sin(add(5, sin(5))), ARG19))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), sin(add(add(sin(5), sub(5, 5)), 5)))), ARG19))	0.6986480345566757	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), sin(add(neg(ARG19), 5))))	0.3975989077469038	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[16, 13]	cos(neg(protectedDiv(ARG16, ARG13)))	0.4439695224233628	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[]	cos(add(sin(add(sin(5), 5)), sin(add(sin(5), 5))))	0.5021916935764992	
+[19]	cos(add(ARG19, 5))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(sin(add(sin(5), 5))), 5)), ARG19))	0.7640074675485067	
+[10, 13]	cos(add(5, sub(sub(5, 5), protectedDiv(ARG13, ARG10))))	0.4538518897075039	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), ARG19))	0.5437125987871354	
+[19]	cos(add(sin(add(sin(add(5, sin(5))), 5)), ARG19))	0.7690784320180512	
+[9, 19]	cos(add(sin(add(sin(add(ARG19, ARG9)), 5)), ARG19))	0.7400318166363741	
+[19]	cos(add(sin(add(sin(5), 5)), neg(ARG19)))	0.44906871677551474	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)), ARG19))	0.576032987317806	
+[9]	cos(add(sin(add(neg(ARG9), 5)), 5))	0.46168044815810644	
+[19]	cos(add(sin(cos(cos(5))), ARG19))	0.4449760684268823	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(5), 5))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[16, 19, 11]	cos(add(sin(add(ARG16, ARG11)), ARG19))	0.5368671742925769	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), sin(5))), ARG19))	0.7495101802959174	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(sin(add(sin(5), add(neg(ARG19), 5))), ARG19))	0.5592000792870213	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(sin(sin(add(neg(ARG19), 5))))	0.43297592427941234	
+[19]	cos(add(sin(add(add(sin(add(5, sin(5))), ARG19), 5)), ARG19))	0.5251592034426249	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), sin(neg(5)))), 5)), ARG19))	0.7501767797392439	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)), 5)), ARG19))	0.7412018140678556	
+[19]	cos(add(neg(ARG19), 5))	0.40433494914288837	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19, 5]	cos(add(neg(add(5, ARG5)), ARG19))	0.44139110659650427	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(sin(add(5, sin(5))), 5))), 5)), ARG19))	0.7683134763444903	
+[19]	cos(add(neg(ARG19), ARG19))	0.4105787677374944	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19, 7]	cos(add(sin(ARG7), ARG19))	0.5375769884444741	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[4, 7]	cos(add(sin(add(sin(5), 5)), add(neg(protectedDiv(ARG7, ARG4)), 5)))	0.45676982527450155	
+[2, 3]	cos(mul(ARG3, ARG2))	0.4462388064784316	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(neg(5)), ARG19))	0.4305387776379795	
+[19]	cos(add(sin(add(sin(5), ARG19)), ARG19))	0.5599410233555288	
+[0, 17, 19]	cos(add(sin(add(sub(ARG17, ARG0), 5)), ARG19))	0.5409980910349143	
+[15]	cos(add(sin(sin(add(neg(sub(5, ARG15)), 5))), 5))	0.4590221749637103	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), ARG19)), ARG19))	0.5567228963185233	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[0, 19]	cos(add(sin(add(sin(add(neg(ARG0), 5)), 5)), ARG19))	0.7354825225361629	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), add(sin(add(sin(5), 5)), ARG19)))	0.6013885926540476	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(5, sin(5))), 5))), 5)), ARG19))	0.7323441494145742	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(sin(add(5, sin(5))), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), ARG19))	0.5437125987871354	
+[0, 19]	cos(add(sin(add(add(sin(ARG0), sin(5)), 5)), ARG19))	0.6828797686450727	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), sin(add(neg(ARG19), 5)))), ARG19))	0.7245681838269672	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.7775511029810444	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), sin(5)))	0.4657222724589274	
+[19]	cos(add(sin(add(ARG19, 5)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19, 13]	cos(add(sin(ARG13), ARG19))	0.5380671632865898	
+[19, 6]	cos(add(sin(add(sin(sin(ARG6)), 5)), add(sin(add(neg(ARG19), 5)), 5)))	0.3955196210243656	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), sin(5)))	0.46227461485734933	
+[19]	cos(add(sin(add(5, ARG19)), ARG19))	0.5572015417999434	
+[18, 19]	cos(add(sub(cos(5), sub(ARG18, 5)), ARG19))	0.4587995583602269	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7142259727586906	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(add(sin(5), sub(5, 5)), 5)), 5))), 5)), ARG19))	0.7323441494145742	
+[19, 6]	cos(add(protectedDiv(protectedDiv(5, 5), add(5, ARG6)), ARG19))	0.5796031838834541	
+[]	cos(5)	0.4898263929125612	
+[10, 19]	cos(add(sin(add(5, sin(add(add(sin(protectedDiv(ARG10, 5)), sub(5, 5)), ARG19)))), ARG19))	0.7262059420101259	
+[17, 19]	cos(add(cos(add(5, ARG17)), ARG19))	0.5343908189362193	
+[19]	cos(add(sin(add(sin(sin(add(add(sin(5), 5), 5))), 5)), ARG19))	0.775013849106805	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)), ARG19))	0.5765566611554869	
+[]	cos(add(sin(5), 5))	0.4652391226073065	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[5, 14]	cos(mul(sin(ARG5), sub(ARG14, 5)))	0.4560289236365937	
+[19]	cos(add(sin(add(sin(5), 5)), add(sin(add(neg(ARG19), 5)), 5)))	0.3963438401574534	
+[10, 19]	cos(add(sin(ARG10), ARG19))	0.5344976966885848	
+[0, 19]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(sin(add(5, sin(5))), ARG19)))), 5)), protectedDiv(5, ARG0)))	0.457862240661266	
+[16, 9, 11]	protectedDiv(protectedDiv(ARG16, ARG11), protectedDiv(5, ARG9))	0.006443955543285357	
+[19, 11]	cos(add(sin(add(mul(5, ARG11), sin(add(add(sin(5), sub(5, 5)), 5)))), ARG19))	0.5412755500990593	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(neg(ARG19))	0.5842709279390633	
+[19]	cos(add(sin(add(sin(sin(add(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19), 5))), 5)), ARG19))	0.7713126192864528	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19, 14]	cos(add(sin(add(sin(add(neg(cos(sin(ARG14))), 5)), 5)), ARG19))	0.7720488360692306	
+[0, 19, 3]	cos(add(sin(add(sin(sin(add(protectedDiv(ARG0, ARG3), 5))), 5)), ARG19))	0.7561253244440619	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), sin(add(sin(add(neg(ARG19), 5)), 5))))	0.43278043774940916	
+[19, 13]	cos(add(neg(mul(5, ARG13)), ARG19))	0.449663584626683	
+[19]	cos(add(sin(add(sin(sin(add(neg(5), 5))), 5)), ARG19))	0.7554196584465243	
+[1, 19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), protectedDiv(ARG1, 5)))	0.4508707208376441	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[17, 19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), protectedDiv(5, ARG17)))	0.435544665387087	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(add(sin(add(sin(5), 5)), ARG19), sin(5))), ARG19))	0.5390094417926883	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[]	cos(add(sin(add(5, sin(5))), add(sin(5), 5)))	0.4209285879842781	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[8, 3]	cos(protectedDiv(cos(ARG8), protectedDiv(5, ARG3)))	0.4528207362346494	
+[19]	cos(add(add(neg(ARG19), 5), ARG19))	0.4898263929125612	
+[19]	cos(add(sin(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), 5)), ARG19))	0.7565926941650581	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5))	0.4538779210146938	
+[19]	cos(add(sin(add(5, sin(ARG19))), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(add(sin(5), 5)), add(sin(add(5, sin(5))), ARG19)))	0.5882363832852132	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(sin(5)))), ARG19))	0.7711098775708007	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(5, sin(5))), 5)), ARG19))	0.7690784320180512	
+[10, 19]	cos(add(sin(add(sin(sin(add(neg(mul(ARG10, 5)), 5))), 5)), ARG19))	0.7482093358337645	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), ARG19)), ARG19))	0.5583833264041047	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[18, 19]	cos(add(neg(ARG18), ARG19))	0.4560694318120543	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(mul(sin(5), cos(5))), ARG19))	0.656687217224801	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), ARG19))), 5)), ARG19))	0.7554196584465243	
+[19, 5, 14]	cos(add(sin(add(sin(sin(sub(ARG14, ARG5))), 5)), ARG19))	0.7487527803679996	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), sin(5))), ARG19))	0.7316520565570356	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(5, sin(add(sin(add(sin(5), 5)), ARG19)))), ARG19))	0.7350290599035675	
+[19]	cos(ARG19)	0.5842709279390633	
+[9, 19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), add(sin(add(sin(sin(cos(sin(ARG9)))), 5)), ARG19)))	0.658484265892381	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), sin(add(sin(5), 5)))), ARG19))	0.6888880292275283	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(sin(add(neg(neg(ARG19)), 5))), 5)), ARG19))	0.7768453993964726	
+[19]	cos(add(sin(add(sin(sin(add(ARG19, 5))), 5)), ARG19))	0.7768453993964726	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), add(sin(sin(add(neg(ARG19), 5))), 5)))	0.38277425893633077	
+[19, 14]	cos(add(sin(ARG19), ARG14))	0.45074949906143974	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(sin(add(neg(ARG19), 5)))	0.438168747666141	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(5), 5)), ARG19)), 5)), ARG19))	0.7350290599035675	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.7775511029810444	
+[19]	cos(add(sin(add(add(sin(5), 5), 5)), ARG19))	0.5070913881601491	
+[5, 7]	protectedDiv(ARG7, ARG5)	0.09269297197060866	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[10]	cos(add(sin(add(5, sin(5))), neg(ARG10)))	0.45414664831103113	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[19]	cos(add(add(5, sin(5)), ARG19))	0.46546449622468844	
+[19]	cos(add(sin(add(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19), 5)), ARG19))	0.5331816107832658	
+[19]	cos(sin(sin(add(neg(ARG19), 5))))	0.43297592427941234	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(sin(add(5, sin(5)))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(sin(sin(add(ARG19, 5))), 5)), ARG19))	0.7768453993964726	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), neg(ARG19)))	0.4485963854761989	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), ARG19))	0.7521956007778838	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), neg(ARG19))))), ARG19))	0.7325189035744821	
+[19]	cos(add(sin(add(sin(add(ARG19, 5)), 5)), ARG19))	0.7737637368672192	
+[19]	cos(add(sin(add(sin(5), 5)), neg(ARG19)))	0.44906871677551474	
+[19, 6]	cos(add(sin(add(sin(sin(add(5, ARG6))), 5)), ARG19))	0.7478947188654903	
+[19]	cos(add(sin(add(sin(neg(ARG19)), 5)), ARG19))	0.7048445163923571	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.7775511029810444	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[13]	neg(sin(ARG13))	0.4461530969903572	
+[19]	cos(add(sin(add(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19), 5)), ARG19))	0.5298407838463652	
+[]	cos(sin(5))	0.4619041154756418	
+[19]	cos(add(sin(add(sin(5), sin(add(neg(ARG19), 5)))), ARG19))	0.7245681838269672	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[19, 7]	cos(add(neg(ARG7), ARG19))	0.4495357610977481	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), sin(add(neg(ARG19), 5)))), ARG19))	0.7245681838269672	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), ARG19))), 5)), ARG19))	0.7554196584465243	
+[]	cos(add(sin(5), 5))	0.4652391226073065	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), ARG19)), ARG19))	0.5567228963185233	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(add(add(sin(5), sub(5, 5)), 5)), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5))	0.4538779210146938	
+[19, 7]	cos(add(cos(ARG7), ARG19))	0.5407641231443342	
+[19]	cos(add(sin(add(sin(add(ARG19, 5)), 5)), ARG19))	0.7737637368672192	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), neg(ARG19)))	0.45262253078808856	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19]	cos(add(add(sin(sin(add(neg(ARG19), 5))), 5), ARG19))	0.5858259305734602	
+[19]	cos(add(sin(add(sin(add(5, 5)), 5)), ARG19))	0.7536094294442522	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), neg(ARG19))), ARG19))	0.5616410403049058	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19, 12]	cos(add(sin(add(sin(sin(add(sin(5), 5))), ARG12)), ARG19))	0.544606493505136	
+[]	cos(add(sin(add(sin(5), 5)), sin(5)))	0.5002469769479095	
+[19]	cos(add(sin(add(5, ARG19)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), neg(5))), 5)), ARG19))	0.7749629087430782	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), ARG19))	0.7554196584465243	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(5)	0.4898263929125612	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(5), 5)), ARG19)), 5)), ARG19))	0.7350290599035675	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)))), 5)), ARG19))	0.7551266965792155	
+[19]	cos(add(sin(add(5, sin(add(sin(sin(add(neg(ARG19), 5))), 5)))), ARG19))	0.7555546164959156	
+[10, 11]	cos(mul(ARG10, ARG11))	0.45077755740595193	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), 5))	0.45256338801212564	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), ARG19)), ARG19))	0.5567218698848918	
+[19]	cos(add(sin(add(sin(sin(add(ARG19, neg(5)))), 5)), ARG19))	0.7761739881477443	
+[19]	cos(add(sin(add(sin(sin(add(neg(neg(ARG19)), 5))), 5)), ARG19))	0.7768453993964726	
+[19]	cos(add(sin(add(sin(add(neg(sin(5)), 5)), 5)), ARG19))	0.7461399526292173	
+[19]	cos(add(sin(add(5, ARG19)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(add(sin(sin(add(neg(5), 5))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(5, sin(ARG19))), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5))	0.4538779210146938	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19, 6]	cos(add(sin(add(sin(add(neg(ARG19), add(sin(5), mul(sin(5), sin(ARG6))))), 5)), ARG19))	0.7458730995518595	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(sin(5))), 5)), ARG19))	0.7656830444874678	
+[19, 13]	cos(add(sin(add(sin(neg(ARG13)), 5)), ARG19))	0.7378553658873892	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5)), ARG19))	0.7555546164959156	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[10, 4]	protectedDiv(neg(ARG4), add(ARG10, 5))	0.03541797003332287	
+[16, 2, 19]	cos(add(add(neg(ARG16), neg(ARG2)), ARG19))	0.4476147322853066	
+[19]	cos(add(sin(add(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19), 5)), ARG19))	0.5298407838463652	
+[19]	cos(sin(add(neg(ARG19), 5)))	0.438168747666141	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[12]	cos(add(sin(add(cos(ARG12), 5)), sin(add(sin(5), 5))))	0.49477142187372536	
+[19]	cos(add(sin(add(sin(sin(add(add(sin(sin(add(neg(ARG19), 5))), 5), 5))), 5)), ARG19))	0.7726220018905898	
+[19]	cos(add(sin(neg(ARG19)), ARG19))	0.5272440286064164	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[7]	ARG7	0.01690065197387875	
+[19]	cos(add(sin(sin(5)), ARG19))	0.7743806446563731	
+[19]	cos(add(sin(add(add(sin(sin(add(neg(ARG19), 5))), 5), 5)), ARG19))	0.6609390179200982	
+[19]	cos(add(sin(add(5, ARG19)), ARG19))	0.5572015417999434	
+[]	sin(neg(5))	0.4156069442025671	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), sin(5))), ARG19))	0.7245681838269672	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[11]	sin(ARG11)	0.44581513860168587	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.6737873143884512	
+[19]	cos(add(sin(add(sin(5), 5)), sin(add(sin(sin(add(neg(ARG19), 5))), 5))))	0.466729807265127	
+[17, 19]	cos(add(ARG19, mul(ARG17, 5)))	0.44945847865102206	
+[19, 3, 4]	cos(add(mul(protectedDiv(5, ARG3), neg(ARG4)), ARG19))	0.45362265465425766	
+[19]	cos(add(sin(add(sin(add(5, sin(5))), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))	0.7800772970529816	
+[]	neg(5)	0.16497551710749622	
+[19]	cos(add(sin(add(sin(sin(add(ARG19, 5))), 5)), ARG19))	0.7768453993964726	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[7]	cos(add(add(sin(5), 5), sin(ARG7)))	0.45900322671563326	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), ARG19))	0.5437125987871354	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5)), ARG19))	0.7555546164959156	
+[19]	cos(add(sin(sin(5)), ARG19))	0.7743806446563731	
+[19]	cos(add(sin(add(5, add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.6609390179200982	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(neg(5), ARG19))	0.40433494914288837	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19, 18, 3]	cos(add(sin(add(sin(5), mul(mul(ARG3, ARG18), cos(ARG3)))), ARG19))	0.5323135055605961	
+[0, 19, 4]	cos(add(sin(add(add(neg(ARG4), neg(ARG0)), 5)), ARG19))	0.537865741839367	
+[19]	cos(add(sin(add(sin(sin(sin(add(neg(ARG19), 5)))), 5)), ARG19))	0.777394377704101	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(5, sin(sin(add(sin(5), 5))))), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(sin(add(neg(5), 5)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), ARG19))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(add(sin(add(5, sin(5))), ARG19), 5)), 5))	0.38597560887582705	
+[19]	cos(sin(sin(add(neg(ARG19), 5))))	0.43297592427941234	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(add(sin(5), sub(5, add(sin(5), 5))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(5), 5))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(ARG19, 5)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), sin(5)))	0.46227461485734933	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(5), sin(add(sin(add(neg(ARG19), 5)), 5)))), ARG19))	0.7517097653243898	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.6737873143884512	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[17]	cos(add(sin(add(sin(sin(add(sin(5), 5))), 5)), cos(ARG17)))	0.4460724706890072	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(5, sin(add(5, 5)))), ARG19))	0.7536094294442522	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), neg(ARG19))))), ARG19))	0.7325189035744821	
+[3]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), sin(protectedDiv(5, ARG3))))	0.4571423730426234	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[18, 19]	cos(add(sin(add(ARG18, sin(5))), ARG19))	0.5410841353871783	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(add(5, sin(add(neg(ARG19), 5)))), 5)), ARG19))	0.7519526255021614	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), sin(5)))	0.46227461485734933	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(neg(5), 5)), 5)), ARG19))	0.7554196584465243	
+[8, 19, 5]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(protectedDiv(5, 5), add(ARG5, ARG8))))), 5)), sin(sin(add(neg(ARG19), 5)))))	0.40218294083084777	
+[19]	cos(add(sin(add(ARG19, 5)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), add(sin(sin(add(neg(ARG19), 5))), 5)))	0.38584286076224683	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(add(sin(5), 5), ARG19))	0.46546449622468844	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), sin(add(sin(sin(add(neg(ARG19), 5))), 5)))), ARG19))	0.7506564934018478	
+[19]	cos(add(sin(add(ARG19, sin(5))), ARG19))	0.5599410233555288	
+[]	cos(add(sin(add(5, sin(5))), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.6737873143884512	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[0, 19]	cos(add(sin(sin(add(neg(ARG19), 5))), sin(ARG0)))	0.442730003309399	
+[19]	cos(add(sin(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)), ARG19))	0.5765566611554869	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), add(neg(ARG19), 5))), ARG19))	0.5592000792870213	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(add(sin(add(sin(5), 5)), sin(5)))	0.5002469769479095	
+[19]	cos(add(sin(add(ARG19, 5)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), 5))	0.3975107294060506	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)), ARG19))	0.576032987317806	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[13]	cos(sin(ARG13))	0.43683587476457364	
+[19]	cos(add(sin(add(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19), 5)), ARG19))	0.5298407838463652	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), ARG19)), 5))	0.5662710749262733	
+[9]	cos(sub(5, ARG9))	0.4499187053771492	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19, 15]	cos(add(sin(add(sin(ARG15), 5)), ARG19))	0.7407881821105762	
+[1, 18]	protectedDiv(ARG1, ARG18)	0.09981740002334838	
+[9, 19]	cos(add(sin(add(ARG9, 5)), add(sin(add(sin(5), 5)), ARG19)))	0.6075296544847897	
+[19]	cos(ARG19)	0.5842709279390633	
+[19, 4, 14]	cos(add(sin(add(sin(ARG19), sin(mul(ARG14, ARG4)))), ARG19))	0.5386557997025933	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), add(neg(ARG19), 5)))	0.38689283232388866	
+[19]	cos(add(sin(add(5, sin(add(5, 5)))), ARG19))	0.7536094294442522	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), neg(ARG19)))), 5)), ARG19))	0.7477437607198398	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), sin(5))), ARG19))	0.7506564934018478	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(add(sin(5), 5), 5)), ARG19))	0.5070913881601491	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), ARG19))	0.5437125987871354	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), ARG19))	0.7521956007778838	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), neg(ARG19))))), ARG19))	0.7325189035744821	
+[19]	cos(add(sin(add(sin(sin(add(sin(add(sin(add(neg(ARG19), 5)), 5)), 5))), 5)), ARG19))	0.7717033754186696	
+[19]	cos(add(neg(ARG19), ARG19))	0.4105787677374944	
+[19]	cos(add(sin(add(sin(neg(5)), 5)), ARG19))	0.6714710125136227	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), add(neg(ARG19), 5)))	0.38689283232388866	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), add(sin(sin(add(neg(ARG19), 5))), 5)))	0.40279822838012325	
+[19, 15]	cos(add(sin(sub(5, ARG15)), ARG19))	0.532115196093658	
+[19]	cos(add(sin(add(5, sin(add(ARG19, 5)))), ARG19))	0.7737637368672192	
+[19, 15]	cos(add(sin(add(sin(sub(ARG15, 5)), 5)), neg(ARG19)))	0.4531903358904909	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[1]	mul(5, ARG1)	0.0034382545044179588	
+[19]	cos(add(sin(add(sin(sin(add(sin(add(sin(5), 5)), ARG19))), 5)), ARG19))	0.7488603536477553	
+[19, 5]	cos(add(neg(ARG19), ARG5))	0.44802637786832483	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sub(5, 5), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(add(sin(5), sin(sin(add(neg(ARG19), 5)))), 5)), ARG19))	0.7207382541878878	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19), sin(add(neg(ARG19), 5)))), ARG19))	0.6085547740914352	
+[17, 19]	cos(add(sin(add(sin(add(neg(ARG19), add(ARG17, 5))), 5)), ARG19))	0.7352906460501107	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(add(sin(add(sin(5), 5)), ARG19), 5)), ARG19))	0.5251592034426249	
+[19]	cos(sin(add(neg(ARG19), 5)))	0.438168747666141	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[16, 6]	cos(add(sin(add(add(ARG6, ARG16), 5)), 5))	0.45546858068446555	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), ARG19))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), add(neg(ARG19), 5))), ARG19))	0.5187061543206233	
+[18, 13]	cos(protectedDiv(ARG13, ARG18))	0.4507849469311795	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(add(neg(ARG19), 5), 5)), ARG19))	0.5496263884246664	
+[19]	cos(add(sin(add(sin(sin(sin(sin(add(neg(ARG19), 5))))), 5)), ARG19))	0.775679069055474	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(add(neg(sub(5, 5)), 5)), 5)), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), add(sin(add(sin(5), 5)), ARG19))), 5)), ARG19))	0.7640074675485067	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)))	0.6344536288825317	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(ARG19, sin(5))), ARG19))	0.5599410233555288	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(sin(add(5, sin(5)))), 5))), 5)), ARG19))	0.7496169248423722	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19]	cos(add(add(sin(sin(add(neg(ARG19), 5))), 5), ARG19))	0.5858259305734602	
+[19]	cos(add(sin(add(sin(neg(5)), 5)), ARG19))	0.6714710125136227	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(add(sin(5), 5)), 5)), 5)), ARG19))	0.710265830340658	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[]	cos(5)	0.4898263929125612	
+[19, 7]	cos(add(sin(add(add(sin(add(ARG7, 5)), ARG19), sin(5))), ARG19))	0.5461681058435371	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(sin(add(5, sin(5)))), 5)), ARG19))	0.7640074675485067	
+[10]	cos(ARG10)	0.4514763228219298	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(5), 5)), ARG19)), 5)), ARG19))	0.7350290599035675	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), ARG19))	0.7521956007778838	
+[19]	cos(add(sin(add(5, sin(neg(ARG19)))), ARG19))	0.7048445163923571	
+[19, 13]	cos(add(ARG13, ARG19))	0.4567705092324145	
+[19, 12]	cos(add(neg(mul(ARG12, 5)), ARG19))	0.4497616912195828	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), sin(add(sin(sin(add(neg(ARG19), 5))), 5)))), 5)), ARG19))	0.7379616349067561	
+[19]	cos(add(sin(add(add(sin(add(sin(5), 5)), ARG19), 5)), ARG19))	0.5251592034426249	
+[]	cos(sin(5))	0.4619041154756418	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19, 10, 3]	cos(add(sin(add(sin(sub(sub(5, ARG10), sin(ARG3))), 5)), ARG19))	0.7357282850169307	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[0, 11]	mul(sin(ARG11), mul(ARG0, 5))	0.004728005565245788	
+[19]	cos(add(sin(add(5, sin(add(sin(sin(add(neg(ARG19), 5))), 5)))), ARG19))	0.7555546164959156	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[1, 2]	cos(add(sin(add(sin(5), 5)), mul(ARG2, ARG1)))	0.4519964257237925	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[]	cos(add(sin(add(sin(5), 5)), add(sin(5), 5)))	0.4209285879842781	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(sin(add(sin(5), 5))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(sin(sin(add(sin(5), 5))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)))	0.6139232715282825	
+[15]	cos(neg(add(5, ARG15)))	0.446984474588372	
+[16]	cos(add(sin(add(sin(5), 5)), sin(add(ARG16, sin(5)))))	0.4488080414429804	
+[19]	cos(add(add(ARG19, sub(5, 5)), ARG19))	0.44788414121257847	
+[19]	cos(add(sin(add(sin(sin(sin(add(neg(ARG19), 5)))), 5)), ARG19))	0.777394377704101	
+[19]	cos(add(sin(add(add(neg(ARG19), 5), 5)), ARG19))	0.5496263884246664	
+[19, 3, 6]	cos(add(add(mul(5, ARG6), neg(ARG3)), ARG19))	0.4483552654955566	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(add(sin(add(neg(add(sin(add(5, sin(5))), ARG19)), 5)), 5)), ARG19))	0.7204512014929503	
+[2, 19, 5]	cos(add(mul(cos(ARG2), cos(ARG5)), add(sin(add(5, sin(5))), ARG19)))	0.6680277592689212	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(sin(add(neg(ARG19), 5)))	0.438168747666141	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)), 5)), ARG19))	0.738529767460704	
+[2, 19]	cos(add(add(sin(sin(add(add(sin(mul(5, ARG2)), 5), 5))), 5), ARG19))	0.5525423771843725	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sub(neg(5), add(5, 5)), ARG19))	0.44289335393050694	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(sin(add(neg(ARG19), 5))), 5)), 5)), ARG19))	0.7546931771187689	
+[]	sin(5)	0.425151002767946	
+[3, 19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), ARG19)), sin(ARG3)))	0.4539055546842746	
+[19]	cos(add(sin(add(sin(add(neg(5), 5)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(sin(5), 5))), ARG19))	0.7207382541878878	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)))), 5)), ARG19))	0.7530486478036809	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19, 13]	cos(add(sin(cos(add(ARG13, 5))), ARG19))	0.5446827901277952	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(add(sin(add(5, sin(5))), ARG19)), 5)), ARG19))	0.7350290599035675	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.7775511029810444	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), add(neg(ARG19), 5)))	0.3826572966801049	
+[19]	cos(add(sin(add(sin(sin(ARG19)), 5)), ARG19))	0.723250551211704	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[]	cos(add(sin(add(5, sin(5))), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), ARG19))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[9, 19]	cos(add(sin(add(5, neg(protectedDiv(ARG9, 5)))), ARG19))	0.5422876987202041	
+[19]	cos(add(sin(sin(add(5, sin(5)))), ARG19))	0.7700142907319311	
+[19]	cos(add(add(sin(sin(add(neg(ARG19), 5))), 5), ARG19))	0.5858259305734602	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(add(neg(ARG19), 5), 5)), ARG19))	0.5496263884246664	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(sin(add(5, sin(mul(5, ARG19)))), ARG19))	0.7375525316425414	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), add(neg(ARG19), 5))), ARG19))	0.5592000792870213	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(add(sin(add(sin(5), 5)), sin(add(sin(5), 5))))	0.5021916935764992	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[0, 19]	cos(add(sin(add(sin(5), add(sin(add(ARG0, 5)), ARG19))), ARG19))	0.5437956062159468	
+[]	cos(5)	0.4898263929125612	
+[11, 10, 19]	cos(add(add(neg(ARG19), 5), mul(ARG11, ARG10)))	0.4481205237255813	
+[19]	cos(add(sin(add(sin(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5)))), 5)), ARG19))	0.7551266965792155	
+[1, 19, 12]	cos(add(sin(add(sin(5), protectedDiv(neg(ARG12), mul(ARG1, 5)))), ARG19))	0.7048138475660698	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)), 5)), ARG19))	0.7412018140678556	
+[19]	cos(add(neg(ARG19), 5))	0.40433494914288837	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[0, 3]	mul(add(ARG3, 5), sub(ARG0, 5))	0.00029533627453419463	
+[16]	cos(ARG16)	0.4491874677092544	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), ARG19))	0.5437125987871354	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[0]	cos(add(sin(add(sin(5), 5)), protectedDiv(neg(5), add(5, ARG0))))	0.4477562982397206	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(5, sin(sin(add(5, sin(5)))))), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(5, add(sin(5), 5))), ARG19))	0.5070913881601491	
+[19]	cos(add(sin(sin(5)), ARG19))	0.7743806446563731	
+[3, 11]	sub(cos(ARG11), cos(ARG3))	0.41278303138678224	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), add(sin(add(sin(5), 5)), ARG19))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(add(sin(add(5, sin(5))), ARG19), 5)), ARG19))	0.5251592034426249	
+[19]	cos(sin(add(neg(ARG19), 5)))	0.438168747666141	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(sin(add(sin(5), 5)), ARG19)), 5))), 5)), ARG19))	0.7354618863352901	
+[19]	cos(ARG19)	0.5842709279390633	
+[]	cos(add(sin(add(sin(5), 5)), sin(add(sin(5), 5))))	0.5021916935764992	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), ARG19)), ARG19))	0.5567228963185233	
+[]	cos(add(sin(5), 5))	0.4652391226073065	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[11, 8, 19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), sub(neg(ARG19), protectedDiv(ARG11, ARG8))))	0.4502046800953416	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(add(sin(add(neg(ARG19), 5)), 5), 5)), ARG19))	0.651002149810112	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), ARG19))	0.5437125987871354	
+[19]	cos(add(sin(sin(5)), ARG19))	0.7743806446563731	
+[19]	cos(add(sin(add(add(sin(add(neg(ARG19), 5)), 5), 5)), ARG19))	0.651002149810112	
+[19, 13, 7]	cos(add(sin(add(sin(add(sin(5), 5)), mul(mul(5, ARG7), add(ARG13, 5)))), ARG19))	0.5313201862694991	
+[]	cos(add(5, sin(5)))	0.4652391226073065	
+[19]	cos(add(add(neg(ARG19), 5), ARG19))	0.4898263929125612	
+[19]	cos(add(sin(add(sin(sin(sin(add(sin(5), 5)))), 5)), ARG19))	0.7601187050299554	
+[19]	cos(add(sin(add(add(sin(add(sin(5), 5)), ARG19), 5)), ARG19))	0.5251592034426249	
+[]	cos(sin(neg(5)))	0.4619041154756418	
+[]	cos(sin(add(5, sin(5))))	0.4462213334616129	
+[19]	cos(add(add(sin(add(sin(5), 5)), ARG19), ARG19))	0.44859002855033286	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(add(sin(add(sin(5), 5)), ARG19), ARG19))	0.44859002855033286	
+[19]	cos(sin(add(sin(sin(add(neg(ARG19), 5))), 5)))	0.4317804216733895	
+[19]	cos(add(sin(add(sin(sin(add(sin(5), 5))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(add(neg(5), 5)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), ARG19))	0.7554196584465243	
+[18, 19]	cos(add(sin(add(sin(ARG18), sin(5))), ARG19))	0.6866746127951002	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[9, 19, 12]	cos(add(sin(protectedDiv(mul(5, ARG9), mul(ARG12, 5))), ARG19))	0.5343939969397453	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[8]	cos(add(5, ARG8))	0.4462776528633415	
+[19]	cos(add(sin(add(5, ARG19)), ARG19))	0.5572015417999434	
+[19, 11]	cos(add(sin(add(sin(ARG11), 5)), ARG19))	0.7386025200868094	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[11]	cos(add(sin(add(5, sin(5))), ARG11))	0.4496090308277607	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(5), 5))), 5))), ARG19))	0.7743806446563731	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(add(5, sin(sin(add(5, sin(5)))))), ARG19))	0.7640074675485067	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(sin(add(5, sin(5)))), 5)), ARG19))	0.7640074675485067	
+[8, 11]	cos(protectedDiv(mul(5, ARG8), add(ARG11, 5)))	0.4534548669817742	
+[19]	cos(add(sin(add(sin(5), 5)), add(sin(add(sin(5), 5)), ARG19)))	0.5882363832852132	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(sin(5), 5)))), 5)), ARG19))	0.7557449497101613	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[10, 19]	cos(add(sin(add(sin(sin(add(mul(ARG10, 5), 5))), 5)), ARG19))	0.7476104680111931	
+[19]	cos(add(sin(add(sin(sin(neg(ARG19))), 5)), ARG19))	0.7233378150366491	
+[19]	cos(add(sin(add(sin(add(add(neg(ARG19), 5), 5)), 5)), ARG19))	0.7211969914354083	
+[19]	cos(add(sin(add(5, sin(add(sin(add(sin(5), 5)), ARG19)))), ARG19))	0.7350290599035675	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), add(sin(add(5, sin(5))), ARG19)))	0.5882363832852132	
+[19]	cos(ARG19)	0.5842709279390633	
+[]	cos(add(sin(add(5, sin(5))), add(sin(5), 5)))	0.4209285879842781	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(5, add(sin(add(sin(5), 5)), ARG19))), ARG19))	0.5251592034426249	
+[]	cos(sin(5))	0.4619041154756418	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(neg(ARG19), 5))), ARG19))	0.5170523651627039	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(ARG19), 5))	0.5677102788002791	
+[]	cos(add(sin(add(sin(5), 5)), add(5, sin(5))))	0.4209285879842781	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), add(sin(add(sin(5), 5)), ARG19)))	0.6013885926540476	
+[19]	cos(ARG19)	0.5842709279390633	
+[19]	cos(add(sin(add(sin(sin(add(neg(5), 5))), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), ARG19)), ARG19))	0.5599410233555288	
+[19]	cos(add(sin(add(sin(add(sin(add(sin(5), 5)), ARG19)), 5)), ARG19))	0.7350290599035675	
+[1]	cos(sin(protectedDiv(5, ARG1)))	0.4143161787272654	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(sin(add(neg(ARG19), 5)))), 5)), ARG19))	0.777394377704101	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(sin(add(neg(ARG19), 5)), 5)), 5))), 5)), ARG19))	0.7737126647128395	
+[19, 12]	cos(add(sin(ARG19), sin(ARG12)))	0.4463823601235655	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5)))))	0.4427149615118876	
+[19]	cos(add(ARG19, sub(5, 5)))	0.5842709279390633	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(neg(ARG19)), ARG19))	0.5272440286064164	
+[19]	cos(add(sin(add(sin(add(add(sin(5), 5), 5)), 5)), ARG19))	0.7750348633668576	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), ARG19)), ARG19))	0.5583833264041047	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), 5))	0.45256338801212564	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), sin(5))), ARG19))	0.7245681838269672	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), sin(add(5, sin(5)))))	0.466729807265127	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))), 5)), ARG19))	0.7565926941650581	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))), ARG19))	0.5974375869581451	
+[]	cos(protectedDiv(5, 5))	0.4656899630038338	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[]	cos(add(sin(add(sin(5), 5)), sin(add(sin(5), 5))))	0.5021916935764992	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), ARG19))	0.7521956007778838	
+[1, 19]	cos(add(sin(add(sub(5, ARG1), neg(ARG19))), ARG19))	0.5461607289068007	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[19]	cos(add(sin(add(sin(add(neg(sin(add(sin(add(neg(ARG19), 5)), 5))), 5)), 5)), ARG19))	0.7605259625079421	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[1, 19]	cos(add(ARG1, ARG19))	0.44959338041118674	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), 5))	0.3975107294060506	
+[19]	cos(add(sin(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)), ARG19))	0.5765566611554869	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.7775511029810444	
+[13]	cos(protectedDiv(add(5, 5), mul(ARG13, 5)))	0.4134755212678052	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[17, 19]	cos(add(neg(mul(5, ARG17)), ARG19))	0.4596237880892642	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))), ARG19))	0.6085547740914352	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19), 5)), ARG19))	0.5298407838463652	
+[]	cos(sin(5))	0.4619041154756418	
+[19]	cos(add(add(neg(ARG19), 5), ARG19))	0.4898263929125612	
+[19]	cos(add(sin(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), 5)), ARG19))	0.7565926941650581	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(sin(add(5, sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19)))), ARG19))	0.7412018140678556	
+[19]	cos(add(sin(add(sin(sin(sin(add(5, sin(5))))), 5)), ARG19))	0.7601187050299554	
+[19]	cos(add(add(neg(ARG19), 5), ARG19))	0.4898263929125612	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))	0.7800772970529816	
+[17, 19, 7]	cos(add(sin(add(5, sin(add(protectedDiv(cos(ARG17), neg(ARG7)), 5)))), ARG19))	0.7751723719544994	
+[19]	cos(add(sin(add(ARG19, 5)), ARG19))	0.5572015417999434	
+[19]	cos(add(sin(add(sin(5), 5)), sin(sin(add(neg(ARG19), 5)))))	0.4008080768309079	
+[19]	cos(add(sin(add(sin(add(neg(5), 5)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), ARG19)), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[15]	cos(cos(ARG15))	0.43758719354292475	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(ARG19, 5))), 5)), ARG19))	0.7768453993964726	
+[19, 7]	cos(add(sin(add(sin(ARG7), 5)), ARG19))	0.7379820670167074	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19, 13]	cos(add(sin(add(ARG13, 5)), ARG19))	0.5475738507787684	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(sin(add(sin(sin(add(neg(ARG19), 5))), 5))), ARG19))	0.7775511029810444	
+[0]	cos(add(sin(add(sin(5), 5)), ARG0))	0.4530555008572992	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), ARG19)), ARG19))	0.5567218698848918	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19, 6]	cos(add(add(neg(ARG6), add(5, 5)), ARG19))	0.4462486609659744	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(sin(add(sin(add(neg(ARG19), 5)), 5))), ARG19))	0.7756579212991236	
+[19]	cos(add(add(sin(add(neg(ARG19), 5)), 5), ARG19))	0.5696210706607628	
+[19, 14]	cos(add(sin(ARG14), ARG19))	0.5376598238121377	
+[19, 15]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), sin(sin(ARG15))))	0.4331156430344198	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[11]	cos(add(sin(add(ARG11, 5)), 5))	0.45710590284987296	
+[19, 6]	cos(add(sin(add(5, sin(add(neg(5), cos(ARG6))))), ARG19))	0.710545919403845	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[19]	cos(add(sin(add(sin(5), sin(add(neg(ARG19), 5)))), ARG19))	0.7245681838269672	
+[19]	cos(add(ARG19, ARG19))	0.44788414121257847	
+[19]	cos(add(sin(add(sin(sin(add(5, 5))), 5)), sin(add(sin(sin(add(neg(ARG19), 5))), 5))))	0.46543630276058545	
+[19]	cos(add(sin(add(add(sin(5), 5), 5)), ARG19))	0.5070913881601491	
+[19]	cos(add(sin(sin(5)), ARG19))	0.7743806446563731	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), ARG19)), ARG19))	0.5567228963185233	
+[18]	cos(mul(ARG18, 5))	0.4533186852073923	
+[19]	cos(add(sin(sin(add(neg(ARG19), 5))), 5))	0.3975107294060506	
+[19]	cos(add(sin(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)), ARG19))	0.5765566611554869	
+[18, 19, 4]	cos(add(sin(add(sin(protectedDiv(add(ARG18, ARG4), neg(5))), 5)), ARG19))	0.7367127538747522	
+[19, 12]	cos(add(sin(add(5, sin(add(ARG12, 5)))), ARG19))	0.7411748763822404	
+[19]	cos(add(sin(add(sin(add(add(sin(5), 5), 5)), 5)), ARG19))	0.7750348633668576	
+[19]	cos(add(sin(neg(ARG19)), ARG19))	0.5272440286064164	
+[18, 19]	cos(add(ARG18, ARG19))	0.45404013279819083	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[10]	mul(ARG10, 5)	0.0034185718802625885	
+[16, 10, 19]	cos(add(sin(add(sin(5), sub(ARG16, ARG10))), ARG19))	0.5329790825183928	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(5, sin(add(sin(5), 5)))), ARG19))	0.7690784320180512	
+[19]	cos(sin(add(sin(add(neg(ARG19), 5)), 5)))	0.4288929407164983	
+[19]	cos(add(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19), ARG19))	0.45837045172305957	
+[15]	cos(ARG15)	0.44881211749277417	
+[]	cos(add(sin(sub(5, 5)), sin(5)))	0.4619041154756418	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(sin(5), 5)), 5))), 5)), ARG19))	0.7323441494145742	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(add(sin(add(5, sin(sin(add(sin(add(neg(ARG19), 5)), 5))))), sub(5, 5)), ARG19))	0.753844825949285	
+[1]	neg(cos(ARG1))	0.4547200406003738	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(sin(5), 5))), ARG19))	0.7207382541878878	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5)), ARG19))	0.7555546164959156	
+[19]	cos(add(sin(add(5, 5)), ARG19))	0.7373920590167791	
+[17]	cos(add(sin(add(5, sin(sin(5)))), cos(ARG17)))	0.44503259869071443	
+[19]	cos(add(sin(add(sin(sin(sin(sin(add(neg(ARG19), 5))))), 5)), ARG19))	0.775679069055474	
+[19, 12]	cos(add(sin(add(add(neg(ARG19), 5), add(neg(ARG12), neg(5)))), ARG19))	0.5388384838166651	
+[19]	cos(add(sin(add(5, sin(sin(add(sin(5), 5))))), ARG19))	0.7640074675485067	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[19]	cos(add(sin(add(sin(5), add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))), ARG19))	0.5600751640595124	
+[9, 12]	protectedDiv(ARG12, ARG9)	0.015743020342789193	
+[19]	cos(add(sin(add(add(sin(5), sub(5, 5)), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[19, 6]	cos(add(sin(sin(add(neg(ARG19), add(5, ARG6)))), ARG19))	0.5377092660202344	
+[8]	mul(neg(ARG8), cos(5))	0.057111571476432775	
+[19]	cos(sin(add(sin(add(neg(ARG19), 5)), 5)))	0.4288929407164983	
+[19]	cos(add(add(sin(add(sin(5), 5)), ARG19), ARG19))	0.44859002855033286	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), neg(ARG19))), ARG19))	0.5616410403049058	
+[19]	cos(add(sin(add(sin(add(5, 5)), 5)), ARG19))	0.7536094294442522	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[]	cos(cos(neg(5)))	0.415470445804602	
+[19]	cos(add(sin(add(sin(neg(ARG19)), 5)), ARG19))	0.7048445163923571	
+[19]	cos(add(sin(add(sin(add(add(neg(ARG19), 5), 5)), 5)), ARG19))	0.7211969914354083	
+[17]	cos(protectedDiv(ARG17, 5))	0.44969889637289207	
+[0, 19]	cos(add(sin(add(sin(ARG0), 5)), ARG19))	0.7387182507159561	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), sub(5, 5))), add(5, sin(5))))	0.4092698771114291	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(sin(add(neg(ARG19), 5)))), 5)), ARG19))	0.777394377704101	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), ARG19)), ARG19))	0.5567218698848918	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), 5))	0.45256338801212564	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), sin(sin(add(neg(ARG19), 5))))), 5)), sin(5)))	0.49212139929938264	
+[13, 14]	cos(add(cos(ARG14), neg(ARG13)))	0.450875001039414	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(ARG19), 5)), ARG19))	0.7041629068085036	
+[19]	cos(add(sin(add(sin(add(5, 5)), 5)), ARG19))	0.7536094294442522	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), neg(ARG19))), 5)), ARG19))	0.7325189035744821	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(5), sin(add(sin(sin(add(neg(ARG19), 5))), 5)))), ARG19))	0.7506564934018478	
+[19]	cos(add(5, ARG19))	0.6648296376137831	
+[]	cos(add(sin(5), 5))	0.4652391226073065	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(add(sin(5), 5), 5)), ARG19))	0.5070913881601491	
+[19]	cos(add(sin(sin(sin(add(neg(ARG19), 5)))), ARG19))	0.549769421458221	
+[19]	cos(add(sin(add(add(sin(5), sub(5, add(sin(sin(add(neg(ARG19), 5))), 5))), 5)), ARG19))	0.7208578719262418	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19), ARG19))	0.45837045172305957	
+[19]	cos(sin(add(sin(add(neg(ARG19), 5)), 5)))	0.4288929407164983	
+[19]	cos(add(sin(add(sin(sin(add(5, sin(5)))), 5)), ARG19))	0.7640074675485067	
+[19]	cos(add(sin(add(neg(ARG19), 5)), ARG19))	0.5336790511246668	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sub(5, 5), 5)), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[19, 6]	cos(add(sin(sin(add(neg(ARG19), protectedDiv(sin(ARG6), cos(5))))), ARG19))	0.5373688990421505	
+[19]	cos(add(neg(ARG19), ARG19))	0.4105787677374944	
+[19]	cos(add(sin(add(sin(add(sin(add(5, sin(5))), 5)), 5)), ARG19))	0.7738026484675333	
+[]	5	0.1629282557523985	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19, 4]	cos(add(sin(add(sin(sin(add(ARG4, 5))), 5)), ARG19))	0.7496810938935122	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), ARG19)), ARG19))	0.5583833264041047	
+[19]	cos(add(sin(5), ARG19))	0.7554196584465243	
+[19]	cos(add(sin(add(sin(add(sin(5), 5)), 5)), ARG19))	0.7690784320180512	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[0, 1, 8, 12, 19]	cos(add(sin(add(protectedDiv(add(ARG0, ARG8), add(ARG1, ARG12)), 5)), ARG19))	0.5916962693535993	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(5, sin(5))), 5))), 5)), ARG19))	0.7323441494145742	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[9, 19]	cos(add(sin(add(cos(cos(ARG9)), sin(add(neg(ARG19), 5)))), ARG19))	0.4694536240513419	
+[]	neg(5)	0.16497551710749622	
+[19]	cos(add(neg(ARG19), ARG19))	0.4105787677374944	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(5), 5)), neg(sub(ARG19, 5))))	0.3734918174550963	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(add(neg(ARG19), 5)), ARG19)), ARG19))	0.5583833264041047	
+[]	cos(add(sin(add(sin(5), 5)), 5))	0.4802239426427474	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), 5)), ARG19))	0.7555546164959156	
+[]	cos(add(sin(5), 5))	0.4652391226073065	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19]	cos(add(add(sin(sin(add(neg(ARG19), 5))), 5), ARG19))	0.5858259305734602	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19)))), 5)), ARG19))	0.7530486478036809	
+[]	cos(5)	0.4898263929125612	
+[19]	cos(add(add(sin(5), 5), ARG19))	0.46546449622468844	
+[19]	cos(add(sin(sin(add(sin(5), 5))), ARG19))	0.7700142907319311	
+[19, 13]	cos(add(add(neg(ARG19), 5), ARG13))	0.45038573441465807	
+[19]	cos(add(sin(add(sin(sin(sin(add(sin(5), 5)))), 5)), ARG19))	0.7601187050299554	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), add(sin(add(sin(add(neg(ARG19), 5)), 5)), ARG19))), ARG19))	0.6071096584690032	
+[6]	cos(add(5, ARG6))	0.4425233606608534	
+[19]	cos(add(sin(add(sin(5), 5)), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(5))), ARG19))	0.7750104656213624	
+[19]	cos(add(sin(add(5, sin(add(neg(ARG19), 5)))), ARG19))	0.7800772970529816	
+[19]	cos(add(sin(add(sin(sin(add(neg(ARG19), 5))), 5)), ARG19))	0.7791499731570036	
+[19]	cos(add(sin(add(sin(sin(5)), 5)), ARG19))	0.7711098775708007	
+[19]	cos(add(add(cos(5), sin(5)), ARG19))	0.7658859551629781	
+[19]	cos(add(sin(ARG19), ARG19))	0.5257715074589862	
+[19]	cos(add(sin(add(sin(sin(add(neg(add(sin(sin(add(neg(ARG19), 5))), 5)), 5))), 5)), ARG19))	0.7716203356251583	
